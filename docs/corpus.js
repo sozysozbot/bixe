@@ -3061,7 +3061,7 @@ const CORPUS = [
     },
     {
         "source": "諸机戦",
-        "pmcp": "penulleti cetkaik cet",
+        "pmcp": "keco auc leti julo cetkaik penul e lacikleti pi tudeit nucikleti.",
         "direct_ja": "全てのもののごとく、机戦はかつては簡単であり、複雑化していった。",
         "ja": "全てのものがそうであるように、机戦はかつては簡単であり、時が経つにつれ複雑化していった。",
         "en": ""

@@ -494,7 +494,7 @@
 4910	PAMEC-IT		動詞		我々の遊戯-text	2023/04/29		〜を許可する、〜を許す	（左に同じ）	farmes			
 4920	JUCNE		名詞		我々の遊戯-text	2023/04/29		度量衡の単位	（左に同じ）	jysnej			
 4930	TECNOK		名詞		我々の遊戯-text	2023/04/29		右	（左に同じ）	tesnok			
-4940	ZELENA		名詞		我々の遊戯-text	2023/04/30		階級、強弱、（NLETI ZELENAで）N番目	elme, lasnej, late	zelerna	境遇、経緯、状況		
+4940	ZELENA		名詞		我々の遊戯-text	2023/04/30		階級、強弱、[値LETI ZELENA] N番目	elme, lasnej, late	zelerna	境遇、経緯、状況		
 4950	E DELEJE		動詞		我々の遊戯-text	2023/04/30		引き分けの	（左に同じ）	deleje			
 4960	E CIKINA		動詞		我々の遊戯-text	2023/04/30		（困難を）避ける	（左に同じ）	cikina			
 4970	CUTEWEN		形容詞		我々の遊戯-text	2023/04/30		平らな	（左に同じ）	stlerven			
@@ -728,8 +728,8 @@
 7250	APCINUIL		名詞		NIPPON BELPIC	2024/04/20		両替（名詞）	avcinyilo	avcinyil	両替する		
 7260	E CULAUN		動詞		NIPPON BELPIC	2024/04/20		寝る	（左に同じ）	sulaun			
 7270	PUDE		名詞		NIPPON BELPIC	2024/04/20		花	（左に同じ）	puder			
-7280	LECTEP		名詞		NIPPON BELPIC	2024/04/20		ウメ	（左に同じ）	restep			
-7290	CACA		名詞		NIPPON BELPIC	2024/04/20		ラン	（左に同じ）	casa.ar			
+7280	LECTEP		名詞		NIPPON BELPIC	2024/04/20		ウメ（梅）	（左に同じ）	restep			
+7290	CACA		名詞		NIPPON BELPIC	2024/04/20		ラン（蘭）	（左に同じ）	casa.ar			
 7300	DIJAC-IT		動詞		NIPPON BELPIC	2024/04/20		キャンセルする、無効とする	（左に同じ）	dirjas			
 7310	DIJACLETI		動詞		NIPPON BELPIC	2024/04/20		無効な	dirjasanasch	DIJAC.pmcf + -LETI.pmcf			
 7320	CUWONEL		名詞		NIPPON BELPIC	2024/04/20		提案	（左に同じ）	svionerl			
@@ -809,7 +809,7 @@
 8060	e nenul		動詞					[e nenul tude]（車や乗り物に）乗る、[e nenul kije]（車や乗り物から）降りる	nienul [tude], nienulins [kije]	nienul			
 	e pac		動詞					始まる	（左に同じ）	fas			
 	pac		名詞					始まり	fasso	fas			
-	cawakit		動詞					（どんぐりなどを）渋抜きする、（文章を）読みやすく整える		banersavakh			
+	cawakit		動詞					（どんぐりなどを）渋抜きする、（文章を）読みやすく整える	banersavakh (knloanerle'd vergerl), ycax (krandiurg fontolan)	banersavakh			
 	nincetkaik		名詞					紙机戦		nin1 cet2 kaik.pk			
 	dije		名詞		我々の遊戯-text			手番					
 	bepok		名詞					同色、同色役	la dejixece	bap pok.pmcf 			
@@ -839,3 +839,7 @@
 	xibackelata		名詞		机戦戦術研究テキストPMCF訳			（ゲームの）後手					
 	acnac		名詞		机戦戦術研究テキストPMCF訳			効果、機能、はたらき	（左に同じ）	asnast			
 	xekit		動詞					失う	（左に同じ）	xekyd		失	
+	cupoicet		名詞					森	cyfoi, aporie	cupoi.pmcp + cet.pmcp			
+	bixi		名詞					父	（左に同じ）	vixij			
+	cutapijot		名詞					箱	（左に同じ）	stafiort			
+	pebuc		名詞					黄色	（左に同じ）	pewust			
