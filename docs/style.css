@@ -35,6 +35,16 @@
   src: url("https://yasusho.github.io/linmarn_font_project/fonts/rounded/linzklar_rounded.woff"), url("./fonts/linzklar_rounded.woff");
 }
 
+@font-face {
+  font-family: 'lin-marn-bitmap-font';
+  src: url("./fonts/lin-marn-bitmap-font.woff") format("woff");
+}
+
+@font-face {
+  font-family: '風行雪笛';
+  src: url('https://raw.githubusercontent.com/FengNegi/SY-Linzi/master/LinZi-1.woff'), url("./fonts/feng-negi.woff") format('woff');
+}
+
 body {
   margin: 0;
 }
