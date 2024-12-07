@@ -9494,7 +9494,7 @@ const CORPUS: CorpusElem[] = [
   },
   {
     "source": "筆兵無傾AdC広報処コメント",
-    "pmcp": "jo lucucleti, mi tuwacait ka. \"筆兵無傾 {🚩advent kalendar}\" e tude jo panka pi mi cet at co cet leti tudekile e tude jo xep, metica.",
+    "pmcp": "jo lucucleti, mi tuwacait ka. \"筆兵無傾 {🚩advent kalendar}\" e tude jo pankaleti pi mi cet at co cet leti tudekile e tude jo xep, metica.",
     "direct_ja": "",
     "ja": "最後に、『筆兵無傾 Advent Calendar 2023』の成功およびこれからの私たちの交流がますます盛んになっていくことをお祈りします。",
     "en": ""
@@ -9907,7 +9907,7 @@ const CORPUS: CorpusElem[] = [
   },
   {
     "source": "ゲムマ2024春広報処コメント",
-    "pmcp": "lukupit ka xale, belpic letit xep-xep metic. it kaleti alwe leti julo e pankaleti julo cila.",
+    "pmcp": "lukupit ka xale, belpic letit xep-xep metic. it kaleti alwe leti julo e panka cila.",
     "direct_ja": "",
     "ja": "こう言われているように遊戯は無限の可能性を秘めたものであり、その遊戯の祭典が開かれるのは誠に素晴らしいことであります。",
     "en": ""
@@ -9966,6 +9966,174 @@ const CORPUS: CorpusElem[] = [
     "pmcp": "jo lucucleti, mi mak xep xaceit jo nippon cetkaik leti latacet at nippon lata cet at \"gemu maketo\" leti lata cet.",
     "direct_ja": "",
     "ja": "最後に、日本机戦連盟、日本の人々ならびにゲームマーケットの方々に今一度多大なる感謝を述べて、終わりの言葉といたします。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "jo nippon mol auc, cala!",
+    "direct_ja": "",
+    "ja": "日本の皆様、こんにちは。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "mi e ail mo leti cep leti eckijacil leti polto leti lilata leti jegin gatu xadosamma.",
+    "direct_ja": "",
+    "ja": "私はアイル共和国文化省広報処の事務長、イェーギン・ガートゥ・シャードザンマーです。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "mi tuwacait jo \"gemu maketo\" mak e pac jo kaleti pakile leti julo.",
+    "direct_ja": "",
+    "ja": "今年の秋にゲームマーケットが再び行われることに、心よりお祝いを申し上げます。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "mi ancolit lukup-lukup jo lape leti piji leti \"gemu maketo\" pi jo kaleti nole mi mak ancolit lukup-lukup.",
+    "direct_ja": "",
+    "ja": "ゲームマーケットに私がメッセージを送るのは春に続いて二度目であり、",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "jo nuwaxecleti jo lape, cet lata leti alailen mol jo melpetal pi cetleti belpic e kile. mi iceit kaleti xekac pi ticotit ka e pankaleti.",
+    "direct_ja": "",
+    "ja": "変わらず多くの人々が集まり、多くの遊戯が遊ばれようとしているという知らせを受け取って非常に嬉しく思います。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "keco, \"palbicit lata at lata\" leti belpic e etolocna pi cetleti etolocna e iceit letlileti pi e tude jo lata jo lata pi jo nuwaxecleti jo ditije leti etolijo e tude jo cecpaleti pi e tude jo pankaleti. ",
+    "direct_ja": "",
+    "ja": "例えて言えば、「人と人をつなぐ」遊戯というものは糸であり、糸がたくさん紡がれて人々の間を多くつなぐことによって、世の中という布はより密で立派なものになります。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "jo kaleti nole, jo nuwaxecleti jo mi cet leti unde leti belpic leti etolocna e tude jo nippon pi e letli jo nuwaxecleti jo nippon leti etulijo. ka e pankaleti cila.",
+    "direct_ja": "",
+    "ja": "今再び我々の世界で作られた遊戯という糸が日本に渡り、日本という布に交じろうとしていることは、大変素晴らしいことです。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "jo kaleti \"gemu maketo\" ail mo leti cep ancolit anpe leti nippon cetkaik leti latacet mak mol pi cuit kije mi cet leti belpic at kulante.",
+    "direct_ja": "",
+    "ja": "今回のゲームマーケットではアイル文化省の後援する日本机戦連盟が再び参加して、我々の遊戯や本を販売します。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "jo dutucunleti, \"lauzait cep\" mol.",
+    "direct_ja": "",
+    "ja": "新しい品として、『ラウツァイト・セプ』があります。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "ka e okijau belpiczanta lauzait leti dutucunleti belpic pi nippon cetkaik leti latacet boncenait kije ka jo nippon pi waxecit jo nippon lukup.",
+    "direct_ja": "",
+    "ja": "これはホーギャウ玩具制作の新作ゲームであり、日本机戦連盟によって輸入・翻訳が行われたようです。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "jo kaleti cutapijot \"letit zo. ka e cetkaik xale. letit kin, ka e taxot xale.\" leti nacilukup mol pi ka e nippon belpic leti \"madxan\" xale.",
+    "direct_ja": "",
+    "ja": "箱には「机戦のように駒を取り、タショトのように点を取れ！」というキャッチコピーが書かれており、日本の「麻雀」によく似たゲームとなっています。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "jo \"gemu maketo\" lucucleti nole mi cet cuit kije \"lauzait cep\" jo \"bucu\". ",
+    "direct_ja": "",
+    "ja": "ゲームマーケットの終了後に、我々は『ラウツァイト・セプ』を BOOTH で売ります。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "latacet lukupit ci cet letit kaleti tuni.",
+    "direct_ja": "",
+    "ja": "連盟は、そのように予定していると申しております。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "ka e nuwaxec jo cileti lape leti belpic cet pi nip cene tude jo \"gemu maketo\" leti lata delu cuit tude jo ci, metica.",
+    "direct_ja": "",
+    "ja": "ゲームマーケット開催地に来られない方はぜひそちらで買われることをおすすめします。",
+    "en": ""
+  },
+  {
+    "source": "ゲムマ2024秋広報処コメント",
+    "pmcp": "jo lucucleti, metica, nupankaleti julo molip pi kaleti \"gemu maketo\" e lucuc pi lata cet tata belpicit jo nuwaxecleti polto pi \"kijadatu e tude jo panleti\". mi pulecit ka cila.",
+    "direct_ja": "",
+    "ja": "終わりに、今回のゲームマーケットが恙なく行われ、人々が多くの楽しみを共有して「人々の心が一になる」ことを願います。",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "jo nippon mol auc, cala!",
+    "direct_ja": "",
+    "ja": "日本の皆様、こんにちは。",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "mi e ail mo leti cep leti eckijacil leti polto leti lilata leti jegin gatu xadosamma.",
+    "direct_ja": "",
+    "ja": "アイル共和国文化省広報処の事務長、イェーギン・ガートゥ・シャードザンマー（eghin ghátu ṣádhosammá）です。",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "jo kaleti nole mi mak iceit nippon cetkaik leti latacet leti pulec pi kanteit tude lukup-lukup jo \"筆兵無傾 adbent kalenda\".",
+    "direct_ja": "",
+    "ja": "この度、再び日本机戦連盟より『筆兵無傾 Advent Calendar 2024』にコメントを寄せるよう依頼されました。",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "(lape leti lukup-lukup e ka.)",
+    "direct_ja": "",
+    "ja": "（前回の発言はこちらです。）",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "nippon lata cet mak xelit mi cet leti unde pi kanteit tude cetleti kulanucta pi mi ticotit ka e pankaleti, cila.",
+    "direct_ja": "",
+    "ja": "日本の人々が再び我々の世界に関する多くの記事を書いてくださるということを、大変うれしく思います。",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "jo kaleti lot, nippon cetkaik leti latacet mol jo \"gemu maketo\" jo piji at pakile pi cuit kije mi cet leti unde leti belpic at kulante.",
+    "direct_ja": "",
+    "ja": "本年は、春と秋のゲームマーケットに日本机戦連盟が参加し我々の世界の遊戯や本を売ってくださったことで、多くの日本の人々に我々の世界を知っていただけました。",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "ka e cetleti nippon lata kanteit kije mi cet leti pi mi cet xaceit latacet leti anpe.",
+    "direct_ja": "",
+    "ja": "日本机戦連盟の貢献に、心よりの感謝を申し上げます。",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "mi lukupit mi cet leti unde leti julo jo lape, pi mi cenoctit jo kalzane nippon cetkaik leti latacet iceit mi cet leti unde leti joup leti acilan. jo cetleti pekanpe leti nucikleti mi cet nip cene nenecit kaleti acilan jo nippon. mi cet leti joup at co cet leti joup letit cetleti xaleleti julo at nuxaleleti julo. jo launza cetleti acilan e tude jo ci cet leti unde, metica, pi jo jexetit xaleleti julo at nuxaleleti julo leti lime mi cet at ci cet cene kante kije micca, metica.",
+    "direct_ja": "",
+    "ja": "さて、我々の世界についての物事といえば、これまで各種の技術的な困難により日本に伝えることのできなかった我々の世界の歴史の一部が、最近になって日本机戦連盟のもとに無事に届いたという報告がありました。我々の世界の歴史とそちらの世界の歴史には似たところもあり、異なるところもあります。これから我々の世界に関するより多くの情報がそちらの世界へ届き、類似点と相違点を明らかにしていく過程で、きっと我々は互いをよりよく理解することができるでしょう。",
+    "en": ""
+  },
+  {
+    "source": "筆兵無傾AdC広報処コメント2024",
+    "pmcp": "jo lucucleti, mi tuwacait ka. \"筆兵無傾 adbent kalenda\" e tude jo panka pi mi cet at co cet leti tudekile e tude jo xep, metica.",
+    "direct_ja": "",
+    "ja": "最後に、『筆兵無傾 Advent Calendar 2024』の成功およびこれからの私たちの交流がますます盛んになっていくことをお祈りします。",
     "en": ""
   }
 ];
