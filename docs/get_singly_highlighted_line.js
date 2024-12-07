@@ -29,26 +29,30 @@
         - よってその位置で slice すればいい
 
  */
-function getSinglyHighlightedLine(o) {
-    const tokens = tokenize(o.full_text);
+function getSinglyAnnotatedLine(full_text, highlight_) {
+    const h = highlight_ ?? { beginIndex: 0, endIndex: 0, match: "" };
+    const tokens = tokenize(full_text);
     const single_line = document.createElement("div");
     let offset = 0;
     for (const tok of tokens) {
         const tok_start = offset;
         const tok_end = offset + tok.content.length;
         const maybe_highlighted = (() => {
-            if (o.beginIndex === o.endIndex /* is zero-width match */
-                && tok_start <= o.beginIndex /* when the match lies at the leftmost position of the token, we want to include it */
-                && (tok.kind === "eof" || o.endIndex < tok_end
+            if (h.beginIndex === h.endIndex /* is zero-width match */
+                && tok_start <= h.beginIndex /* when the match lies at the leftmost position of the token, we want to include it */
+                && (tok.kind === "eof" || h.endIndex < tok_end
                 /* We don't want to include the highlight when the match lies at the rightmost position of the token, to avoid duplication.
                 The exception is when the token is a zero-width EOF token
                 */
                 )) {
                 // zero-width match requires special handling
                 // but in a way it is simpler
-                const splitting_index = o.beginIndex - offset;
+                const splitting_index = h.beginIndex - offset;
                 const zeroWidth = document.createElement("span");
-                zeroWidth.classList.add("matched-portion", "zero-width");
+                // If the "highlight" object in the argument is undefined, we actually don't want to highlight anything
+                if (highlight_ !== undefined) {
+                    zeroWidth.classList.add("matched-portion", "zero-width");
+                }
                 zeroWidth.textContent = "";
                 return [
                     tok.content.slice(0, splitting_index),
@@ -56,14 +60,14 @@ function getSinglyHighlightedLine(o) {
                     tok.content.slice(splitting_index)
                 ];
             }
-            else if (o.endIndex <= tok_start || tok_end <= o.beginIndex) { // non-zero width and no overlap
+            else if (h.endIndex <= tok_start || tok_end <= h.beginIndex) { // non-zero width and no overlap
                 return [tok.content];
             }
             else {
                 // non-zero width; we have to consider the case when the token partially contains the highlight
                 // We already know that `tok_start < o.endIndex` and `o.beginIndex < tok_end`
-                const highlight_start = Math.max(tok_start, o.beginIndex);
-                const highlight_end = Math.min(tok_end, o.endIndex);
+                const highlight_start = Math.max(tok_start, h.beginIndex);
+                const highlight_end = Math.min(tok_end, h.endIndex);
                 const beforeMatch = tok.content.slice(0, highlight_start - offset);
                 const matchedPortion = document.createElement("span");
                 matchedPortion.classList.add("matched-portion");

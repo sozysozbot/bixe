@@ -1,8 +1,8 @@
 "use strict";
 let corpus_new_to_old = [...CORPUS];
 corpus_new_to_old.sort((a, b) => sources_new_to_old.indexOf(a.source) - sources_new_to_old.indexOf(b.source));
-function get_matches(regex_str) {
-    return corpus_new_to_old.filter(item => item.pmcp.match(new RegExp(regex_str, "gi"))).map(item => {
+function get_matches(regex_str, lang) {
+    return corpus_new_to_old.filter(item => item[lang].match(new RegExp(regex_str, "gi"))).map(item => {
         const matched_portions = [];
         /*
         g - global
@@ -10,7 +10,7 @@ function get_matches(regex_str) {
         d - get the indices */
         const myRe = new RegExp(regex_str, "gid");
         let myArray;
-        while ((myArray = myRe.exec(item.pmcp)) !== null) {
+        while ((myArray = myRe.exec(item[lang])) !== null) {
             matched_portions.push({
                 match: myArray[0],
                 beginIndex: myArray.indices[0][0],

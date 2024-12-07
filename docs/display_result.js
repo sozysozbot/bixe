@@ -2,7 +2,7 @@
 let controller = null;
 const isError = (a) => a instanceof Error;
 const isAbortError = (err) => err.name === 'AbortError';
-async function display_result() {
+async function display_result(search_by_lang = "pmcp") {
     // If there's an ongoing task, cancel it
     if (controller) {
         controller.abort();
@@ -21,7 +21,12 @@ async function display_result() {
     try {
         let items;
         try {
-            items = get_matches(search_string);
+            if (search_by_lang === "pmcp") {
+                items = get_matches(search_string, "pmcp");
+            }
+            else {
+                items = get_matches(search_string, "ja");
+            }
         }
         catch (e) {
             // RegExp compilation failed
@@ -64,16 +69,26 @@ async function display_result() {
             })();
             const searched_item = document.createElement("div");
             searched_item.className = "searched-item";
-            {
+            if (search_by_lang === "pmcp") {
                 const corpusText = document.createElement("div");
                 if (!location.href.includes("search_")) {
                     corpusText.style.fontFamily = "rounded";
                 }
                 corpusText.className = "corpus-text";
                 for (const { match, beginIndex, endIndex } of matched_portions) {
-                    corpusText.appendChild(getSinglyHighlightedLine({ full_text: pmcp_text, beginIndex, endIndex, match }));
+                    corpusText.appendChild(getSinglyAnnotatedLine(pmcp_text, { beginIndex, endIndex, match }));
                     corpusText.appendChild(document.createElement("hr"));
                 }
+                searched_item.appendChild(corpusText);
+            }
+            else {
+                const corpusText = document.createElement("div");
+                if (!location.href.includes("search_")) {
+                    corpusText.style.fontFamily = "rounded";
+                }
+                corpusText.className = "corpus-text";
+                corpusText.appendChild(getSinglyAnnotatedLine(pmcp_text));
+                corpusText.appendChild(document.createElement("hr"));
                 searched_item.appendChild(corpusText);
             }
             if (kana != "") {
@@ -86,7 +101,20 @@ async function display_result() {
             }
             const translationJa = document.createElement("div");
             translationJa.className = "translation-ja";
-            translationJa.textContent = ja;
+            if (search_by_lang !== "ja") {
+                translationJa.textContent = ja;
+            }
+            else {
+                let ans = "";
+                let current_index = 0;
+                for (const { beginIndex, endIndex } of matched_portions) {
+                    ans += ja.substring(current_index, beginIndex);
+                    ans += `<span class="matched-portion">${ja.substring(beginIndex, endIndex)}</span>`;
+                    current_index = endIndex;
+                }
+                ans += ja.substring(current_index);
+                translationJa.innerHTML = ans;
+            }
             searched_item.appendChild(translationJa);
             if (direct_ja !== "") {
                 const translationJaDirect = document.createElement("div");
