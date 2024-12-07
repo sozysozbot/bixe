@@ -1,17 +1,17 @@
---2024-12-07 19:52:23--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=312538559
+--2024-12-07 20:04:24--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=312538559
 Resolving docs.google.com (docs.google.com)... 172.217.174.110, 2404:6800:4004:810::200e
 Connecting to docs.google.com (docs.google.com)|172.217.174.110|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/m8i6upt8ouv10171unepm25jho/1733568740000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559 [following]
+Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/0e395c6hmm7fhoorhf9vvqvs18/1733569465000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559 [following]
 Warning: wildcards not supported in HTTP.
---2024-12-07 19:52:24--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/m8i6upt8ouv10171unepm25jho/1733568740000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559
+--2024-12-07 20:04:25--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/0e395c6hmm7fhoorhf9vvqvs18/1733569465000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559
 Resolving doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)... 172.217.161.33, 2404:6800:4004:80a::2001
 Connecting to doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|172.217.161.33|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘./preprocess/links.tsv’
 
-     0K .....                                                  35.8M=0s
+     0K .....                                                  36.0M=0s
 
-2024-12-07 19:52:24 (35.8 MB/s) - ‘./preprocess/links.tsv’ saved [5889]
+2024-12-07 20:04:25 (36.0 MB/s) - ‘./preprocess/links.tsv’ saved [5889]
 
