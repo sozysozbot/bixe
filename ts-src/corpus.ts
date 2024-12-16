@@ -9514,6 +9514,41 @@ const CORPUS: CorpusElem[] = [
     "en": ""
   },
   {
+    "source": "製造業者紹介チラシ",
+    "pmcp": "okijau belpiczanta",
+    "direct_ja": "",
+    "ja": "『ホーギャウ玩具』【骨門遊刀】",
+    "en": ""
+  },
+  {
+    "source": "製造業者紹介チラシ",
+    "pmcp": "doktit lujot leti dictic",
+    "direct_ja": "",
+    "ja": "『打字の家』【撃字家】",
+    "en": ""
+  },
+  {
+    "source": "製造業者紹介チラシ",
+    "pmcp": "kin leti mena",
+    "direct_ja": "",
+    "ja": "『数の友』【値之友】",
+    "en": ""
+  },
+  {
+    "source": "製造業者紹介チラシ",
+    "pmcp": "taupo dixec leti kectene",
+    "direct_ja": "",
+    "ja": "タウポ自然科学大学",
+    "en": ""
+  },
+  {
+    "source": "製造業者紹介チラシ",
+    "pmcp": "siksiju-belpic",
+    "direct_ja": "",
+    "ja": "『琥珀ゲームズ』【蜜石遊術】",
+    "en": ""
+  },
+  {
     "source": "筆兵無傾バランスゲームのカード",
     "pmcp": "壊国人",
     "direct_ja": "",
@@ -9836,38 +9871,87 @@ const CORPUS: CorpusElem[] = [
     "en": ""
   },
   {
-    "source": "製造業者紹介チラシ",
-    "pmcp": "okijau belpiczanta",
-    "direct_ja": "",
-    "ja": "『ホーギャウ玩具』【骨門遊刀】",
+    "source": "【耳声手片】説明書",
+    "pmcp": "jutata leti bapala",
+    "direct_ja": "声の札",
+    "ja": "かるた",
     "en": ""
   },
   {
-    "source": "製造業者紹介チラシ",
-    "pmcp": "doktit lujot leti dictic",
-    "direct_ja": "",
-    "ja": "『打字の家』【撃字家】",
+    "source": "【耳声手片】説明書",
+    "pmcp": "jutata leti bapala at canxenit leti bapala mol.",
+    "direct_ja": "声の札と、散布する札があります。",
+    "ja": "読み札と取り札があります。",
     "en": ""
   },
   {
-    "source": "製造業者紹介チラシ",
-    "pmcp": "kin leti mena",
+    "source": "【耳声手片】説明書",
+    "pmcp": "xeplata lap xelit jutata leti. nuxeplata xelit lap canxenit leti.",
     "direct_ja": "",
-    "ja": "『数の友』【値之友】",
+    "ja": "親プレイヤーのみが読み札を見ます。子プレイヤーは取り札だけを見ます。",
     "en": ""
   },
   {
-    "source": "製造業者紹介チラシ",
-    "pmcp": "taupo dixec leti kectene",
+    "source": "【耳声手片】説明書",
+    "pmcp": "jo belpic leti nole, xeplata lukupit jutata leti bapala leti lukup-lukup.",
     "direct_ja": "",
-    "ja": "タウポ自然科学大学",
+    "ja": "遊ぶときは、親プレイヤーは声の札の言葉を口に出します。",
     "en": ""
   },
   {
-    "source": "製造業者紹介チラシ",
-    "pmcp": "siksiju-belpic",
+    "source": "【耳声手片】説明書",
+    "pmcp": "nuxeplata cenoctit cileti jutata pi celene letit tulai leti bapala.",
+    "direct_ja": "子プレイヤーはその声を聞いて、伴侶の札を取ります。",
+    "ja": "子プレイヤーはその声を聞いて、対応する札を取ります。",
+    "en": ""
+  },
+  {
+    "source": "【耳声手片】説明書",
+    "pmcp": "belpic e lucuc leti nole cetleti bapala mol lata molkait.",
     "direct_ja": "",
-    "ja": "『琥珀ゲームズ』【蜜石遊術】",
+    "ja": "ゲームが終わりであるときに、多くの札がある人が勝ちます。",
+    "en": ""
+  },
+  {
+    "source": "【耳声手片】説明書",
+    "pmcp": "dat e ka.",
+    "direct_ja": "",
+    "ja": "役は以下の通りです。",
+    "en": ""
+  },
+  {
+    "source": "【耳声手片】説明書",
+    "pmcp": "1leti bapala e 1leti kin.",
+    "direct_ja": "",
+    "ja": "札 1 枚ごとに 1 点になります。",
+    "en": ""
+  },
+  {
+    "source": "【耳声手片】説明書",
+    "pmcp": "letit \"c\" at \"w\" at \"t\" leti auc pi 十 kin.",
+    "direct_ja": "",
+    "ja": "「c」と「w」と「t」の全てを持っていると 10 点です。",
+    "en": ""
+  },
+  {
+    "source": "【耳声手片】説明書",
+    "pmcp": "ka e \"delu-tude-jo-menic\".",
+    "direct_ja": "これは『島に行かなくてはいけない』です。",
+    "ja": "これは『島に行こう』という役です。",
+    "en": ""
+  },
+  {
+    "source": "【耳声手片】説明書",
+    "pmcp": "letit \"b\" at \"x\" at \"n\" at \"l\" at \"u\" leti 3leti pi 5leti kin.",
+    "direct_ja": "",
+    "ja": "「b」と「x」と「n」と「l」と「u」のうち 3 枚を持っていると、5 点です。",
+    "en": ""
+  },
+  {
+    "source": "【耳声手片】説明書",
+    "pmcp": "ka e \"tude-pi-xelit-manan-poto-cet\".",
+    "direct_ja": "これは『行ってマナナ島の場所場所を見る』です。",
+    "ja": "これは『マナナ島観光』という役です。",
     "en": ""
   },
   {
@@ -10071,6 +10155,41 @@ const CORPUS: CorpusElem[] = [
     "pmcp": "jo lucucleti, metica, nupankaleti julo molip pi kaleti \"gemu maketo\" e lucuc pi lata cet tata belpicit jo nuwaxecleti polto pi \"kijadatu e tude jo panleti\". mi pulecit ka cila.",
     "direct_ja": "",
     "ja": "終わりに、今回のゲームマーケットが恙なく行われ、人々が多くの楽しみを共有して「人々の心が一になる」ことを願います。",
+    "en": ""
+  },
+  {
+    "source": "抜粋版辞書集前文",
+    "pmcp": "nclc leti tectelit leti lukup cet (liju-pi-kante-auc)",
+    "direct_ja": "",
+    "ja": "日本机戦連盟選定 抜粋版辞書集（これを学んで全てを読もう）",
+    "en": ""
+  },
+  {
+    "source": "抜粋版辞書集前文",
+    "pmcp": "mi cet lauzait nippon cetkaik leti latacet jo set.2018:4:8 pi lijuit tude mi cet leti mo jo nippon pi lata at lata leti nukil e palbic.",
+    "direct_ja": "",
+    "ja": "西暦 2018 年 4 月 8 日に成立して以来、日本机戦連盟は日本において我々の文化を案内し、人と人の心をつないできた。",
+    "en": ""
+  },
+  {
+    "source": "抜粋版辞書集前文",
+    "pmcp": "pi, co celene lijuit kije kaleti lukup at mo pi co delu kanteit kije cetleti inimoc pi inimoc leti poto e cet cetleti pi dindunleti.",
+    "direct_ja": "",
+    "ja": "だが、その言語文化に親しむためには、非常に多数の場所に混沌と散らばった資料を読み込むことが要求されてきた。",
+    "en": ""
+  },
+  {
+    "source": "抜粋版辞書集前文",
+    "pmcp": "jo kaleti nole mi cet tectelit lukup pi lauzait kulante.",
+    "direct_ja": "",
+    "ja": "いま、我々は、語を選び抜き、本を作った。",
+    "en": ""
+  },
+  {
+    "source": "抜粋版辞書集前文",
+    "pmcp": "co lijuit kije kaleti kulante leti auc pi co cene kanteit kije nclc leti kaceit leti auc.",
+    "direct_ja": "",
+    "ja": "この本の内容を全て理解することで、日本机戦連盟が送り出してきた全てを読むことができるだろう。",
     "en": ""
   },
   {
