@@ -9864,6 +9864,405 @@ const CORPUS = [
         "en": ""
     },
     {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "nanala junalika. mak xepit ka.",
+        "direct_ja": "",
+        "ja": "ナナラの港、またしても拡張",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "cet xep junalika mol jo nanala.",
+        "direct_ja": "",
+        "ja": "ナナラには巨大な港があります。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "jo auc leti cunenek, cetleti inimoc e kile jo kaleti junalika.",
+        "direct_ja": "",
+        "ja": "毎日、多くの資源がこの港からやってきます。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "lucit kaleti junalika pi cetleti kunlanel cene e tude jo etleti icco.",
+        "direct_ja": "",
+        "ja": "この港を使って、多くの食べ物が他の国へ行くのです。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "keco, onec at dectok.",
+        "direct_ja": "",
+        "ja": "例えば、パンや芋です。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "lucit leme pi kaleti kunlanel e kile jo xep-okijau pi amolit ka jo pijume pi e tude jo bepice at linec.",
+        "direct_ja": "",
+        "ja": "これらの食べ物はシェプオキヤウから鉄道で運ばれ、船に乗せられ、ヴェフィスやリナエストへ行きます。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "donen cep lukupit \"celene xepit kaleti junalika.\"",
+        "direct_ja": "",
+        "ja": "交通省は、この港を拡張したいと言いました。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "ka e makleti late leti.",
+        "direct_ja": "",
+        "ja": "これは 2 度目です。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "donen cep lukupit",
+        "direct_ja": "",
+        "ja": "交通省は言います。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "\"lucit leme pi cetleti lata e kile jo inucena pi e tude jo alinodija.",
+        "direct_ja": "",
+        "ja": "「鉄道を使い、多くの人がイヌセナからアリノディヤに移動しています。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "pi, lata cet xope celene e cetleti inimoc e tude jo kaleti lime.",
+        "direct_ja": "",
+        "ja": "しかし、人々は多くの資源をこの経路で輸送したいとも考えています。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "junalika e tude jo xep pi cetleti inimoc leti pijume cene e kile jo nanala junalika pi nupoltoleti leme e tude jo pankaleti.\"",
+        "direct_ja": "",
+        "ja": "港が大きくなれば、多くの資源船がナナラの港に来ることができ、混んだ鉄道が改善されます。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "kukol leti cep lukupit \"ka e pankaleti.\".",
+        "direct_ja": "経済省は、「これは良い」と言っています。",
+        "ja": "経済省は、これに賛成しています。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "lukupit \"ka lauzait dutucunleti enja pi nanala at icco leti kukol e tude jo pankaleti.\".",
+        "direct_ja": "",
+        "ja": "「これによって新たな仕事が生まれ、ナナラや国の経済が良くなる」と言います。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "pi, auc leti lata ticotit ka e pankaleti, o nip?",
+        "direct_ja": "",
+        "ja": "では、全ての人がこれを良いと見ているのでしょうか？",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "nip.",
+        "direct_ja": "",
+        "ja": "そうではありません。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "taupo dixec leti kectene leti dau.dizen xizi lukupit ka.",
+        "direct_ja": "",
+        "ja": "タウポ自然科学大学の虎貝月 (dau2 dit1 xem1)さんはこう言います。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "\"jo nanala junalika leti mele, cetleti eno mol.",
+        "direct_ja": "",
+        "ja": "「ナナラの港の近くにはたくさんの魚が住んでいる。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "jo xantaleti lot tudeleti penulleti nole, celajumuc mol jo nanala junalika.",
+        "direct_ja": "",
+        "ja": "「6 年前、ナナラの港で工事があった。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "jo cileti nole, belcicijen nicninecne (ka e \"lata letit kame cucen leti eno\" leti kantel) e tude jo nuxep pi eno leti jumin leti ateletine e xep.",
+        "direct_ja": "",
+        "ja": "その際には、漁獲量（これは「人が何ステュズェンの魚を取ったか？」の値）が減り、魚の市場価格が高かった。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "ainloma leti ateletine e xep pi tatait ka e nucik.",
+        "direct_ja": "",
+        "ja": "魚醤の値段が高く、これを楽しむのが難しい。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "cetleti lata jol amolit cileti nole jo nukil.",
+        "direct_ja": "",
+        "ja": "そんなときのことを覚えている人も多くいるだろう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "mak it celajumuc pi eno leti belcicijen nicninecne mak e tude jo nuxep metica. mi ticotit ka.",
+        "direct_ja": "",
+        "ja": "再び工事をすれば再び魚の漁獲量が減る恐れがある。私はそう考えている。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "cucit-acil xope cenoctit mau leti lata leti jutata.",
+        "direct_ja": "",
+        "ja": "ススィㇳ・アシㇽは街の人の声も聞いてみました。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "jo nanala, mi cet nunit xana pentileti ana lekkaleti lata.",
+        "direct_ja": "",
+        "ja": "ナナラでは、私たちは 198 人に質問しました。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "xana lekkaleti ana dukaleti lata ticotit ka e pankaleti pi xantaleti lata lukupit ka e nupankaleti.",
+        "direct_ja": "",
+        "ja": "183 人がこれを良いと見做し、6 人がこれを悪いと言いました。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "pentileti lata nip letit ticot.",
+        "direct_ja": "",
+        "ja": "9 人は意見がありませんでした。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "jo makati, mi cet nunit jupleti xana nokaleti ana nokaleti lata. ",
+        "direct_ja": "",
+        "ja": "マカティでは、私たちは 455 人に質問しました。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "dukaleti xana ana panleti lata ticotit ka e pankaleti.",
+        "direct_ja": "",
+        "ja": "311 人がこれを良いと見做しました。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "jupleti ana pentileti lata xelit ka jo nupankaleti.",
+        "direct_ja": "",
+        "ja": "49 人がこれを悪いと見做しました。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "pentileti ana nokaleti lata nip letit ticot.",
+        "direct_ja": "",
+        "ja": "95 人は意見がありませんでした。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "nip cene xenkanit lata leti ticot.",
+        "direct_ja": "",
+        "ja": "人の意見を無視することはできません。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "metica, lata at lata it lukup-lukup pi e tude jo pankaleti lal.",
+        "direct_ja": "",
+        "ja": "きっと、人々が話し合って、良い方向に進むことでしょう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "kukol leti cep celene pac it celajumuc jo 1leti launza leti tujecen.",
+        "direct_ja": "",
+        "ja": "経済省は、工事を来月始めたいとしています。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "kaleti nalu e kukol leti cep xelit \"pemecepe aucleti belpic leti xep keluc\". ",
+        "direct_ja": "",
+        "ja": "これは、「ペメセペメジャー（直訳：ペメセペ全遊戯大競技会）」（訳注：球技・格闘技・陸上競技・ボードゲーム）を見据えているためです。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "it kaleti keluc jo xantaleti launza leti tujecen.",
+        "direct_ja": "",
+        "ja": "この競技会をするのは 6 ヶ月後です。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "jo kukol leti cep mol lata ticotit ka.",
+        "direct_ja": "",
+        "ja": "経済省のある人はこう考えています。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "\"celajumuc e lucuc jo ka pi lata leti kile leti kin jol e tude jo dukaleti jo xep.",
+        "direct_ja": "",
+        "ja": "「工事がこれまでに終われば、同じ時間での来航者の数は最高でこれまでの3倍になるでしょう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "inimoc it tude-kile leti cucen jol e tude jo nokaleti jo xep.\".",
+        "direct_ja": "",
+        "ja": "同じ時間で動く荷物の数は最高でこれまでの5倍になるでしょう」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "donen cep ticotit \"celajumuc e pac jo 1leti launza leti lot.\".",
+        "direct_ja": "",
+        "ja": "交通省は、「工事が始まるのは来年だ」と考えています。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "donen cep lukupit \"cijujuctelit lata leti julo nip e tude.\"",
+        "direct_ja": "",
+        "ja": "交通省によると、「人を集めるのが進んでいない」とのことです。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（港拡張）",
+        "pmcp": "mi cet jol nip cene ticotit kije pac it leti nole pi, xelit penulleti celajumuc pi kinpit pi makleti lot mol jo kaleti celajumuc metica.",
+        "direct_ja": "",
+        "ja": "我々には開始時期は分かりませんが、過去の工事から計算すると、この工事はおそらく二年かかるでしょう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "jo linec ail xuci leti boncena tude leti kin e tude jo nuxep",
+        "direct_ja": "",
+        "ja": "リナエストで、アイル車両の輸出量が減少",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "jo kalzane, linec lawol e tude jo malupleti pi lata cet ticotit nupankaleti jo budu.",
+        "direct_ja": "",
+        "ja": "最近、リナエストの状況が危なくなっており、人々は見通しの暗さを感じている。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "jo kaleti nalu linec lata cet lucit leti late leti kin e tude jo nuxep pi ka e panleti jo linec boncenait kije leti julo.",
+        "direct_ja": "",
+        "ja": "リナエストの人々が使うお金の量が少なくなっていて、これはリナエストの輸入するものにおいても同じである。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "womuka e lauzait xuci leti xep lejun jo ail. womuka leti lata lukupit",
+        "direct_ja": "",
+        "ja": "ウォムカは、アイルの大きな車両メーカーである。ウォムカの社員が述べるところによると、",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "\"jo late leti tujecen, cuit tude jo ail xuci leti kin e tude jo xenkaleti anzo leti jo cileti late leti tujecen. ",
+        "direct_ja": "",
+        "ja": "「先月には、アイル車の売上は前月に比べ7割に落ちた。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "ka e nupanka jo mi cet cila. ",
+        "direct_ja": "",
+        "ja": "これは我々にとっては非常に良くない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "metica, ail cep enjait pi e linec lawol e panka.\".",
+        "direct_ja": "",
+        "ja": "アイル政府にはリナエストの状況が良くなるように働きかけてほしい。」ということである。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "womuka letit cetleti xulip jo taupo at kauna pi jo ka cena at nokaleti anxan peka leti lata e enja jo womuka leti auc.",
+        "direct_ja": "",
+        "ja": "ウォムカはタウポやカウナなどの地域に工場を多く持ち、合計で一万五千人ほどが働いている。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "ka cet leti xulip e xep jo cileti poto leti kukol cila.",
+        "direct_ja": "",
+        "ja": "これらの工場はそれらの地域の経済において非常に重要である。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "boncenait kije bulo leti toxa pi lauzait xuci pi boncenait tude ka.",
+        "direct_ja": "",
+        "ja": "鉄鉱石を輸入して、車両を作り、輸出する。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "ka e papelleti kukolit leti cul jo ail mol lauzait xuci leti lejun.",
+        "direct_ja": "",
+        "ja": "これがアイルの車メーカーの一般的な経営方法だ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "pi, nip cuit tude jo boncenait tude leti julo pi lejun delu nucetit xulip at lata.",
+        "direct_ja": "",
+        "ja": "しかし、輸出したものが売れなければ、メーカーは工場と人員を減らす必要がある。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "ka e nupankaleti jo enjait leti lata at cileti poto pi lejun delu xelit nip it ka leti.",
+        "direct_ja": "",
+        "ja": "これは従業員にも地域にも良くないことであるため、メーカーはこれをしないことを目指すべきである。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "cetleti dutucunleti lime jol mol pi ka nip e boncenait tude jo linec leti lap.",
+        "direct_ja": "",
+        "ja": "多くの新しい道があるが、それは決してリナエストへの輸出だけではないはずだ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞（車両輸出減少）",
+        "pmcp": "lauzait xuci leti lejun delu xelit pankaleti lime. jo it ka leti nole, cene cecnutit enjait leti lata leti cacke.",
+        "direct_ja": "",
+        "ja": "車両メーカーは適切な道を探すべきであり、それをしたとき、従業員の暮らしを守ることができるだろう。",
+        "en": ""
+    },
+    {
         "source": "【耳声手片】説明書",
         "pmcp": "jutata leti bapala",
         "direct_ja": "声の札",

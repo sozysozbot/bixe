@@ -1,22 +1,22 @@
---2024-12-16 17:11:40--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=0
-Resolving docs.google.com (docs.google.com)... 172.217.26.238, 2404:6800:4004:822::200e
-Connecting to docs.google.com (docs.google.com)|172.217.26.238|:443... connected.
+--2024-12-16 17:54:06--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=0
+Resolving docs.google.com (docs.google.com)... 142.251.42.174, 2404:6800:4004:822::200e
+Connecting to docs.google.com (docs.google.com)|142.251.42.174|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/89f2o3ec59uhhcted307t271us/1734336700000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0 [following]
+Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/k0fovf5k2ucjl1juovg2lh0o1o/1734339245000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0 [following]
 Warning: wildcards not supported in HTTP.
---2024-12-16 17:11:41--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/89f2o3ec59uhhcted307t271us/1734336700000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0
-Resolving doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)... 142.251.42.129, 2404:6800:4004:80b::2001
-Connecting to doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|142.251.42.129|:443... connected.
+--2024-12-16 17:54:07--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/k0fovf5k2ucjl1juovg2lh0o1o/1734339245000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0
+Resolving doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)... 172.217.31.129, 2404:6800:4004:825::2001
+Connecting to doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|172.217.31.129|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘./preprocess/corpus.tsv’
 
-     0K .......... .......... .......... .......... .......... 3.67M
-    50K .......... .......... .......... .......... .......... 5.74M
-   100K .......... .......... .......... .......... .......... 11.8M
-   150K .......... .......... .......... .......... .......... 1.47M
-   200K .......... .......... .......... .......... .......... 1.84M
-   250K .......                                                78.8M=0.09s
+     0K .......... .......... .......... .......... .......... 1.59M
+    50K .......... .......... .......... .......... .......... 1.69M
+   100K .......... .......... .......... .......... .......... 2.62M
+   150K .......... .......... .......... .......... .......... 2.62M
+   200K .......... .......... .......... .......... .......... 4.35M
+   250K .......... ........                                    2.56M=0.1s
 
-2024-12-16 17:11:41 (2.94 MB/s) - ‘./preprocess/corpus.tsv’ saved [264105]
+2024-12-16 17:54:07 (2.28 MB/s) - ‘./preprocess/corpus.tsv’ saved [274619]
 

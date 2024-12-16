@@ -1,18 +1,18 @@
---2024-12-16 17:11:42--  https://docs.google.com/spreadsheets/d/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs/export?format=tsv&gid=0
-Resolving docs.google.com (docs.google.com)... 172.217.26.238, 2404:6800:4004:822::200e
-Connecting to docs.google.com (docs.google.com)|172.217.26.238|:443... connected.
+--2024-12-16 17:54:08--  https://docs.google.com/spreadsheets/d/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs/export?format=tsv&gid=0
+Resolving docs.google.com (docs.google.com)... 142.251.42.174, 2404:6800:4004:822::200e
+Connecting to docs.google.com (docs.google.com)|142.251.42.174|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/kac2efuoqcc8sv5gniujjo9sl8/1734336700000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0 [following]
+Location: https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/l1qfpqsl74dpad41oji1qbf9ko/1734339250000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0 [following]
 Warning: wildcards not supported in HTTP.
---2024-12-16 17:11:43--  https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/kac2efuoqcc8sv5gniujjo9sl8/1734336700000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0
+--2024-12-16 17:54:08--  https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/l1qfpqsl74dpad41oji1qbf9ko/1734339250000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0
 Resolving doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)... 142.251.42.129, 2404:6800:4004:80b::2001
 Connecting to doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)|142.251.42.129|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘./preprocess/words.tsv’
 
-     0K .......... .......... .......... .......... .......... 3.42M
-    50K .......... .......... .......                          4.27M=0.02s
+     0K .......... .......... .......... .......... .......... 1.20M
+    50K .......... .......... .......                           970K=0.07s
 
-2024-12-16 17:11:43 (3.68 MB/s) - ‘./preprocess/words.tsv’ saved [79701]
+2024-12-16 17:54:09 (1.09 MB/s) - ‘./preprocess/words.tsv’ saved [79701]
 
