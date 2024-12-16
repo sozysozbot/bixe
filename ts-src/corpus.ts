@@ -9887,7 +9887,7 @@ const CORPUS: CorpusElem[] = [
   {
     "source": "【耳声手片】説明書",
     "pmcp": "xeplata lap xelit jutata leti. nuxeplata xelit lap canxenit leti.",
-    "direct_ja": "",
+    "direct_ja": "親プレイヤーだけが、声のを見ます。子プレイヤーは、散布するのだけを見ます。",
     "ja": "親プレイヤーのみが読み札を見ます。子プレイヤーは取り札だけを見ます。",
     "en": ""
   },
@@ -10050,6 +10050,972 @@ const CORPUS: CorpusElem[] = [
     "pmcp": "jo lucucleti, mi mak xep xaceit jo nippon cetkaik leti latacet at nippon lata cet at \"gemu maketo\" leti lata cet.",
     "direct_ja": "",
     "ja": "最後に、日本机戦連盟、日本の人々ならびにゲームマーケットの方々に今一度多大なる感謝を述べて、終わりの言葉といたします。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lata e 2lt o 3lt o 4lt",
+    "direct_ja": "",
+    "ja": "プレイ人数：2~4人",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nole e jo 1lt zo jo 2lt zo",
+    "direct_ja": "",
+    "ja": "プレイ時間：約15分～30分",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "letit zo, ka e cetkaik xale. letit kin, ka e taxot xale.",
+    "direct_ja": "",
+    "ja": "駒を取るはセッカイク (将棋のようなゲーム) の如く、点を取るはタショト (麻雀のようなゲーム)の如く！",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "co dokit ceplata pi celene lauzait pankaleti cep.",
+    "direct_ja": "",
+    "ja": "あなたは役人を登用し、よりよい良い政府を作ることを目指します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "etexon jo auc, cunet jo auc, lecu lauzait latacela!",
+    "direct_ja": "",
+    "ja": "誰よりも早く、誰よりも強力に組織を結成しましょう！",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "belpic leti xelleti polto",
+    "direct_ja": "",
+    "ja": "ゲームの目標",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "pac jo kopzo nipit zo pi tudeit mol jo bepale leti zo pi letit zo.",
+    "direct_ja": "",
+    "ja": "手駒から駒を捨てる・ボード上の駒を動かす・駒を取る。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "mak-mak it ka pi letit nejuc jo celene letit kije leti zo.",
+    "direct_ja": "",
+    "ja": "これらを繰り返し必要な駒を集めていきます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kopzo pankaleti latacela mol pi kaceit ka pi cene letit kin.",
+    "direct_ja": "",
+    "ja": "手駒に適切な組合せがあれば、それを公開し、得点を得ることができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "etexon it kopzo jo nudindunleti pi lecu letit xep kin!",
+    "direct_ja": "",
+    "ja": "いち早く手駒を整え、大得点を目指しましょう！",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "cutapijot leti xe",
+    "direct_ja": "",
+    "ja": "内容物",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kantel (ka)",
+    "direct_ja": "",
+    "ja": "説明書（この冊子です）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "late (12lt 1lt, 12lt 3lt, 12lt ? mol)",
+    "direct_ja": "",
+    "ja": "点数用紙幣（一銭:1, 三銭:3, 十銭:10 各12枚)",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "bepale",
+    "direct_ja": "",
+    "ja": "ボード",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "5leti xiju",
+    "direct_ja": "",
+    "ja": "投げ棒（竹製の棒：5本）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "zo (2lt dec. tan-dec e elme, pulan e kuwa. auc e 68lt.)",
+    "direct_ja": "",
+    "ja": "駒（緑の「兵」と白の「筆」の2スート、計68個）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "pulonleti zo (kantelit \"p\")",
+    "direct_ja": "",
+    "ja": "ワイルド",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "belpic leti penen",
+    "direct_ja": "",
+    "ja": "ゲームの準備",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xelit lata leti kin pi panit zo leti kin.",
+    "direct_ja": "",
+    "ja": "プレイ人数に応じて、駒を準備します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lata e 4leti pi lucit auc.",
+    "direct_ja": "",
+    "ja": "4人：すべて使用。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lata e 3leti pi aucetit aucleti \"0\"",
+    "direct_ja": "",
+    "ja": "3人：すべての「0」を除去。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lata e 2leti pi aucetit aucleti \"0\" at 2leti \"pulonleti zo\".",
+    "direct_ja": "",
+    "ja": "2人：すべての「0」と2枚の「ワイルド」を除去。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "amolit bepale jo aucleti lata leti lexut cene e tude leti polto. (p)",
+    "direct_ja": "",
+    "ja": "ボードを全員の手の届くところに置きます。(A)",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lata tectelit ludec o coxet o delne o pebuc leti 1leti pi it enja jo coleti dec leti bepale leti nucucital.(b)",
+    "direct_ja": "",
+    "ja": "プレイヤーは赤、青、黒、黄から1色を選びボード上の対応する色の辺を担当します。(B)",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xot leti penen",
+    "direct_ja": "",
+    "ja": "ラウンドの準備",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo mot dindunit aucleti zo pi ancolit 9leti kopzo.",
+    "direct_ja": "",
+    "ja": "駒を裏返しにしてよく混ぜ、各プレイヤーに9個ずつ配って手駒とします。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "co e coleti kopzo e loc pi etleti lata nip cene xelit coleti kopzo. (m)",
+    "direct_ja": "",
+    "ja": "手駒は立てて持ち、他のプレイヤーから見ることができないようにします。(C)",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "tectelit anpilun leti zo leti 24leti zo pi amolit jo bepale.",
+    "direct_ja": "",
+    "ja": "残りの駒のうち24個を表向きでボードに置きます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo cucital leti tanzo zo molip.",
+    "direct_ja": "",
+    "ja": "中央の山（中央の緑マス）には駒を置きません。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "anpilun leti zo e nip kaceit leti. (c)",
+    "direct_ja": "",
+    "ja": "残りの駒は伏せたままにしておきます。(D)",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "tectelit xeplata pi tectelit belpic leti tudeleti lal.",
+    "direct_ja": "",
+    "ja": "スタートプレイヤーとプレイ順を決定します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kaleti nole lelecit kin leti xep-nuxep pi nuxep jo auc pi ci e xeplata.",
+    "direct_ja": "",
+    "ja": "その時点での獲得点数を比較し、一番少ないプレイヤーがスタートプレイヤーとなります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xelit xeplata leti tecnok at tijuna pi kin e nuxep leti lata leti lal e belpic leti tudeleti lal.",
+    "direct_ja": "",
+    "ja": "スタートプレイヤーの左右のうち、より点数の少ないプレイヤー方向にゲームが進行します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "cileti lata e cep o cileti xot e pac it belpic leti xot pi doktit xiju pi tectelit xeplata at lal. (x)",
+    "direct_ja": "",
+    "ja": "もし、該当者が複数の場合や、ゲームの最初のラウンドである場合は投げ棒を投げてスタートプレイヤーとプレイ順を決定します。(E)",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xot leti tudeleti",
+    "direct_ja": "",
+    "ja": "ラウンドの流れ",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo xot lata jo laiju mak-mak it dije.",
+    "direct_ja": "",
+    "ja": "ラウンドにおいて、プレイヤーは順に手番を繰り返します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo 1leti lata lukupit \"lauzait cep!\" leti nole kinpit kin pi xot e lucuc pi dutucunleti xot e pac.",
+    "direct_ja": "",
+    "ja": "誰かが「ラウツァイト・セプ！」を宣言した際、得点計算を終えたのちにラウンドが終了し、新たなラウンドが開始します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo belpicit lata leti kin leti xot lucu leti nole o jo aucleti lata celene lucucit leti nole belpic e luc.",
+    "direct_ja": "",
+    "ja": "プレイヤー数と同じ回数ラウンドを行うか、気が済んだらゲームが終了します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "dije leti tudeleti",
+    "direct_ja": "",
+    "ja": "手番の流れ",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lata jo dije jo laiju it launza leti enja.",
+    "direct_ja": "",
+    "ja": "プレイヤーは手番において、以下のアクションを順に実行します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "0leti o 1leti nole - nipit kin pi tectelit kaceit leti latacela pi mak e zo e nip kaceit leti. (ticot-penul-tude-dutucun)",
+    "direct_ja": "",
+    "ja": "【0~1回】すでに公開している組合せを非公開に戻し、得点を返納する。（心古行新：温故知新）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "0leti o 1leti nole - kaceit kopzo leti 1leti latacela pi letit kin. (amolit enja)",
+    "direct_ja": "",
+    "ja": "【0~1回】手駒から組合せを1つ公開することで、得点を獲得する。（配属）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "1leti nole - pac jo kopzo nipit 1leti zo pi tudeit bepale leti zo pi letit zo. (dokit lata)",
+    "direct_ja": "",
+    "ja": "【1回】手駒から駒を一つ捨て、ボード上の駒を動かして駒を獲得する。（登用）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "0leti o 1leti nole - letit molkait leti kin pi lucucit xot. (lauzait cep!)",
+    "direct_ja": "",
+    "ja": "【0~1回】勝利点を得て、ラウンドを終える。（ラウツァイト・セプ！）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "co e lijowel jo co delu it \"doktit lata\" leti julo.",
+    "direct_ja": "",
+    "ja": "登用アクションを必ず行うことに注意してください。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "dokit lata (delu it ka)",
+    "direct_ja": "",
+    "ja": "登用（必ず行う）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "pac jo kopzo nipit 1leti zo pi tudeit bepale leti zo pi letit zo.",
+    "direct_ja": "",
+    "ja": "手駒から駒を一つ捨て、ボード上の駒を動かして駒を獲得します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nipit zo e amolit bepale leti zo molipleti nutok.",
+    "direct_ja": "",
+    "ja": "捨てた駒はボード上の空きマスに置きます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "cene tudeit leti zo e jo nipit leti zo nuwaxecleti pi zelena e nectun leti zo.",
+    "direct_ja": "",
+    "ja": "移動できる駒は、捨てた駒と同じ色で数字が一つ大きい、あるいは一つ小さい駒です。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "mapeit nipit zo pi zo nip e cene e tude leti nole.",
+    "direct_ja": "",
+    "ja": "駒を捨てても駒が移動できないような状態を作ることは禁止です。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "zo cene e tude jo zo leti nectunleti 8leti nutok.",
+    "direct_ja": "",
+    "ja": "駒は周囲8マスに動くことができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "penulleti nole co letit tudeleti polto leti zo.",
+    "direct_ja": "",
+    "ja": "通常、動いた先の駒を獲得します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "pac jo tanke leti tudeleti cul",
+    "direct_ja": "",
+    "ja": "山（中央の緑マス）からの移動",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "tanke e tan leti dec leti nutok. mol jo tanke leti zo iceit tan leti anpe pi cene e tude jo cetleti nutok.",
+    "direct_ja": "",
+    "ja": "山にいる駒はタム神の力を得て、より多くのマスに動くことができるようになります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "tudeleti cul e cukulal xale. ka e tan leti lujot xale.",
+    "direct_ja": "",
+    "ja": "動き方は下の図のように「タム」の字（皇）のように動きます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "mol jo cecijo leti zo e co cene xenkanit leti.",
+    "direct_ja": "",
+    "ja": "間にある駒は無視して動くことができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "tudeit tanna leti nole",
+    "direct_ja": "",
+    "ja": "水（水色マス）へ移動するとき",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "tanna e coxetleti nutok. tude jo kaleti polto leti julo e nucik.",
+    "direct_ja": "",
+    "ja": "水に移動することは難しいです。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo co tudeit zo pi celene letit tanna leti zo leti nole co delu doktit xiju.",
+    "direct_ja": "",
+    "ja": "駒を動かして水にいる駒を取ろうとする場合、投げ棒を投げる必要があります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xiju e 0leti o 1leti o 2leti pi co letit co tudeit leti zo.",
+    "direct_ja": "",
+    "ja": "0~2の場合は移動していた駒を取ります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xiju e 3leti o 4leti o 5leti pi co letit tudeit leti tanna leti kin.",
+    "direct_ja": "",
+    "ja": "3~5の場合は移動先の駒を取ります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "pulonleti zo leti julo",
+    "direct_ja": "",
+    "ja": "ワイルドの取り扱い",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "co lucit pulonleti zo pi cene pulonit etleti zo leti enja.",
+    "direct_ja": "",
+    "ja": "ワイルドは他の駒の代わりに使うことができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kaleti nalu pac jo kopzo nipit pulonleti zo pi co xenkanit cepat pi cene tudeit bepale leti zo.",
+    "direct_ja": "",
+    "ja": "つまり、手駒からワイルドを捨てた場合はボード上のどの種類の駒を動かしてもよいです。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo nijacicen, bepale leti pulanleti zo e co xenkanit cepat pi cene tudeit leti.",
+    "direct_ja": "",
+    "ja": "また逆に、ボード上のワイルドは、どんな種類の駒を捨てても動かすことができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "amolit enja (jo xep 1leti nole, co cene nip it ka)",
+    "direct_ja": "",
+    "ja": "配属（最大1回、行わなくてもよい）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kopzo 3leti zo leti latacela mol pi cene it kaleti enja.",
+    "direct_ja": "",
+    "ja": "手駒に３個の駒からなる特定の組合せがある場合、このアクションを行うことができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kaceit kaleti 1leti latacela pi xope letit atakecleti kin.",
+    "direct_ja": "",
+    "ja": "その組合せを1つ公開し、ボーナス点を得ます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kaceit leti zo mobit kopzo pi nip it tptd pi cene nip nipit ka.",
+    "direct_ja": "",
+    "ja": "公開した駒は手駒の一部として振舞いますが、温故知新アクションで非公開に戻さない限り捨てることができなくなります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "3leti mena",
+    "direct_ja": "",
+    "ja": "3個セット",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nuwaxecleti dec at nuwaxecleti kin leti 3leti zo",
+    "direct_ja": "",
+    "ja": "同じ色、同じ数字3つ",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "3leti laiju",
+    "direct_ja": "",
+    "ja": "3個連番",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nuwaxecleti dec at laijuleti 3leti kin leti 3leti zo",
+    "direct_ja": "",
+    "ja": "同じ色、連続する数字3つ",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nucucital leti kin nip e laiju",
+    "direct_ja": "",
+    "ja": "（端同士の数は繋がらない）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "atakecleti kin",
+    "direct_ja": "",
+    "ja": "ボーナス点",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xelit latacela leti xep jo aucleti zo pi letit atakecleti kin.",
+    "direct_ja": "",
+    "ja": "組合せのうち、最も大きい数の駒に対応するボーナス点を獲得します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "atakecleti kin e jo zo mol lictet leti kin.",
+    "direct_ja": "",
+    "ja": "ボーナス点は駒に書かれている点の数です。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lucit pulonleti zo pi pulonit xep jo aucleti zo pi letit nip cilaleti kin leti atakecleti kin.",
+    "direct_ja": "",
+    "ja": "ワイルドを最も大きい数の代用にしている場合は、代用している数に対応するボーナス点を獲得します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "3leti mena leti atakecleti kin e cucnit 3leti.",
+    "direct_ja": "",
+    "ja": "組合せが3個セットの場合は、ボーナス点は3倍となります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "pulonleti zo mol jo latacela pi kinpit kin pi 1leti pulonleti zo mol pi nuwatakecit 1leti.",
+    "direct_ja": "",
+    "ja": "ワイルドカードが組合せにある場合、ボーナス点を計算したのち、1枚につき-1点します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "atakecleti kin e akxacleti kin.",
+    "direct_ja": "",
+    "ja": "ボーナス点が0点を下回ることはありません。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kinpit kin leti cul e ka.",
+    "direct_ja": "",
+    "ja": "ボーナス点計算例",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xep jo aucleti kin e 5leti.",
+    "direct_ja": "",
+    "ja": "最大の数は5。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "5leti lauzait 2leti kin pi atakecleti kin e 2leti kin.",
+    "direct_ja": "",
+    "ja": "5は2点を生むので、ボーナス点は2点。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xep jo aucleti kin e pulonit 3leti leti zo.",
+    "direct_ja": "",
+    "ja": "最大の数は3として振舞っているワイルド。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "3leti lauzait 1leti kin pi atakecleti kin e 3leti cucnit leti 3leti kin.三生一値即三友三層此故三値。",
+    "direct_ja": "",
+    "ja": "3は1点を生み、3個セットは3倍であるので3点。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "1leti pulonleti zo mol pi atakecleti kin e 2leti kin.",
+    "direct_ja": "",
+    "ja": "ワイルドが1枚あるので、ボーナス点は2点。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lauzait cep!",
+    "direct_ja": "",
+    "ja": "ラウツァイト・セプ！",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo panleti nole lata kaceit 3leti latacela pi kaleti lata delu e lukupit \"lauzait cep!\" pi letit atakecleti molkait leti kin.",
+    "direct_ja": "",
+    "ja": "3つの組合せをすでに公開している場合、そのプレイヤーは「ラウツァイト・セプ！」と宣言して追加で勝利点を得ることができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo xon nole kaceit leti zo molip pi 3leti latacela mol jo kopzo pi co cene lukupit \"lauzait cep!\" pi letit molkait leti kin.",
+    "direct_ja": "",
+    "ja": "あるいは特例として、手駒を一切公開していない状態で手駒の中に3つの組合せが成立している場合にも、「ラウツァイト・セプ！」と宣言して勝利点を得ることができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kaleti nole nip cene letit kaceit zo leti atakecleti kin pi letit molkait leti kin.",
+    "direct_ja": "",
+    "ja": "この際はボーナス点を得ず、勝利点のみを得ます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "molkait leti kin leti auc",
+    "direct_ja": "",
+    "ja": "勝利点一覧",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lauzait cep!",
+    "direct_ja": "",
+    "ja": "ラウツァイト・セプ",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lapimeti cet",
+    "direct_ja": "",
+    "ja": "専門家委員会",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "auclt zo e nuwaxeclt dec",
+    "direct_ja": "",
+    "ja": "全ての駒が同じ色",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xep laiju",
+    "direct_ja": "",
+    "ja": "大行列",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "9lt laijult kin",
+    "direct_ja": "",
+    "ja": "9個の連続する数",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "cileclt konal",
+    "direct_ja": "",
+    "ja": "重なり橋",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kopzo nuwaxeclt kin lt 2lt dat mol",
+    "direct_ja": "",
+    "ja": "手駒の中に、同じ数からなる組合せ2個が存在",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nip delu e nuwaxeclt dec. mena e pankalt no laiju e pankalt.",
+    "direct_ja": "",
+    "ja": "同じ色である必要はなく、3個セットでも3個連番でもいい",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kuwa at elme",
+    "direct_ja": "",
+    "ja": "筆兵無傾",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kuwa ta elme lt kin e nuwaxeclt",
+    "direct_ja": "",
+    "ja": "筆と兵のそれぞれの数の合計が等しい",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "(nip xelit pulonlt zo e kin)",
+    "direct_ja": "",
+    "ja": "（ワイルドは数として見ない）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kapa-nip-mol",
+    "direct_ja": "",
+    "ja": "闇戦之集",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nip cene it lt nole",
+    "direct_ja": "",
+    "ja": "手詰まり。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo ankalit nole it tptd pi jo dokit lata leti nole xope cene nipit lt zo molip.",
+    "direct_ja": "",
+    "ja": "仮に温故知新アクションを行っていたとしても、登用アクション時に捨てることができる駒がない場合。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kapa-nip-mol e xon nole. jo kalt nole xenkanit kopzo lt latacela pi \"lauzait cep!\"",
+    "direct_ja": "",
+    "ja": "闇戦之集は手駒にある組合せに関わらず、「ラウツァイト・セプ！」を宣言する特殊な場面です。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lukupit \"lauzait cep!\" pi kinpit kin pi xot e luc.",
+    "direct_ja": "",
+    "ja": "「ラウツァイト・セプ！」が宣言された場合、得点を集計したのち、ラウンドが終了します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "cileti xot nip e belpic leti launza jo auc pi pac jo \"xot leti penen\" pi pac it xot.",
+    "direct_ja": "",
+    "ja": "そのラウンドがゲームの最終ラウンドでない場合、「ラウンドの準備」に戻って新たにラウンドを始めます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "ticot-penul-tude-dutucun (jo xep 1leti nole, co cene nip it ka)",
+    "direct_ja": "",
+    "ja": "温故知新（最大1回、行わなくてもよい）",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "co jo laip leti nole amolit enja pi letit atakecleti kin. jo xon nole co ducit co untik jo ka.",
+    "direct_ja": "",
+    "ja": "まれに、過去に配属アクションを行いボーナス点を得たことを後悔することがあります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kaleti nole co cene it tptd.",
+    "direct_ja": "",
+    "ja": "そういった場合には、温故知新アクションを行うことができます。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo it ka leti nole nipit kin pi tectelit 1leti kaceit leti latacela pi mak e zo e nip kaceit leti pi nipit kin.",
+    "direct_ja": "",
+    "ja": "これを行う際、すでに公開した組合せ1つを非公開に戻し、公開時に得たボーナス点を返納することになります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nipit kin delu e pankaleti cila.",
+    "direct_ja": "",
+    "ja": "返納は正しく行う必要があります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nupankaleti cul e ka. kaceit \"12p\" pi letit 2leti kin. jo launza co it tptd jo \"p12\" pi nipit 1leti.",
+    "direct_ja": "",
+    "ja": "例えば、[2][3][ワイルド]を公開して2点を得たのちに、[ワイルド][2][3]を1点の返納で温故知新してはいけません。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "nupankaleti ice delu e lucit xep kapa pi jacamalit leti cul.",
+    "direct_ja": "",
+    "ja": "不正受給は厳しく罰せられるべきなのです。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "belpic leti lucucleti nole",
+    "direct_ja": "",
+    "ja": "ゲームの終了",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo belpicit lata leti kin leti xot lucu leti nole o jo aucleti lata celene lucucit leti nole belpic e luc.",
+    "direct_ja": "",
+    "ja": "プレイヤー数と同じだけラウンドを行うか、全員の気が済んだらゲームが終了します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kaleti nole kin e xep jo auc leti lata delu e molka.",
+    "direct_ja": "",
+    "ja": "その時点で最も点数の高いプレイヤーの勝利です。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kin e xep jo auc leti lata cet mol pi cileti aucleti lata delu e molka.",
+    "direct_ja": "",
+    "ja": "複数いる場合、その全員が勝者になります。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "atakecleti cepkulante",
+    "direct_ja": "",
+    "ja": "追加ルール",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "e kante jo nul pi lecu atakecit launza leti cepkulante.",
+    "direct_ja": "",
+    "ja": "慣れてきたら以下のルールを追加してみましょう。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo penen leti launza kaceit anpilun zo leti 1leti pi it ka e kapa leti zo.",
+    "direct_ja": "",
+    "ja": "準備後、残っている駒のうち1つを表に向けて、その駒を光駒とします。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kapa mol jo kopzo leti nole lukupit \"lauzait cep!\" pi 1leti kin jo 1leti kapa.",
+    "direct_ja": "",
+    "ja": "光駒が手駒にある状態で「ラウツァイト・セプ！」を宣言した場合、1枚につき1点を獲得します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lukup-lukup",
+    "direct_ja": "",
+    "ja": "お寄せいただいた質問",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lauzait 1leti palbelta pi mi cetleti lejun iceit ka cetleti lukup-lukup.",
+    "direct_ja": "",
+    "ja": "初版出版後にわが社に寄せられた質問について紹介します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "xaceit iceit kapa.",
+    "direct_ja": "",
+    "ja": "ご協力感謝します。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kaceit latacela leti nole at jo lukupit \"lauzait cep\" leti nole xelit pulonleti zo jo etleti zo jun?",
+    "direct_ja": "",
+    "ja": "組合せ公開時とラウツァイト・セプ宣言時でワイルドを別の駒として扱ってよいか。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "pede dat - adin.gatu.baniwaimu",
+    "direct_ja": "",
+    "ja": "― ペデ郡　アディン・ガトゥ・バニワイム",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "pankaleti.",
+    "direct_ja": "",
+    "ja": "よい。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo tanna jo tanna leti nole delu doktit xiju jun?",
+    "direct_ja": "",
+    "ja": "水から水への移動時、投げ棒は必要か。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kuwake dat - tan.aikki",
+    "direct_ja": "",
+    "ja": "― クワケ郡　タム・アイクキー",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "waxec jo aipani-cetkaik. co delu dokit xiju.",
+    "direct_ja": "",
+    "ja": "標準セッカイクとは異なり、必要。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "it ka pi cepkulante e lacik.",
+    "direct_ja": "",
+    "ja": "ルールの簡易化を図った。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "lucit pulonleti zo pi jo xep kin icelit enja pi jo nuxep kin it tptd leti julo e pankaleti jun?",
+    "direct_ja": "",
+    "ja": "ワイルドを用いて高く配属し、安く温故知新してよいか。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "kutija dat kasika.leledapa",
+    "direct_ja": "",
+    "ja": "― クティヤ郡　カジカ・レレダパ",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "belpic delu e tude jo dindunleti.",
+    "direct_ja": "",
+    "ja": "ゲームが無茶苦茶になる。",
+    "en": ""
+  },
+  {
+    "source": "LAUZAIT-CEPルールブック",
+    "pmcp": "jo kaleti palbelta mi cet atakecit.",
+    "direct_ja": "",
+    "ja": "本版では加筆した。",
     "en": ""
   },
   {

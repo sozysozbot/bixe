@@ -1410,7 +1410,7 @@ discord会話	ICECLETI LATA LUC E KIN JO 1000000 LETI.		死者数は百万人に
 かるたスライド	xace!		ありがとうございました			
 【耳声手片】説明書	jutata leti bapala	声の札	かるた			
 【耳声手片】説明書	jutata leti bapala at canxenit leti bapala mol.	声の札と、散布する札があります。	読み札と取り札があります。			
-【耳声手片】説明書	xeplata lap xelit jutata leti. nuxeplata xelit lap canxenit leti.		親プレイヤーのみが読み札を見ます。子プレイヤーは取り札だけを見ます。			
+【耳声手片】説明書	xeplata lap xelit jutata leti. nuxeplata xelit lap canxenit leti.	親プレイヤーだけが、声のを見ます。子プレイヤーは、散布するのだけを見ます。	親プレイヤーのみが読み札を見ます。子プレイヤーは取り札だけを見ます。			
 【耳声手片】説明書	jo belpic leti nole, xeplata lukupit jutata leti bapala leti lukup-lukup.		遊ぶときは、親プレイヤーは声の札の言葉を口に出します。			
 【耳声手片】説明書	nuxeplata cenoctit cileti jutata pi celene letit tulai leti bapala.	子プレイヤーはその声を聞いて、伴侶の札を取ります。	子プレイヤーはその声を聞いて、対応する札を取ります。			
 【耳声手片】説明書	belpic e lucuc leti nole cetleti bapala mol lata molkait.		ゲームが終わりであるときに、多くの札がある人が勝ちます。			
@@ -1434,6 +1434,144 @@ discord会話	ICECLETI LATA LUC E KIN JO 1000000 LETI.		死者数は百万人に
 ゲムマ2024春広報処コメント	NIPPON LATA CET XELIT AIL AT MI CETLETI UNDE PI MI CET XACEIT JO KA.		日本の人々がアイル共和国および我々の世界を楽しんでくださっていることに感謝申し上げます。			
 ゲムマ2024春広報処コメント	MI CENOTIT NIPPON CETKAIK LETI LATACET CUIT KIJE KA CET JO "BUCU" PI LUKUPIT KA. NIP CENE E TUDE JO "GEMU MAKETO" LETI LATA DELU CUIT TUDE JO CI, METICA.		「BOOTH」においてもこれらは販売される予定のため、今回の「ゲームマーケット」に来られなかった方はぜひそちらで買われることをおすすめします。			
 ゲムマ2024春広報処コメント	JO LUCUCLETI, MI MAK XEP XACEIT JO NIPPON CETKAIK LETI LATACET AT NIPPON LATA CET AT "GEMU MAKETO" LETI LATA CET.		最後に、日本机戦連盟、日本の人々ならびにゲームマーケットの方々に今一度多大なる感謝を述べて、終わりの言葉といたします。			
+LAUZAIT-CEPルールブック	lata e 2lt o 3lt o 4lt		プレイ人数：2~4人			
+LAUZAIT-CEPルールブック	nole e jo 1lt zo jo 2lt zo		プレイ時間：約15分～30分			
+LAUZAIT-CEPルールブック	letit zo, ka e cetkaik xale. letit kin, ka e taxot xale.		駒を取るはセッカイク (将棋のようなゲーム) の如く、点を取るはタショト (麻雀のようなゲーム)の如く！			
+LAUZAIT-CEPルールブック	co dokit ceplata pi celene lauzait pankaleti cep.		あなたは役人を登用し、よりよい良い政府を作ることを目指します。			
+LAUZAIT-CEPルールブック	etexon jo auc, cunet jo auc, lecu lauzait latacela!		誰よりも早く、誰よりも強力に組織を結成しましょう！			
+LAUZAIT-CEPルールブック	belpic leti xelleti polto		ゲームの目標			
+LAUZAIT-CEPルールブック	pac jo kopzo nipit zo pi tudeit mol jo bepale leti zo pi letit zo.		手駒から駒を捨てる・ボード上の駒を動かす・駒を取る。			
+LAUZAIT-CEPルールブック	mak-mak it ka pi letit nejuc jo celene letit kije leti zo.		これらを繰り返し必要な駒を集めていきます。			
+LAUZAIT-CEPルールブック	jo kopzo pankaleti latacela mol pi kaceit ka pi cene letit kin.		手駒に適切な組合せがあれば、それを公開し、得点を得ることができます。			
+LAUZAIT-CEPルールブック	etexon it kopzo jo nudindunleti pi lecu letit xep kin!		いち早く手駒を整え、大得点を目指しましょう！			
+LAUZAIT-CEPルールブック	cutapijot leti xe		内容物			
+LAUZAIT-CEPルールブック	kantel (ka)		説明書（この冊子です）			
+LAUZAIT-CEPルールブック	late (12lt 1lt, 12lt 3lt, 12lt ? mol)		点数用紙幣（一銭:1, 三銭:3, 十銭:10 各12枚)			
+LAUZAIT-CEPルールブック	bepale		ボード			
+LAUZAIT-CEPルールブック	5leti xiju		投げ棒（竹製の棒：5本）			
+LAUZAIT-CEPルールブック	zo (2lt dec. tan-dec e elme, pulan e kuwa. auc e 68lt.)		駒（緑の「兵」と白の「筆」の2スート、計68個）			
+LAUZAIT-CEPルールブック	pulonleti zo (kantelit "p")		ワイルド			
+LAUZAIT-CEPルールブック	belpic leti penen		ゲームの準備			
+LAUZAIT-CEPルールブック	xelit lata leti kin pi panit zo leti kin.		プレイ人数に応じて、駒を準備します。			
+LAUZAIT-CEPルールブック	lata e 4leti pi lucit auc.		4人：すべて使用。			
+LAUZAIT-CEPルールブック	lata e 3leti pi aucetit aucleti "0"		3人：すべての「0」を除去。			
+LAUZAIT-CEPルールブック	lata e 2leti pi aucetit aucleti "0" at 2leti "pulonleti zo".		2人：すべての「0」と2枚の「ワイルド」を除去。			
+LAUZAIT-CEPルールブック	amolit bepale jo aucleti lata leti lexut cene e tude leti polto. (p)		ボードを全員の手の届くところに置きます。(A)			
+LAUZAIT-CEPルールブック	lata tectelit ludec o coxet o delne o pebuc leti 1leti pi it enja jo coleti dec leti bepale leti nucucital.(b)		プレイヤーは赤、青、黒、黄から1色を選びボード上の対応する色の辺を担当します。(B)			
+LAUZAIT-CEPルールブック	xot leti penen		ラウンドの準備			
+LAUZAIT-CEPルールブック	jo mot dindunit aucleti zo pi ancolit 9leti kopzo.		駒を裏返しにしてよく混ぜ、各プレイヤーに9個ずつ配って手駒とします。			
+LAUZAIT-CEPルールブック	co e coleti kopzo e loc pi etleti lata nip cene xelit coleti kopzo. (m)		手駒は立てて持ち、他のプレイヤーから見ることができないようにします。(C)			
+LAUZAIT-CEPルールブック	tectelit anpilun leti zo leti 24leti zo pi amolit jo bepale.		残りの駒のうち24個を表向きでボードに置きます。			
+LAUZAIT-CEPルールブック	jo cucital leti tanzo zo molip.		中央の山（中央の緑マス）には駒を置きません。			
+LAUZAIT-CEPルールブック	anpilun leti zo e nip kaceit leti. (c)		残りの駒は伏せたままにしておきます。(D)			
+LAUZAIT-CEPルールブック	tectelit xeplata pi tectelit belpic leti tudeleti lal.		スタートプレイヤーとプレイ順を決定します。			
+LAUZAIT-CEPルールブック	jo kaleti nole lelecit kin leti xep-nuxep pi nuxep jo auc pi ci e xeplata.		その時点での獲得点数を比較し、一番少ないプレイヤーがスタートプレイヤーとなります。			
+LAUZAIT-CEPルールブック	xelit xeplata leti tecnok at tijuna pi kin e nuxep leti lata leti lal e belpic leti tudeleti lal.		スタートプレイヤーの左右のうち、より点数の少ないプレイヤー方向にゲームが進行します。			
+LAUZAIT-CEPルールブック	cileti lata e cep o cileti xot e pac it belpic leti xot pi doktit xiju pi tectelit xeplata at lal. (x)		もし、該当者が複数の場合や、ゲームの最初のラウンドである場合は投げ棒を投げてスタートプレイヤーとプレイ順を決定します。(E)			
+LAUZAIT-CEPルールブック	xot leti tudeleti		ラウンドの流れ			
+LAUZAIT-CEPルールブック	jo xot lata jo laiju mak-mak it dije.		ラウンドにおいて、プレイヤーは順に手番を繰り返します。			
+LAUZAIT-CEPルールブック	jo 1leti lata lukupit "lauzait cep!" leti nole kinpit kin pi xot e lucuc pi dutucunleti xot e pac.		誰かが「ラウツァイト・セプ！」を宣言した際、得点計算を終えたのちにラウンドが終了し、新たなラウンドが開始します。			
+LAUZAIT-CEPルールブック	jo belpicit lata leti kin leti xot lucu leti nole o jo aucleti lata celene lucucit leti nole belpic e luc.		プレイヤー数と同じ回数ラウンドを行うか、気が済んだらゲームが終了します。			
+LAUZAIT-CEPルールブック	dije leti tudeleti		手番の流れ			
+LAUZAIT-CEPルールブック	lata jo dije jo laiju it launza leti enja.		プレイヤーは手番において、以下のアクションを順に実行します。			
+LAUZAIT-CEPルールブック	0leti o 1leti nole - nipit kin pi tectelit kaceit leti latacela pi mak e zo e nip kaceit leti. (ticot-penul-tude-dutucun)		【0~1回】すでに公開している組合せを非公開に戻し、得点を返納する。（心古行新：温故知新）			
+LAUZAIT-CEPルールブック	0leti o 1leti nole - kaceit kopzo leti 1leti latacela pi letit kin. (amolit enja)		【0~1回】手駒から組合せを1つ公開することで、得点を獲得する。（配属）			
+LAUZAIT-CEPルールブック	1leti nole - pac jo kopzo nipit 1leti zo pi tudeit bepale leti zo pi letit zo. (dokit lata)		【1回】手駒から駒を一つ捨て、ボード上の駒を動かして駒を獲得する。（登用）			
+LAUZAIT-CEPルールブック	0leti o 1leti nole - letit molkait leti kin pi lucucit xot. (lauzait cep!)		【0~1回】勝利点を得て、ラウンドを終える。（ラウツァイト・セプ！）			
+LAUZAIT-CEPルールブック	co e lijowel jo co delu it "doktit lata" leti julo.		登用アクションを必ず行うことに注意してください。			
+LAUZAIT-CEPルールブック	dokit lata (delu it ka)		登用（必ず行う）			
+LAUZAIT-CEPルールブック	pac jo kopzo nipit 1leti zo pi tudeit bepale leti zo pi letit zo.		手駒から駒を一つ捨て、ボード上の駒を動かして駒を獲得します。			
+LAUZAIT-CEPルールブック	nipit zo e amolit bepale leti zo molipleti nutok.		捨てた駒はボード上の空きマスに置きます。			
+LAUZAIT-CEPルールブック	cene tudeit leti zo e jo nipit leti zo nuwaxecleti pi zelena e nectun leti zo.		移動できる駒は、捨てた駒と同じ色で数字が一つ大きい、あるいは一つ小さい駒です。			
+LAUZAIT-CEPルールブック	mapeit nipit zo pi zo nip e cene e tude leti nole.		駒を捨てても駒が移動できないような状態を作ることは禁止です。			
+LAUZAIT-CEPルールブック	zo cene e tude jo zo leti nectunleti 8leti nutok.		駒は周囲8マスに動くことができます。			
+LAUZAIT-CEPルールブック	penulleti nole co letit tudeleti polto leti zo.		通常、動いた先の駒を獲得します。			
+LAUZAIT-CEPルールブック	pac jo tanke leti tudeleti cul		山（中央の緑マス）からの移動			
+LAUZAIT-CEPルールブック	tanke e tan leti dec leti nutok. mol jo tanke leti zo iceit tan leti anpe pi cene e tude jo cetleti nutok.		山にいる駒はタム神の力を得て、より多くのマスに動くことができるようになります。			
+LAUZAIT-CEPルールブック	tudeleti cul e cukulal xale. ka e tan leti lujot xale.		動き方は下の図のように「タム」の字（皇）のように動きます。			
+LAUZAIT-CEPルールブック	mol jo cecijo leti zo e co cene xenkanit leti.		間にある駒は無視して動くことができます。			
+LAUZAIT-CEPルールブック	tudeit tanna leti nole		水（水色マス）へ移動するとき			
+LAUZAIT-CEPルールブック	tanna e coxetleti nutok. tude jo kaleti polto leti julo e nucik.		水に移動することは難しいです。			
+LAUZAIT-CEPルールブック	jo co tudeit zo pi celene letit tanna leti zo leti nole co delu doktit xiju.		駒を動かして水にいる駒を取ろうとする場合、投げ棒を投げる必要があります。			
+LAUZAIT-CEPルールブック	xiju e 0leti o 1leti o 2leti pi co letit co tudeit leti zo.		0~2の場合は移動していた駒を取ります。			
+LAUZAIT-CEPルールブック	xiju e 3leti o 4leti o 5leti pi co letit tudeit leti tanna leti kin.		3~5の場合は移動先の駒を取ります。			
+LAUZAIT-CEPルールブック	pulonleti zo leti julo		ワイルドの取り扱い			
+LAUZAIT-CEPルールブック	co lucit pulonleti zo pi cene pulonit etleti zo leti enja.		ワイルドは他の駒の代わりに使うことができます。			
+LAUZAIT-CEPルールブック	jo kaleti nalu pac jo kopzo nipit pulonleti zo pi co xenkanit cepat pi cene tudeit bepale leti zo.		つまり、手駒からワイルドを捨てた場合はボード上のどの種類の駒を動かしてもよいです。			
+LAUZAIT-CEPルールブック	jo nijacicen, bepale leti pulanleti zo e co xenkanit cepat pi cene tudeit leti.		また逆に、ボード上のワイルドは、どんな種類の駒を捨てても動かすことができます。			
+LAUZAIT-CEPルールブック	amolit enja (jo xep 1leti nole, co cene nip it ka)		配属（最大1回、行わなくてもよい）			
+LAUZAIT-CEPルールブック	jo kopzo 3leti zo leti latacela mol pi cene it kaleti enja.		手駒に３個の駒からなる特定の組合せがある場合、このアクションを行うことができます。			
+LAUZAIT-CEPルールブック	kaceit kaleti 1leti latacela pi xope letit atakecleti kin.		その組合せを1つ公開し、ボーナス点を得ます。			
+LAUZAIT-CEPルールブック	kaceit leti zo mobit kopzo pi nip it tptd pi cene nip nipit ka.		公開した駒は手駒の一部として振舞いますが、温故知新アクションで非公開に戻さない限り捨てることができなくなります。			
+LAUZAIT-CEPルールブック	3leti mena		3個セット			
+LAUZAIT-CEPルールブック	nuwaxecleti dec at nuwaxecleti kin leti 3leti zo		同じ色、同じ数字3つ			
+LAUZAIT-CEPルールブック	3leti laiju		3個連番			
+LAUZAIT-CEPルールブック	nuwaxecleti dec at laijuleti 3leti kin leti 3leti zo		同じ色、連続する数字3つ			
+LAUZAIT-CEPルールブック	nucucital leti kin nip e laiju		（端同士の数は繋がらない）			
+LAUZAIT-CEPルールブック	atakecleti kin		ボーナス点			
+LAUZAIT-CEPルールブック	xelit latacela leti xep jo aucleti zo pi letit atakecleti kin.		組合せのうち、最も大きい数の駒に対応するボーナス点を獲得します。			
+LAUZAIT-CEPルールブック	atakecleti kin e jo zo mol lictet leti kin.		ボーナス点は駒に書かれている点の数です。			
+LAUZAIT-CEPルールブック	lucit pulonleti zo pi pulonit xep jo aucleti zo pi letit nip cilaleti kin leti atakecleti kin.		ワイルドを最も大きい数の代用にしている場合は、代用している数に対応するボーナス点を獲得します。			
+LAUZAIT-CEPルールブック	3leti mena leti atakecleti kin e cucnit 3leti.		組合せが3個セットの場合は、ボーナス点は3倍となります。			
+LAUZAIT-CEPルールブック	pulonleti zo mol jo latacela pi kinpit kin pi 1leti pulonleti zo mol pi nuwatakecit 1leti.		ワイルドカードが組合せにある場合、ボーナス点を計算したのち、1枚につき-1点します。			
+LAUZAIT-CEPルールブック	atakecleti kin e akxacleti kin.		ボーナス点が0点を下回ることはありません。			
+LAUZAIT-CEPルールブック	kinpit kin leti cul e ka.		ボーナス点計算例			
+LAUZAIT-CEPルールブック	xep jo aucleti kin e 5leti.		最大の数は5。			
+LAUZAIT-CEPルールブック	5leti lauzait 2leti kin pi atakecleti kin e 2leti kin.		5は2点を生むので、ボーナス点は2点。			
+LAUZAIT-CEPルールブック	xep jo aucleti kin e pulonit 3leti leti zo.		最大の数は3として振舞っているワイルド。			
+LAUZAIT-CEPルールブック	3leti lauzait 1leti kin pi atakecleti kin e 3leti cucnit leti 3leti kin.三生一値即三友三層此故三値。		3は1点を生み、3個セットは3倍であるので3点。			
+LAUZAIT-CEPルールブック	1leti pulonleti zo mol pi atakecleti kin e 2leti kin.		ワイルドが1枚あるので、ボーナス点は2点。			
+LAUZAIT-CEPルールブック	lauzait cep!		ラウツァイト・セプ！			
+LAUZAIT-CEPルールブック	jo panleti nole lata kaceit 3leti latacela pi kaleti lata delu e lukupit "lauzait cep!" pi letit atakecleti molkait leti kin.		3つの組合せをすでに公開している場合、そのプレイヤーは「ラウツァイト・セプ！」と宣言して追加で勝利点を得ることができます。			
+LAUZAIT-CEPルールブック	jo xon nole kaceit leti zo molip pi 3leti latacela mol jo kopzo pi co cene lukupit "lauzait cep!" pi letit molkait leti kin.		あるいは特例として、手駒を一切公開していない状態で手駒の中に3つの組合せが成立している場合にも、「ラウツァイト・セプ！」と宣言して勝利点を得ることができます。			
+LAUZAIT-CEPルールブック	jo kaleti nole nip cene letit kaceit zo leti atakecleti kin pi letit molkait leti kin.		この際はボーナス点を得ず、勝利点のみを得ます。			
+LAUZAIT-CEPルールブック	molkait leti kin leti auc		勝利点一覧			
+LAUZAIT-CEPルールブック	lauzait cep!		ラウツァイト・セプ			
+LAUZAIT-CEPルールブック	lapimeti cet		専門家委員会			
+LAUZAIT-CEPルールブック	auclt zo e nuwaxeclt dec		全ての駒が同じ色			
+LAUZAIT-CEPルールブック	xep laiju		大行列			
+LAUZAIT-CEPルールブック	9lt laijult kin		9個の連続する数			
+LAUZAIT-CEPルールブック	cileclt konal		重なり橋			
+LAUZAIT-CEPルールブック	jo kopzo nuwaxeclt kin lt 2lt dat mol		手駒の中に、同じ数からなる組合せ2個が存在			
+LAUZAIT-CEPルールブック	nip delu e nuwaxeclt dec. mena e pankalt no laiju e pankalt.		同じ色である必要はなく、3個セットでも3個連番でもいい			
+LAUZAIT-CEPルールブック	kuwa at elme		筆兵無傾			
+LAUZAIT-CEPルールブック	kuwa ta elme lt kin e nuwaxeclt		筆と兵のそれぞれの数の合計が等しい			
+LAUZAIT-CEPルールブック	(nip xelit pulonlt zo e kin)		（ワイルドは数として見ない）			
+LAUZAIT-CEPルールブック	kapa-nip-mol		闇戦之集			
+LAUZAIT-CEPルールブック	nip cene it lt nole		手詰まり。			
+LAUZAIT-CEPルールブック	jo ankalit nole it tptd pi jo dokit lata leti nole xope cene nipit lt zo molip.		仮に温故知新アクションを行っていたとしても、登用アクション時に捨てることができる駒がない場合。			
+LAUZAIT-CEPルールブック	kapa-nip-mol e xon nole. jo kalt nole xenkanit kopzo lt latacela pi "lauzait cep!"		闇戦之集は手駒にある組合せに関わらず、「ラウツァイト・セプ！」を宣言する特殊な場面です。			
+LAUZAIT-CEPルールブック	lukupit "lauzait cep!" pi kinpit kin pi xot e luc.		「ラウツァイト・セプ！」が宣言された場合、得点を集計したのち、ラウンドが終了します。			
+LAUZAIT-CEPルールブック	cileti xot nip e belpic leti launza jo auc pi pac jo "xot leti penen" pi pac it xot.		そのラウンドがゲームの最終ラウンドでない場合、「ラウンドの準備」に戻って新たにラウンドを始めます。			
+LAUZAIT-CEPルールブック	ticot-penul-tude-dutucun (jo xep 1leti nole, co cene nip it ka)		温故知新（最大1回、行わなくてもよい）			
+LAUZAIT-CEPルールブック	co jo laip leti nole amolit enja pi letit atakecleti kin. jo xon nole co ducit co untik jo ka.		まれに、過去に配属アクションを行いボーナス点を得たことを後悔することがあります。			
+LAUZAIT-CEPルールブック	jo kaleti nole co cene it tptd.		そういった場合には、温故知新アクションを行うことができます。			
+LAUZAIT-CEPルールブック	jo it ka leti nole nipit kin pi tectelit 1leti kaceit leti latacela pi mak e zo e nip kaceit leti pi nipit kin.		これを行う際、すでに公開した組合せ1つを非公開に戻し、公開時に得たボーナス点を返納することになります。			
+LAUZAIT-CEPルールブック	nipit kin delu e pankaleti cila.		返納は正しく行う必要があります。			
+LAUZAIT-CEPルールブック	nupankaleti cul e ka. kaceit "12p" pi letit 2leti kin. jo launza co it tptd jo "p12" pi nipit 1leti.		例えば、[2][3][ワイルド]を公開して2点を得たのちに、[ワイルド][2][3]を1点の返納で温故知新してはいけません。			
+LAUZAIT-CEPルールブック	nupankaleti ice delu e lucit xep kapa pi jacamalit leti cul.		不正受給は厳しく罰せられるべきなのです。			
+LAUZAIT-CEPルールブック	belpic leti lucucleti nole		ゲームの終了			
+LAUZAIT-CEPルールブック	jo belpicit lata leti kin leti xot lucu leti nole o jo aucleti lata celene lucucit leti nole belpic e luc.		プレイヤー数と同じだけラウンドを行うか、全員の気が済んだらゲームが終了します。			
+LAUZAIT-CEPルールブック	jo kaleti nole kin e xep jo auc leti lata delu e molka.		その時点で最も点数の高いプレイヤーの勝利です。			
+LAUZAIT-CEPルールブック	kin e xep jo auc leti lata cet mol pi cileti aucleti lata delu e molka.		複数いる場合、その全員が勝者になります。			
+LAUZAIT-CEPルールブック	atakecleti cepkulante		追加ルール			
+LAUZAIT-CEPルールブック	e kante jo nul pi lecu atakecit launza leti cepkulante.		慣れてきたら以下のルールを追加してみましょう。			
+LAUZAIT-CEPルールブック	jo penen leti launza kaceit anpilun zo leti 1leti pi it ka e kapa leti zo.		準備後、残っている駒のうち1つを表に向けて、その駒を光駒とします。			
+LAUZAIT-CEPルールブック	jo kapa mol jo kopzo leti nole lukupit "lauzait cep!" pi 1leti kin jo 1leti kapa.		光駒が手駒にある状態で「ラウツァイト・セプ！」を宣言した場合、1枚につき1点を獲得します。			
+LAUZAIT-CEPルールブック	lukup-lukup		お寄せいただいた質問			
+LAUZAIT-CEPルールブック	lauzait 1leti palbelta pi mi cetleti lejun iceit ka cetleti lukup-lukup.		初版出版後にわが社に寄せられた質問について紹介します。			
+LAUZAIT-CEPルールブック	xaceit iceit kapa.		ご協力感謝します。			
+LAUZAIT-CEPルールブック	kaceit latacela leti nole at jo lukupit "lauzait cep" leti nole xelit pulonleti zo jo etleti zo jun?		組合せ公開時とラウツァイト・セプ宣言時でワイルドを別の駒として扱ってよいか。			
+LAUZAIT-CEPルールブック	pede dat - adin.gatu.baniwaimu		― ペデ郡　アディン・ガトゥ・バニワイム			
+LAUZAIT-CEPルールブック	pankaleti.		よい。			
+LAUZAIT-CEPルールブック	jo tanna jo tanna leti nole delu doktit xiju jun?		水から水への移動時、投げ棒は必要か。			
+LAUZAIT-CEPルールブック	kuwake dat - tan.aikki		― クワケ郡　タム・アイクキー			
+LAUZAIT-CEPルールブック	waxec jo aipani-cetkaik. co delu dokit xiju.		標準セッカイクとは異なり、必要。			
+LAUZAIT-CEPルールブック	it ka pi cepkulante e lacik.		ルールの簡易化を図った。			
+LAUZAIT-CEPルールブック	lucit pulonleti zo pi jo xep kin icelit enja pi jo nuxep kin it tptd leti julo e pankaleti jun?		ワイルドを用いて高く配属し、安く温故知新してよいか。			
+LAUZAIT-CEPルールブック	kutija dat kasika.leledapa		― クティヤ郡　カジカ・レレダパ			
+LAUZAIT-CEPルールブック	belpic delu e tude jo dindunleti.		ゲームが無茶苦茶になる。			
+LAUZAIT-CEPルールブック	jo kaleti palbelta mi cet atakecit.		本版では加筆した。			
 ゲムマ2024秋広報処コメント	JO NIPPON MOL AUC, CALA!		日本の皆様、こんにちは。			
 ゲムマ2024秋広報処コメント	MI E AIL MO LETI CEP LETI ECKIJACIL LETI POLTO LETI LILATA LETI JEGIN GATU XADOSAMMA.		私はアイル共和国文化省広報処の事務長、イェーギン・ガートゥ・シャードザンマーです。			
 ゲムマ2024秋広報処コメント	MI TUWACAIT JO "GEMU MAKETO" MAK E PAC JO KALETI PAKILE LETI JULO.		今年の秋にゲームマーケットが再び行われることに、心よりお祝いを申し上げます。			
