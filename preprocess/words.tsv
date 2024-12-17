@@ -91,6 +91,7 @@
 900	lujot		名詞					文字	（左に同じ）	lyjot		字	
 910	pemecepe		名詞					PMCF、ペメセペ（自治体名）	（左に同じ）	PMCF			
 920	e latapanka		動詞					健康である	es farkzirvhi, celes iso larta fau farkzirvhi, es vynut mels jisnul	larta-panqa			
+925	e latanupanka		動詞					不健康である	es niv farkzirvhi, celes iso larta fau ny farkzirvhi, es niv vynut mels jisnul	lata.pmcp + nupanka.pmcp			
 930	cuit		動詞					商取引を行う、[cuit kije]売る、[cuit tude]買う	stejies [kije], dosyt [tude]	sur			
 940	e cun		動詞					いつもある	mol fal ecurun	ecurun			
 950	at		項接続詞					と	（左に同じ）	ad, at.pk		加	
@@ -160,6 +161,7 @@
 1580	dexape		名詞					火	（左に同じ）	dexafel			
 1590	e dexape		動詞					燃やす、焼く	chypo	dexafel			
 1600	e liowel		動詞					大いに注意すべきである	（左に同じ）	liorwel			
+1605	takameku		名詞					天恵、タム神の恩恵	tama'd birle	takameku.tk【皇光】		皇光	
 1610	letit		動詞					持つ	（左に同じ）	letix		手	
 1620	zanta		名詞					武器	zant	zant-a-			
 1630	joja		名詞					兄弟	vioj	vioj-a-			
@@ -439,7 +441,7 @@
 4350	penal		名詞		悠F Discord	2022/10/13	悠F Discord	座席	（左に同じ）	pernal			
 4360	keluc		名詞		PMCF ポスター	2022/10/13	悠F Discord	遊戯大会	kelux	alarta z'es rerxo			
 4370	zuwo		名詞		PMCF ポスター			ツウォ（一日の百分の一）	xinesnenik	zuo1.pk			
-4380	inuci		名詞		PMCF ポスター			イヌシ（行政区画）	inuci (ai'ren febikaxten snajalo)	inuci.tk			
+4380	inuci		名詞		PMCF ポスター			イヌシ（行政区画名）	inuci (ai'ren febikaxten snajalo)	inuci.tk			
 4390	ie-xo-kat-iat		名詞		机戦紹介スライド			春夏秋冬（机戦）	iupqa'd paltauil (cerke)	iei2 xo1 kat2 iat1.pk			
 4400	e belpic		動詞		机戦紹介スライド			遊ぶ	（左に同じ）	velfezes			
 4410	nuwao		名詞		【羅古論】目録	2023/1/14		墨汁、墨液	（左に同じ）	nwafho, nua2 huo2.pk			
@@ -468,6 +470,7 @@
 4640	numolka-it		動詞		我々の遊戯-text	2023/4/11		負ける	nilirs	ny + molkka			
 4650	xane-leti		動詞		我々の遊戯-text	2023/4/11		面白い	（左に同じ）	xarne			
 4660	neclanac		名詞		我々の遊戯-text	2023/4/11		種類	（左に同じ）	neslanas			
+4665	bijot-it		動詞		我々の遊戯-text	2023/04/28		～に会う、～という物・概念を紹介する	virot e'c, kverniacel e'i	virot			
 4670	jule-leti		動詞		我々の遊戯-text	2023/4/29		基本的な	es gylerylen	gylery + leti			
 4680	jule		名詞		我々の遊戯-text	2023/4/29		基本	（左に同じ）	gylery			
 4690	pecela		名詞		我々の遊戯-text	2023/4/11		系統	（左に同じ）	fesela			
@@ -649,7 +652,7 @@
 6430	ILECEON		前置助動詞		NIPPON BELPIC	2024/03/30		異口同音に、一同息を合わせて（堅い語）	（左に同じ）	ileceon			
 6440	CIL		名詞		NIPPON BELPIC	2024/03/30		合わせた両手	（左に同じ）	cil			
 6450	CUWA		名詞		NIPPON BELPIC	2024/03/30		円錐	atuli'o'd cela	sua.ar			
-6460	CODUL-IT		動詞		NIPPON BELPIC	2024/04/04		～という模様を(jo)に彫る	sodues celti'ao'i fhasfa'c	sodu + *-l- + -IT.pmcf			
+6460	CODUL-IT		動詞		NIPPON BELPIC	2024/04/04		～という模様を([jo])に彫る	sodues celti'ao'i fhasfa'c	sodu + *-l- + -IT.pmcf			
 6470	CUC		名詞		NIPPON BELPIC	2024/04/04		練ったもの、ペースト	orklerl, jacamalainon orklerl	stuc			
 6480	LULE		名詞		NIPPON BELPIC	2024/04/04		学者	lberger, lena	-lyr + -l- + -er			
 6490	MELO		名詞		NIPPON BELPIC	2024/04/04		剣	（左に同じ）	melo			
@@ -664,7 +667,7 @@
 6580	E NULOP		動詞		NIPPON BELPIC	2024/04/04		北である	lales e'i nulova'l	nulov			
 6590	E BINET		動詞		NIPPON BELPIC	2024/04/04		西である	lales e'i vinede'l	vined			
 6600	PUCLA		名詞		NIPPON BELPIC	2024/04/04		目線	（左に同じ）	fyrstla			
-6610	E AKLOT		動詞		NIPPON BELPIC	2024/04/04		(JO)～から逃れる、避ける	malefikina	aklot			
+6610	E AKLOT		動詞		NIPPON BELPIC	2024/04/04		([JO])～から逃れる、避ける	malefikina	aklot			
 6620	CETILE		名詞		NIPPON BELPIC	2024/04/05		角、隅	（左に同じ）	cetirle			
 6630	BATTA		名詞		NIPPON BELPIC	2024/04/08		味	doisnerl	bhattá.bt			
 6640	E BATTAPANKA		動詞		NIPPON BELPIC	2024/04/08		美味である	doisn	BATTA.pmcf + PANKA.pmcf			
@@ -678,7 +681,9 @@
 6720	CELUP		名詞		NIPPON BELPIC	2024/04/12		肩	（左に同じ）	stieluv			
 6730	E TIPECEN		動詞		NIPPON BELPIC	2024/04/12		斜めである	（左に同じ）	tipesen			
 6740	COLO-IT		動詞		NIPPON BELPIC	2024/04/12		投げる、投擲する	（左に同じ）	coloj / soloj			
+6745	COJO-IT		動詞		NIPPON BELPIC	2024/04/12		投げる、投擲する	（左に同じ）	coloj / soloj			
 6750	E LOC		動詞		NIPPON BELPIC	2024/04/12		立つ	ta	losu.ar			
+6755	LEPOP		名詞		NIPPON BELPIC	2024/04/12		足	（左に同じ）	liepop			
 6760	LOPOP		名詞		NIPPON BELPIC	2024/04/12		足	（左に同じ）	liepop			
 6770	LOPTAIPE-IT		動詞		NIPPON BELPIC	2024/04/12		巻く	ifie	roft + -a- + -r- + ifie			
 6780	CIKECEN		名詞		NIPPON BELPIC	2024/04/12		端、終点	（左に同じ）	stikiesn			
@@ -786,34 +791,34 @@
 7800	eckijacil		名詞		AIL MO LETI CEP			広報	larkaso	ECKI.pmcf + acirl「新聞」			tudeit N leti eckijacilで「Nの広報を行う」
 7810	abelip		名詞		AIL MO LETI CEP			展示	arvelib, avarpecve	arvelib			
 7820	abelipit		動詞		AIL MO LETI CEP			展示する	karse arvelib adit sodu, kranti'e lartassa'c	arvelib			
-7830	MAKATI		名詞		アイル共和国行政区画			天神、マカティ		makati			
-7840	KUWAKE		名詞		アイル共和国行政区画			筆処、クワケ		kua2 hue			
-7850	KAUNA		名詞		アイル共和国行政区画			刀水、カウナ		gau2 nua2.pk			
-7860	MAWALA		名詞		アイル共和国行政区画			草地、マワラ		flarvhaal			
-7870	TAUPO		名詞		アイル共和国行政区画			端、タウポ		taupwo.ar			
-7880	NUMAMA		名詞		アイル共和国行政区画			大守処、ヌママ		numa -ma			
-7890	KITAITUWA		名詞		アイル共和国行政区画			百果、キタイトゥワ		kita itua.ar			
-7900	PUTOKI		名詞		アイル共和国行政区画			真友、プトキ		puto ohi.ar			
-7910	IATUKIJA		名詞		アイル共和国行政区画			冬心、ヤツキヤ		jatu hiya.ar			
-7920	XIWAIZA		名詞		アイル共和国行政区画			裁将広、シワイツァ		shwaithija			
-7930	BANNIN		名詞		アイル共和国行政区画			闇族、バンニン		ban2 nim2.pk			
-7940	MITUWA		名詞		アイル共和国行政区画			十果、ミトゥワ		miht tuah.opk			
-7950	KIJACIJA		名詞		アイル共和国行政区画			心古、キヤシヤ		hia1 sia1.pk			
-7960	LAMOI		名詞		アイル共和国行政区画			享、ラモイ		RAvvPŊOY.lin			
-7970	KAIPPE		名詞		アイル共和国行政区画			助処、カイッペ		gaisfie.vef			
-7980	POKIA		名詞		アイル共和国行政区画			道古、ポキヤ		paugat.vef			
-7990	ALINODIJA		名詞		アイル共和国行政区画			水神、アリノディヤ		alinaudes.vef			
-8000	INUCALITA		名詞		アイル共和国行政区画			川入、イヌサリタ		inuci a nita.tk			
-8010	INUCENA		名詞		アイル共和国行政区画			川生、イヌセナ		inuci a jana.tk			
-8020	NAUNILI		名詞		アイル共和国行政区画			刺、ナウニリ		naunil-			
-8030	TANUT		名詞		アイル共和国行政区画			皇下、タヌト		tam2 ut2.pk			
-8040	MIKLU		名詞		アイル共和国行政区画			橋鳥、ミクル		miklurl (niv jexi'ert)			
+7830	MAKATI		名詞		アイル共和国行政区画			マカティ【天神】（都市名）		makati		天神	
+7840	KUWAKE		名詞		アイル共和国行政区画			クワケ【筆処】（都市名）		kua2 hue		筆処	
+7850	KAUNA		名詞		アイル共和国行政区画			カウナ【刀水】（都市名）		gau2 nua2.pk		刀水	
+7860	MAWALA		名詞		アイル共和国行政区画			マワラ【草地】（都市名）		flarvhaal		草地	
+7870	TAUPO		名詞		アイル共和国行政区画			タウポ【端】（都市名）		taupwo.ar		端	
+7880	NUMAMA		名詞		アイル共和国行政区画			ヌママ【大守処】（都市名）		numa -ma		大守処	
+7890	KITAITUWA		名詞		アイル共和国行政区画			キタイトゥワ【百果】（都市名）		kita itua.ar		百果	
+7900	PUTOKI		名詞		アイル共和国行政区画			プトキ【真友】（都市名）		puto ohi.ar		真友	
+7910	IATUKIJA		名詞		アイル共和国行政区画			ヤツキヤ【冬心】（都市名）		jatu hiya.ar		冬心	
+7920	XIWAIZA		名詞		アイル共和国行政区画			シワイツァ【裁将広】（都市名）		shwaithija		裁将広	
+7930	BANNIN		名詞		アイル共和国行政区画			バンニン【闇族】（都市名）		ban2 nim2.pk		闇族	
+7940	MITUWA		名詞		アイル共和国行政区画			ミトゥワ【十果】（都市名）		miht tuah.opk		十果	
+7950	KIJACIJA		名詞		アイル共和国行政区画			キヤシヤ【心古】（都市名）		hia1 sia1.pk		心古	
+7960	LAMOI		名詞		アイル共和国行政区画			ラモイ【享】（都市名）		RAvvPŊOY.lin		享	
+7970	KAIPPE		名詞		アイル共和国行政区画			カイッペ【助処】（都市名）		gaisfie.vef		助処	
+7980	POKIA		名詞		アイル共和国行政区画			ポキヤ【道古】（都市名）		paugat.vef		道古	
+7990	ALINODIJA		名詞		アイル共和国行政区画			アリノディヤ【水神】（都市名）		alinaudes.vef		水神	
+8000	INUCALITA		名詞		アイル共和国行政区画			イヌサリタ【川入】（都市名）		inuci a nita.tk		川入	
+8010	INUCENA		名詞		アイル共和国行政区画			イヌセナ【川生】（都市名）		inuci a jana.tk		川生	
+8020	NAUNILI		名詞		アイル共和国行政区画			ナウニリ【刺】（都市名）		naunil-		刺	
+8030	TANUT		名詞		アイル共和国行政区画			タヌト【皇下】（都市名）		tam2 ut2.pk		皇下	
+8040	MIKLU		名詞		アイル共和国行政区画			ミクル【橋鳥】（都市名）		miklurl (niv jexi'ert)		橋鳥	
 8050	letok		名詞					列車	（左に同じ）	retok			
 8060	e nenul		動詞					[e nenul tude]（車や乗り物に）乗る、[e nenul kije]（車や乗り物から）降りる	nienul [tude], nienulins [kije]	nienul			
 	e pac		動詞					始まる	（左に同じ）	fas			
 	pac		名詞					始まり	fasso	fas			
 	cawakit		動詞					（どんぐりなどを）渋抜きする、（文章を）読みやすく整える	banersavakh (knloanerle'd vergerl), ycax (krandiurg fontolan)	banersavakh			
-	nincetkaik		名詞					紙机戦		nin1 cet2 kaik.pk			
+	nincetkaik		名詞					紙机戦		nin1 cet2 kaik.pk		紙机戦	
 	dije		名詞		我々の遊戯-text			手番					
 	bepok		名詞					同色、同色役	la dejixece	bap pok.pmcf 			
 	anzo		名詞					0.1、10 分の 1					
@@ -845,9 +850,25 @@
 	cupoicet		名詞					森	cyfoi, aporie	cupoi.pmcp + cet.pmcp			
 	bixi		名詞					父	（左に同じ）	vixij			
 	cutapijot		名詞					箱	（左に同じ）	stafiort			
-	pebuc		名詞					黄色	（左に同じ）	pewust			
+	pebuc		名詞		LAUZAIT-CEPルールブック			黄色	（左に同じ）	pewust			
+	konal		名詞		LAUZAIT-CEPルールブック	2024/06/24		橋	（左に同じ）	qornalc			
+	latacela		名詞		LAUZAIT-CEPルールブック	2024/06/30		（人による）組織	alarta	lata.pmcp + cela.pmcp			
+	e nudindun		動詞		LAUZAIT-CEPルールブック			整っている	ny feti'anasch	nu-.pmcp + dindun.pmcp			
 	PEKANPE		名詞		筆兵無傾AdC2024広報処コメント			技術	（左に同じ）	ferkaanfi'ero			
 	NENEC-IT		動詞		筆兵無傾AdC2024広報処コメント			送信する	（左に同じ）	nienex			これはNENEX-ITにするか悩みどころ、多分他動詞でしか使わないし
 	ACILAN		名詞		筆兵無傾AdC2024広報処コメント			情報	（左に同じ）	acirlan			
 	E NUXALE		動詞		筆兵無傾AdC2024広報処コメント			似ていない、大きく異なる	stes niv e'i, es niv xaleerl	NU-.pmcp + XALE.pmcp			
 	JEXET-IT		動詞		筆兵無傾AdC2024広報処コメント			明らかにする	（左に同じ）	jexi'ertes			JEXET < jexi'ert.lip「証拠」は既にある
+	nanala		名詞					ナナラ【静水】（行政区画名）		na.tk【静】+ nala.tk【水】		静水	
+	polakaika		名詞		「我々の文化」3			ポラカイカ【羊戦】（地名）		pola.ar + kaika.ar		羊戦	
+	e nukilpanka		動詞		「我々の文化」3			幸せである	es fartonar	nukil.pmcp + panka.pmcp			
+	metioliju		名詞		「我々の文化」3			考古学	（左に同じ）	metiolyr			
+	e lijowel		動詞		LAUZAIT-CEPルールブック			大いに注意すべきである	（左に同じ）	liorwel			e liowel の異綴り。
+	duc-it		動詞		LAUZAIT-CEPルールブック			[或 ducit 或 untik]～は([jo])を後悔する	es lypit fua	(niv jexi'ert) jol melses "des" lineparine'dy			
+	tujecen		名詞		虎新聞			（暦の）月	（左に同じ）	stujesn			
+	ticotlata		名詞		レヴェン・法・タムツイ			思想家	latirnover	ticot.pmcp + lata.pmcp			
+	lijulata		名詞		「我々の文化」3			学者	lberger, lena	liju.pmcp + lata.pmcp			
+	e axe		動詞		NIPPON BELPIC			横切る、渡る	（左に同じ）	axe			
+	xenka-leti		動詞		虎新聞			7個の	（左に同じ）	xenqa		七	xenleti の異形態。
+	cijujuctel-it		動詞		我々の遊戯			集める、収集する	（左に同じ）	cierjustel e'i			
+	e letli		動詞		ゲムマ2024秋広報処コメント			紡績する；（糸が布に）交じる	letly, (etulyo's) azarlia (fal jeteulyo)	letly	紡ぐ、糸にする		

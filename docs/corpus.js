@@ -13024,14 +13024,14 @@ const CORPUS = [
         "source": "虎新聞（港拡張）",
         "pmcp": "\"celajumuc e lucuc jo ka pi lata leti kile leti kin jol e tude jo dukaleti jo xep.",
         "direct_ja": "",
-        "ja": "「工事がこれまでに終われば、同じ時間での来航者の数は最高でこれまでの3倍になるでしょう。",
+        "ja": "「工事がこれまでに終われば、来航者の数はこれまでの3倍になるでしょう。",
         "en": ""
     },
     {
         "source": "虎新聞（港拡張）",
         "pmcp": "inimoc it tude-kile leti cucen jol e tude jo nokaleti jo xep.\".",
         "direct_ja": "",
-        "ja": "同じ時間で動く荷物の数は最高でこれまでの5倍になるでしょう」",
+        "ja": "行き来する荷物の重量はこれまでの5倍になるでしょう」",
         "en": ""
     },
     {
@@ -13995,7 +13995,7 @@ const CORPUS = [
     },
     {
         "source": "LAUZAIT-CEPルールブック",
-        "pmcp": "lapimeti cet",
+        "pmcp": "lapimete cet",
         "direct_ja": "",
         "ja": "専門家委員会",
         "en": ""
