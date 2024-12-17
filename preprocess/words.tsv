@@ -499,7 +499,7 @@
 4910	PAMEC-IT		動詞		我々の遊戯-text	2023/04/29		〜を許可する、〜を許す	（左に同じ）	farmes			
 4920	JUCNE		名詞		我々の遊戯-text	2023/04/29		度量衡の単位	（左に同じ）	jysnej			
 4930	TECNOK		名詞		我々の遊戯-text	2023/04/29		右	（左に同じ）	tesnok			
-4940	ZELENA		名詞		我々の遊戯-text	2023/04/30		階級、強弱、[値LETI ZELENA] N番目	elme, lasnej, late	zelerna	境遇、経緯、状況		
+4940	ZELENA		名詞		我々の遊戯-text	2023/04/30		階級、強弱、[値leti zelena] N番目	elme, lasnej, late	zelerna	境遇、経緯、状況		
 4950	E DELEJE		動詞		我々の遊戯-text	2023/04/30		引き分けの	（左に同じ）	deleje			
 4960	E CIKINA		動詞		我々の遊戯-text	2023/04/30		（困難を）避ける	（左に同じ）	cikina			
 4970	CUTEWEN		形容詞		我々の遊戯-text	2023/04/30		平らな	（左に同じ）	stlerven			
@@ -667,7 +667,7 @@
 6580	E NULOP		動詞		NIPPON BELPIC	2024/04/04		北である	lales e'i nulova'l	nulov			
 6590	E BINET		動詞		NIPPON BELPIC	2024/04/04		西である	lales e'i vinede'l	vined			
 6600	PUCLA		名詞		NIPPON BELPIC	2024/04/04		目線	（左に同じ）	fyrstla			
-6610	E AKLOT		動詞		NIPPON BELPIC	2024/04/04		([JO])～から逃れる、避ける	malefikina	aklot			
+6610	E AKLOT		動詞		NIPPON BELPIC	2024/04/04		([jo])～から逃れる、避ける	malefikina	aklot			
 6620	CETILE		名詞		NIPPON BELPIC	2024/04/05		角、隅	（左に同じ）	cetirle			
 6630	BATTA		名詞		NIPPON BELPIC	2024/04/08		味	doisnerl	bhattá.bt			
 6640	E BATTAPANKA		動詞		NIPPON BELPIC	2024/04/08		美味である	doisn	BATTA.pmcf + PANKA.pmcf			
@@ -725,9 +725,9 @@
 7140	E LOPTA		動詞		NIPPON BELPIC	2024/04/20		回る	roft	roft + -a-	回す		
 7150	DIZEN		名詞		NIPPON BELPIC	2024/04/20		感情	（左に同じ）	disien			
 7160	TUNI		名詞		NIPPON BELPIC	2024/04/20		予定、計画	aziurg	tunii.ar	予定する		（TONI「神」とひっかけた何らかの修辞がありそう）
-7170	TIJUNA		名詞		NIPPON BELPIC	2024/04/20		左	restut	tiuna.ar	左		
+7170	TIJUNA		名詞		NIPPON BELPIC	2024/04/20		左	restut	tiuna.ar		左	
 7180	MAKINA		名詞		NIPPON BELPIC	2024/04/20		音楽	niesnu	makina.ar	音楽		
-7190	MALCA		名詞		NIPPON BELPIC	2024/04/20		母	（左に同じ）	malca	母		
+7190	MALCA		名詞		NIPPON BELPIC	2024/04/20		母	（左に同じ）	malca		母	
 7200	NETALE		名詞		NIPPON BELPIC	2024/04/20		郵便、手紙	sniertarle, sneest	sniertarle	郵便、宅配		
 7210	PITAXI-LETI		動詞		NIPPON BELPIC	2024/04/20		狡猾な（語源不詳）	yst nutines	(niv jexi'ert)			
 7220	e DINDUN		動詞		NIPPON BELPIC	2024/04/20		ごちゃごちゃ	feti'anasch	(niv jexi'ert) jol melses "tern tern" pergvirle'dy			混ざっている様子を表すオノマトペ（ten1 ten1との関連？）
@@ -876,3 +876,10 @@
 	ditije		名詞		ゲムマ2024秋広報処コメント			社会	（左に同じ）	ditier			
 	e cecpa		動詞		ゲムマ2024秋広報処コメント			ギッシリ詰まっている、一杯に詰まっている	（左に同じ）	sexpar			
 	nacilukup		名詞		ゲムマ2024秋広報処コメント			売り文句、キャッチコピー	garcirlkurferl, fueqecifia krandiurgu'dy	ngaci.ar + lukup.pmcp			
+	lawa		名詞		我々の遊戯-text			年齢、年齢層、世代	larva, sliejs fon larva	larva			
+	nenulel		名詞		我々の遊戯-text			乗り物	（左に同じ）	nienulel			
+	malce		名詞		NIPPON BELPIC			母	（左に同じ）	malca		母	
+	penen		名詞		LAUZAIT-CEPルールブック			準備	（左に同じ）	farnen			語形は、perne「座る、着席する」との混交によるもの。
+	denopoc		名詞		NIPPON BELPIC			条件	（左に同じ）	dhenefos			
+	lictet		名詞		LAUZAIT-CEPルールブック			瞳；点（ドット）	fiursen listet, larl	listet			
+	e nucuc		動詞					位置が低い、地位が低い	（左に同じ）	ny stys			
