@@ -1,23 +1,23 @@
---2024-12-18 01:15:43--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=0
-Resolving docs.google.com (docs.google.com)... 142.250.196.110
-Connecting to docs.google.com (docs.google.com)|142.250.196.110|:443... connected.
+--2024-12-18 01:47:49--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=0
+Resolving docs.google.com (docs.google.com)... 172.217.175.14
+Connecting to docs.google.com (docs.google.com)|172.217.175.14|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/58fnniff4gvml8q3ac6660on9g/1734452145000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0 [following]
+Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/jdcvinkbo9epv9qs0t35eg4skc/1734454070000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0 [following]
 Warning: wildcards not supported in HTTP.
---2024-12-18 01:15:43--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/58fnniff4gvml8q3ac6660on9g/1734452145000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0
-Resolving doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)... 142.251.42.129
-Connecting to doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|142.251.42.129|:443... connected.
+--2024-12-18 01:47:49--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/jdcvinkbo9epv9qs0t35eg4skc/1734454070000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0
+Resolving doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)... 142.251.42.193
+Connecting to doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|142.251.42.193|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘./preprocess/corpus.tsv’
 
-     0K .......... .......... .......... .......... .......... 2.22M
-    50K .......... .......... .......... .......... .......... 4.17M
-   100K .......... .......... .......... .......... .......... 7.34M
-   150K .......... .......... .......... .......... .......... 1.09M
-   200K .......... .......... .......... .......... .......... 1.25M
-   250K .......... .......... .......... .......... ..........  111M
-   300K .......... .......... ....                              111M=0.1s
+     0K .......... .......... .......... .......... .......... 3.20M
+    50K .......... .......... .......... .......... .......... 1.45M
+   100K .......... .......... .......... .......... .......... 51.8M
+   150K .......... .......... .......... .......... .......... 1.73M
+   200K .......... .......... .......... .......... .......... 2.20M
+   250K .......... .......... .......... .......... .......... 9.66M
+   300K .......... .......... ....                             5.40M=0.1s
 
-2024-12-18 01:15:44 (2.55 MB/s) - ‘./preprocess/corpus.tsv’ saved [332792]
+2024-12-18 01:47:50 (2.88 MB/s) - ‘./preprocess/corpus.tsv’ saved [332792]
 
