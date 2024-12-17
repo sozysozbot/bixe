@@ -212,9 +212,11 @@ function tokenize(full_text) {
     ans.push({ kind: "eof", content: "" });
     return ans;
 }
+const IGNORE_LIST = ["nippon", "waka", "dxanken", "gemu", "maketo", "tataite", "kabutte", "gijoku", "cugoloku", "ximonoku", "ni", "hu", "xogi", "koma", "jakunin", "icxu", "ginkaku", "tolihuda", "nijokki", "dxankenpon", "kecolin", "haxidate", "dxan", "dxu", "jomihuda", "kandxi", "adbent", "kalenda", "kaminoku", "uzi", "sume", "hihu", "ogijoku", "kolomode", "phonc", "kacolin", "kijaculingu", "anpaccan", "pulomoxon", "kuwin", "kingu", "hohe", "naligin", "caixowa", "kakinomoto", "hitomalo", "axibiki", "jacuhide", "ikunonomizi", "nalikijo", "kakugijo", "bixoppu", "puwamouxan", "aikodexo", "nijokkikki", "jamakase", "gijokuxo", "kijoto", "humi", "misu", "ginxo", "ikuno", "kijoxa", "ooejama", "ogula"];
 function count_highlightable(cutoff = 20) {
     const ok = [];
     const not_ok = [];
+    const ignored = [];
     for (const item of corpus_new_to_old) {
         const { pmcp: pmcp_text } = item;
         const tokens = tokenize(pmcp_text);
@@ -224,6 +226,9 @@ function count_highlightable(cutoff = 20) {
                 if (query_res.kind === "ok") {
                     ok.push(tok.content);
                 }
+                else if (IGNORE_LIST.includes(tok.content)) {
+                    ignored.push(tok.content);
+                }
                 else {
                     not_ok.push(tok.content);
                 }
@@ -232,16 +237,19 @@ function count_highlightable(cutoff = 20) {
     }
     const highlightable_uniq = new Set(ok);
     const non_highlightable_uniq = new Set(not_ok);
+    const ignored_uniq = new Set(ignored);
     const counted = [...not_ok.reduce((count, cur) => (count.set(cur, (count.get(cur) || 0) + 1), count), new Map())];
     counted.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
+    const non_uniq_total = ok.length + not_ok.length + ignored.length;
+    const uniq_total = highlightable_uniq.size + non_highlightable_uniq.size + ignored_uniq.size;
     return `
-    highlightable (not uniq): ${ok.length}
-non-highlightable (not uniq): ${not_ok.length}
-    percentage    (not uniq): ${(ok.length / (ok.length + not_ok.length) * 100).toPrecision(4)}%
+    highlightable (not uniq): ${ok.length}; ${(ok.length / non_uniq_total * 100).toPrecision(4)}%
+non-highlightable (not uniq): ${not_ok.length}; ${(not_ok.length / non_uniq_total * 100).toPrecision(4)}%
+    ignored       (not uniq): ${ignored.length}; ${(ignored.length / non_uniq_total * 100).toPrecision(4)}%
 
-    highlightable (uniq): ${highlightable_uniq.size}
-non-highlightable (uniq): ${non_highlightable_uniq.size}
-    percentage    (uniq): ${(highlightable_uniq.size / (highlightable_uniq.size + non_highlightable_uniq.size) * 100).toPrecision(4)}%
+    highlightable (uniq): ${highlightable_uniq.size}; ${(highlightable_uniq.size / uniq_total * 100).toPrecision(4)}%
+non-highlightable (uniq): ${non_highlightable_uniq.size}; ${(non_highlightable_uniq.size / uniq_total * 100).toPrecision(4)}%
+    ignored       (uniq): ${ignored_uniq.size}; ${(ignored_uniq.size / uniq_total * 100).toPrecision(4)}%
     
 top-tier non-highlightable: ${JSON.stringify(counted.slice(0, cutoff))}
 `;
