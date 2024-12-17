@@ -9864,6 +9864,2904 @@ const CORPUS = [
         "en": ""
     },
     {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo pac",
+        "direct_ja": "",
+        "ja": "はじめに",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nole cetleti belpic mol jo nippon.",
+        "direct_ja": "",
+        "ja": "いま、日本には多くの遊びがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo penulleti nole kileleti belpic mol.",
+        "direct_ja": "",
+        "ja": "悠久の時を超えてきた遊びがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo dutucunleti nole lata lauzait leti belpic mol.",
+        "direct_ja": "",
+        "ja": "近頃になって人が作った遊びがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo waxecleti mo at icco kileleti belpic mol.",
+        "direct_ja": "",
+        "ja": "別の文化と国から来た遊びがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "penulleti belpic at dutucunleti belpic lauzait nippon mo pi cetleti lata belpicit cetleti belpic.",
+        "direct_ja": "",
+        "ja": "古い遊びと新しい遊びが日本の文化を作っていて、多くの人が多くの遊びを行っている。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, lata cet nip kanteit kaleti cetleti belpic jo pemecepe lukup.",
+        "direct_ja": "",
+        "ja": "しかし、人々はこれらの多くの遊びを東島通商語や他の我々の言語で書かない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nole at nalu mi cet kanteit kije nippon kulante pi lauzait  \"言将遊術 nippon belpic\".",
+        "direct_ja": "",
+        "ja": "いまこの理由で、我々は日本の本を読み、「日本の遊戯」を作る。この本では、私たちは日本の遊戯を書き記す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti kulante mi cet kanteit tude nippon leti belpic. metica, aucleti lata lecu tatait kaleti pankaleti cetleti mo.",
+        "direct_ja": "",
+        "ja": "皆さん、この良き多くの文化を楽しもう。きっと楽しむはずだ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nippon cetkaik leti latacet",
+        "direct_ja": "",
+        "ja": "日本机戦連盟",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "melpetal",
+        "direct_ja": "",
+        "ja": "もくじ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "躍体之遊    3",
+        "direct_ja": "",
+        "ja": "体を瞬発的に動かして勝敗を決める遊び    3",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- dxanken    3",
+        "direct_ja": "",
+        "ja": "- ジャンケン    3",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- tataite-kabutte-dxankenpon    3",
+        "direct_ja": "",
+        "ja": "- タタイテ・カブッテ・ジャンケンポン    3",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- takenoko-nijokki    3",
+        "direct_ja": "",
+        "ja": "- タケノコ・ニヨッキ    3",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "dutucunleti lot e kile pi dicnelet e nejuc pi lata belpicit ka    3",
+        "direct_ja": "",
+        "ja": "新たな年が来て親戚が集まるとき人々はこれを遊ぶ    3",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- cugoloku    4",
+        "direct_ja": "",
+        "ja": "- スゴロク    4",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- koma    7",
+        "direct_ja": "",
+        "ja": "- コマ    7",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- jakunin-icxu    8",
+        "direct_ja": "",
+        "ja": "- ヤクニン・イスシュ    8",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "mele jo cetkaik leti belpic    ?2",
+        "direct_ja": "",
+        "ja": "【机戦】のような遊び    12",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- kijoto-ginkaku-xogi    ?2",
+        "direct_ja": "",
+        "ja": "- キヨト・ギンカク・ショギ    12",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- xogi    ?3",
+        "direct_ja": "",
+        "ja": "- ショギ    13",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- zec    ?4",
+        "direct_ja": "",
+        "ja": "- チェス    14",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "躍体之遊",
+        "direct_ja": "",
+        "ja": "体を瞬発的に動かして勝敗を決める遊び",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "dxanken",
+        "direct_ja": "",
+        "ja": "ジャンケン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo pac it belpic leti nole, mi cet doktit xiju pi iceit panxenco pi tectelit pac it belpic leti lata. pi, lata cet nip lucit xiju jo nippon. nippon lata lucit ledut.",
+        "direct_ja": "",
+        "ja": "遊戯を始めるとき、我々は投げ棒を投げて、ランダムな数を得て、先攻を決める。しかし、日本では人々は投げ棒を用いない。日本の人は手を使う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "toxa molkait cectil pi cectil molkait tidip pi tidip molkait toxa. kaleti penulleti lukup-lukup mol jo nippon.",
+        "direct_ja": "",
+        "ja": "「石がハサミを打ち倒し、ハサミが紙を打ち倒し、紙が石を打ち倒した」。こんな古い説話が日本にはある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nippon lata cet lucit kaleti penulleti lukup-lukup pi tectelit pac it belpic leti lata.",
+        "direct_ja": "",
+        "ja": "日本の人々はこの説話を使って先攻を決める。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lata cet it kame?",
+        "direct_ja": "",
+        "ja": "人々はなにをするのか？",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "1. lata cet lukupit \"caixowa\". jo nippon lukup \"caixowa\" leti kantel e \"pac e\".",
+        "direct_ja": "",
+        "ja": "1. 人々は「サイショワ」と言う。日本語では、「サイショワ」の意味は「最初は」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "2. lata cet lukupit \"gu\" no lata cet lauzait xobejel jo panleti ledut. 1pekaleti pontaloexo lenit tude jo lakla pi amolit xobejel jo lakla leti ponto.",
+        "direct_ja": "",
+        "ja": "2. 人々は「グ」と言いながら片手でこぶしを作る。胸からおよそ 1 フォンタローエシュ離して胸の前にこぶしを配置する。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "3. lata cet lukupit \"dxan\" no, e xobejel e tude jo launza.",
+        "direct_ja": "",
+        "ja": "3. 人々は「ジャン」と言いながら、こぶしを下に移動させる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "4. lata cet lukupit \"ken\" no, tudeit xobejel jo lape pi dokit jo pexe.",
+        "direct_ja": "",
+        "ja": "4. 人々は「ケン」と言いながら、こぶしを持ち上げて後ろに引っ張る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "5. lata cet lukupit \"pon\" no, etexon tudeit dokit leti xobejel jo lakla leti ponto.",
+        "direct_ja": "",
+        "ja": "5. 人々は「ポン」と言いながら、引っ張ったこぶしを、胸の前の位置に素早く移動させる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lata cet tudeit xobejel no, etexon tectelit",
+        "direct_ja": "",
+        "ja": "その移動の最中に、素早く選ぶ：",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- ledut e xobejel nat (toxa leti ledut)",
+        "direct_ja": "",
+        "ja": "- 手が引き続きこぶしである（石の手）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- pankijait kenulexut at inpikac pi nip pankijait etleti lexut (cectil leti ledut)",
+        "direct_ja": "",
+        "ja": "- 人差し指と中指を伸ばし、他の指を伸ばさない（ハサミの手）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- pankijait aucleti lexut pi lenit tude lexut cet jo micca (tidip leti ledut)",
+        "direct_ja": "",
+        "ja": "- 全ての指を伸ばし、指どうしを互いに離す（紙の手）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "leti panleti.",
+        "direct_ja": "",
+        "ja": "のどれか 1 つを。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "6. lata cet leti ledut leti cepat e makleti pi, lucit penulleti lukup-lukup pi kaditepit jo tokecce at kada lata cet pi dxanken e lucuc.",
+        "direct_ja": "",
+        "ja": "6. 人々の手の種類が 2 つであれば、古い説話に基づいて勝ち組と負け組たちに二分し、じゃんけんが終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "doktit xiju pi xileja leti kin e nuwaxec. jo kaleti nole mi cet mak doktit xiju. it dxanken pi ledut leti cepat nip e makleti. jo kaleti nole nippon lata cet mak it dxanken.",
+        "direct_ja": "",
+        "ja": "投げ棒を投げてオモテの数が同じである、そんなときは我々は再び投げ棒を投げる。じゃんけんをして手の種類が 2 つではない、そんなときは日本の人々は再びじゃんけんをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ledut leti cepat nip e makleti e \"aiko\" jo nippon lukup.",
+        "direct_ja": "",
+        "ja": "手の種類が 2 つではないことを、日本語で「アイコ」という。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "e aiko pi jo kaleti launza leti nole \"dxan\" at \"ken\" at \"pon\" tude jo \"ai\" at \"kode\" at \"xo\" pi mak it dxanken.",
+        "direct_ja": "",
+        "ja": "アイコであれば、そのあとは「ジャン」と「ケン」と「ポン」が「アイ」と「コデ」と「ショ」になり、再びじゃんけんをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo nippon lukup \"dexo\" cene letit \"jol e\" leti kantel. \"aikodexo\" jol e kile jo ka.",
+        "direct_ja": "",
+        "ja": "日本語において「デショ」は「きっと～であるのだろう」という意味を表すことができる。「アイコデショ」はここから来るものかもしれない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "toxa leti ledut leti alailen e \"gu\".",
+        "direct_ja": "",
+        "ja": "石の手の名は「グ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cectil leti ledut leti alailen e \"zoki\".",
+        "direct_ja": "",
+        "ja": "ハサミの手の名は「チョキ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tidip leti ledut leti alailen e \"pa\".",
+        "direct_ja": "",
+        "ja": "紙の手の名は「パ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "mi cet at nippon lijulata cet nip ticotit kije alailen leti nalu.",
+        "direct_ja": "",
+        "ja": "我々も日本の学者たちも名前の理由を知らない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo cectil leti ledut lata cene pankijait xeplexut pi nip pankijait inpikac. pi, jo kaleti nole it ka leti lata leti kin e nuxep.",
+        "direct_ja": "",
+        "ja": "ハサミの手で、親指を伸ばして中指を伸ばさないこともできる。しかし、今はそうする人の数は少ない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tataite-kabutte-dxankenpon",
+        "direct_ja": "",
+        "ja": "タタイテ・カブッテ・ジャンケンポン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cetleti belpic lucit dxanken.",
+        "direct_ja": "",
+        "ja": "じゃんけんは多くの遊びで用いられる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lucit dxanken at zanta at taciku leti belpic mol.",
+        "direct_ja": "",
+        "ja": "じゃんけんと武器と防具を使うゲームがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti belpic leti alailen e \"tataite-kabutte-dxankenpon\".",
+        "direct_ja": "",
+        "ja": "そのゲームの名前は「たたいて・かぶって・ジャンケンポン」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zanta e aciltidip.",
+        "direct_ja": "",
+        "ja": "武器は、新聞紙である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "loptaipeit aciltidip pi lucit ka jo melo.",
+        "direct_ja": "",
+        "ja": "新聞紙を巻いて、それを剣として用いる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lucit ka pi doktit lata pi, melo nip e nuwot pi nip lizit lata.",
+        "direct_ja": "",
+        "ja": "これを使って人を叩くと、剣は壊れず、人も傷つけない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nalu, kaleti zanta e pankaleti jo belpic.",
+        "direct_ja": "",
+        "ja": "よって、この武器は遊びにおいて優れている。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "taciku e dijunamul.",
+        "direct_ja": "",
+        "ja": "防具は、ヘルメットである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cene lucit nucilaleti dijunamul.",
+        "direct_ja": "",
+        "ja": "偽物のヘルメットを使うこともできる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo nippon lukup \"tataite\" leti kantel e \"doktit pi\". \"kabutte\" leti kantel e \"xaluit jo dijunal pi\".",
+        "direct_ja": "",
+        "ja": "日本語では、「タタイテ」の意味は「たたき、そして」である。「カブッテ」の意味は「頭に着用し、そして」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "2leti lata it kaleti belpic.",
+        "direct_ja": "",
+        "ja": "このゲームは、2 人で行う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo it dxanken leti nole \"dxan\" at \"ken\" at \"pon\" e tude jo \"tataite\" at \"kabutte\" at \"dxanken\" at \"pon\".",
+        "direct_ja": "",
+        "ja": "じゃんけんをするとき、「じゃん」と「けん」と「ぽん」が「たたいて」と「かぶって」と「ジャンケン」と「ポン」となる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "e aiko pi lata cet lukupit \"ai\" at \"kode\" at \"xo\".",
+        "direct_ja": "",
+        "ja": "アイコである場合には、人々は「アイ」と「コデ」と「ショ」を言う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "dxanken e lucuc no lata cet pac e tude pi molkaitleti lata pi letit kije zanta. numolkaitleti lata pi letit kije taciku.",
+        "direct_ja": "",
+        "ja": "じゃんけんが終わると同時に人々は動き始め、勝者は武器を取り、敗者は防具を取る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "molkaitleti lata delu lucit zanta pi doktit numolkaitleti lata leti dijunal.",
+        "direct_ja": "",
+        "ja": "勝者は武器を使って敗者の頭を殴らなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo doktit leti nole taciku molip jo numolkaitleti lata leti dijunal pi doktit leti e tude jo lime leti auc pi belpic e lucuc.",
+        "direct_ja": "",
+        "ja": "殴ったとき、敗者の頭に防具が無ければ、打撃は完遂され、ゲームが終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "doktit leti nip e tude jo lime leti auc pi mak it dxanken. jo kaleti nole late mak lucit \"tataite\" at \"kabutte\" at \"dxanken\" at \"pon\" leti lukup.",
+        "direct_ja": "",
+        "ja": "打撃が完遂されなければ、再びじゃんけんをする。このときは、再び「たたいて」「かぶって」「ジャンケン」「ポン」の言葉を使う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "takenoko-nijokki",
+        "direct_ja": "",
+        "ja": "タケノコ・ニヨッキ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo nippon lukup \"takenoko\" leti kantel e jucti. jo italija lukup \"nijokki\" leti kantel e ebu at dectok leti juce.",
+        "direct_ja": "",
+        "ja": "日本語では、「タケノコ」の意味は「たけのこ」である。イタリア語では、「ニヨッキ」の意味は穀物と芋の団子である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo pac belpicit leti nole, auc leti lata ileceon lukupit \"takenoko-takenoko-nijokkikki\" no, lauzait cil.",
+        "direct_ja": "",
+        "ja": "ゲームを始めるとき、全ての人々は異口同音に「タケノコ・タケノコ・ニヨッキッキ」と言うと同時に、両手合わせを作る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lata leti celene it leti julo e \"lukupit nippon lukup leti kin at nijokki no tudeit cil jo lape.\"",
+        "direct_ja": "",
+        "ja": "人がしたがることは、「日本語の数と『ニヨッキ』を言うと同時に、合わせた両手を上に持ち上げる」。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "auc leti lata celene it ka pi, makleti o dukaleti lata jol ileceon it ka.",
+        "direct_ja": "",
+        "ja": "全ての人がこれをしたいので、2 人や 3 人が異口同音にこれをするかもしれない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nole, ileceon lukupit leti lata numolkait kaleti belpic pi belpic e lucuc.",
+        "direct_ja": "",
+        "ja": "そのときは、異口同音発声者が試合に負け、試合が終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "co nip lukupit nat pi etleti lata leti aucleti lukup e lucuc pi belpic nip e lucuc. jo kaleti nole, co numolkait pi belpic e lucuc.",
+        "direct_ja": "",
+        "ja": "あなたがまだ発声していなくて、他の人の全ての発声が終わって、試合が終わらない。そんなときは、あなたが負け、試合が終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nippon lukup leti kin",
+        "direct_ja": "",
+        "ja": "日本語の数",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "1 e \"izi\". 2 e \"ni\". 3 e \"can\". 4 e \"jon\". 5 e \"go\". 6 e \"loku\". 7 e \"nana\". 8 e \"hazi\". 9 e \"kiju\".",
+        "direct_ja": "",
+        "ja": "1 は「イチ」。2 は「ニ」。3 は「サン」。4 は「ヨン」。5 は「ゴ」。6 は「ロク」。7 は「ナナ」。8 は「ハチ」。9 は「キユ」。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "? e \"dxu\". ?6 e \"dxu-loku\". 23 e \"ni-dxu-can\". 8? e \"hazi-dxu\".",
+        "direct_ja": "",
+        "ja": "10 は「ジュ」。16 は「ジュ・ロク」。23 は「ニ・ジュ・サン」。80 は「ハチ・ジュ」。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "dutucunleti lot e kile pi dicnelet e nejuc pi lata belpicit ka",
+        "direct_ja": "",
+        "ja": "新たな年が来て親戚が集まるとき人々はこれを遊ぶ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cugoloku",
+        "direct_ja": "",
+        "ja": "スゴロク",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cugoloku e xelit kileleti cul leti belpic.",
+        "direct_ja": "",
+        "ja": "すごろくは到達を目指すゲームである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cexexiju",
+        "direct_ja": "",
+        "ja": "立方体ダイス",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nippon lata cet celene iceit panxenco pi nip lucit cutewen xiju. lucit cexexiju.",
+        "direct_ja": "",
+        "ja": "日本の人々が乱数を得たい場合、平らな投げ棒を用いない。立方体ダイスを用いる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nippon cexexiju letit \"1\"--\"6\" leti kin leti cukulal jo cexe leti 6leti ictacleja. cukulal e ka.",
+        "direct_ja": "",
+        "ja": "日本の立方体ダイスは 6 つの面に 1 から 6 の数の絵を持つ。絵は以下のとおりである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "⚀⚁⚂⚃⚄⚅",
+        "direct_ja": "",
+        "ja": "⚀⚁⚂⚃⚄⚅",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "1 leti ictacleja e nijacicen jo \"6\" leti ictacleja.",
+        "direct_ja": "",
+        "ja": "「1」の面は「6」の面と反対側の向きである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "2 leti ictacleja e nijacicen jo \"5\" leti ictacleja.",
+        "direct_ja": "",
+        "ja": "「2」の面は「5」の面と反対側の向きである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "3 leti ictacleja e nijacicen jo \"4\" leti ictacleja.",
+        "direct_ja": "",
+        "ja": "「3」の面は「4」の面と反対側の向きである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nupate, e ka jo auc leti nippon cexexiju.",
+        "direct_ja": "",
+        "ja": "驚くべきことに、日本のすべての立方体ダイスにおいてこうである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nip panit cexexiju leti xepecne.",
+        "direct_ja": "",
+        "ja": "立方体ダイスのサイズは統一されていない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "belpic leti xep pulac",
+        "direct_ja": "",
+        "ja": "ゲームの概要",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cetleti nutok mol jo tidip pi lime mol.",
+        "direct_ja": "",
+        "ja": "紙にマスが多くあり、道がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lucit cexexiju pi iceit panxenco pi tudeit zo.",
+        "direct_ja": "",
+        "ja": "立方体ダイスを使い、乱数を得て、駒を動かす。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "keco, cexexiju lukupit 3 pi 3 e zo leti tudeleti nutok leti kin.",
+        "direct_ja": "",
+        "ja": "たとえば、立方体ダイスが 3 と言えば、3 が駒の移動マス数である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zo leti tudeleti e lucuc pi anpe mol jo nutok pi delu lucit anpe.",
+        "direct_ja": "",
+        "ja": "駒の動きが終了し、マスに効果があれば、効果を発動しなくてはならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nip panit anpe.",
+        "direct_ja": "",
+        "ja": "効果は統一されていない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "keco,",
+        "direct_ja": "",
+        "ja": "たとえば、",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- delu e tude jo 2leti nutok jo ponto",
+        "direct_ja": "",
+        "ja": "- 「2 マス前進せねばならない」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- nip cene belpicit jo 1leti dije",
+        "direct_ja": "",
+        "ja": "- 「1 ターン遊ぶことができない」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- delu e tude jo 5leti nutok jo pexe",
+        "direct_ja": "",
+        "ja": "- 「5 マス後退せねばならない」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "2leti nutok lap mol jo ponto pi cexexiju lukupit \"6\".",
+        "direct_ja": "",
+        "ja": "前に 2 マスのみあり、立方体ダイスが 6 を出した。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nole, lata delu it nijacicen tudeleti.",
+        "direct_ja": "",
+        "ja": "そんなときは、人は引き返しの動きをしなくてはならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cexexiju lukupit \"6\" pi lata delu it 6leti tudeleti.",
+        "direct_ja": "",
+        "ja": "立方体ダイスが 6 を出したので、人は 6 つの移動をしなくてはいけない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, 2leti nutok lap mol jo ponto. jo kaleti nalu, lata delu e tude jo 2leti nutok jo ponto pi delu e tude jo 4leti nutok jo pexe.",
+        "direct_ja": "",
+        "ja": "しかし前に 2 マスのみある。このため、2 マス前に進んで 4 マス後退せねばならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "koma",
+        "direct_ja": "",
+        "ja": "コマ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "koma-no-dotai e cutewen cuwa leti cupoi.",
+        "direct_ja": "",
+        "ja": "「コマ·ノ·ドタイ」は平たい円錐状の木である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "dilit nectelleti ujek leti xedixel jo koma-no-dotai leti cucital pi lauzait \"koma\".",
+        "direct_ja": "",
+        "ja": "コマ·ノ·ドタイの中心に細い金属の棒を刺して「コマ」を作る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo koma leti belpic, lata e koma etexon e lopta pi lata cet pulon xelit ka.",
+        "direct_ja": "",
+        "ja": "コマの遊びにおいて、人はコマを高速で回転させ、人々はこれを眺める。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "belpic leti xep pulac",
+        "direct_ja": "",
+        "ja": "ゲームの概要",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "belpicit kaleti belpic jo 2leti o xep lata.",
+        "direct_ja": "",
+        "ja": "このゲームは2人以上で遊ぶ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lucit nectelleti etolocna.",
+        "direct_ja": "",
+        "ja": "細い紐を使う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "etolocna letit latel jo makleti cikecen.",
+        "direct_ja": "",
+        "ja": "紐は両端に結び目を持つ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lata bawakit cikecen jo xedixel pi cutewen loptaipeit etolocna jo nijacicen leti.",
+        "direct_ja": "",
+        "ja": "棒に結び目を引っ掛けて、反対側に紐を平らに巻く。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "aucleti lata ileceon cojoit tude koma jo cojoleti polto.",
+        "direct_ja": "",
+        "ja": "その後、全員で同時に投げる位置に投げ入れる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cojoit leti cul",
+        "direct_ja": "",
+        "ja": "投げ方",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "1位 lata letit cutewen loptaipeit leti etolocna leti anpilun jo makleti lexut leti cecijo pi ipeit koma jo ledut. jo kaleti nole ledut e ecijen.",
+        "direct_ja": "",
+        "ja": "#1 平らに巻きつけた紐の残りを2本の指の間に持ち、コマを手で包む。この時手は水平になる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "2位 lata e loc pi e lal jo cojoit leti polto.",
+        "direct_ja": "",
+        "ja": "#2 投げる位置に向いて立つ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "3位 ci tudeit lepop jo pexe. kaleti lepop e jo nip letit koma leti ledut mol lal leti.",
+        "direct_ja": "",
+        "ja": "#3 足を後ろに動かす。この足はコマを持っていない手の側のものである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "4位 ci tudeit ledut jo lakla leti panleti at kait leti zo leti ponto. jo kaleti nole ledut leti cucital e celup.",
+        "direct_ja": "",
+        "ja": "#4 胸の 1½ 片ほど前の位置にコマを持った手を引く。このとき腕の中心は肩である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "5位 ci etexon tudeit ledut jo ponto. jo kaleti nole ledut leti cucital e celup.",
+        "direct_ja": "",
+        "ja": "#5 手を素早く前へ動かす。このとき腕の中心は肩である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "6位 ci tudeit ledut no, lenit tude koma jo ledut pi mak etexon tudeit ledut jo lakla leti panleti at kait leti zo leti ponto.",
+        "direct_ja": "",
+        "ja": "#6 腕を動かしながらコマを手から離し、再び腕を胸の 1½片ほど前の位置に素早く腕を引く。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jakunin-icxu",
+        "direct_ja": "",
+        "ja": "ヤクニン・イスシュ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo nippon, \"waka\" leti alailen leti mo mol.",
+        "direct_ja": "",
+        "ja": "日本には、「ワカ」という名の文化がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ka e nippon lukup leti kutbum xale.",
+        "direct_ja": "",
+        "ja": "これは日本語のクッブームのようなものである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, 5leti laiju mol pi",
+        "direct_ja": "",
+        "ja": "しかし、5行からなり、",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- 1 late laiju letit 5leti lunija",
+        "direct_ja": "",
+        "ja": "- 1 行目は 5 拍を持つ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- 2 late laiju letit 7leti lunija",
+        "direct_ja": "",
+        "ja": "- 2 行目は 7 拍を持つ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- 3 late laiju letit 5leti lunija",
+        "direct_ja": "",
+        "ja": "- 3 行目は 5 拍を持つ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- 4 late laiju letit 7leti lunija",
+        "direct_ja": "",
+        "ja": "- 4 行目は 7 拍を持つ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- 5 late laiju letit 7leti lunija",
+        "direct_ja": "",
+        "ja": "- 5 行目は 7 拍を持つ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nippon lata lauzait \"waka\" jo aucleti lawol pi lukupit tude dizen.",
+        "direct_ja": "",
+        "ja": "日本の人々は、あらゆる場面で「ワカ」を詠い、感情を伝える。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nalu, nippon lata xepxelit exeten waka at lauzait exeten waka leti lata.",
+        "direct_ja": "",
+        "ja": "そのため、日本の人々は美しいワカとそれを詠った人々を尊敬している。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "hudxiwala-no-cadaije tectelit cet exeten ⅽ waka jo waka leti zicedol.",
+        "direct_ja": "",
+        "ja": "フジワラ・ノ・サダイイェが、ワカの歴史の中からとても美しい百のワカを選んだ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti alailen e \"ogula-jakunin-icxu\" pi nippon lata nip xelit tidip pi cene lukupit kaleti ⅽ waka leti auc.",
+        "direct_ja": "",
+        "ja": "これをオグラ・ヤクニン・イスシュといい、日本の人々は紙を見ずにこれら百のワカを唱えることができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nippon celun cet lucit \"jakunin-icxu\" leti belpic pi amolit kaleti ⅽ waka jo nukil.",
+        "direct_ja": "",
+        "ja": "日本の子どもたちはヤクニン・イスシュという遊びによってこの百のワカを覚える。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "belpic leti xep pulac",
+        "direct_ja": "",
+        "ja": "ゲームの概要",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti belpic, cectit waka jo kaminoku (kaleti kantel e \"lape leti lukup\") at ximonoku (kaleti kantel e \"launza leti lukup\").",
+        "direct_ja": "",
+        "ja": "この遊びではワカをカミノク（上の言葉という意味）と7拍・7拍のシモノク（下の言葉という意味）に分ける。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaminoku e \"5\"-\"7\"-\"5\" leti lunija pi ximonoku e \"7\"-\"7\" leti lunija.",
+        "direct_ja": "",
+        "ja": "カミノクは5拍・7拍・5拍であり、シモノクは7拍・7拍である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti cukulal e jakunin-icxu leti 3 late \"waka\" leti \"jomihuda\" at \"tolihuda\".",
+        "direct_ja": "",
+        "ja": "この絵は、ヤクニン・イスシュの3番目のワカの「ヨミフダ」と「トリフダ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo jomihuda (lata lukupit leti bapala), 1leti waka leti auc at lauzait waka leti lata leti alailen mol.",
+        "direct_ja": "",
+        "ja": "ヨミフダ（人が発声するカード）には、1 つのワカの全文とワカの作者の名が書かれている。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo tolihuda (lata delu letit leti bapala), waka leti ximonoku mol pi lucit hilagana (e nippon leti lunija leti lujot pi e mele jo takan lata leti etolen lujot).",
+        "direct_ja": "",
+        "ja": "トリフダ（人が取らなければいけないカード）にはワカのシモノクがあり、ヒラガナ（日本語の音節文字でありタカン人の伝統的な文字に似ている）を使う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "canxenit tolihuda jo xinep. jo kaleti nole, lata delu xelit tolihuda leti lujot. letit kije leti lata pekatait canxenit leti tolihuda pi e pene.",
+        "direct_ja": "",
+        "ja": "トリフダを文字が見えるように床にまき散らし、取る担当のプレーヤーは散乱した札を囲んで座る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "1leti lata kanteit kije jomihuda pi lukupit ka. pi, nip lukupit lauzait leti lata leti alailen jo cetleti nole.",
+        "direct_ja": "",
+        "ja": "1人のプレーヤーがヨミフダを読む。ただし、作者の名は読まないことが多い。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lukupit jomihuda leti cul e makina xale.",
+        "direct_ja": "",
+        "ja": "ヨミフダの読みは音楽のようである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nip panit makina.",
+        "direct_ja": "",
+        "ja": "音楽は統一されていない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "keco, makina e ka xale.",
+        "direct_ja": "",
+        "ja": "たとえば、音楽はこのようである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "etexon letit kije jomihuda leti tulai leti tolihuda jo auc pi kackulemeit ka. letit leti lata xelit ka.",
+        "direct_ja": "",
+        "ja": "取る担当のプレーヤーは誰よりも早く対応するトリフダを取り、見せびらかすことを目指す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ka e dije. it ⅽ dije pi tolihuda e tude jo molipleti pi belpic e lucuc.",
+        "direct_ja": "",
+        "ja": "これが手番である。100 個の手番を行って取り札がなくなったら試合が終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jakunin-icxu leti waka leti lacila",
+        "direct_ja": "",
+        "ja": "ヤクニン・イスシュのワカの実例",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "4leti waka at kantel e ka.",
+        "direct_ja": "",
+        "ja": "4 つのワカとその意味がこちら。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jakunin-icxu leti 1 late",
+        "direct_ja": "",
+        "ja": "ヤクニン・イスシュの1番目",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "(tendxi-tenno kantelit)",
+        "direct_ja": "",
+        "ja": "（テンジ・テンノ　著）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "aki-no-ta-no kalio-no-io-no toma-o-alami",
+        "direct_ja": "",
+        "ja": "アキ·ノ·タ·ノ　カリオ·ノ·イオ·ノ　トマ·オ·アラミ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "wa-ga-kolomode-wa zuju-ni-nule-zuzu",
+        "direct_ja": "",
+        "ja": "ワ·ガ·コロモデ·ワ　ツユ·ニ·ヌレ·ツツ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti kantel e \"jo pakile leti ipaical mol naukikleti dictic leti amakole-newic e belacte.",
+        "direct_ja": "",
+        "ja": "これの意味は「秋の農地にある、間に合わせの家の干し草屋根が低質である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nalu mileti xalwa leti nedi e jetoctapan.\"",
+        "direct_ja": "",
+        "ja": "そのため、私の服の袖は水が付着している」。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jakunin-icxu leti 3 late",
+        "direct_ja": "",
+        "ja": "ヤクニン・イスシュの3番目",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "(kakinomoto-no-hitomalo kantelit)",
+        "direct_ja": "",
+        "ja": "（カキノモト・ノ・ヒトマロ　著）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "axibiki-no jamadoli-no-o-no xidalio-no naganagaxi-jo-o hitoli-ka-mo-ne-n",
+        "direct_ja": "",
+        "ja": "アシビキ·ノ　ヤマドリ·ノ·オ·ノ　シダリオ·ノ　ナガナガシ·ヨ·オ　ヒトリ·カ·モ·ネ·ン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti kantel e \"licxa leti ketip leti lalu e cixel pi, jo kaleti lalu meleleti xep-xep nole leti texocil mol pi, jo kaleti texocil citenleti mi e texoc.\"",
+        "direct_ja": "",
+        "ja": "これの意味は「山の鳥の尻尾はぶら下がり、その尻尾と似た長い長い時間である夜があり、そんな夜に孤独な私は寝る」。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jakunin-icxu leti 22 late",
+        "direct_ja": "",
+        "ja": "ヤクニン・イスシュの22番目",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "(hunja-no-jacuhide kantelit）",
+        "direct_ja": "",
+        "ja": "（フンヤ・ノ・ヤスヒデ　著）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "huku-kala-ni aki-no-kucaki-no xiolule-ba mube-jamakase-o alaxi-to-juu-lan",
+        "direct_ja": "",
+        "ja": "フク·カラ·ニ　アキ·ノ·クサキ·ノ　シオルレ·バ　ムベ·ヤマカゼ·オ　アラシ·ト·ユウ·ラン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti kantel e ka.",
+        "direct_ja": "",
+        "ja": "これの意味はこうである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "licxa leti lutet e tude no, pakile leti conic e tude jo namana. ",
+        "direct_ja": "",
+        "ja": "山の風が吹くと同時に、秋の植物が死神のもとへ行く。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nalu, {🔣山} (e 山 leti kantel leti kandxi) at {🔣風} (e 風 leti kantel leti kandxi) lauzait {🔣嵐} (e nopon leti kantel leti kandxi) cila.",
+        "direct_ja": "",
+        "ja": "だからこそ、「山」（燐字『【山】』の意味のカンジである）と「風」（燐字『【🈸風】』の意味のカンジである）は「嵐」（暴風雨の意味を持つカンジである）を作り上げるのだなぁ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jakunin-icxu leti 60 late",
+        "direct_ja": "",
+        "ja": "ヤクニンイスシュの60番目",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "(koxikibu-no-naixi kantelit)",
+        "direct_ja": "",
+        "ja": "（コシキブ・ノ・ナイシ 著）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ooejama ikunonomizi-no too-kele-ba",
+        "direct_ja": "",
+        "ja": "オオエヤマ　イクノノミチ·ノ　トオ·ケレ·バ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "mada-humi-mo-misu ama-no-haxidate",
+        "direct_ja": "",
+        "ja": "マダ·フミ·モ·ミズ　アマ·ノ·ハシダテ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti kantel e ka.",
+        "direct_ja": "",
+        "ja": "これの意味はこうである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "(co lukupit mi lucit malca letit tude leti netale pi doktit pitaxileti cul.",
+        "direct_ja": "",
+        "ja": "（あなたは、母からの手紙を使って私が不正行為を行っていると主張している。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo etleti lukup-lukup, jo mi lauzait waka leti nole, mi nip ticotit jo mi pi lucit malca leti cuwonel. kaleti nalu e mileti malce e waka leti tecile leti julo.",
+        "direct_ja": "",
+        "ja": "つまり、私がワカを詠むとき、自分で考えず母の案を使っているというのだ。これは私の母がワカの名人であるからである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "co lukupit ecnea, pi lucit ka pi mi lauzait exeten waka.",
+        "direct_ja": "",
+        "ja": "あなたは嫌味を言ったが、それを利用して、私は美しいワカを詠む。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti waka e mi nip doktit pitaxileti cul cila leti jexet.)",
+        "direct_ja": "",
+        "ja": "このワカは、私が不正行為を行っているわけではないことの明確な証拠だ。）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "oejama leti alailen leti licxa mol pi e \"tude jo ka leti lime\" ((iku-no-no-mizi)) (jo atakecit leti, kaleti lime e axe jo \"ikuno\" leti poto.) e xep jo lolecne.",
+        "direct_ja": "",
+        "ja": "オエヤマという山を「行く野原の道」《イクノノミチ》（ちなみにこれは《イクノ》という場所を通過する）は長い道のりである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nalu, mi xope nip ankalepenit decit ((humi-mo-misu)) ama-no-haxidate leti julo nat (ama-no-haxidate e laklip leti alailen) pi mi xope nip xelit nekijanin ((humi-mo-misu)) nat.",
+        "direct_ja": "",
+        "ja": "そのため、私はまだアマ·ノ·ハシダテを踏み歩くという試行も行っていない《フミ·モ·ミズ》（アマ·ノ·ハシダテは観光名所の名）し、まだ手紙も見ていない《フミ·モ·ミズ》。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "mele jo cetkaik leti belpic",
+        "direct_ja": "",
+        "ja": "【机戦】のような遊び",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kijoto-ginkaku-xogi",
+        "direct_ja": "",
+        "ja": "キヨト・ギンカク・ショギ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kijoto-ginkaku-xogi e nippon nuxep cetkaik.",
+        "direct_ja": "",
+        "ja": "キヨト・ギンカク・ショギは日本の小さな机戦である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "makleti lata it ka pi makleti lata mak-mak tudeit cileti zo.",
+        "direct_ja": "",
+        "ja": "2 人で行い、2 人が交互に自身の駒を動かす。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo zo enja mol pi etleti enja pulonit etleti tudeleti.",
+        "direct_ja": "",
+        "ja": "駒に役職があり、その役職に応じて異なる動きをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lucit 25leti nutok at 10 zo.",
+        "direct_ja": "",
+        "ja": "25 マスと 10 個の駒を使う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nip cene cemokoit zo.",
+        "direct_ja": "",
+        "ja": "駒を踏み越えることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kijoto-ginkaku-xogi e penulleti cetkaik xale pi \"caupla leti dat\" lap mol.",
+        "direct_ja": "",
+        "ja": "キヨト・ギンカク・ショギは古机戦と同様、「王の役」のみがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, nip cene cila letit caupla leti zo.",
+        "direct_ja": "",
+        "ja": "ただし、王を実際に取ることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "caupla leti zo nip cene e aklot jo etleti lata leti dolumen pucla no e numolka.",
+        "direct_ja": "",
+        "ja": "王が相手の穢れた視線から逃れられないと同時に負ける。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kijoto-ginkaku-xogi leti zo e nuxep cupoi.",
+        "direct_ja": "",
+        "ja": "キヨト・ギンカク・ショギの駒は小さい木である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, cecup e xon.",
+        "direct_ja": "",
+        "ja": "ただし、形が奇妙である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xileja at mot mol jo zo.",
+        "direct_ja": "",
+        "ja": "駒には表と裏がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "codulit lujot jo xileja at mot pi delleti dec leti cuc mol jo codulit leti poto.",
+        "direct_ja": "",
+        "ja": "文字が表と裏に彫りこまれ、彫ったところに黒い色素がついている。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zo lucit \"kandxi\" leti alailen leti lujot. kandxi e linman xale.",
+        "direct_ja": "",
+        "ja": "駒は、「カンジ」という名の文字を使う。「カンジ」は燐字っぽいものである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zo at zo leti tudeleti",
+        "direct_ja": "",
+        "ja": "駒と駒の動き",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zo leti xileja leti lujot e waxec jo mot leti lujpt.",
+        "direct_ja": "",
+        "ja": "駒の表の文字は、裏の文字と異なる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaceit leti lujot e zo leti enja.",
+        "direct_ja": "",
+        "ja": "見えている文字が、駒の役職である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ogijoku",
+        "direct_ja": "",
+        "ja": "オギヨク",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣王}",
+        "direct_ja": "",
+        "ja": "王",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "王",
+        "direct_ja": "",
+        "ja": "指導者",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "o",
+        "direct_ja": "",
+        "ja": "オ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣玉}",
+        "direct_ja": "",
+        "ja": "玉",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "玉",
+        "direct_ja": "",
+        "ja": "宝石・貴金属",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "gijoku",
+        "direct_ja": "",
+        "ja": "ギヨク",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo nippon lukup \"ogijoku\" leti kantel e talte leti toxa.",
+        "direct_ja": "",
+        "ja": "日本語では、「オギヨク」の意味はタルテの石である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "o leti tudeleti e nuwaxec jo \"gijoku\" leti.",
+        "direct_ja": "",
+        "ja": "「オ」の動きは「ギヨク」のと同じである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kijoto",
+        "direct_ja": "",
+        "ja": "キヨト",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣香}",
+        "direct_ja": "",
+        "ja": "香",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "善嗅",
+        "direct_ja": "",
+        "ja": "よいにおい",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kijo",
+        "direct_ja": "",
+        "ja": "キヨ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣と}",
+        "direct_ja": "",
+        "ja": "と",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "加",
+        "direct_ja": "",
+        "ja": "～に加えて",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "to",
+        "direct_ja": "",
+        "ja": "ト",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"kijoto\" e nippon mal leti alailen.",
+        "direct_ja": "",
+        "ja": "「キヨト」は日本の都市の名である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ginkaku",
+        "direct_ja": "",
+        "ja": "ギンカク",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣銀}",
+        "direct_ja": "",
+        "ja": "銀",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nunije",
+        "direct_ja": "",
+        "ja": "シルバー",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "gin",
+        "direct_ja": "",
+        "ja": "ギン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣角}",
+        "direct_ja": "",
+        "ja": "角",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cetile",
+        "direct_ja": "",
+        "ja": "すみっこ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaku",
+        "direct_ja": "",
+        "ja": "カク",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"ginkaku\" e kijoto mol tuwacapolto leti alailen.",
+        "direct_ja": "",
+        "ja": "ギンカクはキヨトにある宗教施設の名である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kinke",
+        "direct_ja": "",
+        "ja": "キンケ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣金}",
+        "direct_ja": "",
+        "ja": "金",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xeduc",
+        "direct_ja": "",
+        "ja": "ゴールド",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kin",
+        "direct_ja": "",
+        "ja": "キン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣桂}",
+        "direct_ja": "",
+        "ja": "桂",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tijet",
+        "direct_ja": "",
+        "ja": "ティイェㇳ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ke",
+        "direct_ja": "",
+        "ja": "ケ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"ke\" nip xelit cecijo leti zo.",
+        "direct_ja": "",
+        "ja": "ケは間の駒を見ない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"kinke\" e battapankaleti ketip leti alailen.",
+        "direct_ja": "",
+        "ja": "キンケは美味な鳥の名である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "hihu",
+        "direct_ja": "",
+        "ja": "ヒフ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣飛}",
+        "direct_ja": "",
+        "ja": "飛",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "飛",
+        "direct_ja": "",
+        "ja": "飛ぶ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "hi",
+        "direct_ja": "",
+        "ja": "ヒ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣歩}",
+        "direct_ja": "",
+        "ja": "歩",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "足行",
+        "direct_ja": "",
+        "ja": "足で行く",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "hu",
+        "direct_ja": "",
+        "ja": "フ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo nippon lukup \"hihu\" leti kantel e \"lata leti labi\".",
+        "direct_ja": "",
+        "ja": "日本語では、ヒフの意味は「人間の皮」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pac it leti nole",
+        "direct_ja": "",
+        "ja": "初期配置",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo pac it belpic leti nole, jo bepale auc leti zo mol pi zo mol polto e panleti jo launza.",
+        "direct_ja": "",
+        "ja": "ゲーム開始時、全ての駒は盤上にある。各駒は以下のように配置される。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "panleti lata pupcuk kanteit kije zo leti lujot pi kaleti zo e kaleti lata leti.",
+        "direct_ja": "",
+        "ja": "あるプレーヤーにとって読みやすい方向の駒がそのプレーヤーの駒である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "belpic leti xep pulac",
+        "direct_ja": "",
+        "ja": "ゲームの概要",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "etleti lata leti zo mol jo zo leti tude leti poto pi co delu letit etleti lata leti kaleti zo pi delu tudeit ka jo co leti kopzo.",
+        "direct_ja": "",
+        "ja": "駒の移動終了地点に相手の駒があれば、相手のその駒を獲得し、それを自身の手駒に加えなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "co tudeit zo pi delu kaceit kaleti zo leti mot pi amolit ka.",
+        "direct_ja": "",
+        "ja": "駒を動かしたら、その駒の裏を見せて置かなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo coleti kopzo mol zo cene tude jo zo molipleti aucleti nutok jo coleti dije. jo kaleti nole co tectelit kaceit leti lujot.",
+        "direct_ja": "",
+        "ja": "自分の手駒にある駒は、自分の手番中に駒のないどんなマスにも移動させることができる。そのときは、見せる文字を選ぶ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "keco, ginkaku mol jo kopzo pi co cene",
+        "direct_ja": "",
+        "ja": "例えば、ギンカクが手駒にあるときには、",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- amolit gin",
+        "direct_ja": "",
+        "ja": "- ギンを置く",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- amolit kaku",
+        "direct_ja": "",
+        "ja": "- カクを置く",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "leti pan.",
+        "direct_ja": "",
+        "ja": "のうち 1 つができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "sen-nizi-te",
+        "direct_ja": "",
+        "ja": "セン・ニチ・テ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "sen-nizi-te leti kantel e \"letit ?ⅽ cunenek\".",
+        "direct_ja": "",
+        "ja": "セン・ニチ・テとは、「1000 日を手に入れる」という意味である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo nippon lukup, \"4\" at \"e tude jo namana\" e nuwaxec pi ka e \"xi\".",
+        "direct_ja": "",
+        "ja": "日本語において、「4」 と「死神のもとへ行く」は同じであり、「シ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"lawol e nuwaxec cila jo 4leti waxecleti nole pi namana loptaipeit mi cet leti nole pi namana letit kije ?ⅽ cunenek.\"",
+        "direct_ja": "",
+        "ja": "「4 つの異なる時刻において状況が真に同じであると、死神が我々の時間を巻き取ってしまい、1000 日を死神が持っていく。」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti penulleti lukup-lukup mol jo nippon pi, xelit 4leti nuwaxecleti lawol pi belpic e lucuc.",
+        "direct_ja": "",
+        "ja": "日本にはこのような説話があるので、4 つの同一の状況が観測されると試合は終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nole, lata nip molkait pi lata nip numolkait.",
+        "direct_ja": "",
+        "ja": "このとき、人は勝ちもしなければ負けもしない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xogi",
+        "direct_ja": "",
+        "ja": "ショギ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xogi e nippon leti cetkaik.",
+        "direct_ja": "",
+        "ja": "ショギは日本の机戦である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nip cene cemokoit zo.",
+        "direct_ja": "",
+        "ja": "駒を踏み越えることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xogi e penulleti cetkaik xale pi \"caupla leti dat\" lap mol.",
+        "direct_ja": "",
+        "ja": "ショギは古机戦と同様、「王の役」のみがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, nip cene cila letit caupla leti zo.",
+        "direct_ja": "",
+        "ja": "ただし、王を実際に取ることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "caupla leti zo nip cene aklot jo etleti lata leti dolumen pucla no e numolka.",
+        "direct_ja": "",
+        "ja": "王が相手の穢れた視線から逃れられないと同時に負ける。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xogi e ail panit leti cetkaik xale pi cene lucit letit kije leti zo.",
+        "direct_ja": "",
+        "ja": "ショギは現代机戦のようであり、取った駒を使うことができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo atakecit leti, cetleti zo cene e elcec pi ka e jo penulleti cetkaik leti \"elcec leti elme\" xale.",
+        "direct_ja": "",
+        "ja": "また、多くの駒は昇格することができ、これは古机戦の「昇格した兵」のようである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zo at zo leti tudeleti",
+        "direct_ja": "",
+        "ja": "駒と駒の動き",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zo leti xileja leti lujot e waxec jo mot leti lujpt.",
+        "direct_ja": "",
+        "ja": "駒の表の文字は、裏の文字と異なる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaceit leti lujot e zo leti enja.",
+        "direct_ja": "",
+        "ja": "見えている文字が、駒の役職である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, bilateit xileja at mot leti cul e ducun waxec jo kijoto-ginkaku-xogi cila.",
+        "direct_ja": "",
+        "ja": "ただし、表と裏の対応は、キヨト・ギンカク・ショギとは全く異なる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "keco, 飛 leti mot leti lujot e 足行 jo kijoto-ginkaku-xogi.",
+        "direct_ja": "",
+        "ja": "例えば、キヨト・ギンカク・ショギでは飛の裏の文字は歩である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, 飛 leti mot leti lujot e 龍 jo xogi.",
+        "direct_ja": "",
+        "ja": "しかし、ショギでは飛の裏の文字は龍である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"o\" o \"oxo\"",
+        "direct_ja": "",
+        "ja": "「オ」または「オショ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣王}",
+        "direct_ja": "",
+        "ja": "王",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "王",
+        "direct_ja": "",
+        "ja": "指導者",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "o",
+        "direct_ja": "",
+        "ja": "オ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"gijoku\" o \"gijokuxo\"",
+        "direct_ja": "",
+        "ja": "「ギヨク」または「ギヨクショ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣玉}",
+        "direct_ja": "",
+        "ja": "玉",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "玉",
+        "direct_ja": "",
+        "ja": "宝石・貴金属",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "gijoku",
+        "direct_ja": "",
+        "ja": "ギヨク",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "o leti tudeleti e nuwaxec jo \"gijoku\" leti.",
+        "direct_ja": "",
+        "ja": "「オ」の動きは「ギヨク」のと同じである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lujot molip jo \"o\" at \"gijoku\" leti mot.",
+        "direct_ja": "",
+        "ja": "「オ」と「ギヨク」の裏には文字がない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo nippon lukup \"ula-ga-alu\" ((mot mol)) leti kantel e \"ulecenleti nupankaleti nukil mol\" pi xogi leti zo kantelit \"caupla delu nip letit ulecenleti nupankaleti nukil\" leti ticot-ticot leti cul.",
+        "direct_ja": "",
+        "ja": "日本語では、「ウラ·ガ·アル」《裏がある》とは隠れた悪い心があるという意味であり、将棋の駒は「指導者に隠れた悪い心があってはならない」という考え方を表現している。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"kijo\" o \"kijoxa\" o \"kaxa\"",
+        "direct_ja": "",
+        "ja": "「キヨ」または「キヨシャ」または「カシャ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣香}",
+        "direct_ja": "",
+        "ja": "香",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "善嗅",
+        "direct_ja": "",
+        "ja": "よいにおい",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kijo",
+        "direct_ja": "",
+        "ja": "キヨ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣成香}",
+        "direct_ja": "",
+        "ja": "成香",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "行於善嗅",
+        "direct_ja": "",
+        "ja": "よいにおいになる",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nalikijo",
+        "direct_ja": "",
+        "ja": "ナリキヨ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"gin\" o \"ginxo\"",
+        "direct_ja": "",
+        "ja": "「ギン」または「ギンショ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣銀}",
+        "direct_ja": "",
+        "ja": "銀",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nunije",
+        "direct_ja": "",
+        "ja": "シルバー",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "gin",
+        "direct_ja": "",
+        "ja": "ギン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣成銀}",
+        "direct_ja": "",
+        "ja": "成銀",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "e tude jo nunije",
+        "direct_ja": "",
+        "ja": "シルバーになる",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "naligin",
+        "direct_ja": "",
+        "ja": "ナリギン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"kaku\" o \"kakugijo\"",
+        "direct_ja": "",
+        "ja": "「カク」または「カクギヨ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣角}",
+        "direct_ja": "",
+        "ja": "角",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cetile",
+        "direct_ja": "",
+        "ja": "すみっこ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaku",
+        "direct_ja": "",
+        "ja": "カク",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣馬}",
+        "direct_ja": "",
+        "ja": "馬",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "dodo",
+        "direct_ja": "",
+        "ja": "うま",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "uma",
+        "direct_ja": "",
+        "ja": "ウマ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"kin\" o \"kinxo\"",
+        "direct_ja": "",
+        "ja": "「キン」または「キンショ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣金}",
+        "direct_ja": "",
+        "ja": "金",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xeduc",
+        "direct_ja": "",
+        "ja": "ゴールド",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kin",
+        "direct_ja": "",
+        "ja": "キン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"ke\" o \"kema\"",
+        "direct_ja": "",
+        "ja": "「ケ」または「ケマ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣桂}",
+        "direct_ja": "",
+        "ja": "桂",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tijet",
+        "direct_ja": "",
+        "ja": "ティイェㇳ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ke",
+        "direct_ja": "",
+        "ja": "ケ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣成桂}",
+        "direct_ja": "",
+        "ja": "成桂",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "e tude jo tijet",
+        "direct_ja": "",
+        "ja": "ティイェㇳになる",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nalike",
+        "direct_ja": "",
+        "ja": "ナリケ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"ke\" nip xelit cecijo leti zo.",
+        "direct_ja": "",
+        "ja": "ケは間の駒を見ない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"hi\" o \"hixa\"",
+        "direct_ja": "",
+        "ja": "「ヒ」または「ヒシャ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣飛}",
+        "direct_ja": "",
+        "ja": "飛",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "飛",
+        "direct_ja": "",
+        "ja": "飛ぶ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "hi",
+        "direct_ja": "",
+        "ja": "ヒ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣龍}",
+        "direct_ja": "",
+        "ja": "龍",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "龍",
+        "direct_ja": "",
+        "ja": "ニクㇽ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "liju",
+        "direct_ja": "",
+        "ja": "リユ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "\"hu\" o \"hohe\"",
+        "direct_ja": "",
+        "ja": "「フ」または「ホヘ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣歩}",
+        "direct_ja": "",
+        "ja": "歩",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "足行",
+        "direct_ja": "",
+        "ja": "足で行く",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "hu",
+        "direct_ja": "",
+        "ja": "フ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "{🔣と}",
+        "direct_ja": "",
+        "ja": "と",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "加",
+        "direct_ja": "",
+        "ja": "～に加えて",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "to",
+        "direct_ja": "",
+        "ja": "ト",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pac it leti nole",
+        "direct_ja": "",
+        "ja": "初期配置",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo pac it belpic leti nole, jo bepale auc leti zo mol pi zo mol polto e panleti jo launza. ",
+        "direct_ja": "",
+        "ja": "ゲーム開始時、全ての駒は盤上にある。各駒は以下のように配置される。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "panleti lata pupcuk kanteit kije zo leti lujot pi kaleti zo e kaleti lata leti.",
+        "direct_ja": "",
+        "ja": "あるプレーヤーにとって読みやすい方向の駒がそのプレーヤーの駒である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "elcecleti",
+        "direct_ja": "",
+        "ja": "昇格",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- zo e tude jo etleti lata leti icco",
+        "direct_ja": "",
+        "ja": "- 駒が相手の国へ行く",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- zo e kile jo etleti lata leti icco",
+        "direct_ja": "",
+        "ja": "- 駒が相手の国から来る",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti panleti nole, zo cene e elcec.",
+        "direct_ja": "",
+        "ja": "この時、駒は昇格することができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo elcecleti nole, kaceit zo leti mot.",
+        "direct_ja": "",
+        "ja": "昇格する時には、駒を裏返す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "elcecleti zo nip cene dijacit elcecleti.",
+        "direct_ja": "",
+        "ja": "昇格した駒は昇格を取りやめることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "keco, gin e tude jo etleti icco pi e elcec. jo launza leti nole, kaleti naligin mak e tude. pi, ka nip cene dijacit elcecleti pi e gin.",
+        "direct_ja": "",
+        "ja": "例えば、ギンが相手の国に行き、昇格した。この後、このナリギンがもう一度動いても、昇格を取りやめてギンになることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nip cene tudeit elcecleti zo pac jo kopzo.",
+        "direct_ja": "",
+        "ja": "昇格した駒を手駒から打つことはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tudeit zo, pi kaleti zo cene e tude leti poto molip jo launza leti dije. jo kaleti nole, kaleti zo delu e elcec.",
+        "direct_ja": "",
+        "ja": "駒を動かし、この駒がこの後の手番で行ける場所がない。このとき、この駒は昇格せねばならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "belpic leti lucuc leti cul",
+        "direct_ja": "",
+        "ja": "ゲームが終わる方法",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lata delu tectelit panleti tudeleti jo cene it leti aucleti tudeleti.",
+        "direct_ja": "",
+        "ja": "プレイヤーは、可能なすべての動きの中から 1 つを選ばなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tolijo",
+        "direct_ja": "",
+        "ja": "トリヨ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tolijo e lukupit \"mi e numolka\" leti julo. lukupit ka pi co e numolka.",
+        "direct_ja": "",
+        "ja": "トリヨは、「私が負けた」と言うことである。これを言うとあなたは負ける。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ni-hu",
+        "direct_ja": "",
+        "ja": "ニ・フ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ni-hu e xogi leti cepkulante. delu ticotit kaleti cepkulante e xep.",
+        "direct_ja": "",
+        "ja": "ニ・フはショギの規則である。この規則は重要視しなくてはならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "ni-hu leti kantel e \"2leti hu\".",
+        "direct_ja": "",
+        "ja": "ニ・フの意味は「2 つのフ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "panleti hu mol pi nuwaxecleti lata leti etleti hu mol jo nuwaxecleti laiju leti launza o lape.",
+        "direct_ja": "",
+        "ja": "あるフがあり、同じプレーヤーの別のフがそれと同じ列の上下にある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kaleti lawol e ni-hu pi xogi leti cepkulante mapeit ka.",
+        "direct_ja": "",
+        "ja": "この状況がニ・フであり、ショギの規則はこれを強く禁じる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lauzait ni-hu no, numolkait.",
+        "direct_ja": "",
+        "ja": "ニ・フを作ると同時に、負けとなる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "uzi-hu-sume",
+        "direct_ja": "",
+        "ja": "ウチ・フ・ズメ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "hu e nucunetleti zo jo auc.",
+        "direct_ja": "",
+        "ja": "フは最も弱い駒である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tudeit pac jo kopzo leti zo e dutucun pi cileti zelena e nucuc.",
+        "direct_ja": "",
+        "ja": "持ち駒から打った駒というのは、新人であり階級が低い。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nalu, \"tudeit pac jo kopzo leti hu\" leti zelena e nucuc jo aucleti zo.",
+        "direct_ja": "",
+        "ja": "ゆえに、「打ったフ」は最も低級な存在である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "tudeit hu pac jo kopzo pi molkait. ka e mape jo nippon. jo nippon ticot-ticot leti cul, zelena e xep cila.",
+        "direct_ja": "",
+        "ja": "フを打って勝つ。これは日本においてはタブーである。日本の考え方では、身分が重要である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nalu, cepkulante mapeit uzi-hu-sume. ka e \"pac jo kopzo tudeit leti hu xelit etleti caupla pi molkait\" leti julo.",
+        "direct_ja": "",
+        "ja": "このために規則はウチ・フ・ズメを禁じている。これは「打ったフが相手の王を見て勝つこと」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zec",
+        "direct_ja": "",
+        "ja": "チェス",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zec e xogi at cetkaik xale.",
+        "direct_ja": "",
+        "ja": "チェスはショギや机戦と似ている。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo 100 lot tudeleti penulleti nole, zec e kile jo nippon leti ecki.",
+        "direct_ja": "",
+        "ja": "チェスは100年前に日本の外から来た。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nip cene cemokoit zo.",
+        "direct_ja": "",
+        "ja": "駒を踏み越えることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zec e penulleti cetkaik xale pi \"caupla leti dat\" lap mol.",
+        "direct_ja": "",
+        "ja": "チェスは古机戦と同様、「王の役」のみがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, nip cene cila letit caupla leti zo.",
+        "direct_ja": "",
+        "ja": "ただし、王を実際に取ることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "caupla iceit etleti zo leti dolumen pucla pi nip cene aklot jo ci pi numolkait.",
+        "direct_ja": "",
+        "ja": "王が相手の駒の穢れた視線を受けていてそれから逃れられないときに負ける。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zec e penulleti cetkaik xale pi letit etleti lata leti zo pi aucetit ci.",
+        "direct_ja": "",
+        "ja": "チェスは古机戦と同様、得た相手の駒は抹殺される。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lucit 64leti nutok.",
+        "direct_ja": "",
+        "ja": "64 マスを使う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nutok leti dec e 2leti.",
+        "direct_ja": "",
+        "ja": "マスの色は 2 つである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "nuwaxecleti dec leti nutok molip jo nutok leti cila nectunleti 4leti nutok.",
+        "direct_ja": "",
+        "ja": "同じ色のマスは、マスに真に触れる 4 マスにはない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zo nip lucit lujot.",
+        "direct_ja": "",
+        "ja": "駒は文字を使わない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zo e dankaleti pi e xep jo cecup.",
+        "direct_ja": "",
+        "ja": "駒が立体的でかさばる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pulanleti zo at delleti zo mol pi pulanleti nutok at delleti nutok mol.",
+        "direct_ja": "",
+        "ja": "白の駒と黒の駒があり、白のマスと黒のマスがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zec leti zo",
+        "direct_ja": "",
+        "ja": "チェスの駒",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "zec leti zo e \"pic\" o \"pon\".",
+        "direct_ja": "",
+        "ja": "チェスの駒は、「ピス」または「ポン」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "5leti cepat leti \"pic\" mol.",
+        "direct_ja": "",
+        "ja": "5 種類の「ピス」がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "♔♚男王 \"ken\" o \"kingu\"",
+        "direct_ja": "",
+        "ja": "♔♚男王「ケン」か「キング」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "♕♛女王 \"kuwin\"",
+        "direct_ja": "",
+        "ja": "♕♛女王「クウィン」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "♖♜守壁 \"luk\" o \"kecol\" o \"kacol\" o \"luku\"",
+        "direct_ja": "",
+        "ja": "♖♜守壁「ルㇰ」か「ケソㇽ」か「カソㇽ」か「ルク」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "♗♝男巫 \"bexap\" o \"bixoppu\"",
+        "direct_ja": "",
+        "ja": "♗♝男巫「べシャㇷ゚」か「ビショップ」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "♘♞馬兵 \"nait\" o \"naito\"",
+        "direct_ja": "",
+        "ja": "♘♞馬兵「ナイㇳ」か「ナイト」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "男王 leti tudeleti e nuwaxec jo ail panit leti cetkail leti 王.",
+        "direct_ja": "",
+        "ja": "男王の動きはアイル標準机戦の王と同一である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "女王 leti tudeleti e papelleti 弓 at tanke leti 弓.",
+        "direct_ja": "",
+        "ja": "女王の動きは通常時の弓と皇処の弓である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "守壁 leti tudeleti e papelleti 弓.",
+        "direct_ja": "",
+        "ja": "守壁の動きは通常時の弓である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "男巫 leti tudeleti e tanke leti 弓.",
+        "direct_ja": "",
+        "ja": "男巫の動きは皇処の弓である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cukulal e 馬兵 leti tudeleti pi 馬兵 nip xelit cecijo leti zo.",
+        "direct_ja": "",
+        "ja": "図は馬兵の動きであり、馬兵は間の駒を見ない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pon leti tudeleti",
+        "direct_ja": "",
+        "ja": "ポンの動き",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "♙♟足兵 \"pon\"",
+        "direct_ja": "",
+        "ja": "♙♟足兵「ポン」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo papelleti nole pon leti tudeleti e ail panit leti cetkaik leti 兵 leti tudeleti. pi, cetleti xon tudeleti mol jo pon.",
+        "direct_ja": "",
+        "ja": "ポンは、通常はアイル標準机戦の兵の動きをする。しかし、多くの妙な動きがポンにはある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo pac it leti nole leti poto mol pon cene tude jo panleti ponto o makleti ponto.",
+        "direct_ja": "",
+        "ja": "まだ一度も動いていないポンは一つか二つだけ前に動く。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo aucetit etleti zo leti nole pon e tude jo 再 leti lujot. nip cene aucetit zo jo cila leti ponto.",
+        "direct_ja": "",
+        "ja": "他の駒を抹殺しようとするポンは燐字「【再】」の字に動く。正面にいる駒を抹殺することはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "puwamouxan o \"pulomoxon\"",
+        "direct_ja": "",
+        "ja": "「プワモウシャン」または「プロモション」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pon mak-mak e tude pi nutok molip jo ponto. jo kaleti nole, pon e tude jo pic (e waxec jo 男王).",
+        "direct_ja": "",
+        "ja": "ポンが繰り返し進んで前にマスがない。そんなときは、ポンはピス（男王以外）になる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "on-pacon o \"anpaccan\"",
+        "direct_ja": "",
+        "ja": "「オン・パソン」または「アンパッサン」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pon e xon zo pi 1leti xon cepkulante mol jo pon leti letit pon leti julo.",
+        "direct_ja": "",
+        "ja": "ポンは変な駒であり、ポンがポンを取ることについて変な規則がひとつある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "etleti pon e tude jo makleti nutok pi e kile jo coleti pon leti ocpolto.",
+        "direct_ja": "",
+        "ja": "相手のポンが 2 マス前に動き、あなたのポンの横隣に来た。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nole coleti pon cene tude jo etleti pon mol lal leti tipecen ponto pi aucetit etleti pon.",
+        "direct_ja": "",
+        "ja": "このとき、あなたのポンは相手のポンがいる方の斜め前に進み、相手のポンを抹殺することができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "etleti pon e tude jo nutok nat (\"on-pacon\" jo phonc lukup) pi coleti pon cene dokit etleti pon leti lepop pi aucetit. ka e nalu.",
+        "direct_ja": "",
+        "ja": "相手のポンがまだそのマスを通過中《ㇷ゚ホンㇲ語で「オン・パソン」》であり、あなたのポンは相手のポンの足を引っ張って抹殺することができる。これが理由である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "kecolin o \"kacolin\" o \"kijaculingu\"",
+        "direct_ja": "",
+        "ja": "「ケソリン」または「カソリン」または「キヤスリング」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "cemoko molip. tanke leti 将 molip. caupla leti dat mol pi etleti dat molip.",
+        "direct_ja": "",
+        "ja": "踏越えがない。皇処の将がない。王の役はあるが他の役はない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nalu, jo zec cecnutit leti julo e \"tudeit 男王 jo cetile\".",
+        "direct_ja": "",
+        "ja": "ゆえに、チェスでの守りは「男王を隅に行かせる」ことである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lucit 男王 at 守壁 leti xon tudeleti mol jo zec pi lata cet cene etexon e cecnut.",
+        "direct_ja": "",
+        "ja": "チェスには男王と守壁を使った変な動きがあり、人々は素早く守ることができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- zo molip jo 男王 at 守壁 leti cecijo.",
+        "direct_ja": "",
+        "ja": "- 駒が男王と守壁の間にない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- 男王 at 守壁 mol jo pac belpicit leti nole leti poto pi nip e tude nat.",
+        "direct_ja": "",
+        "ja": "- 男王と守壁がゲーム開始時の位置にいて、まだ動いていない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- etleti lata leti dolumen pucla molip jo 男王 leti tude-tuni leti 3leti nutok. 3leti nutok e",
+        "direct_ja": "",
+        "ja": "- 王の経路計画の 3 マスに他の人の穢れた視線が無い。3マスとは、以下を指す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- jo pac 男王 mol nutok",
+        "direct_ja": "",
+        "ja": "- 初めに男王がいるマス",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- 男王 axeleti nutok",
+        "direct_ja": "",
+        "ja": "- 男王が横切るマス",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "- jo lucuc 男王 mol nutok.",
+        "direct_ja": "",
+        "ja": "- 終わりに男王がいるマス",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nole 男王 cene it \"kecolin\" leti alailen leti xon tudeleti pi tude jo 2leti nutok jo 守壁 leti lal.",
+        "direct_ja": "",
+        "ja": "このとき、男王は「ケソリン」という変な動きをして守壁の方向に 2 マス動くことができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "男王 e tude pi 守壁 delu tude jo 男王 leti axeleti nutok jo nuwaxecleti dije.",
+        "direct_ja": "",
+        "ja": "男王が走った後、守壁は同じ手番に男王が横切ったマスに移動しなくてはならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pi, 守壁 iceit etleti zo leti dolumen pucla pi cene it kecolin",
+        "direct_ja": "",
+        "ja": "ただし、守壁に敵の穢れた視線が当たっていてもケソリンをすることができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "belpic leti lucuc leti cul",
+        "direct_ja": "",
+        "ja": "ゲームが終わる方法",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lata delu tectelit panleti tudeleti jo cene it leti aucleti tudeleti.",
+        "direct_ja": "",
+        "ja": "プレイヤーは、可能なすべての動きの中から 1 つを選ばなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "jo kaleti nole 男王 e latapanka pi 男王 iceit etleti zo leti dolumen pucla jo aucleti tudeleti. jo kaleti lawol, belpic e deleje pi makleti lata iceit kait leti kin. kaleti cepkulante leti alailen e \"cteil meit\" o \"cuteilu meito\"",
+        "direct_ja": "",
+        "ja": "現在男王が健康であるが、すべての動きにおいて男王が穢れた視線を受ける。そういった状況では、試合が引き分けになり、2 人が ½ 点を得る。このルールの名は「ㇲテイㇽ・メイㇳ」または「ステイル・メイト」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "100leti dije leti cepkulante",
+        "direct_ja": "",
+        "ja": "100手ルール",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "pon nip e tude. (aucleti pon molip jo bepale pi ka e panka.)",
+        "direct_ja": "",
+        "ja": "ポーンが動かない。（すべてのポーンが盤からなくなっていてもよい。）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "aucetit leti julo molip.",
+        "direct_ja": "",
+        "ja": "抹殺がない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xelit 100 dije jo lape leti nole pi aucleti dije mol jo kaleti makleti denopoc. jo kaleti lawol, lata cene it belpic e deleje.",
+        "direct_ja": "",
+        "ja": "100手ぶんを過去に遡ってすべての動きがこの条件に収まっているとき、プレイヤーは試合をドローにすることができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "xelit 3leti nuwaxecleti lawol",
+        "direct_ja": "",
+        "ja": "3 つの同一の状況が観測される",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第一号",
+        "pmcp": "lawol e nuwaxec cila jo 3leti waxecleti nole pi belpic e lucuc. jo kaleti nole, lata nip molkait pi lata nip numolkait.",
+        "direct_ja": "",
+        "ja": "3 つの異なる時刻において状況が真に同じであると、試合は終わる。このとき、人は勝ちもしなければ負けもしない。",
+        "en": ""
+    },
+    {
         "source": "虎新聞（港拡張）",
         "pmcp": "nanala junalika. mak xepit ka.",
         "direct_ja": "",
@@ -10728,28 +13626,28 @@ const CORPUS = [
         "source": "LAUZAIT-CEPルールブック",
         "pmcp": "0leti o 1leti nole - nipit kin pi tectelit kaceit leti latacela pi mak e zo e nip kaceit leti. (ticot-penul-tude-dutucun)",
         "direct_ja": "",
-        "ja": "【0~1回】すでに公開している組合せを非公開に戻し、得点を返納する。（心古行新：温故知新）",
+        "ja": "［0~1回］すでに公開している組合せを非公開に戻し、得点を返納する。（【心古行新】：温故知新）",
         "en": ""
     },
     {
         "source": "LAUZAIT-CEPルールブック",
         "pmcp": "0leti o 1leti nole - kaceit kopzo leti 1leti latacela pi letit kin. (amolit enja)",
         "direct_ja": "",
-        "ja": "【0~1回】手駒から組合せを1つ公開することで、得点を獲得する。（配属）",
+        "ja": "［0~1回］手駒から組合せを1つ公開することで、得点を獲得する。（配属）",
         "en": ""
     },
     {
         "source": "LAUZAIT-CEPルールブック",
         "pmcp": "1leti nole - pac jo kopzo nipit 1leti zo pi tudeit bepale leti zo pi letit zo. (dokit lata)",
         "direct_ja": "",
-        "ja": "【1回】手駒から駒を一つ捨て、ボード上の駒を動かして駒を獲得する。（登用）",
+        "ja": "［1回］手駒から駒を一つ捨て、ボード上の駒を動かして駒を獲得する。（登用）",
         "en": ""
     },
     {
         "source": "LAUZAIT-CEPルールブック",
         "pmcp": "0leti o 1leti nole - letit molkait leti kin pi lucucit xot. (lauzait cep!)",
         "direct_ja": "",
-        "ja": "【0~1回】勝利点を得て、ラウンドを終える。（ラウツァイト・セプ！）",
+        "ja": "［0~1回］勝利点を得て、ラウンドを終える。（ラウツァイト・セプ！）",
         "en": ""
     },
     {
@@ -10826,7 +13724,7 @@ const CORPUS = [
         "source": "LAUZAIT-CEPルールブック",
         "pmcp": "tudeleti cul e cukulal xale. ka e tan leti lujot xale.",
         "direct_ja": "",
-        "ja": "動き方は下の図のように「タム」の字（皇）のように動きます。",
+        "ja": "動き方は下の図のように「タム」の字（【皇】）のように動きます。",
         "en": ""
     },
     {
