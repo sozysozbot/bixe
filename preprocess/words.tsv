@@ -13,7 +13,7 @@
 120	julo		名詞					もの、こと	iulo, -o	iulo		件	
 130	icic		名詞					ドア	（左に同じ）	isis			
 140	likka		名詞					夢	（左に同じ）	likqa, liqka			
-150	papuc		名詞					ファフス、パプス（人名）	（左に同じ）	fafs			
+150	papuc		人名					ファフス、パプス（人名）	（左に同じ）	fafs			
 160	kantel		名詞					本、書籍、表現	kranteerl, qanteo	kranteerl			
 170	kulante		名詞					本、書籍	（左に同じ）	kranteerl		書	
 180	bal		名詞					茶	（左に同じ）	bal			
@@ -29,7 +29,7 @@
 280	pek		名詞					顔	（左に同じ）	feg		顔	
 290	bixe		名詞					おじいさん	（左に同じ）	vixeh			
 300	bek		名詞					スモモ	（左に同じ）	blerkh			
-310	e		名詞					エーイ、エー（人名）	（左に同じ）	eri			
+310	e		人名					エーイ、エー（人名）	（左に同じ）	eri			
 320	anpe		名詞					力	（左に同じ）	anfi'e			
 330	kapa		名詞					光	（左に同じ）	kafi'a		光	
 340	pon		名詞					酢	（左に同じ）	feun			
@@ -253,7 +253,8 @@
 2480	e icalat		動詞					静かだ	es ircalart	ircalart			
 2490	icalat		前置助動詞					静かに、冷静に	ircalart lot	ircalart			
 2500	okicol		名詞					（ゲームの）役	（左に同じ）	voklisol			
-2510	lezi		名詞					レチ書、ターフ・レチ	（左に同じ）	lech			
+2510	lezi		名詞					レチ書	（左に同じ）	lech			
+2515	lezi		人名					ターフ・レチ（人名）	（左に同じ）	lech			
 2520	mak-mak		前置助動詞					繰り返し～する	fhaotce	mak		再再	
 2530	xon		形容詞					奇妙である、特殊である、変わっている	juren, ny farfelen	xorln		妙	
 2540	xon		前置助動詞					奇妙にも、例外的に	juron	xorln		妙	
@@ -267,7 +268,7 @@
 2620	xace		間投詞					ありがとう	（左に同じ）	xace			
 2630	xep u		名詞					シェノネン・ウー（リパーシェの文字名）	xenonen ur	xerf ur			
 2640	cala		間投詞					こんにちは	（左に同じ）	salarua			
-2650	tap		名詞					ターフ、タプ（人名）	（左に同じ）	tarf			
+2650	tap		人名					ターフ、タプ（人名）	（左に同じ）	tarf			
 2660	lipalain		形容詞					リパラオネ（民族名）の	（左に同じ）	lipalain			
 2670	duxe		名詞					詩、歌	durxe, snirorerl	durxe			
 2680	e cut		動詞					強い	stiestud	stiestud, stystist, stistyst			
@@ -320,6 +321,7 @@
 3150	nukil		名詞		「我々の文化」3			心、心臓、感情、精神、魂	nukil, stynyr, nult	nukil			
 3160	ectal		名詞		「我々の文化」3			エスタール（時代区分名）	（左に同じ）	estarl			
 3170	adolput		名詞		「我々の文化」3			アドルプト（時代区分名）	（左に同じ）	adolpd			
+3175	ipton		名詞		「我々の文化」3			イフトーン（時代区分名）	（左に同じ）	iftorn			
 3180	neni		名詞		「我々の文化」3			地面	xleanertnir	nertnir			
 3190	latawelkel		名詞		「我々の文化」3			栄養	falsirs	larta + velgerl			
 3200	ticot		名詞		「我々の文化」3			考え	tisodelium	tisod		思	
@@ -883,3 +885,24 @@
 	denopoc		名詞		NIPPON BELPIC			条件	（左に同じ）	dhenefos			
 	lictet		名詞		LAUZAIT-CEPルールブック			瞳；点（ドット）	fiursen listet, larl	listet			
 	e nucuc		動詞					位置が低い、地位が低い	（左に同じ）	ny stys			
+	lazo		名詞					ラツォ【軸山】（山名）		la1 zo1.pk		軸山	
+	jegin		人名					イェーギン【石】（人名）				石	
+	joko		人名					ヨコ【直豊】/【牛豊】（人名）				直豊/牛豊	
+	gatu		人名					ガートゥ、ガトゥ【之子】（人名構成要素）				之子	
+	xadosamma		人名					シャードザンマー（人名）					
+	adin		人名					アーディーン、アディン（人名）					
+	baniwaimu		人名					バーニワイㇺ、バニワイム【如字】（人名）				如字	
+	womuka		人名					ウォムカ【墨風】（人名）				墨風	
+	koluxan		人名					コールーシャム、コルシャン【此下】（人名）				此下	
+	katu		人名					ガートゥ、カトゥ【子】（人名構成要素）				之子	
+	lokatan		人名					ローハタム、ロカタン【平】（人名）				平	
+	muwi		人名					ムウィ、ムイ【魚】（人名）				魚	
+	tacak		人名					タザク、タサク【皇来】（人名）				皇来	
+	cilxalap		人名					スィールジャーラフ、スィルシャラプ（人名）					
+	kutbum		名詞					クッブーム詩【撃鼓】（詩の形式のひとつ）				撃鼓	
+	ilin		人名					イリーン、イリン（人名）		ilirn			
+	dektap		人名					デクタプ、デクタフ（人名）		dektaf			
+	kutija		名詞					クティヤ【車馬】（行政区画名）		kutija		車馬	
+	kasika		人名					カジカ、カズィカ【筆座】（人名）				筆座	
+	leledapa		人名		LAUZAIT-CEPルールブック			レレダパ（人名）		rieliedafa			
+	aikki		人名		LAUZAIT-CEPルールブック			アイㇰキー【光男】（人名）				光男	
