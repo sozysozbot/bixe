@@ -215,7 +215,7 @@ function tokenize(full_text: string): Token[] {
     return ans;
 }
 
-function count_highlightable(cutoff: number = 20) {
+function count_highlightable() {
     const ok: string[] = [];
     const not_ok: string[] = [];
     const earthling: string[] = [];
@@ -255,12 +255,12 @@ function count_highlightable(cutoff: number = 20) {
     return `
     highlightable (not uniq): ${ok.length}; ${(ok.length / non_uniq_total * 100).toPrecision(4)}%
 non-highlightable (not uniq): ${not_ok.length}; ${(not_ok.length / non_uniq_total * 100).toPrecision(4)}%
-    earthling       (not uniq): ${earthling.length}; ${(earthling.length / non_uniq_total * 100).toPrecision(4)}%
+    earthling     (not uniq): ${earthling.length}; ${(earthling.length / non_uniq_total * 100).toPrecision(4)}%
 
     highlightable (uniq): ${highlightable_uniq.size}; ${(highlightable_uniq.size / uniq_total * 100).toPrecision(4)}%
 non-highlightable (uniq): ${non_highlightable_uniq.size}; ${(non_highlightable_uniq.size / uniq_total * 100).toPrecision(4)}%
-    earthling       (uniq): ${earthling_uniq.size}; ${(earthling_uniq.size / uniq_total * 100).toPrecision(4)}%
+    earthling     (uniq): ${earthling_uniq.size}; ${(earthling_uniq.size / uniq_total * 100).toPrecision(4)}%
     
-top-tier non-highlightable: ${JSON.stringify(counted.slice(0, cutoff))}
+top-tier non-highlightable: ${JSON.stringify(counted)}
 `;
 }
