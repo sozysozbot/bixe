@@ -90,7 +90,7 @@ function getOneEntryFragment(description: {
             .replaceAll(/\[/g, `[<span style="font-family: 'rounded'; letter-spacing: 0.03em; vertical-align: -2.5px;">`)
             .replaceAll(/\]/g, `</span>]`)
         ; // TODO: XSS
-    const split_leti_but_join_it = (str: string) => str.toLowerCase()
+    const split_leti_but_join_it = (str: string) => toLowerCaseIgnoringRomanC(str)
         .replaceAll(/-it\b(?!-)/g, "it")
         .replaceAll(/(?<!-|mo)(leti|lt)\b(?!-)/g, "-leti");
 

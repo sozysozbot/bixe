@@ -1,7 +1,7 @@
 const words = WORDS.filter(w => !w.目録から排除);
 
 function normalize_word(w: Word) {
-    return w.語.toLowerCase()
+    return toLowerCaseIgnoringRomanC(w.語)
         .replaceAll(/-(leti|it)\b(?!-)/g, "$1");
     /* ハイフン + leti または ハイフン + it の後に語境界があって、そしてハイフンが直後に後続しないなら、前の単語とくっつける */
 }

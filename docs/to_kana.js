@@ -53,7 +53,7 @@ function to_kana(str) {
     return ans;
 }
 function kana_words(form) {
-    const normalized = form.toLowerCase();
+    const normalized = toLowerCaseIgnoringRomanC(form);
     const spacing = '·';
     return normalized
         .split(/[^ABCDEGHIJKLMNOPSTUWXZ]/i)

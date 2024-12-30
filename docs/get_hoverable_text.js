@@ -69,7 +69,7 @@ function getOneEntryFragment(description) {
         description.content
             .replaceAll(/\[/g, `[<span style="font-family: 'rounded'; letter-spacing: 0.03em; vertical-align: -2.5px;">`)
             .replaceAll(/\]/g, `</span>]`); // TODO: XSS
-    const split_leti_but_join_it = (str) => str.toLowerCase()
+    const split_leti_but_join_it = (str) => toLowerCaseIgnoringRomanC(str)
         .replaceAll(/-it\b(?!-)/g, "it")
         .replaceAll(/(?<!-|mo)(leti|lt)\b(?!-)/g, "-leti");
     one_entry_fragment.querySelector(".tooltip-pronunciation").textContent = `［${kana_words(split_leti_but_join_it(description.headword))}］`;

@@ -98,7 +98,7 @@ function getSinglyAnnotatedLine(full_text: string, highlight_?: { beginIndex: nu
                 const query_res = queryLemma(tok.content, true);
                 if (query_res.kind === "ok") {
                     const descriptions = query_res.words.map(w => ({
-                        headword: w.語.toLowerCase(),
+                        headword: toLowerCaseIgnoringRomanC(w.語),
                         part_of_speech: w.品詞,
                         content: w.意味_日
                     }));
