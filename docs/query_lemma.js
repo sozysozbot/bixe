@@ -27,7 +27,30 @@ const loose_list = words
     }
 });
 loose_list.sort();
+// Cache for memoization
+const query_lemma_cache_allow_strip = new Map();
+const query_lemma_cache_forbid_strip = new Map();
 function queryLemma(word, allow_strip) {
+    if (allow_strip) {
+        if (query_lemma_cache_allow_strip.has(word)) {
+            return query_lemma_cache_allow_strip.get(word);
+        }
+    }
+    else {
+        if (query_lemma_cache_forbid_strip.has(word)) {
+            return query_lemma_cache_forbid_strip.get(word);
+        }
+    }
+    const result = __raw_queryLemma(word, allow_strip);
+    if (allow_strip) {
+        query_lemma_cache_allow_strip.set(word, result);
+    }
+    else {
+        query_lemma_cache_forbid_strip.set(word, result);
+    }
+    return result;
+}
+function __raw_queryLemma(word, allow_strip) {
     if (allow_strip) {
         if (word.endsWith("it") && word.length > 2) {
             const without_it = queryLemma(word.slice(0, -2), false);
