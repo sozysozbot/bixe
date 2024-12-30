@@ -15,6 +15,10 @@ const loose_list = words
             return [word, word.slice(0, -2)];
         } else if (word !== "moleti" && word.endsWith("leti") && word.length > 4) {
             return [word, word.slice(0, -4)];
+        } else if (word.endsWith("lt") && word.length > 2) { // -leti が省略された形
+            return [word, word.slice(0, -2)];
+        } else if (word === "lt") {
+            return ["leti"];
         } else {
             return [word];
         }

@@ -29,6 +29,9 @@ function is_vowel_or_empty(v) {
 }
 function to_kana(str) {
     const whole_word = str;
+    if (whole_word.endsWith("lt")) {
+        return to_kana(whole_word.slice(0, -2) + "leti");
+    }
     const MONOSYLLABLE = /^([pbmklncxztdjwhgs]?)([aeiou])([ptkclnm](?![aeiou])|)/;
     let ans = "";
     while (str != "") {
