@@ -10782,21 +10782,21 @@ const CORPUS = [
     },
     {
         "source": "日本の遊戯 第一号",
-        "pmcp": "hudxiwala-no-cadaije tectelit cet exeten ⅽ waka jo waka leti zicedol.",
+        "pmcp": "hudxiwala-no-cadaije tectelit cet exeten Ⅽ waka jo waka leti zicedol.",
         "direct_ja": "",
         "ja": "フジワラ・ノ・サダイイェが、ワカの歴史の中からとても美しい百のワカを選んだ。",
         "en": ""
     },
     {
         "source": "日本の遊戯 第一号",
-        "pmcp": "kaleti alailen e \"ogula-jakunin-icxu\" pi nippon lata nip xelit tidip pi cene lukupit kaleti ⅽ waka leti auc.",
+        "pmcp": "kaleti alailen e \"ogula-jakunin-icxu\" pi nippon lata nip xelit tidip pi cene lukupit kaleti Ⅽ waka leti auc.",
         "direct_ja": "",
         "ja": "これをオグラ・ヤクニン・イスシュといい、日本の人々は紙を見ずにこれら百のワカを唱えることができる。",
         "en": ""
     },
     {
         "source": "日本の遊戯 第一号",
-        "pmcp": "nippon celun cet lucit \"jakunin-icxu\" leti belpic pi amolit kaleti ⅽ waka jo nukil.",
+        "pmcp": "nippon celun cet lucit \"jakunin-icxu\" leti belpic pi amolit kaleti Ⅽ waka jo nukil.",
         "direct_ja": "",
         "ja": "日本の子どもたちはヤクニン・イスシュという遊びによってこの百のワカを覚える。",
         "en": ""
@@ -10887,7 +10887,7 @@ const CORPUS = [
     },
     {
         "source": "日本の遊戯 第一号",
-        "pmcp": "ka e dije. it ⅽ dije pi tolihuda e tude jo molipleti pi belpic e lucuc.",
+        "pmcp": "ka e dije. it Ⅽ dije pi tolihuda e tude jo molipleti pi belpic e lucuc.",
         "direct_ja": "",
         "ja": "これが手番である。100 個の手番を行って取り札がなくなったら試合が終わる。",
         "en": ""
@@ -11601,7 +11601,7 @@ const CORPUS = [
     },
     {
         "source": "日本の遊戯 第一号",
-        "pmcp": "sen-nizi-te leti kantel e \"letit ?ⅽ cunenek\".",
+        "pmcp": "sen-nizi-te leti kantel e \"letit ?Ⅽ cunenek\".",
         "direct_ja": "",
         "ja": "セン・ニチ・テとは、「1000 日を手に入れる」という意味である。",
         "en": ""
@@ -11615,7 +11615,7 @@ const CORPUS = [
     },
     {
         "source": "日本の遊戯 第一号",
-        "pmcp": "\"lawol e nuwaxec cila jo 4leti waxecleti nole pi namana loptaipeit mi cet leti nole pi namana letit kije ?ⅽ cunenek.\"",
+        "pmcp": "\"lawol e nuwaxec cila jo 4leti waxecleti nole pi namana loptaipeit mi cet leti nole pi namana letit kije ?Ⅽ cunenek.\"",
         "direct_ja": "",
         "ja": "「4 つの異なる時刻において状況が真に同じであると、死神が我々の時間を巻き取ってしまい、1000 日を死神が持っていく。」",
         "en": ""

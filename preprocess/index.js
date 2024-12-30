@@ -1,7 +1,20 @@
 const fs = require('fs');
+
+// There are two Roman numerals:
+// U+216D Roman Numeral One Hundred
+// U+217D Small Roman Numeral One Hundred
+
+// We only want the capital Roman numeral, 
+// so we replace the small Roman numeral with the capital Roman numeral right after converting the string to lowercase.
+
+function toLowerCaseIgnoringRomanC(str) {
+  return str.toLowerCase().replaceAll("\u217d", "\u216d");
+}
+
+
 const corpus = fs.readFileSync('corpus.tsv', 'utf8').split(/\r\n|\n/).map(line => {
   const [source, pmcp, direct_ja, ja, en] = line.split('\t');
-  return { source, pmcp: pmcp.toLowerCase(), direct_ja, ja, en };
+  return { source, pmcp: toLowerCaseIgnoringRomanC(pmcp), direct_ja, ja, en };
 });
 
 const links = fs.readFileSync('links.tsv', 'utf8').split(/\r\n|\n/).map(line => {
@@ -48,11 +61,11 @@ const HYPERLINKS: Hyperlinks = ${JSON.stringify(linkMap, null, 2)};`);
 
 // trigram
 const [_, ...corpus_] = corpus;
-const source_text = corpus_
+const source_text = toLowerCaseIgnoringRomanC(corpus_
   .map(item => item.pmcp)
   .join("        ")
   .replaceAll(/\{[\s\S]*?\}/g, " ")
-  .toLowerCase();
+);
 
 // Make a table of trigrams
 const trigrams = {};
@@ -71,7 +84,7 @@ const TRIGRAMS = ${JSON.stringify(trigrams, null, 2)};`);
 // words
 const words = fs.readFileSync('words.tsv', 'utf8').split(/\r\n|\n/).map(line => {
   const [_0, 語, _2, 品詞, 目録から排除, _5, _6, _7, 意味_日, 意味_理] = line.split('\t');
-  return { 語, 品詞, 目録から排除: 目録から排除 === "TRUE" , 意味_日 };
+  return { 語, 品詞, 目録から排除: 目録から排除 === "TRUE", 意味_日 };
 });
 
 fs.writeFileSync('../ts-src/words.ts', `/* AUTOMATICALLY GENERATED. DO NOT EDIT MANUALLY */
