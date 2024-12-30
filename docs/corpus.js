@@ -3880,7 +3880,7 @@ const CORPUS = [
     },
     {
         "source": "我々の文化3机戦の歴史",
-        "pmcp": "\"nole mol lina cet tudeit lujotz0 pi it belpic\"",
+        "pmcp": "\"nole mol lina cet tudeit lujotzo pi it belpic\"",
         "direct_ja": "「時間ある印刷工たちが活字を移動させ遊びとした」",
         "ja": "「暇を持て余した印刷業者が活字を動かして遊んでいた」",
         "en": ""
