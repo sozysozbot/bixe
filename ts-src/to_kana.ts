@@ -15,7 +15,7 @@ type KanaTable = {
 const KANA_TABLE: KanaTable = {
     'p': { 'a': 'パ', 'i': 'ピ', 'u': 'プ', 'e': 'ペ', 'o': 'ポ', '': 'ㇷ゚' },
     'b': { 'a': 'バ', 'i': 'ビ', 'u': 'ブ', 'e': 'ベ', 'o': 'ボ', '': null },
-    'm': { 'a': 'マ', 'i': 'ミ', 'u': 'ム', 'e': 'メ', 'o': 'モ', '': null },
+    'm': { 'a': 'マ', 'i': 'ミ', 'u': 'ム', 'e': 'メ', 'o': 'モ', '': 'ン' }, // make it lenient, to allow "xadosamma" and "atalam"
     'k': { 'a': 'カ', 'i': 'キ', 'u': 'ク', 'e': 'ケ', 'o': 'コ', '': 'ㇰ' },
     'l': { 'a': 'ラ', 'i': 'リ', 'u': 'ル', 'e': 'レ', 'o': 'ロ', '': 'ㇽ' },
     'n': { 'a': 'ナ', 'i': 'ニ', 'u': 'ヌ', 'e': 'ネ', 'o': 'ノ', '': 'ン' },
@@ -46,7 +46,7 @@ function is_vowel_or_empty(v: string): v is VowelOrEmpty {
 
 function to_kana(str: string) {
     const whole_word = str;
-    const MONOSYLLABLE = /^([pbmklncxztdjwhgs]?)([aeiou])([ptkcln](?![aeiou])|)/;
+    const MONOSYLLABLE = /^([pbmklncxztdjwhgs]?)([aeiou])([ptkclnm](?![aeiou])|)/;
     let ans = "";
 
     while (str != "") {

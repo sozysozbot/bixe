@@ -2,7 +2,7 @@
 const KANA_TABLE = {
     'p': { 'a': 'パ', 'i': 'ピ', 'u': 'プ', 'e': 'ペ', 'o': 'ポ', '': 'ㇷ゚' },
     'b': { 'a': 'バ', 'i': 'ビ', 'u': 'ブ', 'e': 'ベ', 'o': 'ボ', '': null },
-    'm': { 'a': 'マ', 'i': 'ミ', 'u': 'ム', 'e': 'メ', 'o': 'モ', '': null },
+    'm': { 'a': 'マ', 'i': 'ミ', 'u': 'ム', 'e': 'メ', 'o': 'モ', '': 'ン' },
     'k': { 'a': 'カ', 'i': 'キ', 'u': 'ク', 'e': 'ケ', 'o': 'コ', '': 'ㇰ' },
     'l': { 'a': 'ラ', 'i': 'リ', 'u': 'ル', 'e': 'レ', 'o': 'ロ', '': 'ㇽ' },
     'n': { 'a': 'ナ', 'i': 'ニ', 'u': 'ヌ', 'e': 'ネ', 'o': 'ノ', '': 'ン' },
@@ -29,7 +29,7 @@ function is_vowel_or_empty(v) {
 }
 function to_kana(str) {
     const whole_word = str;
-    const MONOSYLLABLE = /^([pbmklncxztdjwhgs]?)([aeiou])([ptkcln](?![aeiou])|)/;
+    const MONOSYLLABLE = /^([pbmklncxztdjwhgs]?)([aeiou])([ptkclnm](?![aeiou])|)/;
     let ans = "";
     while (str != "") {
         const [syll, onset, vowel, coda] = str.match(MONOSYLLABLE) ?? (() => { throw new Error(`In word "${whole_word}"\nCannot read off a syllable from the beginning of the substring "${str}"`); })();
