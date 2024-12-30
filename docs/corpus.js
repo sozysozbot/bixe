@@ -9425,70 +9425,70 @@ const CORPUS = [
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "jo nippon mol auc, cala! mi e ail mo leti cep leti eckijacil leti polto leti lilata leti jegin gatu xadosamma.",
-        "direct_ja": "",
+        "direct_ja": "日本の皆様、こんにちは。私はアイル共和国文化省広報処の事務長、イェーギン・ガートゥ・シャードザンマーである。",
         "ja": "日本の皆様、こんにちは。アイル共和国文化省広報処の事務長、イェーギン・ガートゥ・シャードザンマーです。",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "jo kaleti nole mi iceit nippon cetkaik leti latacet leti pulec pi kanteit tude lukup jo \"筆兵無傾 {🚩advent kalendar}\".",
-        "direct_ja": "",
+        "direct_ja": "今私は日本机戦連盟から依頼を受けて「筆兵無傾 Advent Calendar」に言葉を書く。",
         "ja": "この度、日本机戦連盟より『筆兵無傾 Advent Calendar 2023』にコメントを寄せるよう依頼されました。",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "mi jo latacet cenocit ka e xelit tude mi cetleti unde leti kulanucta cet leti alwe.",
-        "direct_ja": "",
+        "direct_ja": "私は連盟からこれが私たちの世界を取材する記事のイベントであると聞いている。",
         "ja": "これは我々の世界について取材した特集記事のイベントだとお聞きしています。",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "jo nippon delu lijuit tude ail at mi cetleti unde at cileti mo leti enja mol jo eckijacil pi jo cileti lilata mi cet xaceit jo aucleti kanteit tude kulanucta leti lata at kanteit kije kulanucta leti lata.",
-        "direct_ja": "",
+        "direct_ja": "広報処にはアイルと我々の世界、その文化を日本に教えるという仕事があり、その長として私は全ての記事を書く人と記事を読む人にとても感謝する。",
         "ja": "アイル共和国、ひいてはファイクレオネとその文化を日本に届けることを使命の一つとする広報処の長として、記事を執筆してくださる方々、および読んでくださる方々のすべてに心よりの感謝を申し上げます。",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
-        "pmcp": "nippon lata kanteit tude kapoto leti kulanucta pi mi jo ka ticotit kije mi cetleti iniwi leti ekijacil leti kilpel.",
-        "direct_ja": "",
+        "pmcp": "nippon lata kanteit tude kapoto leti kulanucta pi mi jo ka ticotit kije mi cetleti iniwi leti eckijacil leti kilpel.",
+        "direct_ja": "日本人がこちらの記事を書き、私はこのことに我々の日々の広報の成果を感じる。",
         "ja": "日本の方々から特集記事が組まれるほどにこちら側への関心が高まっていることに、我々の日々の活動の成果を感じております。",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "jo launza, mi lukupit kaleti alwe leti cela. jo ka lata jo cunenek kaceit panleti kulanucta. ka e pac jo panleti cunenek pi e lucuc jo tuwacait ectene leti cunenek.",
-        "direct_ja": "",
+        "direct_ja": "次に私はこのイベントの形式を話す。これにおいて人は一日に一つの記事を公開する。これはある日に始まり聖人を祝う日に終わる。",
         "ja": "さて、聖人の記念日に向けて毎日一つずつ記事が発表されるという本イベントの形式ですが、",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "jo mi cetleti unde xekumel jo cunenek iceit panleti tuwacait leti julo jo mele leti lata leti alwe mol. ka e pac jo panleti cunenek pi ka e lucuc jo xekumel leti lexicnen. ka e \"macalo\" pi ka e tuwaceit xekumel leti cul jo leadijo leti panleti polto.",
-        "direct_ja": "",
+        "direct_ja": "我々の世界では子供が日に一つの祝いの品を近くの人からもらう行事が存在する。これはある日に始まり子供の誕生日に終わる。これは「マーサロ」であり、レアディオのある地域における子供の祝い方である。",
         "ja": "こちらの世界にも「マーサロ」という風習が存在します。これはレアディオという地方で見られる子どもの誕生日に向けて近所の人々が一日ずつお祝いの品を持ち回りで贈るというお祝いの方法なのですが、",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "makleti xale leti mo mol jo waxec leti unde pi ka cet e pac jo waxec leti polto pi e tude jo waxec leti lime. mi cet xelit ka pi cene lijuit kije unde e waxec, pi nuwaxec leti julo mol jo mi cet at co cet leti liju.",
-        "direct_ja": "",
+        "direct_ja": "ふたつの似ている文化が別の世界にあり、これらは別の場所に始まり別の道をたどっている。われわれはこれを見て世界が違っていても異ならない部分が我々とあなたたちにあるという学びを学ぶことができる。",
         "ja": "まったく独立して歩んできたはずの世界においてもこうして似た慣習があるということは、世界が違えども私たち人間に共通するものがあることを教えてくれます。",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "mi cet at co cet leti mo e waxec pi e xale, pi mi cet at co cet lijuit kije makleti mo pi mi cet at co cet xelit leti unde delu e tude jo panka, metica.",
-        "direct_ja": "",
+        "direct_ja": "我々とあなた方の文化は違っていて似ているが、ふたつの文化を知れば、我々とあなた方が見る世界はきっととてもよくなるだろう。",
         "ja": "私たちの文化は似ていて違っていますが、それらを知ることは、きっと私たちの目に映る世界をより素晴らしいものにしてくれるでしょう。",
         "en": ""
     },
     {
         "source": "筆兵無傾AdC広報処コメント",
         "pmcp": "jo lucucleti, mi tuwacait ka. \"筆兵無傾 {🚩advent kalendar}\" e tude jo pankaleti pi mi cet at co cet leti tudekile e tude jo xep, metica.",
-        "direct_ja": "",
+        "direct_ja": "終わりに、私はこれを祈る。「筆兵無傾 Advent Calendar」がうまくいって我々とあなた方の交流が盛んになりますように。",
         "ja": "最後に、『筆兵無傾 Advent Calendar 2023』の成功およびこれからの私たちの交流がますます盛んになっていくことをお祈りします。",
         "en": ""
     },
