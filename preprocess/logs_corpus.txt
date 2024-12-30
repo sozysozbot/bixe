@@ -1,23 +1,23 @@
---2024-12-31 01:17:29--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=0
+--2024-12-31 02:06:39--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=0
 Resolving docs.google.com (docs.google.com)... 172.217.26.238
 Connecting to docs.google.com (docs.google.com)|172.217.26.238|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/67p5limn9fitlrcec4hghlmp90/1735575445000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0 [following]
+Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/frqacgm27nvel42gsh260emkqk/1735578395000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0 [following]
 Warning: wildcards not supported in HTTP.
---2024-12-31 01:17:29--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/67p5limn9fitlrcec4hghlmp90/1735575445000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0
-Resolving doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)... 142.250.207.33
-Connecting to doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|142.250.207.33|:443... connected.
+--2024-12-31 02:06:39--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/frqacgm27nvel42gsh260emkqk/1735578395000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0
+Resolving doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)... 142.250.207.1
+Connecting to doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|142.250.207.1|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘./preprocess/corpus.tsv’
 
-     0K .......... .......... .......... .......... .......... 2.70M
-    50K .......... .......... .......... .......... .......... 2.28M
-   100K .......... .......... .......... .......... .......... 2.04M
-   150K .......... .......... .......... .......... ..........  485K
-   200K .......... .......... .......... .......... .......... 1.44M
-   250K .......... .......... .......... .......... .......... 1.62M
-   300K .......... .......... ......                           92.0M=0.2s
+     0K .......... .......... .......... .......... .......... 3.51M
+    50K .......... .......... .......... .......... .......... 1.81M
+   100K .......... .......... .......... .......... .......... 3.44M
+   150K .......... .......... .......... .......... .......... 7.13M
+   200K .......... .......... .......... .......... .......... 8.22M
+   250K .......... .......... .......... .......... .......... 11.1M
+   300K .......... .......... ......                           1.72M=0.09s
 
-2024-12-31 01:17:30 (1.38 MB/s) - ‘./preprocess/corpus.tsv’ saved [334577]
+2024-12-31 02:06:40 (3.65 MB/s) - ‘./preprocess/corpus.tsv’ saved [334577]
 
