@@ -36,13 +36,13 @@ function getHoverableText(maybe_highlighted_lemma, descriptions) {
     hover_text.append(container_fragment);
     return hover_text;
 }
-function getHoverableForIgnoredWord(maybe_highlighted_lemma, headword) {
+function getHoverableForEarthlingWord(maybe_highlighted_lemma, headword) {
     const container_fragment = document.importNode(document.querySelector("#hoverable-container-template").content, true);
     container_fragment.querySelector(".main-text").textContent = "";
-    container_fragment.querySelector(".main-text").classList.add("in-ignore-list");
+    container_fragment.querySelector(".main-text").classList.add("in-earthling-list");
     container_fragment.querySelector(".main-text").append(...maybe_highlighted_lemma);
     const tooltip_text = container_fragment.querySelector(".tooltip-text");
-    tooltip_text.classList.add("in-ignore-list");
+    tooltip_text.classList.add("in-earthling-list");
     const one_entry_fragment = document.importNode(document.querySelector("#one-entry-template").content, true);
     one_entry_fragment.querySelector(".tooltip-headword").textContent = headword.toUpperCase();
     one_entry_fragment.querySelector(".tooltip-part-of-speech").textContent = "現世の単語";

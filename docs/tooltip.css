@@ -44,10 +44,10 @@
     font-weight: bold;
 }
 
-.main-text.in-ignore-list {
+.main-text.in-earthling-list {
     color: #f730a4 !important;
 }
 
-.tooltip-text.in-ignore-list {
+.tooltip-text.in-earthling-list {
     background-color: #f730a4 !important;
 }

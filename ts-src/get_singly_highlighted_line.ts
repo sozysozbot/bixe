@@ -1,6 +1,7 @@
-// 単に IGNORE するというよりも、「この資料以外で出てこないでくれ」という書き方にした方がよいか
-// TODO: When IGNORE_LIST contains a word that has legitimate use, then we must report the clash
-const IGNORE_LIST = ["nippon", "waka", "dxanken", "gemu", "maketo", "tataite", "kabutte", "gijoku", "cugoloku", "ximonoku", "ni", "hu", "xogi", "koma", "jakunin", "icxu", "ginkaku", "tolihuda", "nijokki", "dxankenpon", "kecolin", "haxidate", "dxan", "dxu", "jomihuda", "kandxi", "adbent", "kalenda", "kaminoku", "uzi", "sume", "hihu", "ogijoku", "kolomode", "phonc", "kacolin", "kijaculingu", "anpaccan", "pulomoxon", "kuwin", "kingu", "hohe", "naligin", "caixowa", "kakinomoto", "hitomalo", "axibiki", "jacuhide", "ikunonomizi", "nalikijo", "kakugijo", "bixoppu", "puwamouxan", "aikodexo", "nijokkikki", "jamakase", "gijokuxo", "kijoto", "humi", "misu", "ginxo", "ikuno", "kijoxa", "ooejama", "ogula", "oejama", "koxikibu", "naganagaxi", "madxan", "cadaije", "hilagana", "tendxi", "tenno", "xiolule", "koxikibu", "hudxiwala", "italija", "jamadoli", "takenoko", "xidalio", "cteil", "kaluta", "hitoli", "hunja", "cuteilu", "meito", "huku", "kala", "kucaki", "mube", "alaxi", "juu", "lan", "oxo", "kinxo", "kalio", "toma", "alami", "zuju", "nule", "zuzu", "dexo", "zoki", "izi", "jon", "go", "nana", "kiju", "naixi", "too", "kele", "mada", "iku", "mizi", "ula", "alu", "kaxa", "uma", "kema", "nalike", "hixa", "luk", "kecol", "kacol", "luku", "bexap", "nait", "naito", "bucu", "gemu", "maketo", "dotai", "aki", "lewa", "pacon", "kinke", "ba", "hazi", "kaku", "kakugijo", "aikodexo", "kode", "loku", "zec", "xogi", "alic", "aiko", "ama", "meit", "tolijo", "kijo"];
+// 百人一首とかについては「この資料以外で出てこないでくれ」という書き方にした方がよいか
+// TODO: When EARTHLING_LIST contains a word that has legitimate use, then we must report the clash
+// 現世都合の単語一覧
+const EARTHLING_LIST = ["nippon", "waka", "dxanken", "gemu", "maketo", "tataite", "kabutte", "gijoku", "cugoloku", "ximonoku", "ni", "hu", "xogi", "koma", "jakunin", "icxu", "ginkaku", "tolihuda", "nijokki", "dxankenpon", "kecolin", "haxidate", "dxan", "dxu", "jomihuda", "kandxi", "adbent", "kalenda", "kaminoku", "uzi", "sume", "hihu", "ogijoku", "kolomode", "phonc", "kacolin", "kijaculingu", "anpaccan", "pulomoxon", "kuwin", "kingu", "hohe", "naligin", "caixowa", "kakinomoto", "hitomalo", "axibiki", "jacuhide", "ikunonomizi", "nalikijo", "kakugijo", "bixoppu", "puwamouxan", "aikodexo", "nijokkikki", "jamakase", "gijokuxo", "kijoto", "humi", "misu", "ginxo", "ikuno", "kijoxa", "ooejama", "ogula", "oejama", "koxikibu", "naganagaxi", "madxan", "cadaije", "hilagana", "tendxi", "tenno", "xiolule", "koxikibu", "hudxiwala", "italija", "jamadoli", "takenoko", "xidalio", "cteil", "kaluta", "hitoli", "hunja", "cuteilu", "meito", "huku", "kala", "kucaki", "mube", "alaxi", "juu", "lan", "oxo", "kinxo", "kalio", "toma", "alami", "zuju", "nule", "zuzu", "dexo", "zoki", "izi", "jon", "go", "nana", "kiju", "naixi", "too", "kele", "mada", "iku", "mizi", "ula", "alu", "kaxa", "uma", "kema", "nalike", "hixa", "luk", "kecol", "kacol", "luku", "bexap", "nait", "naito", "bucu", "gemu", "maketo", "dotai", "aki", "lewa", "pacon", "kinke", "ba", "hazi", "kaku", "kakugijo", "aikodexo", "kode", "loku", "zec", "xogi", "alic", "aiko", "ama", "meit", "tolijo", "kijo"];
 
 /**
  * The basic functionality is to highlight the matched portion.
@@ -86,8 +87,8 @@ function getSinglyAnnotatedLine(full_text: string, highlight_?: { beginIndex: nu
 
         switch (tok.kind) {
             case "pmcp-word": {
-                if (IGNORE_LIST.includes(tok.content)) {
-                    single_line.append(getHoverableForIgnoredWord(maybe_highlighted,
+                if (EARTHLING_LIST.includes(tok.content)) {
+                    single_line.append(getHoverableForEarthlingWord(maybe_highlighted,
                         tok.content
 
                     ));
@@ -217,7 +218,7 @@ function tokenize(full_text: string): Token[] {
 function count_highlightable(cutoff: number = 20) {
     const ok: string[] = [];
     const not_ok: string[] = [];
-    const ignored: string[] = [];
+    const earthling: string[] = [];
 
     for (const item of corpus_new_to_old) {
         const { pmcp: pmcp_text } = item;
@@ -227,8 +228,8 @@ function count_highlightable(cutoff: number = 20) {
                 const query_res = queryLemma(tok.content, true);
                 if (query_res.kind === "ok") {
                     ok.push(tok.content);
-                } else if (IGNORE_LIST.includes(tok.content)) {
-                    ignored.push(tok.content);
+                } else if (EARTHLING_LIST.includes(tok.content)) {
+                    earthling.push(tok.content);
                 } else {
                     not_ok.push(tok.content);
                 }
@@ -239,7 +240,7 @@ function count_highlightable(cutoff: number = 20) {
 
     const highlightable_uniq = new Set(ok);
     const non_highlightable_uniq = new Set(not_ok);
-    const ignored_uniq = new Set(ignored);
+    const earthling_uniq = new Set(earthling);
 
     const counted: [string, number][] = [...not_ok.reduce(
         (count: Map<string, number>, cur) => (count.set(cur, (count.get(cur) || 0) + 1), count),
@@ -248,17 +249,17 @@ function count_highlightable(cutoff: number = 20) {
 
     counted.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
 
-    const non_uniq_total = ok.length + not_ok.length + ignored.length;
-    const uniq_total = highlightable_uniq.size + non_highlightable_uniq.size + ignored_uniq.size;
+    const non_uniq_total = ok.length + not_ok.length + earthling.length;
+    const uniq_total = highlightable_uniq.size + non_highlightable_uniq.size + earthling_uniq.size;
 
     return `
     highlightable (not uniq): ${ok.length}; ${(ok.length / non_uniq_total * 100).toPrecision(4)}%
 non-highlightable (not uniq): ${not_ok.length}; ${(not_ok.length / non_uniq_total * 100).toPrecision(4)}%
-    ignored       (not uniq): ${ignored.length}; ${(ignored.length / non_uniq_total * 100).toPrecision(4)}%
+    earthling       (not uniq): ${earthling.length}; ${(earthling.length / non_uniq_total * 100).toPrecision(4)}%
 
     highlightable (uniq): ${highlightable_uniq.size}; ${(highlightable_uniq.size / uniq_total * 100).toPrecision(4)}%
 non-highlightable (uniq): ${non_highlightable_uniq.size}; ${(non_highlightable_uniq.size / uniq_total * 100).toPrecision(4)}%
-    ignored       (uniq): ${ignored_uniq.size}; ${(ignored_uniq.size / uniq_total * 100).toPrecision(4)}%
+    earthling       (uniq): ${earthling_uniq.size}; ${(earthling_uniq.size / uniq_total * 100).toPrecision(4)}%
     
 top-tier non-highlightable: ${JSON.stringify(counted.slice(0, cutoff))}
 `;

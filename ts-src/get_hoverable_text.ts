@@ -45,17 +45,17 @@ function getHoverableText(
     return hover_text;
 }
 
-function getHoverableForIgnoredWord(
+function getHoverableForEarthlingWord(
     maybe_highlighted_lemma: (string | Node)[],
     headword: string
 ) {
     const container_fragment: DocumentFragment = document.importNode((document.querySelector("#hoverable-container-template")! as HTMLTemplateElement).content, true);
     container_fragment.querySelector(".main-text")!.textContent = "";
-    container_fragment.querySelector(".main-text")!.classList.add("in-ignore-list");
+    container_fragment.querySelector(".main-text")!.classList.add("in-earthling-list");
     container_fragment.querySelector(".main-text")!.append(...maybe_highlighted_lemma);
 
     const tooltip_text: Element = container_fragment.querySelector(".tooltip-text")!;
-    tooltip_text.classList.add("in-ignore-list");
+    tooltip_text.classList.add("in-earthling-list");
 
     const one_entry_fragment: DocumentFragment = document.importNode((document.querySelector("#one-entry-template")! as HTMLTemplateElement).content, true);
     one_entry_fragment.querySelector(".tooltip-headword")!.textContent = headword.toUpperCase();

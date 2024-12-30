@@ -18,10 +18,10 @@
 <script src="./keyboard.js"></script>
 
 <textarea id="output" readonly rows="30" cols="80"></textarea>
-<h2>List of ignored words [Edit ts-src/get_singly_highlighted_line.ts to modify this list]</h2>
-<div id="ignore_list"></div>
+<h2>List of Earthling words [Edit ts-src/get_singly_highlighted_line.ts to modify this list]</h2>
+<div id="earthling_list"></div>
 
 <script>
 document.getElementById("output").value = count_highlightable(Infinity);
-document.getElementById("ignore_list").textContent = JSON.stringify(IGNORE_LIST, null, 2);
+document.getElementById("earthling_list").textContent = JSON.stringify(EARTHLING_LIST, null, 2);
 </script>
