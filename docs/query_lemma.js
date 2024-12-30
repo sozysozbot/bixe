@@ -41,6 +41,15 @@ function queryLemma(word, allow_strip) {
                 return without_leti;
             }
         }
+        else if (word.endsWith("lt") && word.length > 2) {
+            const without_lt = queryLemma(word.slice(0, -2), false);
+            if (without_lt.kind === "ok") {
+                return without_lt;
+            }
+        }
+        else if (word === "lt") {
+            return queryLemma("leti", false);
+        }
     }
     if (word === "e") {
         // 全ての動詞 (e tata とか)を表示するわけにはいかない

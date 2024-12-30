@@ -39,6 +39,13 @@ function queryLemma(word: string, allow_strip: boolean): { kind: "ok", words: Wo
             if (without_leti.kind === "ok") {
                 return without_leti;
             }
+        } else if (word.endsWith("lt") && word.length > 2) {
+            const without_lt = queryLemma(word.slice(0, -2), false);
+            if (without_lt.kind === "ok") {
+                return without_lt;
+            }
+        } else if (word === "lt") {
+            return queryLemma("leti", false);
         }
     }
 

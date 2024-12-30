@@ -60,7 +60,7 @@ function getOneEntryFragment(description: {
         ; // TODO: XSS
     const split_leti_but_join_it = (str: string) => str.toLowerCase()
         .replaceAll(/-it\b(?!-)/g, "it")
-        .replaceAll(/(?<!-|mo)leti\b(?!-)/g, "-leti");
+        .replaceAll(/(?<!-|mo)(leti|lt)\b(?!-)/g, "-leti");
 
     one_entry_fragment.querySelector(".tooltip-pronunciation")!.textContent = `［${kana_words(
         split_leti_but_join_it(description.headword)
