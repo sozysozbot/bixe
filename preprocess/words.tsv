@@ -55,7 +55,7 @@
 540	e pen		動詞					開く	（左に同じ）	pen			
 550	e		特殊動詞					～である	（左に同じ）	es			
 560	e tuwaca		動詞					信じる	（左に同じ）	tvarcar			
-570	e ice		動詞					受ける	（左に同じ）	icve		受	
+570	e ice		動詞					受ける、得る、される	（左に同じ）	icve		受	
 580	e nip		動詞					消える、なくなる	tejiest	niv		無	
 590	e bi		動詞					祝福する	（左に同じ）	birlees			
 600	e panka		動詞					良い	vynut	panqa, fhanka		善	
@@ -272,26 +272,27 @@
 2660	lipalain		形容詞					リパラオネ（民族名）の	（左に同じ）	lipalain			
 2670	duxe		名詞					詩、歌	durxe, snirorerl	durxe			
 2680	e cut		動詞					強い	stiestud	stiestud, stystist, stistyst			
-2690	pebut		名詞					机	（左に同じ）	pievyt			
+2690	pebut		名詞			2020/02/10	悠F Discord	机	（左に同じ）	pievyt			
 2700	lin		名詞					アレス・リン（王の名）	（左に同じ）	ales.lin		清	
-2710	bule		名詞					冬	（左に同じ）	vyrle			
+2710	bule		名詞			2020/02/11	悠F Discord	冬	（左に同じ）	vyrle			
 2720	okijau		名詞					ホーギャウ、オキヤウ（地名）	（左に同じ）	horgiau			
 2730	kamut		名詞		リパライン語辞書			大月島、ブリェーシャン、リナエスト本島	brjerxan				
 2740	kawakija		名詞		PMCF主要島の名前対訳			ヴェフィス本島, 新島	dytymenis	kuakaja.ar			
 2750	pokjut		名詞		PMCF主要島の名前対訳			蒼島	puli menis	fokude.ar			
-2760	tanxelma		名詞		PMCF主要島の名前対訳			タムシエルミワ島	tamxi'ekhumiwa	tamchieroumioi.vef			
-2770	nuxep		名詞		PMCF主要島の名前対訳			小島	menisertz	NUXEP.pmcf			
-2780	bexan		名詞		PMCF主要島の名前対訳			リナエスト本島	brjerxan	?			
-2790	xukamenocke		名詞		PMCF主要島の名前対訳			シュカメニョーイシュケ島	menisejtal	SCkAMÉMOYSCÄ.lin			
-2800	junacna		名詞		PMCF主要島の名前対訳			ユーニャズナ島	toxagard	ÚMACzŊA.lin			
-2810	konbec		名詞		PMCF主要島の名前対訳			フロン・ビェーイシュ島	（左に同じ）	konvefisal			
-2820	bilo		名詞		PMCF主要島の名前対訳			ブイロ島	farrbirlegard	PUYLvO.lin			
-2830	xukepalox		名詞		PMCF主要島の名前対訳			シュケープラローシュ島	sikxurtiaal	SCÄBÄkROS.in			
+2760	tanxelma		名詞		PMCF主要島の名前対訳	2020/6/27		タムシエルミワ島	tamxi'ekhumiwa	tamchieroumioi.vef			
+2770	nuxep		名詞		PMCF主要島の名前対訳	2020/6/27		小島	menisertz	NUXEP.pmcf			
+2780	bexan		名詞		PMCF主要島の名前対訳	2020/8/3		リナエスト本島	brjerxan	?			
+2790	xukamenocke		名詞		PMCF主要島の名前対訳	2020/8/3		シュカメニョーイシュケ島	menisejtal	SCkAMÉMOYSCÄ.lin			
+2800	junacna		名詞		PMCF主要島の名前対訳	2020/8/3		ユーニャズナ島	toxagard	ÚMACzŊA.lin			
+2810	konbec		名詞		PMCF主要島の名前対訳	2020/8/3		フロン・ビェーイシュ島	（左に同じ）	konvefisal			
+2820	bilo		名詞		PMCF主要島の名前対訳	2020/8/3		ブイロ島	farrbirlegard	PUYLvO.lin			
+2830	xukepalox		名詞		PMCF主要島の名前対訳	2020/8/3		シュケープラローシュ島	sikxurtiaal	SCÄBÄkROS.in			
 2840	neo		名詞					お酒、酒	dosnetost	naiwou.ar			
 2850	cecnutit		動詞					守る	（左に同じ）	sesnud		守	
 2860	late		名詞					お金、金銭	（左に同じ）	la arte			
 2870	pecca		名詞					怒り	la fecca	fecca			
 2880	belpicit		動詞		「我々の文化」3			遊ぶ	（左に同じ）	velfezes			
+2885	kude		名詞		2021年始ご挨拶			病気	（左に同じ）	kyde			
 2890	e zakan-zakan		動詞		2021年始ご挨拶			混乱している、無秩序である	es feti'aven	za'kkan			
 2900	dictic		名詞					家、企業	dystis, leryn	dystis			
 2910	toni		名詞					神	（左に同じ）	tonir			
@@ -302,6 +303,7 @@
 2960	zicedol		名詞		「我々の文化」3			歴史	（左に同じ）	zisedol			
 2970	paiklene		名詞		「我々の文化」3			ファイクレオネ（惑星名）	（左に同じ）	faikleone			
 2980	cikiliotije		名詞		「我々の文化」3			スキュリオーティエ叙事詩	（左に同じ）	skyli'orti'e			
+2985	cikilotije		名詞		「我々の文化」3			スキュリオーティエ叙事詩	（左に同じ）	skyli'orti'e			
 2990	latot		名詞		「我々の文化」3			ラートード（時代区分名）	（左に同じ）	lartord			
 3000	toxa		名詞		「我々の文化」3			石	（左に同じ）	toxa			
 3010	bepale		名詞					板	vepalea, leviarci, cestelefevirt	vepalea.lip			
@@ -688,6 +690,7 @@
 6755	LEPOP		名詞		NIPPON BELPIC	2024/04/12		足	（左に同じ）	liepop			
 6760	LOPOP		名詞		NIPPON BELPIC	2024/04/12		足	（左に同じ）	liepop			
 6770	LOPTAIPE-IT		動詞		NIPPON BELPIC	2024/04/12		巻く	ifie	roft + -a- + -r- + ifie			
+6785	BAWAK-IT		動詞		NIPPON BELPIC	2024/04/12		ひっかける	orklyles	(niv jexi'ert)			（語源不詳）
 6780	CIKECEN		名詞		NIPPON BELPIC	2024/04/12		端、終点	（左に同じ）	stikiesn			
 6790	LATEL		名詞		NIPPON BELPIC	2024/04/12		結び目	（左に同じ）	rattel			
 6800	AUCET-IT		動詞		NIPPON BELPIC	2024/04/12		抹殺する、ゲームなどから駒を除外する	alceto, afnar laver o vepalea lerj tark	alceto			
@@ -731,7 +734,7 @@
 7180	MAKINA		名詞		NIPPON BELPIC	2024/04/20		音楽	niesnu	makina.ar	音楽		
 7190	MALCA		名詞		NIPPON BELPIC	2024/04/20		母	（左に同じ）	malca		母	
 7200	NETALE		名詞		NIPPON BELPIC	2024/04/20		郵便、手紙	sniertarle, sneest	sniertarle	郵便、宅配		
-7210	PITAXI-LETI		動詞		NIPPON BELPIC	2024/04/20		狡猾な（語源不詳）	yst nutines	(niv jexi'ert)			
+7210	PITAXI-LETI		動詞		NIPPON BELPIC	2024/04/20		狡猾な	yst nutines	(niv jexi'ert)			（語源不詳）
 7220	e DINDUN		動詞		NIPPON BELPIC	2024/04/20		ごちゃごちゃ	feti'anasch	(niv jexi'ert) jol melses "tern tern" pergvirle'dy			混ざっている様子を表すオノマトペ（ten1 ten1との関連？）
 7230	DINDUN-IT		動詞		NIPPON BELPIC	2024/04/20		混ぜる、乱す、シャッフルする	jyrus, ylien, juleslotizases				（分かたれているものを均す行為全般が言えそう）
 7240	KONLABEL		名詞		NIPPON BELPIC	2024/04/20		揃ったもの、一式、セット	（左に同じ）	konlaverl			
@@ -767,7 +770,7 @@
 7540	ATELETINE		名詞		虎新聞	2024/04/23		値段	（左に同じ）	arterletine			
 7550	AINLOMA		名詞		虎新聞	2024/04/23		魚醤	（左に同じ）	amilahomá [æ̃̀ĩ̯l.lò̞ː.mə́]	魚の		
 7560	MAU		名詞		虎新聞	2024/04/24		街、町、都市	（左に同じ）	marl			
-7570	cenoctit		動詞		虎新聞	2024/04/24		聞く	（左に同じ）	cenoct			
+7570	cenoctit		動詞		虎新聞	2024/04/24		聞く	（左に同じ）	senost			
 7580	LINEC		名詞		虎新聞	2024/04/24		リナエスト	（左に同じ）	linaest			
 7590	XUCI		名詞		虎新聞	2024/04/24		車、車両	（左に同じ）	xysir			
 7600	NUCETIT		動詞		虎新聞	2024/04/24		減らす	sotul	NU-.pmcf + CETIT.pmcf			
@@ -861,6 +864,7 @@
 	ACILAN		名詞		筆兵無傾AdC2024広報処コメント			情報	（左に同じ）	acirlan			
 	E NUXALE		動詞		筆兵無傾AdC2024広報処コメント			似ていない、大きく異なる	stes niv e'i, es niv xaleerl	NU-.pmcp + XALE.pmcp			
 	JEXET-IT		動詞		筆兵無傾AdC2024広報処コメント			明らかにする	（左に同じ）	jexi'ertes			JEXET < jexi'ert.lip「証拠」は既にある
+	CENOT-IT		動詞		ゲムマ2024春広報処コメント			聞く	（左に同じ）	senost			
 	nanala		名詞					ナナラ【静水】（行政区画名）		na.tk【静】+ nala.tk【水】		静水	
 	polakaika		名詞		「我々の文化」3			ポラカイカ【羊戦】（地名）		pola.ar + kaika.ar		羊戦	
 	e nukilpanka		動詞		「我々の文化」3			幸せである	es fartonar	nukil.pmcp + panka.pmcp			
@@ -884,6 +888,8 @@
 	penen		名詞		LAUZAIT-CEPルールブック			準備	（左に同じ）	farnen			語形は、perne「座る、着席する」との混交によるもの。
 	denopoc		名詞		NIPPON BELPIC			条件	（左に同じ）	dhenefos			
 	lictet		名詞		LAUZAIT-CEPルールブック			瞳；点（ドット）	fiursen listet, larl	listet			
+	palbelta		名詞		LAUZAIT-CEPルールブック	2024/07/02	悠F Discord	バージョン	（左に同じ）	falvelta			
+	icel-it		動詞		LAUZAIT-CEPルールブック			受ける、得る、される	icve	icve, es vel		受	
 	e nucuc		動詞					位置が低い、地位が低い	（左に同じ）	ny stys			
 	lazo		名詞					ラツォ【軸山】（山名）		la1 zo1.pk		軸山	
 	jegin		人名					イェーギン【石】（人名）				石	
@@ -899,6 +905,8 @@
 	muwi		人名					ムウィ、ムイ【魚】（人名）				魚	
 	tacak		人名					タザク、タサク【皇来】（人名）				皇来	
 	cilxalap		人名					スィールジャーラフ、スィルシャラプ（人名）					
+	pet		人名					ペㇳ【星】（人名）				星	
+	nebait		人名					ヌバイㇳ、ネバイㇳ【猫膠】				猫膠	
 	kutbum		名詞					クッブーム詩【撃鼓】（詩の形式のひとつ）				撃鼓	
 	ilin		人名					イリーン、イリン（人名）		ilirn			
 	dektap		人名					デクタプ、デクタフ（人名）		dektaf			
