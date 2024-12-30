@@ -43,3 +43,11 @@
     color: #0866b9;
     font-weight: bold;
 }
+
+.main-text.in-ignore-list {
+    color: #f730a4 !important;
+}
+
+.tooltip-text.in-ignore-list {
+    background-color: #f730a4 !important;
+}

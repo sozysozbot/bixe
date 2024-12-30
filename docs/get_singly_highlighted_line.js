@@ -1,4 +1,7 @@
 "use strict";
+// 単に IGNORE するというよりも、「この資料以外で出てこないでくれ」という書き方にした方がよいか
+// TODO: When IGNORE_LIST contains a word that has legitimate use, then we must report the clash
+const IGNORE_LIST = ["nippon", "waka", "dxanken", "gemu", "maketo", "tataite", "kabutte", "gijoku", "cugoloku", "ximonoku", "ni", "hu", "xogi", "koma", "jakunin", "icxu", "ginkaku", "tolihuda", "nijokki", "dxankenpon", "kecolin", "haxidate", "dxan", "dxu", "jomihuda", "kandxi", "adbent", "kalenda", "kaminoku", "uzi", "sume", "hihu", "ogijoku", "kolomode", "phonc", "kacolin", "kijaculingu", "anpaccan", "pulomoxon", "kuwin", "kingu", "hohe", "naligin", "caixowa", "kakinomoto", "hitomalo", "axibiki", "jacuhide", "ikunonomizi", "nalikijo", "kakugijo", "bixoppu", "puwamouxan", "aikodexo", "nijokkikki", "jamakase", "gijokuxo", "kijoto", "humi", "misu", "ginxo", "ikuno", "kijoxa", "ooejama", "ogula", "oejama", "koxikibu", "naganagaxi", "madxan", "cadaije", "hilagana", "tendxi", "tenno", "xiolule", "koxikibu", "hudxiwala", "italija", "jamadoli", "takenoko", "xidalio", "cteil", "kaluta", "hitoli", "hunja", "cuteilu", "meito", "huku", "kala", "kucaki", "mube", "alaxi", "juu", "lan", "oxo", "kinxo", "kalio", "toma", "alami", "zuju", "nule", "zuzu", "dexo", "zoki", "izi", "jon", "go", "nana", "kiju", "naixi", "too", "kele", "mada", "iku", "mizi", "ula", "alu", "kaxa", "uma", "kema", "nalike", "hixa", "luk", "kecol", "kacol", "luku", "bexap", "nait", "naito", "bucu", "gemu", "maketo", "dotai", "aki", "lewa", "pacon", "kinke", "ba", "hazi", "kaku", "kakugijo", "aikodexo", "kode", "loku", "zec", "xogi", "alic", "aiko", "ama", "meit", "tolijo", "kijo"];
 /**
  * The basic functionality is to highlight the matched portion.
  * That is, we want
@@ -79,6 +82,10 @@ function getSinglyAnnotatedLine(full_text, highlight_) {
         switch (tok.kind) {
             case "pmcp-word":
                 {
+                    if (IGNORE_LIST.includes(tok.content)) {
+                        single_line.append(getHoverableForIgnoredWord(maybe_highlighted, tok.content));
+                        break;
+                    }
                     const query_res = queryLemma(tok.content, true);
                     if (query_res.kind === "ok") {
                         const descriptions = query_res.words.map(w => ({
@@ -212,9 +219,6 @@ function tokenize(full_text) {
     ans.push({ kind: "eof", content: "" });
     return ans;
 }
-// 単に IGNORE するというよりも、「この資料以外で出てこないでくれ」という書き方にした方がよいか
-// TODO: When IGNORE_LIST contains a word that has legitimate use, then we must report the clash
-const IGNORE_LIST = ["nippon", "waka", "dxanken", "gemu", "maketo", "tataite", "kabutte", "gijoku", "cugoloku", "ximonoku", "ni", "hu", "xogi", "koma", "jakunin", "icxu", "ginkaku", "tolihuda", "nijokki", "dxankenpon", "kecolin", "haxidate", "dxan", "dxu", "jomihuda", "kandxi", "adbent", "kalenda", "kaminoku", "uzi", "sume", "hihu", "ogijoku", "kolomode", "phonc", "kacolin", "kijaculingu", "anpaccan", "pulomoxon", "kuwin", "kingu", "hohe", "naligin", "caixowa", "kakinomoto", "hitomalo", "axibiki", "jacuhide", "ikunonomizi", "nalikijo", "kakugijo", "bixoppu", "puwamouxan", "aikodexo", "nijokkikki", "jamakase", "gijokuxo", "kijoto", "humi", "misu", "ginxo", "ikuno", "kijoxa", "ooejama", "ogula", "oejama", "koxikibu", "naganagaxi", "madxan", "cadaije", "hilagana", "tendxi", "tenno", "xiolule", "koxikibu", "hudxiwala", "italija", "jamadoli", "takenoko", "xidalio", "cteil", "kaluta", "hitoli", "hunja", "cuteilu", "meito", "huku", "kala", "kucaki", "mube", "alaxi", "juu", "lan", "oxo", "kinxo", "kalio", "toma", "alami", "zuju", "nule", "zuzu", "dexo", "zoki", "izi", "jon", "go", "nana", "kiju", "naixi", "too", "kele", "mada", "iku", "mizi", "ula", "alu", "kaxa", "uma", "kema", "nalike", "hixa", "luk", "kecol", "kacol", "luku", "bexap", "nait", "naito", "bucu", "gemu", "maketo", "dotai", "aki", "lewa", "pacon", "kinke", "ba", "hazi", "kaku", "kakugijo", "aikodexo", "kode", "loku", "zec", "xogi", "alic", "aiko", "ama", "meit", "tolijo", "kijo"];
 function count_highlightable(cutoff = 20) {
     const ok = [];
     const not_ok = [];
