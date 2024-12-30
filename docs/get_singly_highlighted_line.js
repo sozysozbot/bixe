@@ -224,7 +224,9 @@ function count_highlightable() {
     const ok = [];
     const not_ok = [];
     const earthling = [];
+    const t0 = performance.now();
     for (const item of corpus_new_to_old) {
+        const t0 = performance.now();
         const { pmcp: pmcp_text } = item;
         const tokens = tokenize(pmcp_text);
         for (const tok of tokens) {
@@ -241,7 +243,11 @@ function count_highlightable() {
                 }
             }
         }
+        const t1 = performance.now();
+        console.log(`Inner loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
     }
+    const t1 = performance.now();
+    console.log(`Outer loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
     const highlightable_uniq = new Set(ok);
     const non_highlightable_uniq = new Set(not_ok);
     const earthling_uniq = new Set(earthling);
