@@ -1,8 +1,34 @@
 "use strict";
-// 百人一首とかについては「この資料以外で出てこないでくれ」という書き方にした方がよいか
+// 百人一首とかについて、「この資料以外で出てこないでくれ」と指定できる
+const EARTHLING_WORDS = new Map([
+    [
+        // global: words that is allowed to be found in any source
+        "__GLOBAL__", ["nippon", "gemu", "maketo", "adbent", "kalenda", "bucu", "gemu", "maketo", "madxan", "lewa"]
+    ],
+    ["PMCFショーケース", ["alic"]],
+    ["改良版アリス", ["alic"]],
+    ["かるたスライド", ["kaluta", "jakunin", "icxu"]],
+    [
+        "日本の遊戯 第一号", ["jakunin", "icxu",
+            "waka", "dxanken", "tataite", "kabutte", "gijoku", "cugoloku", "ximonoku", "xogi", "koma", "ginkaku", "tolihuda", "nijokki", "dxankenpon", "kecolin", "haxidate", "dxan", "dxu", "jomihuda", "kandxi", "kaminoku", "uzi", "sume", "hihu", "ogijoku", "kolomode", "phonc", "kacolin", "kijaculingu", "anpaccan", "pulomoxon", "kuwin", "kingu", "hohe", "naligin", "caixowa", "kakinomoto", "hitomalo", "axibiki", "jacuhide", "ikunonomizi", "nalikijo", "kakugijo", "bixoppu", "puwamouxan", "aikodexo", "nijokkikki", "jamakase", "gijokuxo", "kijoto", "humi", "misu", "ginxo", "ikuno", "kijoxa", "ooejama", "ogula", "oejama", "koxikibu", "naganagaxi", "cadaije", "hilagana", "tendxi", "tenno", "xiolule", "koxikibu", "hudxiwala", "italija", "jamadoli", "takenoko", "xidalio", "cteil", "hitoli", "hunja", "cuteilu", "meito", "huku", "kala", "kucaki", "mube", "alaxi", "juu", "lan", "oxo", "kinxo", "kalio", "toma", "alami", "zuju", "nule", "zuzu", "dexo", "zoki", "izi", "jon", "go", "nana", "kiju", "naixi", "too", "kele", "mada", "iku", "mizi", "ula", "alu", "kaxa", "uma", "kema", "nalike", "hixa", "luk", "kecol", "kacol", "luku", "bexap", "nait", "naito", "dotai", "aki", "pacon", "kinke", "ba", "hazi", "kaku", "kakugijo", "aikodexo", "kode", "loku", "zec", "xogi", "aiko", "ama", "meit", "tolijo", "kijo"
+        ]
+    ]
+]);
 // TODO: When EARTHLING_LIST contains a word that has legitimate use, then we must report the clash
 // 現世都合の単語一覧
-const EARTHLING_LIST = ["nippon", "waka", "dxanken", "gemu", "maketo", "tataite", "kabutte", "gijoku", "cugoloku", "ximonoku", "ni", "hu", "xogi", "koma", "jakunin", "icxu", "ginkaku", "tolihuda", "nijokki", "dxankenpon", "kecolin", "haxidate", "dxan", "dxu", "jomihuda", "kandxi", "adbent", "kalenda", "kaminoku", "uzi", "sume", "hihu", "ogijoku", "kolomode", "phonc", "kacolin", "kijaculingu", "anpaccan", "pulomoxon", "kuwin", "kingu", "hohe", "naligin", "caixowa", "kakinomoto", "hitomalo", "axibiki", "jacuhide", "ikunonomizi", "nalikijo", "kakugijo", "bixoppu", "puwamouxan", "aikodexo", "nijokkikki", "jamakase", "gijokuxo", "kijoto", "humi", "misu", "ginxo", "ikuno", "kijoxa", "ooejama", "ogula", "oejama", "koxikibu", "naganagaxi", "madxan", "cadaije", "hilagana", "tendxi", "tenno", "xiolule", "koxikibu", "hudxiwala", "italija", "jamadoli", "takenoko", "xidalio", "cteil", "kaluta", "hitoli", "hunja", "cuteilu", "meito", "huku", "kala", "kucaki", "mube", "alaxi", "juu", "lan", "oxo", "kinxo", "kalio", "toma", "alami", "zuju", "nule", "zuzu", "dexo", "zoki", "izi", "jon", "go", "nana", "kiju", "naixi", "too", "kele", "mada", "iku", "mizi", "ula", "alu", "kaxa", "uma", "kema", "nalike", "hixa", "luk", "kecol", "kacol", "luku", "bexap", "nait", "naito", "bucu", "gemu", "maketo", "dotai", "aki", "lewa", "pacon", "kinke", "ba", "hazi", "kaku", "kakugijo", "aikodexo", "kode", "loku", "zec", "xogi", "alic", "aiko", "ama", "meit", "tolijo", "kijo"];
+const EARTHLING_LIST = [...EARTHLING_WORDS].flatMap(([_, words]) => words);
+function isEarthlingWord(word) {
+    return EARTHLING_LIST.includes(word);
+}
+function expectedSourcesForEarthlingWord(word) {
+    const ans = [];
+    for (const [source, words] of EARTHLING_WORDS) {
+        if (words.includes(word)) {
+            ans.push(source);
+        }
+    }
+    return ans;
+}
 /**
  * The basic functionality is to highlight the matched portion.
  * That is, we want
@@ -33,7 +59,7 @@ const EARTHLING_LIST = ["nippon", "waka", "dxanken", "gemu", "maketo", "tataite"
         - よってその位置で slice すればいい
 
  */
-function getSinglyAnnotatedLine(full_text, highlight_) {
+function getSinglyAnnotatedLine(full_text, source, highlight_) {
     const h = highlight_ ?? { beginIndex: 0, endIndex: 0, match: "" };
     const tokens = tokenize(full_text);
     const single_line = document.createElement("div");
@@ -83,9 +109,14 @@ function getSinglyAnnotatedLine(full_text, highlight_) {
         switch (tok.kind) {
             case "pmcp-word":
                 {
-                    if (EARTHLING_LIST.includes(tok.content)) {
+                    if (isEarthlingWord(tok.content)) {
                         single_line.append(getHoverableForEarthlingWord(maybe_highlighted, tok.content));
-                        break;
+                        const expected_sources = expectedSourcesForEarthlingWord(tok.content);
+                        if (expected_sources.includes(source)
+                            || expected_sources.includes("__GLOBAL__")) {
+                            break;
+                        }
+                        alert(`Word "${tok.content}" is expected to be found only in sources ${JSON.stringify(expected_sources)} but was found in "${source}"`);
                     }
                     const query_res = queryLemma(tok.content, true);
                     if (query_res.kind === "ok") {
@@ -235,7 +266,7 @@ function count_highlightable() {
                 if (query_res.kind === "ok") {
                     ok.push(tok.content);
                 }
-                else if (EARTHLING_LIST.includes(tok.content)) {
+                else if (isEarthlingWord(tok.content)) {
                     earthling.push(tok.content);
                 }
                 else {

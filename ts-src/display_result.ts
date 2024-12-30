@@ -83,6 +83,11 @@ async function display_result(search_by_lang: "pmcp" | "ja" = "pmcp") {
                 }
             })();
 
+            const source_signifier = item.item.source;
+            if (!is_valid_source(source_signifier)) {
+                throw new Error(`Invalid source signifier: ${source_signifier}`);
+            }
+
             const searched_item = document.createElement("div");
             searched_item.className = "searched-item";
 
@@ -93,7 +98,7 @@ async function display_result(search_by_lang: "pmcp" | "ja" = "pmcp") {
                 }
                 corpusText.className = "corpus-text";
                 for (const { match, beginIndex, endIndex } of matched_portions) {
-                    corpusText.appendChild(getSinglyAnnotatedLine(pmcp_text, { beginIndex, endIndex, match }));
+                    corpusText.appendChild(getSinglyAnnotatedLine(pmcp_text, source_signifier, { beginIndex, endIndex, match }));
                     corpusText.appendChild(document.createElement("hr"));
                 }
                 searched_item.appendChild(corpusText);
@@ -103,7 +108,7 @@ async function display_result(search_by_lang: "pmcp" | "ja" = "pmcp") {
                     corpusText.style.fontFamily = "rounded";
                 }
                 corpusText.className = "corpus-text";
-                corpusText.appendChild(getSinglyAnnotatedLine(pmcp_text));
+                corpusText.appendChild(getSinglyAnnotatedLine(pmcp_text, source_signifier));
                 corpusText.appendChild(document.createElement("hr"));
                 searched_item.appendChild(corpusText);
             }
@@ -153,10 +158,7 @@ async function display_result(search_by_lang: "pmcp" | "ja" = "pmcp") {
 
             const details = document.createElement("details");
             const summary = document.createElement("summary");
-            const source_signifier = item.item.source;
-            if (!is_valid_source(source_signifier)) {
-                throw new Error(`Invalid source signifier: ${source_signifier}`);
-            }
+
             summary.textContent = `出典: ${source_signifier}`;
             details.appendChild(summary);
             const ul = document.createElement("ul");
