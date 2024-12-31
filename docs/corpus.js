@@ -14589,6 +14589,1952 @@ const CORPUS = [
         "en": ""
     },
     {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nippon madan",
+        "direct_ja": "",
+        "ja": "日本マジャン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nippon madxan e ducun paxetoxeleti madxan pi .",
+        "direct_ja": "",
+        "ja": "日本マジャンは、極端に複雑なマジャンである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nupate, cet cetleti lata belpicit kaleti ducun paxetoxeleti belpic jo nippon.",
+        "direct_ja": "",
+        "ja": "驚くべきことに、日本ではこの極端に複雑なゲームをとても多くの人が遊ぶ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nippon madxan letit 2leti cepkulante pi ka e \"li-zi\" at \"huli-ten\" pi ka xep waxecit nippon madxan jo etleti madxan.",
+        "direct_ja": "",
+        "ja": "「リチ」と「フリ・テン」という 2 つのルールが存在し、これが日本マジャンを他のマジャンと大きく異ならしめている。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo atakecit leti, jo nippon madxan delu laijuit nipit leti zo jo pankaleti cul.",
+        "direct_ja": "",
+        "ja": "また日本マジャンでは捨てた駒を正しい方法で並べる必要がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "cene kante kije lata nipit zo leti kame dije jo kaleti cul.",
+        "direct_ja": "",
+        "ja": "この方法によりプレーヤーがどの手番で駒を捨てたかがわかる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo kaleti nalu, nippon madzan e \"xelit etleti nipit leti zo pi ticot-ticotit tude\" leti belpic.",
+        "direct_ja": "",
+        "ja": "この理由により、日本マジャンは「他の人が提出した駒を見て、深謀遠慮を巡らす」という遊びである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kin leti xedixel",
+        "direct_ja": "",
+        "ja": "点棒",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nippon lata e pulanken pi nip amolit late jo nelup.",
+        "direct_ja": "",
+        "ja": "日本の人は奥ゆかしいので、机の上にお金を置かない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo nippon madxan lata letit tude o kije xedixel. xedixel letit kin.",
+        "direct_ja": "",
+        "ja": "日本マジャンでは、棒を渡したりもらったりする。棒は点を持つ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "cena kin leti xedixel (1leti)",
+        "direct_ja": "",
+        "ja": "一万点の棒（一つ）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "5?Ⅽ kin leti xedixel (2leti)",
+        "direct_ja": "",
+        "ja": "五千点の棒（二つ）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "?Ⅽ kin leti xedixel (4leti)",
+        "direct_ja": "",
+        "ja": "千点の棒（四つ）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "Ⅽ kin leti xedixel (10)",
+        "direct_ja": "",
+        "ja": "百点の棒（十）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ka e 2leti cena 5leti anxan kin.",
+        "direct_ja": "",
+        "ja": "これは2万5千点である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "belpic e tude jo kame",
+        "direct_ja": "",
+        "ja": "遊戯の進行",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "tectelit e pene leti poto pi lauzait jama pi letit kije kopzo. jo kaleti nole, lauzait \"wanpai\".",
+        "direct_ja": "",
+        "ja": "座る場所を決めてヤマを作り、手駒を取る。このとき、「ワンパイ」も作る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "wanpai",
+        "direct_ja": "",
+        "ja": "ワンパイ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo cectit jama leti nole, mak cectit jo \"jama leti dijunal\" leti 7leti lukxe. kaleti 7leti lukxe e \"wanpai\". jo aucleti nole ?4leti zo mol jo wanpai. jo pankaleti nole lata delu letit zo jo wanpai, pi lata nip-nole delu tudeit 1leti zo pac jama leti dijunal lucuc jo wanpai",
+        "direct_ja": "",
+        "ja": "ヤマを切るとき、もう一度「ヤマの頭」の7つの塔を分ける。この7つの塔が「ワンパイ」である。ワンパイには常に14個の駒がある。特定の状況でプレーヤーはワンパイから駒を取るが、プレーヤーは即座に1つの駒をヤマの頭からワンパイへ動かす。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "wanpai letit 4leti \"linxan leti zo\" at 1leti \"tectelit dola leti zo\" at 4leti \"tectelit kandola leti zo\" at 5leti \"tectelit uladola leti zo\".",
+        "direct_ja": "",
+        "ja": "ワンパイには4つの「リンシャン駒」と1つの4つの「ドラを決める駒」と5つの「ウラドラを決める駒」がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it kame jo dije",
+        "direct_ja": "",
+        "ja": "手番で行われること",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo dije, lata letit kije zo jo jama pi nipit zo. nipit zo pi dije e tude jo tecnok leti lata.",
+        "direct_ja": "",
+        "ja": "手番では、ヤマから駒を取って駒を捨てる。駒を捨てると右の人に手番が動く。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zi at pon at kan leti cepkulante",
+        "direct_ja": "",
+        "ja": "チ・ポン・カンのルール",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "lata nipit zo jo cileti ponto. pi, etleti lata it zi o pon o kan jo zo pi kaleti zo leti polto nip e ponto. jo kaleti nole, lata nip cene amolit nipit leti zo jo nukil. jo kaleti nalu, lukupit leti lata delu culaunit letit kije leti zo.",
+        "direct_ja": "",
+        "ja": "プレーヤーは駒をその目の前に捨てる。しかし、他の人が駒をチかポンかカンしたら、その駒の場所は目の前ではない。このとき、プレーヤー捨てる駒を覚えていることができない。その理由で、発声したプレーヤーは取ってきた駒を寝かせなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "co culaunit leti zo leti polto letit cepkulante. ka e launze.",
+        "direct_ja": "",
+        "ja": "あなたが寝かせた駒の場所には規則がある。これは以下の通りである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- nipit leti lata mol jo tecnok pi culaunleti zo mol jo kaceit leti zo leti tecnok.",
+        "direct_ja": "",
+        "ja": "- 捨てた人が右にいるなら、寝ている駒は公開された駒の右にある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- nipit leti lata mol jo wekupolto pi culaunleti zo leti polto nip e kaceit leti zo leti cikecen.",
+        "direct_ja": "",
+        "ja": "- 捨てた人が向かいにいるなら、寝ている駒の場所は公開された駒の端ではない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- nipit leti lata mol jo tijuna pi culaunleti zo mol jo kaceit leti zo leti tijuna.",
+        "direct_ja": "",
+        "ja": "- 捨てた人が左にいるなら、寝ている駒は公開された駒の左にある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo it kan leti nole, letit linxan leti zo pi delu nip-nole amolit dutucunleti zo jo wanpai. jo kaleti nalu, zo molip jo jama pi lata nip cene it kan.",
+        "direct_ja": "",
+        "ja": "カンをする際には、リンシャンの駒を取って即座に新しい駒をワンパイに置かねばならない。このため、コマがヤマにないならプレーヤーはカンをできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it zi o pon pi nip cene nip-nole nipit nuwaxecleti zo jo letit kije leti zo.",
+        "direct_ja": "",
+        "ja": "チーかポンをした直後に、取った駒と同じ物を捨てることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "keco, letit \"4\"-\"4\"-\"4\" pi it pon jo \"4\". jo kaleti nole, nip cene nip-nole nipit \"4\".",
+        "direct_ja": "",
+        "ja": "例えば、「4」「4」「4」を持っていて「4」をポンした。このとき、「4」を捨てることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it zi pi nip cene nip-nole nipit jo etleti cikecen leti zo.",
+        "direct_ja": "",
+        "ja": "チーをした直後に、もう片方の端の駒を捨てることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "keco, letit \"4\"-\"5\"-\"6\" pi it zi jo \"7\". jo kaleti nole, nip cene nip-nole nipit \"4\".",
+        "direct_ja": "",
+        "ja": "例えば、「4」「5」「6」を持っていて「7」をチした。このとき、「4」を捨てることはできない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "lizi",
+        "direct_ja": "",
+        "ja": "リチ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "\"e tenpai leti lawol pi 4leti o xep zo mol jo jama pi nip letit etleti lata kinunzait leti zo nat\"",
+        "direct_ja": "",
+        "ja": "「テンパイ状態であり、ヤマに4つ以上の駒があり、まだ他の人が捨てた駒を取っていない。」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo kaleti nole lata cene it \"lizi\".",
+        "direct_ja": "",
+        "ja": "このとき人は「リチ」をすることができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "celene it \"lizi\" leti lata it ka.",
+        "direct_ja": "",
+        "ja": "リチをしたい人は、これをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "(1) lukupit \"lizi\"",
+        "direct_ja": "",
+        "ja": "(1) 「リチ」と言う",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "(2) nipit zo. jo kaleti nole, nipit leti zo leti lujot delu e culaun.",
+        "direct_ja": "",
+        "ja": "(2) 駒を捨てる。このとき捨てた駒の文字は寝ていなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "(3) xelit lon molipleti julo. etleti lata it lon jo coleti nipit leti zo pi, lizi nip e tude jo lime leti auc.",
+        "direct_ja": "",
+        "ja": "(3) ロンがないことを確認する。他の人がロンをしたら、リチは完遂されない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "(4) amolit ?Ⅽ kin leti xedixel jo nelup leti cucital.",
+        "direct_ja": "",
+        "ja": "(4) 1000 点の点棒を机の中央に置く",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nip letit ?Ⅽ kin leti xedixel pi delu it apcinuil pi letit ?Ⅽ kin leti xedixel.",
+        "direct_ja": "",
+        "ja": "1000 点の点棒を持っていないならば、両替をして 1000 点の点棒をつくる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "co nip letit ?Ⅽ kin pi co nip cene it lizi.",
+        "direct_ja": "",
+        "ja": "1000 点を持っていないならば、リチをすることができない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo xot molkait leti lata iceit aucleti amolit leti xedixel. it nagale pi iceit leti lata molip pi jo launza leti xot molkait leti lata iceit.",
+        "direct_ja": "",
+        "ja": "置いた点棒は、その季節に勝ったプレーヤーがすべて取る。ナガレがあった場合は、誰も取らず、次の季節の勝者が取る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo (3) leti nole, etleti lata cene it zi o pon o kan jo nipit leti zo. culaunleti zo molip pi etleti lata nip cene amolit coleti lizi jo nukil. jo kaleti nalu, it lizi leti lata delu letit culaunleti zo jo nipit leti zo.",
+        "direct_ja": "",
+        "ja": "(3)において捨てた駒を他のプレーヤーがチかポンかカンをすることができる。寝ている駒がなければ他のプレーヤーがあなたのリチを覚えておくことができない。この理由で、リチしたプレーヤーは提出した駒に寝ている駒を持っていなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo it lizi leti nole, co cene lauzait nupoltoleti kan?",
+        "direct_ja": "",
+        "ja": "リチをするとき、あなたは閉じたカンを作ることはできるのだろうか？",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nip panit kaleti cepkulante pi jo pac belpicit leti nole co delu nunit ka.",
+        "direct_ja": "",
+        "ja": "このルールは、統一されていないため、あなたはゲーム開始時に質問しなくてはならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo it hola leti nole",
+        "direct_ja": "",
+        "ja": "ホラするとき",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "dola",
+        "direct_ja": "",
+        "ja": "ドラ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "dola kankile e zelena e cuc.",
+        "direct_ja": "",
+        "ja": "ドラは、一時的な身分の上昇である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo it hola leti nole, dola mol jo kopzo pi zelena e cuc jo dola leti kin.",
+        "direct_ja": "",
+        "ja": "ホラをした時、手駒にあるドラの数だけ身分が上がる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo nippon madxan, jo wanpai leti zo tectelit dola.",
+        "direct_ja": "",
+        "ja": "日本マジャンにおいて、ドラはワンパイの駒によって決められる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "tectelit dola leti zo mol pi cileti launza leti zo e dola. keco, cosu leti \"2\" e tectelit dola leti zo pi dola e cosu leti \"3\".",
+        "direct_ja": "",
+        "ja": "ドラを決める駒があるとき、その次の駒がドラである。例えば、ソズの「2」がドラを決める駒なら、ドラはソズの「3」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pinsu leti \"9\" e tectelit dola leti zo pi dola e pinsu leti \"1\".",
+        "direct_ja": "",
+        "ja": "ピンズの「9」がドラを決める駒なら、ドラはピンズの「1」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ka e panleti jo mansu.",
+        "direct_ja": "",
+        "ja": "これはマンズでも同じである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo kasehai at cangenpai, xon laiju mol.",
+        "direct_ja": "",
+        "ja": "カゼハイとサンゲンパイでは、特殊な並びが存在する。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "東 e tectelit dola leti zo pi dola e 南. 南 e tectelit dola leti zo pi dola e 西. 西 e tectelit dola leti zo pi dola e 北. 北 e tectelit dola leti zo pi dola e 東.",
+        "direct_ja": "",
+        "ja": "東がドラを決める駒なら、ドラは南である。南がドラを決める駒なら、ドラは西である。西がドラを決める駒なら、ドラは北である。北がドラを決める駒なら、ドラは東である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pulanleti zo e tectelit dola leti zo pi dola e 青. 青 e tectelit dola leti zo pi dola e 赤. 赤 e tectelit dola leti zo pi dola e pulanleti zo.",
+        "direct_ja": "",
+        "ja": "白い駒がドラを決める駒なら、ドラは青である。青がドラを決める駒なら、ドラは赤である。赤がドラを決める駒なら、ドラは白い駒である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo pankaleti nole, atakecit dola.",
+        "direct_ja": "",
+        "ja": "ドラは、特定のときに増える。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo it kan leti nole, atakecit kandola. jo atakecit kandola leti nole, kaceit jo kaceit leti mele jo",
+        "direct_ja": "",
+        "ja": "カンをした時、カンドラが増える。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo it nupoltoleti kan, nip-nole delu xelit kaceit leti tectelit dola leti zo pi kaceit dutucunleti tectelit kandola leti zo.",
+        "direct_ja": "",
+        "ja": "閉じたカンをした時は、即座に公開する。閉じていないカンをした時は、駒を捨ててから公開する。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it lizi leti lata molkait pi atakecit uladola.",
+        "direct_ja": "",
+        "ja": "リチをした人が勝利したら、ウラドラを足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "huli-ten",
+        "direct_ja": "",
+        "ja": "フリ・テン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "\"e tenpai leti lawol.",
+        "direct_ja": "",
+        "ja": "「テンパイ状態である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pi, xelit jo lape leti nole leti nipit jo kaleti nole leti pulecleti zo mol jo nipit leti zo.\"",
+        "direct_ja": "",
+        "ja": "しかし、過去に捨てた駒が、現在欲しい駒である。」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kaleti lupitleti lawol leti alailen e \"huli-ten\".",
+        "direct_ja": "",
+        "ja": "この悔しい状況の名が「フリ・テン」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo nippon lukup, \"huli\" leti kantel e \"nepectalaiten\".",
+        "direct_ja": "",
+        "ja": "日本語では、「フリ」の意味は、「不利」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "huli-ten leti kantel e \"nip cene it lon leti nepectalaiten tenpai\".",
+        "direct_ja": "",
+        "ja": "フリ・テンの意味は、ロンができない不利なテンパイである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "e huli-ten pi co celene hola pi co cene lap it zumo.",
+        "direct_ja": "",
+        "ja": "フリ・テンであって、ホラをしたいときは、ツモをすることだけができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ba leti lailecnelu at lata leti lailecnelu",
+        "direct_ja": "",
+        "ja": "バの方角とプレーヤーの方角",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "aucleti ba letit lailecnelu. jo pac it belpic leti nole, ka e 東.",
+        "direct_ja": "",
+        "ja": "バは方角を持っている。ゲームを始めたときには、これは東である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "panleti lailecnelu letit 4leti \"kijoku\". kijoku e waxec pi xeplata e waxec. kijoku letit xot o xot cet.",
+        "direct_ja": "",
+        "ja": "一つの方角は 4 つのキヨクを持つ。キヨクが異なれば、親も異なる。キヨクは一つないし複数の季節である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo nippon lata cet lukupit \"jo aucleti lailecnelu toni mol\".",
+        "direct_ja": "",
+        "ja": "日本では「すべての方角に神が宿っている」と言われている。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo kaleti nalu ba leti lailecnelu leti zo ancolit anpe jo lata.",
+        "direct_ja": "",
+        "ja": "このため、バの方角の駒は人に力を与えるのである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ba leti lailecnelu tectelit lata leti lailecnelu. 東 e nenik e pac leti lal. jo kaleti nalu xeplata leti lailecnelu e 東. nuxeplata leti lailecnelu e nuwaxec jo lata e pene leti polto.",
+        "direct_ja": "",
+        "ja": "バの方角はプレーヤーの方角を定める。東は一日が始まる方向である。この理由により、親の方角は東である。子の方角はプレーヤーの座っている場所に一致する。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xeplata molkait pi atakecit xot jo kijoku. kaleti alailen e \"lenzan\" o \"ki-gacanali\" (xot mak e kile). nuxeplata molkait pi kijoku e lucuc.",
+        "direct_ja": "",
+        "ja": "親が勝つとキヨクに季節を追加する。これを『レンツァン』または『キ·ガサナリ』《季節が再び来る》と言う。子が勝つとキヨクは終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kijoku letit leti xot leti kin e \"honba\"",
+        "direct_ja": "",
+        "ja": "キヨクの持つ季節の数をホンバと呼ぶ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo cetleti nole, xeplata e tenpai pi atakecit xot jo kijoku.",
+        "direct_ja": "",
+        "ja": "多くの場合、親がテンパイしたらキヨクに季節を追加する。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kijoku e lucuc no belpic nip e lucuc. jo kaleti nole xeplata leti tecnok leti lata e dutucunleti xeplata.",
+        "direct_ja": "",
+        "ja": "キヨクが終わると同時にゲームは終わらない。このとき、親の右側のプレーヤーが新しい親である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "4leti kijoku e lucuc pi ba e lucuc. 東 leti ba e lucuc pi dutucunleti ba e 南. 南 leti ba e lucuc pi dutucunleti ba e 西. 西 leti ba e lucuc pi dutucunleti ba e 北. 北 leti ba e lucuc pi dutucunleti ba e 東.",
+        "direct_ja": "",
+        "ja": "4 つのキヨクが終わったらバは終わる。東のバが終わったら新しいバは南である。南のバが終わったら新しいバは西である。西のバが終わったら新しいバは北である。北のバが終わったら新しいバは東である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo aucleti launza ba leti 4leti late leti kijoku, xeplata leti kin e xep jo auc. jo kaleti nole xeplata cene nipit lenzan pi nip-nole lucucit belpic.",
+        "direct_ja": "",
+        "ja": "最後のバの 4 番目のキヨクで親の点数が最大である。このとき、親はレンツァンを捨てて、すぐにゲームを終えることができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "etleti ducun cetleti xon nuxep cepkulante",
+        "direct_ja": "",
+        "ja": "その他の極端に多数の独特な細則",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "\"lizi\" at \"huliten\" at \"dola\" e nippon madxan leti xep nocti. \"lizi\" at \"huliten\" at \"dola\" mol pi lata cene iceit xon belpictata leti xep.",
+        "direct_ja": "",
+        "ja": "「リチ」と「フリ・テン」と「ドラ」は日本マジャンの大きな特徴である。「リチ」と「フリ・テン」と「ドラ」さえあれば、日本マジャンの独特なゲーム性の大部分を得ることができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pi, nippon madxan e etolen belpic.",
+        "direct_ja": "",
+        "ja": "しかしながら、日本マジャンは伝統的なゲームである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "1leti lata o 1leti paccamel nip lauzait etolen belpic leti auc.",
+        "direct_ja": "",
+        "ja": "伝統的なゲームは、誰かひとりやひとつの自治体によって全体が発明されたものではない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "etolen belpic e mo pi xep nole at cet cetleti lata accait ka. nippon madxan e nuwaxec jo ka.",
+        "direct_ja": "",
+        "ja": "伝統的ゲームは、文化であり、長い年月と多くの人によって豊かなものになっていった。日本マジャンもその例に漏れない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo kaleti nalu, ducun cetleti xon nuxep cepkulante mol jo nippon madxan.",
+        "direct_ja": "",
+        "ja": "そのため、日本マジャンには極端に多数の独特な細則がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kaleti cepkulante cet molip pi nip nuxep waxecit belpictata.",
+        "direct_ja": "",
+        "ja": "その諸規則がなくとも、ゲームの楽しみは縮小しない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pi, belpic e lata leti liju tude jo lata leti cul pi nippon lata lijuit kije kaleti ducun cetleti cepkulante pi it madxan.",
+        "direct_ja": "",
+        "ja": "だが、遊びは人から人へ伝えられるものなので、日本の人はこの極端に多数の規則を学んでマジャンをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xot e lucuc leti nole",
+        "direct_ja": "",
+        "ja": "季節が終わるとき",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it hola pi xot e lucuc. it nagale pi xot e lucuc.",
+        "direct_ja": "",
+        "ja": "ホラを行ったとき季節は終わる。ナガレを行ったとき季節は終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo nippon madxan, xot cene e lucuc jo etleti lawol.",
+        "direct_ja": "",
+        "ja": "日本マジャンでは、他の状況でも季節が終わる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo 1leti late leti cai, aucleti lata nipit leti zo e nuwaxecleti lailecnelu. jo kaleti nole, xot e lucuc. ka e \"cuhulenda\".",
+        "direct_ja": "",
+        "ja": "第一巡目で、すべてのプレーヤーが捨てた駒が同じ方角である。この時、季節が終わる。これが「スフレンダ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "lata 4leti late leti kanzu pi nipit leti zo. lukupit lon jo kaleti zo molip pi xot e lucuc. ka e \"cukan-nagale\"",
+        "direct_ja": "",
+        "ja": "プレーヤーが4つ目のカンツを作り、駒を捨てた。この駒にロンをいうプレーヤーがいないなら、季節が終わる。これが「スカン・ナガレ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "4leti lata it lizi pi xot e lucuc. ka e \"cuza-lizi\".",
+        "direct_ja": "",
+        "ja": "4人のプレーヤーがリチをすると、季節が終わる。これが「スツァ・リチ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo panleti xot, lata letit ?4leti kopzo jo 1leti late leti nole. jo kaleti nole, 9leti nuwaxecleti jaozu (kanteit jo launza) mol pi lata cene lucucit xot. ka e \"kijuxu-kijuhai\".",
+        "direct_ja": "",
+        "ja": "その季節で最初に14個の手駒をもったとき、手駒に9つの異なるヤオチュ（後述）があるならば、プレーヤーはその季節を終えることができる。これが「キユシュ・キユハイ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kinpit kin leti cul",
+        "direct_ja": "",
+        "ja": "点数計算の方法",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "lukupit hola pi lata kinpit kin.",
+        "direct_ja": "",
+        "ja": "ホラがあると、人々は点数を計算する。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo nippon madxan, kinpit \"juleleti kin\" jo pac.",
+        "direct_ja": "",
+        "ja": "日本マジャンでは、初めに基本点を計算する。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "cucnit 4 jo \"hu\" leti kin pi cucnit 2 jo kaleti kin jo han leti kin leti nole. ka e juleleti kin.",
+        "direct_ja": "",
+        "ja": "「フ」の数に4を掛けて、その値にハンの数だけ2を掛ける。これが基本点である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "juleleti kin e 2?Ⅽ o xep pi lata nip xelit hu pi lap xelit han. jo kaleti nole, ",
+        "direct_ja": "",
+        "ja": "基本点が 2000 点以上であれば、人はフを見ずハンを見る。このとき、",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- e 5leti han o nuxep pi juleleti kin e 2?Ⅽ",
+        "direct_ja": "",
+        "ja": "- 5 ハンかそれ以下であれば、基本点は2000",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- e 6leti han o 7leti han pi juleleti kin e 3?Ⅽ",
+        "direct_ja": "",
+        "ja": "- 6 ハンか 7 ハンであれば基本点は 3000",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- e 8leti o 9leti o ? pi e 4?Ⅽ",
+        "direct_ja": "",
+        "ja": "- 8 か 9 か 10 なら 4000",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- e ?1leti o ?2leti pi e 6?Ⅽ",
+        "direct_ja": "",
+        "ja": "- 11 か 12 なら 6000",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- e ?3leti o xep pi e 8?Ⅽ",
+        "direct_ja": "",
+        "ja": "- 13 かそれ以上なら、8000",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo xeplata it lon leti nole, iceit lon leti lata letit tude juleleti kin leti 6leti. jo nuxeplata it lon leti nole, iceit lon leti lata letit tude juleleti kin leti 4leti.",
+        "direct_ja": "",
+        "ja": "親がロンを行った際には、ロンを受けた人は基本点の6倍を支払う。子がロンを行った際には、ロンを受けた人は基本点の4倍を支払う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo xeplata it zumo leti nole, etleti 3leti lata letit tude juleleti kin leti 2leti. jo nuxeplata it zumo leti nole, xeplata letit tude juleleti kin leti 2leti pi etleti 2leti nuxeplata letit tude juleleti kin.",
+        "direct_ja": "",
+        "ja": "親がツモを行った際には、他の3人の子は基本点の2倍を支払う。子がツモを行った際には、親は基本点の2倍を支払い、他の2人の子は基本点を支払う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pi, xedixel leti kin leti auc mol jo Ⅽ leti cucnijamac-laiju pi kin leti tudekile delu mol jo Ⅽ leti cucnijamac-laiju.",
+        "direct_ja": "",
+        "ja": "ただし、点棒の点は全て 100 の掛け算列の中にあるので、点数の授受は100 の掛け算列の中になければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kin leti tudekile molip jo Ⅽ leti cucnijamac-laiju pi lata dokit kije tudekile jo xep jo Ⅽ leti cucnijamac-laiju.",
+        "direct_ja": "",
+        "ja": "点数の授受が 100 の掛け算列に来ないならば、人は授受を 100 の掛け算列の中へと引っ張り上げる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "honba atakecit kin",
+        "direct_ja": "",
+        "ja": "ホンバによる点数の追加",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "honba leti kin e 1leti o xep. jo kaleti nole, letit tude kin leti lata delu atakecit kin. iceit lon leti lata atakecit cecnit 200 jo honba leti kin. iceit zumo leti lata atakecit cecnit 100 jo honba leti kin.",
+        "direct_ja": "",
+        "ja": "ホンバの数が 1 以上である。このとき、点数を払う人は点数を追加せねばならない。ロンを受けた人はホンバの数に200をかけた点数を追加する。ツモを受けた人はホンバの数に100をかけた点数を追加する。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "lukup",
+        "direct_ja": "",
+        "ja": "用語",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jaozu",
+        "direct_ja": "",
+        "ja": "ヤオチュ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "dxihai at \"1\" at \"9\". ka e jaozu.",
+        "direct_ja": "",
+        "ja": "ジハイと「1」と「9」の駒。これがヤオチュである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "anko",
+        "direct_ja": "",
+        "ja": "アンコ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "aucleti lauzait kozu leti zo nip e etleti lata nipit leti pi kaleti kozu e \"anko\".",
+        "direct_ja": "",
+        "ja": "コツを作るすべての駒が他の人の捨てた駒でないとき、このコツは「アンコ」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "mensen",
+        "direct_ja": "",
+        "ja": "メンゼン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nip kaceit menzu leti lawol e mensen. pi, nip xelit nupoltoleti kan jo kaceit menzu.",
+        "direct_ja": "",
+        "ja": "公開したメンツがない状況をメンゼンと呼ぶ。しかし、閉じたカンは公開したメンツとは見なさない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hu",
+        "direct_ja": "",
+        "ja": "フ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xelit cetleti julo pi kinpit hu. hu nip e pupcuk pi, cetleti lata cene tatait nippon madxan pi nip cene kinpit hu.",
+        "direct_ja": "",
+        "ja": "多くの事柄を観察してフを計算する。フは簡単ではなく、日本マジャンを楽しむがフを計算できない人も多い。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hu e pac jo 2?. xelit 4leti cepat leti julo pi atakecit kin jo hu.",
+        "direct_ja": "",
+        "ja": "フは 20 から始まる。4 種類の事柄を見てフに数を足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ka e",
+        "direct_ja": "",
+        "ja": "それは以下の通りである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- hola leti cul",
+        "direct_ja": "",
+        "ja": "- ホラの方法",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- menzu leti exet",
+        "direct_ja": "",
+        "ja": "- メンツの美",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- atama",
+        "direct_ja": "",
+        "ja": "- アタマ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- aubaikleti exet",
+        "direct_ja": "",
+        "ja": "- はめ込みの美",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hola leti cul e zumo pi letit 2leti hu. hola leti cul e lon pi nip kaceit menzu pi atakecit ? hu.",
+        "direct_ja": "",
+        "ja": "ホラの方法がツモであれば 2 つのフを得る。ホラの方法がロンでメンツを公開していなければ 10 フを足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "menzu leti exet e ka.",
+        "direct_ja": "",
+        "ja": "メンツの美は以下の通りである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- xunzu nip e exet.",
+        "direct_ja": "",
+        "ja": "- シュンツは美しくない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- nupoltoleti kanzu letit 16leti exet.",
+        "direct_ja": "",
+        "ja": "- 閉じたカンツは 16 の美を持つ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- nip nupoltoleti kanzu letit 8leti exet.",
+        "direct_ja": "",
+        "ja": "- 閉じていないカンツは 8 の美を持つ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- anko letit 4leti exet.",
+        "direct_ja": "",
+        "ja": "- アンコは 4 の美を持つ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- nip e anko leti kozu letit 2leti exet.",
+        "direct_ja": "",
+        "ja": "- アンコでないコツは 2 の美を持つ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- menzu letit jaozu pi cucnit 2leti jo exet.",
+        "direct_ja": "",
+        "ja": "- メンツがヤオチュを含めば美が 2 倍である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xelit 4leti menzu pi atakecit ci cet leti exet jo hu.",
+        "direct_ja": "",
+        "ja": "4 つのメンツを見て、それらの美をフに足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "atama e lujot leti zo pi kaleti zo leti kozu e jakuhai (lukupit jo launza), atakecit 2leti kin jo hu.",
+        "direct_ja": "",
+        "ja": "アタマが字の牌で、かつこの字の駒のコツがヤクハイとなる場合、フに 2 を足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pi, atama leti zo e lata leti lailecnelu no e xot leti lailecnelu, pi atakecit 4leti kin jo hu.",
+        "direct_ja": "",
+        "ja": "ただし、アタマがプレーヤーの方角であり季節の方角である場合、フに 4 を足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "aubaikleti exet e ka.",
+        "direct_ja": "",
+        "ja": "はめ込みの美は以下のようである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo tenpai leti lawol, celene aubaikit zo jo atectenupankaleti menzu o atama.",
+        "direct_ja": "",
+        "ja": "テンパイにおいては、適切でないメンツかアタマに駒をはめ込みたい。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo kopzo letit \"1\"-\"2\" jo atectenupankaleti menzu. jo kaleti nole, celene letit kije \"3\".",
+        "direct_ja": "",
+        "ja": "適切でないメンツとして手駒に「1」「2」があり、この時「3」が欲しい。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo etleti lawol, letit \"8\"-\"9\" pi celene letit kije \"7\".",
+        "direct_ja": "",
+        "ja": "別の状況としては「8」「9」を持っていて、「7」が欲しい。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kaleti aubaikleti alainen e \"penzan\". aubaikleti e penzan pi atakecit 2leti kin jo hu.",
+        "direct_ja": "",
+        "ja": "このはめ込みの名前が「ペンツァン」である。はめ込みがペンツァンであるならば、フに 2 を足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo kopzo letit \"1\"-\"3\" jo atectenupankaleti menzu. jo kaleti nole, celene letit kije \"2\".",
+        "direct_ja": "",
+        "ja": "適切でないメンツとして手駒に「1」「3」があり、この時「2」が欲しい。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo etleti lawol, letit \"5\"-\"7\" pi celene letit kije \"6\".",
+        "direct_ja": "",
+        "ja": "別の状況としては「5」「7」を持っていて、「6」が欲しい。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kaleti aubaikleti alainen e \"kanzan\". aubaikleti e kanzan pi atakecit 2leti kin jo hu.",
+        "direct_ja": "",
+        "ja": "このはめ込みの名前が「カンツァン」である。はめ込みがカンツァンであるならば、フに 2 を足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo kopzo letit \"4\" jo atectenupankaleti atama. jo kaleti nole, celene letit kije \"4\".",
+        "direct_ja": "",
+        "ja": "適切でないアタマとして手駒に「4」があり、この時「4」が欲しい。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kaleti aubaikleti alainen e \"tanki\". aubaikleti e tanki pi atakecit 2leti kin jo hu.",
+        "direct_ja": "",
+        "ja": "このはめ込みの名前が「タンキ」である。はめ込みがタンキであるならば、フに 2 を足す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hu delu e kile jo \"?\" leti cucnijamac-laiju.",
+        "direct_ja": "",
+        "ja": "フは、「10」の掛け算列に来なければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "atakecit auc pi hu molip jo \"?\" leti cucnijamac-laiju pi lata dokit kije hu jo xep jo \"?\" leti cucnijamac-laiju.",
+        "direct_ja": "",
+        "ja": "全てを足してフが「10」の掛け算列に来ないならば、人はフを「10」の掛け算列の中へと引っ張り上げる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo xon lawol, launza leti denepoc leti auc mol pi delu e nica jo kinpit. hu e 2? pi xelit ka jo 3?. (lauzait kaleti xon cepkulante leti lata xizi. coleti lukup-lukup e mileti jondel.)",
+        "direct_ja": "",
+        "ja": "奇妙な例外として、以下の条件をすべて満たす場合は、計算において誤りを犯す必要がある。フが 20 なのに 30 と見る。（このルールを作ったお方へ。あなたのお言葉は私の苦しみと空虚です。）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- nip e mensen.",
+        "direct_ja": "",
+        "ja": "- メンゼンではない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- hola leti cul e lon.",
+        "direct_ja": "",
+        "ja": "- ホラの方法がロンである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- aucleti menzu e xunzu.",
+        "direct_ja": "",
+        "ja": "- 全てのメンツがシュンツである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- atama nip e jakuhai.",
+        "direct_ja": "",
+        "ja": "- アタマがヤクハイでない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- aubaikleti exet molip.",
+        "direct_ja": "",
+        "ja": "- はめ込みの美がない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jaku",
+        "direct_ja": "",
+        "ja": "ヤク",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "cetleti jaku mol jo nippon madxan. jo ka bijotit 38leti jaku. cetleti lata lucit kaleti 38leti jaku.",
+        "direct_ja": "",
+        "ja": "日本マジャンには多くのヤクがある。ここでは、38 個のヤクを記載する。多くの人がこの 38 ヤクを使う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "\"(3/2)\" leti kantel e \"e mensen pi e 3leti han. nip e mensen pi e 2leti han.\".",
+        "direct_ja": "",
+        "ja": "「(3/2)」は「メンゼンなら3ハン。メンゼンでないなら2ハン」の意味である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pinhu (1/0)",
+        "direct_ja": "",
+        "ja": "ピンフ (1/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nip xelit zumo o lon leti hu pi hu e 2?. it mensen no it zumo pi cu e 2?. jo et, hu e 3?",
+        "direct_ja": "",
+        "ja": "ツモとロンのフを見ないと 20 フである。メンゼンをしてツモをしているなら、20 フである。その他は 30 フである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "canxoku-dodxun (2/1)",
+        "direct_ja": "",
+        "ja": "サンショク・ドジュン (2/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "panleti xunzu mol jo mansu at pinsu at cosu leti auc pi kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "一つのシュンツがマンズとピンズとソズのすべてにあればこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "canxoku-doko (2/2)",
+        "direct_ja": "",
+        "ja": "サンショク・ドコ (2/2)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "panleti kozu mol jo mansu at pinsu at cosu leti auc pi kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "一つのコツがマンズとビンズとソズのすべてにあればこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "can-kanzu (2/2)",
+        "direct_ja": "",
+        "ja": "サン・カンツ (2/2)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "3leti kanzu mol pi kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "3 つのカンツがあればこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "can-anko (2/2)",
+        "direct_ja": "",
+        "ja": "サン・アンコ (2/2)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "3leti anko mol pi kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "3 つのアンコがあればこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "cu-kanzu (13/13)",
+        "direct_ja": "",
+        "ja": "ス・カンツ (13/13)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "4leti kanzu mol pi kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "4 つのカンツがあればこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "cu-anko (13/0)",
+        "direct_ja": "",
+        "ja": "ス・アンコ (13/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "4leti anko mol pi kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "4 つのアンコがあればこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xo-cangen (2/2)",
+        "direct_ja": "",
+        "ja": "ショ・サンゲン (2/2)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "赤 at 青 at 白 mol jo katazi pi atama e 赤 o 青 o 白. jo kaleti nole kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "「赤」と「青」と「白」がカタチにありアタマが「赤」か「青」か「白」である。このときこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xo-cuxi (13/13)",
+        "direct_ja": "",
+        "ja": "ショ・スシ (13/13)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "4leti lailecnelu leti auc mol jo katazi pi atama e lailecnelu. jo kaleti nole kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "四つの方角のすべてがカタチにありアタマが方角である。このときこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zanta (2/1)",
+        "direct_ja": "",
+        "ja": "ツァンタ (2/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "atama at aucleti menzu letit jaozu pi kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "アタマとすべてのメンツがヤオチュを持てばこの役を持つ。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zankan (1/1)",
+        "direct_ja": "",
+        "ja": "ツァンカン (1/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "etleti lata it nuxep kan. lucit kaleti atakecit leti zo pi it hola.",
+        "direct_ja": "",
+        "ja": "他のプレーヤーが小さなカンをする。この加えられた駒を使ってホラする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo it hola jo kokuxi-muco leti nole lap, lata cene it zankan jo nupoltoleti kan.",
+        "direct_ja": "",
+        "ja": "コクシ・ムソでホラをするときのみ、閉じたカンにもツァンカンできる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zitoizu (2/0)",
+        "direct_ja": "",
+        "ja": "チトイツ (2/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nip lucit menzu pi lucit 7leti atama. nip cene letit 4leti joja. zitoizu e xon pi hu e 25leti.",
+        "direct_ja": "",
+        "ja": "「メンツを使わず、7 つのアタマを使う。」4 兄弟を使うことはできない。チトイツは変なのでフは 25 である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zin-loto (13/13)",
+        "direct_ja": "",
+        "ja": "チン・ロト (13/13)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "auc e 1 o 9",
+        "direct_ja": "",
+        "ja": "「全てが 1 か 9。」",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zin-ico (6/5)",
+        "direct_ja": "",
+        "ja": "チン・イソ (6/5)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "auc e mansu o \"auc e pinsu\" o \"auc e cosu\".",
+        "direct_ja": "",
+        "ja": "「全てがマンズ」または「全てがピンズ」または「全てがソズ」。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ziho (13/0)",
+        "direct_ja": "",
+        "ja": "チホ (13/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nuxeplata letit kije panleti late leti zo jo jama pi it hola. pi, lukupit zi o pon o kan leti lata mol jo lape leti nole pi ka molip.",
+        "direct_ja": "",
+        "ja": "子が一番目の駒をヤマから取ってホラをする。但し、「チ」か「ポン」か「カン」を言った人がそれより先にいるならば、これはない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zumo (1/0)",
+        "direct_ja": "",
+        "ja": "ツモ (1/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hola leti cul e zumo.",
+        "direct_ja": "",
+        "ja": "ホラの方法がツモである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zulen-poto (13/0)",
+        "direct_ja": "",
+        "ja": "ツレン・ポト (13/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "e zin-ico pi e mensen pi letit \"1\"-\"1\"-\"1\"-\"2\"-\"3\"-\"4\"-\"5\"-\"6\"-\"7\"-\"8\"-\"9\"-\"9\"-\"9\" at panleti zo pi kanzu molip.",
+        "direct_ja": "",
+        "ja": "チン・イソであってメンゼンであって「1」「1」「1」「2」「3」「4」「5」「6」「7」「8」「9」「9」「9」と 1 枚の牌であってカンツがない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "zu-ico (13/13)",
+        "direct_ja": "",
+        "ja": "ツ・イソ (13/13)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "auc e dxihai.",
+        "direct_ja": "",
+        "ja": "すべてがジハイである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "tanjao (1/1)",
+        "direct_ja": "",
+        "ja": "タンヤオ (1/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jaozu molip.",
+        "direct_ja": "",
+        "ja": "ヤオチュがない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "tenho (13/0)",
+        "direct_ja": "",
+        "ja": "テンホ (13/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xeplata leti pac leti kopzo cene lauzait katazi.",
+        "direct_ja": "",
+        "ja": "親の最初の手駒がカタチを作ることができる。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "toitoiho (2/2)",
+        "direct_ja": "",
+        "ja": "トイトイホ (2/2)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xunzu molip.",
+        "direct_ja": "",
+        "ja": "シュンツがない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "dxunzan (3/2)",
+        "direct_ja": "",
+        "ja": "ジュンツァン (3/2)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "auc menzu at atama letit \"1\" o \"9\" pi nip letit dxihai. jo ka mol nole, zanta molip.",
+        "direct_ja": "",
+        "ja": "すべてのメンツとアタマが「1」か「9」を持ち、ジハイを持たない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "dabulu-lizi (2/0)",
+        "direct_ja": "",
+        "ja": "ダブル・リチ (2/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo nipit panleti late leti zo leti nole, it lizi pi it hola. pi, lukupit zi o pon o kan leti lata mol jo it lizi leti lape leti nole pi ka molip.",
+        "direct_ja": "",
+        "ja": "一番目の駒を捨てるときにリチをしてホラをする。ただし、リチをする前にチかポンかカンをする人がいたら、これは無い。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "dai-cangen (13/13)",
+        "direct_ja": "",
+        "ja": "ダイ・サンゲン (13/13)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "赤 at 青 at 白 leti auc lauzait kozu o kanzu.",
+        "direct_ja": "",
+        "ja": "「赤」と「青」と「白」のすべてがコツかカンツを作る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "dai-cuxi (13/13)",
+        "direct_ja": "",
+        "ja": "ダイ・スシ (13/13)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "南 at 北 at 東 at 西 leti auc lauzait kozu o kanzu.",
+        "direct_ja": "",
+        "ja": "「南」と「北」と「東」と「西」のすべてがコツかカンツを作る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "lizi (1/0)",
+        "direct_ja": "",
+        "ja": "リチ (1/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it lizi pi it hola.",
+        "direct_ja": "",
+        "ja": "リチをしてホラをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "linxan-kaiho (1/1)",
+        "direct_ja": "",
+        "ja": "リンシャン・カイホ (1/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it kan pi letit kije zo jo jama pi it hola jo ka.",
+        "direct_ja": "",
+        "ja": "カンをしてヤマから駒を取り、これでホラをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "lijan-peko (3/0)",
+        "direct_ja": "",
+        "ja": "リヤン・ペコ (3/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nuwaxecleti xunzu leti 2leti tulai-tulai mol.",
+        "direct_ja": "",
+        "ja": "同じシュンツの夫婦が 2 つある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "liju-ico (13/13)",
+        "direct_ja": "",
+        "ja": "リユ・イソ (13/13)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "auc e \"cosu leti 2\" o \"cosu leti 3\" o \"cosu leti 4\" o \"cosu leti 6\" o \"cosu leti 8\" o 青.",
+        "direct_ja": "",
+        "ja": "全てが「ソズの2」か「ソズの3」か「ソズの4」か「ソズの6」か「ソズの8」か「青」である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kokuxi-muco (13/0)",
+        "direct_ja": "",
+        "ja": "コクシ・ムソ (13/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jaozu leti aucleti cepat mol pi aucleti zo e jaozu.",
+        "direct_ja": "",
+        "ja": "ヤオチュの全種類があって、全ての駒がヤオチュである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "haite (1/1)",
+        "direct_ja": "",
+        "ja": "ハイテ (1/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "letit kije aucleti launza leti zo jo jama pi it hola.",
+        "direct_ja": "",
+        "ja": "ヤマの最後の駒を取ってホラをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hote (1/1)",
+        "direct_ja": "",
+        "ja": "ホテ (1/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "lucit jo aucleti launza leti nipit leti zo pi it hola.",
+        "direct_ja": "",
+        "ja": "季節で捨てられる最後の駒を使ってホラをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hon-loto (2/2)",
+        "direct_ja": "",
+        "ja": "ホン・ロト (2/2)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "auc e jaozu.",
+        "direct_ja": "",
+        "ja": "すべてがヤオチュである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hon-ico (3/2)",
+        "direct_ja": "",
+        "ja": "ホン・イソ (3/2)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "auc e mansu at dxihai o \"auc e pinsu at dxihai\" o \"auc e cosu at dxihai\".",
+        "direct_ja": "",
+        "ja": "「全てがマンズと字牌」または「全てがピンズと字牌」または「全てがソズと字牌」。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ippazu (1/0)",
+        "direct_ja": "",
+        "ja": "イッパツ (1/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it lizi pi etleti lata nip it zi o pon o kan pi it lizi leti lata nip nipit zo. jo kaleti nole, it hola pi kaleti jaku mol.",
+        "direct_ja": "",
+        "ja": "リチをして、他の人がチやポンやカンをせず、リチをした人が駒を捨てていない。このとき、ホラをすればこのヤクがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "i-peko (1/0)",
+        "direct_ja": "",
+        "ja": "イ・ペコ (1/0)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "2leti nuwaxecleti xunzu mol.",
+        "direct_ja": "",
+        "ja": "2 つの同じシュンツがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ikki-zukan (2/1)",
+        "direct_ja": "",
+        "ja": "イッキ・ツカン (2/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo mansu o pinsu o cosu leti panleti, \"1 at 2 at 3\" at \"4 at 5 at 6\" at \"7 at 8 at 9\" leti xunzu mol.",
+        "direct_ja": "",
+        "ja": "マンズかピンズかソズの一つについて「1 と 2 と 3」と「4 と 5 と 6」と「7 と 8 と 9」のシュンツがある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jakuhai (1/1)",
+        "direct_ja": "",
+        "ja": "ヤクハイ (1/1)",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jakuhai leti kozu o kanzu mol. pi, zo e lata leti lailecnelu no e xot leti lailecnelu pi 1leti kozu o kanzu lauzait 2leti jakuhai leti jaku.",
+        "direct_ja": "",
+        "ja": "ヤクハイのコツかカンツがある。ただし、駒がプレーヤーの方角であり季節の方角である場合、1 つのコツかカンツが 2 つのヤクハイのヤクを生み出す。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "atakecit jaku leti han. jaku leti han e 0leti pi nip cene it hola.",
+        "direct_ja": "",
+        "ja": "ヤクのハンを足し算する。ヤクのハンが 0 であるならホラをすることができない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xelit aucleti jaku. pi, jaku ipeit etleti jaku pi nip kinpit nucucleti jaku.",
+        "direct_ja": "",
+        "ja": "全てのヤクを見る。ただし、ヤクがヤクを包むときは低いヤクを数えない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "keco, lijan-peko leti auc e i-peko pi hon-loto leti auc e zanta. jo kaleti nalu, lijan-peko ipeit i-peko pi hon-loto ipeit zanta.",
+        "direct_ja": "",
+        "ja": "例えば、リヤン・ペコの全てはイ・ペコであり、ホン・ロトの全てはツァンタである。このため、リヤン・ペコはイ・ペコを包み、ホン・ロトはツァンタを包む。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "ka e waxec jo cetkaik. jo ail panit leti cetkaik, lata kinpit kakaukmunaun at kepka jo panleti nole.",
+        "direct_ja": "",
+        "ja": "これはセッカイㇰと異なる。アイルによるセッカイㇰ統一ルールでは、カカウㇰムナウンとケㇷ゚カを同時に数える。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "delu lucit xep kin",
+        "direct_ja": "",
+        "ja": "大きい点数を使わなくてはいけない",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "kinpit kin leti cetleti cul mol pi delu lucit xep kin.",
+        "direct_ja": "",
+        "ja": "点数を数える複数の方法があるなら、大きい点数を使わなくてはいけない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "keco, 赤 leti kozu at 青 leti kozu at 白 leti kozu mol pi nip cene lukupit \"ka e 3leti jakuhai pi han e 3leti.\". delu lukupit \"ka e dai-cangen pi han e 13leti.\".",
+        "direct_ja": "",
+        "ja": "例えば、赤のコツと青のコツと白のコツがあるなら、「これは3つのヤクハイでハンは3である」とは言えず、「これはダイサンゲンでハンは13である」と言わなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo cetkaik lata xelit kopzo pi lukupit aucleti dat. madxan leti cepkulante e ka xale.",
+        "direct_ja": "",
+        "ja": "セッカイㇰではプレーヤーは手駒を見てすべてのダㇳを言う。マジャンのルールはこれのようである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nagaxi-mangan",
+        "direct_ja": "",
+        "ja": "ナガシ・マンガン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "letit kije kin leti etleti cul mol.",
+        "direct_ja": "",
+        "ja": "得点を受け取る他の方法がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "it nagale pi panleti lata nipit jaozu lap pi nip iceit zi o pon o kan. jo kaleti nole ci it \"nagaxi-mangan\".",
+        "direct_ja": "",
+        "ja": "ナガレをして、あるプレーヤーがヤオチュのみを捨て、チもポンもカンも受けていない。このとき、そのプレーヤーはナガシ・マンガンをする。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- jo ci e xeplata leti nole, etleti nuxeplata cet letit tude 4?Ⅽ kin jo 1leti.",
+        "direct_ja": "",
+        "ja": "そのプレーヤーが親のとき、他の子は一人 4000 点を支払う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- jo ci e nuxeplata leti nole, xeplata letit tude 4?Ⅽ kin pi nuxeplata cet letit tude 2?Ⅽ kin jo 1leti.",
+        "direct_ja": "",
+        "ja": "そのプレーヤーが子のとき、親は 4000 点を、他の子は一人 2000 点を支払う。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo nupankaleti toni o nuliwowelleti letit tude kin leti julo",
+        "direct_ja": "",
+        "ja": "不運か不注意によって点を払うこと",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo lata it hola leti nole etleti lata delu letit tude kin.",
+        "direct_ja": "",
+        "ja": "プレーヤーがホラをしたときには他のプレーヤーは点数を払わなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "pi, jo etleti nole, lata letit tude kin jo panleti nole. ka e jo nupankaleti toni o nuliwowelleti.",
+        "direct_ja": "",
+        "ja": "しかし、他の場合にも点数の支払いをすることがある。それは不運や不注意によるものである。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "noten-bappu",
+        "direct_ja": "",
+        "ja": "ノテン・バップ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo it nagale pi nip it nagaxi-mangan leti nole, xelit lata it tenpai o nip. jo nip it tenpai leti lata mol nole, ka e \"nupankaleti toni leti lata\". kaleti lata nip it tenpai leti lata delu letit tude kin. kaleti alailen e \"noten-bappu\". it tenpai leti lata letit kije kaleti kin.",
+        "direct_ja": "",
+        "ja": "ナガレをしナガシ・マンガンをしたときに、プレーヤーがテンパイしているかを見る。テンパイしていないプレーヤーがいるときには、このプレーヤーは「運の悪いプレーヤー」である。このプレーヤーは点数を支払わなければならない。これを「ノテン・バップ」という。この点数はテンパイしたプレーヤーが受け取る。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "noten-bappu leti kin e launza.",
+        "direct_ja": "",
+        "ja": "ノテン・バップの点数は以下の通り。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- jo nupankaleti toni mol lata mol pi kaleti kin e 1leti nole, kaleti lata letit tude 3?c kin pi etleti lata cet iceit ?c kin jo 1leti.",
+        "direct_ja": "",
+        "ja": "- 不運なプレーヤーがいて、これが 1 人のときは、このプレーヤーが支払う点数は 3000 点、1 人の受け取る点数は 1000 点。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- jo nupankaleti toni mol lata mol pi kaleti kin e 2leti nole, kaleti lata cet letit tude ?5c kin jo 1leti pi etleti lata cet iceit ?5c kin jo 1leti.",
+        "direct_ja": "",
+        "ja": "- 不運なプレーヤーが 2 人のときは、1 人の支払う点数は 1500 点、1 人の受け取る点数は 1500 点。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "- jo nupankaleti toni mol lata mol pi kaleti kin e 3leti nole, kaleti lata cet letit tude ?c kin jo 1leti pi etleti lata iceit 3?c kin.",
+        "direct_ja": "",
+        "ja": "- 不運なプレーヤーが 3 人のときは、1 人の支払う点数は 1000 点、受け取る点数は 3000 点。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "hola e tude lacikleti leti pon o kan",
+        "direct_ja": "",
+        "ja": "ホラが簡単になるポンやカン",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "nipit zo pi etleti lata it pon o kan jo cileti zo. kaleti pon o kan e hola e tude lacikleti. jo kaleti nole, nipit zo leti lata delu letit tude kin.",
+        "direct_ja": "",
+        "ja": "駒を捨て、他のプレーヤーがその駒でポンかカンをする。このポンやカンがホラを簡単にした。このとき、駒を捨てたプレーヤーは点数を支払わなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "dai-cangen o cu-kanzu o dai-cuxi. hola e kanleti pan pi kaleti ladeliju mol.",
+        "direct_ja": "",
+        "ja": "ダイ・サンゲンか、ス・カンツか、ダイ・スシ。ホラがこれらのどれかのとき、この義務がある。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo dai-cangen leti nole",
+        "direct_ja": "",
+        "ja": "ダイ・サンゲンの場合",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "p letit cangenpai leti 2leti kaceit leti kozu o kanzu pi b nipit etleti cangenpai. p it pon o kan jo kaleti zo pi dai-cangen e tude jo lacikleti. jo p it hola leti nole, kin leti tude-kile e xon.",
+        "direct_ja": "",
+        "ja": "甲がサンゲンパイの内 2 つのコツまたはカンツを公開していて、乙が他のサンゲンパイを捨てる。甲がこの駒でポンかカンをしたならば、ダイ・サンゲンは簡単になる。甲がホラしたとき、支払いは奇妙である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo p it zumo leti nole, b delu letit tude aucleti p leti kin.",
+        "direct_ja": "",
+        "ja": "甲がツモしたときは、乙は甲の点数のすべてを支払わなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo p it lon jo m leti nole, b delu letit tude kait leti p leti kin. (m letit tude etleti kait leti p leti kin.)",
+        "direct_ja": "",
+        "ja": "甲が丙にロンしたときは、乙は点数の半分を支払わなければならない。（もう半分は丙が支払う。）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo cu-kanzu leti nole",
+        "direct_ja": "",
+        "ja": "ス・カンツの場合",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "p kaceit 3leti kanzu pi b nipit zo. p it kan jo kaleti zo pi lauzait xep kan. jo kaleti nole, cu-kanzu e tude jo lacikleti. jo p it hola leti nole, kin leti tude-kile e xon.",
+        "direct_ja": "",
+        "ja": "甲が 3 つのカンツを公開していて、乙が駒を捨てる。甲がこの駒を取って大きなカンをする。このとき、ス・カンツは簡単になる。甲がス・カンツをしたとき、支払いは奇妙である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo p it zumo leti nole, b delu letit tude aucleti p leti kin.",
+        "direct_ja": "",
+        "ja": "甲がツモしたときは、乙は甲の点数のすべてを支払わなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo p it lon jo m leti nole, b delu letit tude kait leti p leti kin. (m letit tude etleti kait leti p leti kin.)",
+        "direct_ja": "",
+        "ja": "甲が丙にロンしたときは、乙は点数の半分を支払わなければならない。（もう半分は丙が支払う。）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo dai-cuxi leti nole",
+        "direct_ja": "",
+        "ja": "ダイ・スシの場合",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "p kaceit kasehai leti 3leti kaceit kozu o kanzu pi b nipit etleti kasehai. p it pon o kan jo kaleti zo pi dai-cuxi e tude jo lacikleti. jo p it hola leti nole, kin leti tude-kile e xon.",
+        "direct_ja": "",
+        "ja": "甲がカゼハイの内 3 つのコツまたはカンツを公開していて、乙が他のカゼハイを提出する。甲がこの駒でポンかカンをしたならば、ダイ・スシは簡単になる。甲ｇダイ・スシをしたとき、支払いは奇妙である。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo p it zumo leti nole, b delu letit tude aucleti p leti kin.",
+        "direct_ja": "",
+        "ja": "甲がツモしたときは、乙は甲の点数のすべてを支払わなければならない。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "jo p it lon jo m leti nole, b delu letit tude kait leti p leti kin. (m letit tude etleti kait leti p leti kin.)",
+        "direct_ja": "",
+        "ja": "甲が丙にロンしたときは、乙は点数の半分を支払わなければならない。（もう半分は丙が支払う。）",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "belpic e lucuc leti nole",
+        "direct_ja": "",
+        "ja": "ゲームの終了時",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "tobi",
+        "direct_ja": "",
+        "ja": "トビ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "panleti lata letit leti kin e nuxep jo 0leti. jo kaleti nole belpic e lucuc. kaleti alailen e \"tobi\".",
+        "direct_ja": "",
+        "ja": "あるプレーヤーの持っている点数が 0 より小さい。このときゲームは終了する。これを「トビ」という。",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "xaniju",
+        "direct_ja": "",
+        "ja": "シャニユ",
+        "en": ""
+    },
+    {
+        "source": "日本の遊戯 第二号",
+        "pmcp": "2leti late leti ba e lucuc no aucleti lata leti kin e xenup jo 3leti cena pi ka e 0 o xep. jo kaleti nole belpic nip e lucuc pi 3leti late leti ba e pac. kaleti alailen e \"xaniju\".",
+        "direct_ja": "",
+        "ja": "2 番目のバが終わったときに、すべてのプレーヤーの点数が 30000 より小さく、これが 0 以上である。このとき、ゲームは終了せず、3 番目のバが始まる。これを「シャニユ」という。",
+        "en": ""
+    },
+    {
         "source": "虎新聞（港拡張）",
         "pmcp": "nanala junalika. mak xepit ka.",
         "direct_ja": "",
