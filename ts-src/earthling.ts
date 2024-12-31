@@ -14,7 +14,7 @@ const EARTHLING_WORDS = new Map<Source | "__GLOBAL__", string[]>([
     ],
     [
         "日本の遊戯 第二号", [
-            "hola", "katazi", "jama", "dola", "menzu", "kozu", "kanzu", "buhuwa", "pinsu", "dxihai", "xunzu", "atama", "makau", "cangenpai", "cangen", "wansu", "tenpai", "nagale", "mansu", "pinhu", "mensen", "tenho", "ziho", "zankan", "linxan", "paumasai", "cosu", "jaku", "zumo", "kasehai", "malaicija", "lon", "kandxi", "dxanken", "sen",
+            "hola", "katazi", "jama", "dola", "menzu", "kozu", "kanzu", "buhuwa", "pinsu", "dxihai", "xunzu", "atama", "makau", "cangenpai", "cangen", "wansu", "tenpai", "nagale", "mansu", "pinhu", "mensen", "tenho", "ziho", "zankan", "linxan", "paumasai", "cosu", "jaku", "zumo", "kasehai", "malaicija", "lon", "kandxi", "dxanken", "sen", "toitoihu", "jakuhai", "han"
         ]
     ]
 ]);
