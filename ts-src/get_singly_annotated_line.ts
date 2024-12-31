@@ -93,8 +93,7 @@ function getSinglyAnnotatedLine(full_text: string, source: Source, highlight_?: 
                         || expected_sources.includes("__GLOBAL__")
                     ) { break; }
 
-                    alert(`Word "${tok.content}" is expected to be found only in sources ${JSON.stringify(expected_sources)} but was found in "${source}"`);
-
+                    alert(`Note: Word "${tok.content}" is considered an Earthling word and is expected to be found only in sources ${JSON.stringify(expected_sources)} but was found in "${source}". Edit earthling.ts to fix this.\n業務連絡：単語「${tok.content}」は現世都合の単語として扱われ、${JSON.stringify(expected_sources)} 以外の資料には出現しない想定ですが、"${source}" に出現しています。earthling.ts を修正してください。`);
                 }
 
                 const query_res = queryLemma(tok.content, true);
