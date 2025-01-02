@@ -14,7 +14,7 @@ const EARTHLING_WORDS = new Map<Source | "__GLOBAL__", string[]>([
     ],
     [
         "日本の遊戯 第二号", [
-            "hola", "katazi", "jama", "dola", "menzu", "kozu", "kanzu", "buhuwa", "pinsu", "dxihai", "xunzu", "atama", "makau", "cangenpai", "cangen", "wansu", "tenpai", "nagale", "mansu", "pinhu", "mensen", "tenho", "ziho", "zankan", "linxan", "paumasai", "cosu", "jaku", "zumo", "kasehai", "malaicija", "lon", "kandxi", "dxanken", "sen", "toitoihu", "jakuhai", "han", "lizi", "kijoku", "cuxi", "huli", "peko", "kandola", "bappu", "nagaxi", "mangan", "noten", "kokuxi", "muco", "zitoizu", "canxoku", "tanki", "tobi", "xaniju", "kijuxu", "ippazu", "madan", "zulen", "kaiho", "dxunzan", "kijuhai", "dodxun", "cukan", "cuhulenda", "gacanali", "dabulu", "kanzan", "penzan", "huliten", "lenzan", "uladola", "madzan", "haite", "hote", "ikki", "zukan", "tanjao", "toitoiho", "jaozu", "wanpai", "honba"
+            "hola", "katazi", "jama", "dola", "menzu", "kozu", "kanzu", "buhuwa", "pinsu", "dxihai", "xunzu", "atama", "makau", "cangenpai", "cangen", "wansu", "tenpai", "nagale", "mansu", "pinhu", "mensen", "tenho", "ziho", "zankan", "linxan", "paumasai", "cosu", "jaku", "zumo", "kasehai", "malaicija", "lon", "kandxi", "dxanken", "sen", "toitoihu", "jakuhai", "han", "lizi", "kijoku", "cuxi", "huli", "peko", "kandola", "bappu", "nagaxi", "mangan", "noten", "kokuxi", "muco", "zitoizu", "canxoku", "tanki", "tobi", "xaniju", "kijuxu", "ippazu", "madan", "zulen", "kaiho", "dxunzan", "kijuhai", "dodxun", "cukan", "cuhulenda", "gacanali", "dabulu", "kanzan", "penzan", "huliten", "lenzan", "uladola", "madzan", "haite", "hote", "ikki", "zukan", "tanjao", "toitoiho", "jaozu", "wanpai", "honba", "ba"
         ]
     ]
 ]);
