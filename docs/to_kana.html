@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>to_kana</title>
+    <script src="./case_conversion_ignoring_roman_c.js"></script>
+    <script src="./to_kana.js"></script>
+
+    <script>
+        function foo() {
+            const input = document.querySelector("textarea").value;
+            const output = document.querySelector("#output");
+            output.value = input.split("\n").map((line) => { try { return kana_words(line) } catch (e) { return e } }).join("\n");
+
+        }
+    </script>
+</head>
+
+<textarea onchange="foo()" rows="20" cols="50"></textarea>
+<br>
+<textarea id="output" readonly  rows="20" cols="50"></textarea>
+
+
+</html>
