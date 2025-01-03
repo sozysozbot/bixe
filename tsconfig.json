@@ -1,9 +1,11 @@
 {
   "compilerOptions": {
     "target": "ES2022",
-    "module": "commonjs",
+    "module": "ES2020",
     "strict": true,
+    "moduleResolution": "node",
     "outDir": "./docs"
-  }, "include": ["./ts-src/**/*.ts"], 
+  },
+  "include": ["./ts-src/**/*.ts"],
   "exclude": ["node_modules", "docs"]
 }
