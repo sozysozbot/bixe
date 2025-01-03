@@ -637,7 +637,7 @@
 6210	EWICTEN		形容詞		NIPPON BELPIC	2024/03/17		値段の安い	evist	evist + -en	値段の安い		
 6220	ICTACLEJA		名詞		NIPPON BELPIC	2024/03/18		面	（左に同じ）	ista xlear			
 6230	NIJACICEN		形容詞		NIPPON BELPIC	2024/03/18		逆向きの	niacicen, talienen	niacicen	逆向きの、反転した		
-6240	EXETEN		形容詞		NIPPON BELPIC	2024/03/19		（芸術作品が）「気品があり美しい」	(fhasfa'd kanti'a's es) artidzemirs ol exerten	exerten	（女性が）清楚な、美しい、気品のある		
+6240	EXETEN		形容詞		NIPPON BELPIC	2024/03/19		（芸術作品が）気品があり美しい	(fhasfa'd kanti'a's es) artidzemirs ol exerten	exerten	（女性が）清楚な、美しい、気品のある		
 6250	CELUN		名詞		NIPPON BELPIC	2024/03/19		子供	（左に同じ）	selun			
 6260	NOPON		名詞		NIPPON BELPIC	2024/03/19		暴風雨	dieest, snopon	snopon	台風		
 6270	LEDI-IT		動詞		NIPPON BELPIC	2024/03/19		からかう、軽く馬鹿にする	（左に同じ）	ledhi			
@@ -892,6 +892,8 @@
 	malce		名詞		NIPPON BELPIC			母	（左に同じ）	malca		母	
 	penen		名詞		LAUZAIT-CEPルールブック			準備	（左に同じ）	farnen			語形は、perne「座る、着席する」との混交によるもの。
 	denopoc		名詞		NIPPON BELPIC			条件	（左に同じ）	dhenefos			
+	e exet		動詞		NIPPON BELPIC			美しい	es tijiest	exerten	（女性が）清楚な、美しい、気品のある		
+	exet		名詞		NIPPON BELPIC			美	la tijiest	exerten			
 	lictet		名詞		LAUZAIT-CEPルールブック			瞳；点（ドット）	fiursen listet, larl	listet			
 	palbelta		名詞		LAUZAIT-CEPルールブック	2024/07/02	悠F Discord	バージョン	（左に同じ）	falvelta			
 	icel-it		動詞		LAUZAIT-CEPルールブック			受ける、得る、される	icve	icve, es vel		受	
