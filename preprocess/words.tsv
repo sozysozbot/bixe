@@ -275,6 +275,7 @@
 2690	pebut		名詞			2020/02/10	悠F Discord	机	（左に同じ）	pievyt			
 2700	lin		名詞					アレス・リン（王の名）	（左に同じ）	ales.lin		清	
 2710	bule		名詞			2020/02/11	悠F Discord	冬	（左に同じ）	vyrle			
+2715	e nuwaxec		動詞					[e nuwaxec jo]～と同一だ、～と同じだ	es daliu	ny waxes			
 2720	okijau		名詞					ホーギャウ、オキヤウ（地名）	（左に同じ）	horgiau			
 2730	kamut		名詞		リパライン語辞書			大月島、ブリェーシャン、リナエスト本島	brjerxan				
 2740	kawakija		名詞		PMCF主要島の名前対訳			ヴェフィス本島, 新島	dytymenis	kuakaja.ar			
@@ -636,7 +637,7 @@
 6210	EWICTEN		形容詞		NIPPON BELPIC	2024/03/17		値段の安い	evist	evist + -en	値段の安い		
 6220	ICTACLEJA		名詞		NIPPON BELPIC	2024/03/18		面	（左に同じ）	ista xlear			
 6230	NIJACICEN		形容詞		NIPPON BELPIC	2024/03/18		逆向きの	niacicen, talienen	niacicen	逆向きの、反転した		
-6240	EXETEN		形容詞		NIPPON BELPIC	2024/03/19		（芸術作品が）「気品があり美しい」	(fhasfa'd kanti'a's es) artidzemirs ol exerten	exerten	（女性が）清楚な、美しい、気品のある		
+6240	EXETEN		形容詞		NIPPON BELPIC	2024/03/19		（芸術作品が）気品があり美しい	(fhasfa'd kanti'a's es) artidzemirs ol exerten	exerten	（女性が）清楚な、美しい、気品のある		
 6250	CELUN		名詞		NIPPON BELPIC	2024/03/19		子供	（左に同じ）	selun			
 6260	NOPON		名詞		NIPPON BELPIC	2024/03/19		暴風雨	dieest, snopon	snopon	台風		
 6270	LEDI-IT		動詞		NIPPON BELPIC	2024/03/19		からかう、軽く馬鹿にする	（左に同じ）	ledhi			
@@ -891,6 +892,8 @@
 	malce		名詞		NIPPON BELPIC			母	（左に同じ）	malca		母	
 	penen		名詞		LAUZAIT-CEPルールブック			準備	（左に同じ）	farnen			語形は、perne「座る、着席する」との混交によるもの。
 	denopoc		名詞		NIPPON BELPIC			条件	（左に同じ）	dhenefos			
+	e exet		動詞		NIPPON BELPIC			美しい	es tijiest	exerten	（女性が）清楚な、美しい、気品のある		
+	exet		名詞		NIPPON BELPIC			美	la tijiest	exerten			
 	lictet		名詞		LAUZAIT-CEPルールブック			瞳；点（ドット）	fiursen listet, larl	listet			
 	palbelta		名詞		LAUZAIT-CEPルールブック	2024/07/02	悠F Discord	バージョン	（左に同じ）	falvelta			
 	icel-it		動詞		LAUZAIT-CEPルールブック			受ける、得る、される	icve	icve, es vel		受	
@@ -929,3 +932,5 @@
 	setija		人名					ズィエーティヤ（人名）		siertija			
 	po		人名					ポー、ポ【羊】（人名）				羊	
 	wokmut		人名					フォㇰムㇳ、ウォㇰムㇳ【黒家】（人名）				黒家	
+	latectepanka-leti		動詞		NIPPON BELPIC			気立ての良い	lartest es vynut	lartesterpanqa			
+	atectenupanka-leti		動詞		NIPPON BELPIC			不適切な、適切でない	es nefplelajnef	lartest es ny panqa			例外的に語頭の l が落ちている

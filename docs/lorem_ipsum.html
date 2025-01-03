@@ -1,34 +1,45 @@
-<script src="./trigrams.js"></script>
-<script>
+<!DOCTYPE html>
+<html>
 
-// From {"a": 2, "b": 3}, choose "a" with 2/5 probability and "b" with 3/5 probability
-function choose_random(obj, keys) {
-  keys = keys ?? Object.keys(obj);
-  const sum = keys.map(key => obj[key]).reduce((a, b) => a + b, 0);
-  const rand = Math.floor(Math.random() * sum);
-  let acc = 0;
-  for (let i = 0; i < keys.length; i++) {
-    acc += obj[keys[i]];
-    if (rand < acc) {
-      return keys[i];
+<head>
+  <meta charset="utf-8">
+  <title>Trigram generator</title>
+
+  <script src="./trigrams.js"></script>
+</head>
+
+<body>
+  <script>
+    // From {"a": 2, "b": 3}, choose "a" with 2/5 probability and "b" with 3/5 probability
+    function choose_random(obj, keys) {
+      keys = keys ?? Object.keys(obj);
+      const sum = keys.map(key => obj[key]).reduce((a, b) => a + b, 0);
+      const rand = Math.floor(Math.random() * sum);
+      let acc = 0;
+      for (let i = 0; i < keys.length; i++) {
+        acc += obj[keys[i]];
+        if (rand < acc) {
+          return keys[i];
+        }
+      }
     }
-  }
-}
 
-function gen() {
-  let result = choose_random(TRIGRAMS);
-  for (let i = 0; i < 1000; i++) {
-    let two = result.slice(-2);
+    function gen() {
+      let result = choose_random(TRIGRAMS);
+      for (let i = 0; i < 1000; i++) {
+        let two = result.slice(-2);
 
-    // Find all the keys that start with the last two characters of the result
-    const keys = Object.keys(TRIGRAMS);
-    const candidates = keys.filter(key => key.startsWith(two));
-    let next = choose_random(TRIGRAMS, candidates);
-    // console.log(next);
-    result += next[2];
-  }
-  return result;
-}
+        // Find all the keys that start with the last two characters of the result
+        const keys = Object.keys(TRIGRAMS);
+        const candidates = keys.filter(key => key.startsWith(two));
+        let next = choose_random(TRIGRAMS, candidates);
+        // console.log(next);
+        result += next[2];
+      }
+      return result;
+    }
 
-document.write(gen());
-</script>
+    document.write(gen());
+  </script>
+</body>
+</html>
