@@ -1,8 +1,8 @@
-"use strict";
+import { toLowerCaseIgnoringRomanC } from "./case_conversion_ignoring_roman_c.js";
 const KANA_TABLE = {
     'p': { 'a': 'パ', 'i': 'ピ', 'u': 'プ', 'e': 'ペ', 'o': 'ポ', '': 'ㇷ゚' },
     'b': { 'a': 'バ', 'i': 'ビ', 'u': 'ブ', 'e': 'ベ', 'o': 'ボ', '': null },
-    'm': { 'a': 'マ', 'i': 'ミ', 'u': 'ム', 'e': 'メ', 'o': 'モ', '': 'ン' },
+    'm': { 'a': 'マ', 'i': 'ミ', 'u': 'ム', 'e': 'メ', 'o': 'モ', '': 'ン' }, // make it lenient, to allow "xadosamma" and "atalam"
     'k': { 'a': 'カ', 'i': 'キ', 'u': 'ク', 'e': 'ケ', 'o': 'コ', '': 'ㇰ' },
     'l': { 'a': 'ラ', 'i': 'リ', 'u': 'ル', 'e': 'レ', 'o': 'ロ', '': 'ㇽ' },
     'n': { 'a': 'ナ', 'i': 'ニ', 'u': 'ヌ', 'e': 'ネ', 'o': 'ノ', '': 'ン' },
@@ -27,7 +27,7 @@ function is_vowel(v) {
 function is_vowel_or_empty(v) {
     return ["a", "i", "u", "e", "o", ""].includes(v);
 }
-function to_kana(str) {
+export function to_kana(str) {
     const whole_word = str;
     if (whole_word.endsWith("lt")) {
         return to_kana(whole_word.slice(0, -2) + "leti");
@@ -52,7 +52,7 @@ function to_kana(str) {
     }
     return ans;
 }
-function kana_words(form) {
+export function kana_words(form) {
     const normalized = toLowerCaseIgnoringRomanC(form);
     const spacing = '·';
     return normalized

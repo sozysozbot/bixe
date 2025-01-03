@@ -1,7 +1,7 @@
-"use strict";
-let corpus_new_to_old = [...CORPUS];
-corpus_new_to_old.sort((a, b) => sources_new_to_old.indexOf(a.source) - sources_new_to_old.indexOf(b.source));
-function get_matches(regex_str, lang) {
+import { CORPUS } from "./corpus.js";
+import { sources_new_to_old } from "./linkMap.js";
+export const corpus_new_to_old = [...CORPUS].toSorted((a, b) => sources_new_to_old.indexOf(a.source) - sources_new_to_old.indexOf(b.source));
+export function get_matches(regex_str, lang) {
     return corpus_new_to_old.filter(item => item[lang].match(new RegExp(regex_str, "gi"))).map(item => {
         const matched_portions = [];
         /*

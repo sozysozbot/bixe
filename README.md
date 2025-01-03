@@ -13,3 +13,16 @@
 ```sh
 ./index.sh
 ```
+
+## ローカルで実行
+
+CORS の関係上、ローカルで試すには
+
+```
+npm install -g http-server
+http-server ./docs -p 31198 --cors
+```
+
+が必要。Windows なら `./local_debug.bat` でできるようにしてある。
+
+npx tsc が上手くいかない場合は `npm install -g typescript@latest` をすること。

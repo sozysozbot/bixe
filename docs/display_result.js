@@ -1,8 +1,11 @@
-"use strict";
+import { getSinglyAnnotatedLine } from "./get_singly_annotated_line.js";
+import { HYPERLINKS, is_valid_source } from "./linkMap.js";
+import { get_matches } from "./search.js";
+import { kana_words } from "./to_kana.js";
 let controller = null;
 const isError = (a) => a instanceof Error;
 const isAbortError = (err) => err.name === 'AbortError';
-async function display_result(search_by_lang = "pmcp") {
+export async function display_result(search_by_lang = "pmcp") {
     // If there's an ongoing task, cancel it
     if (controller) {
         controller.abort();

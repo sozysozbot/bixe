@@ -1,4 +1,5 @@
-"use strict";
+import { toLowerCaseIgnoringRomanC } from "./case_conversion_ignoring_roman_c.js";
+import { WORDS } from "./words.js";
 const words = WORDS.filter(w => !w.目録から排除);
 function normalize_word(w) {
     return toLowerCaseIgnoringRomanC(w.語)
@@ -30,7 +31,7 @@ loose_list.sort();
 // Cache for memoization
 const query_lemma_cache_allow_strip = new Map();
 const query_lemma_cache_forbid_strip = new Map();
-function queryLemma(word, allow_strip) {
+export function queryLemma(word, allow_strip) {
     if (allow_strip) {
         if (query_lemma_cache_allow_strip.has(word)) {
             return query_lemma_cache_allow_strip.get(word);

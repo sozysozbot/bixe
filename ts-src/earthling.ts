@@ -1,5 +1,7 @@
+import { Source } from "./linkMap.js";
+
 // 百人一首とかについて、「この資料以外で出てこないでくれ」と指定できる
-const EARTHLING_WORDS = new Map<Source | "__GLOBAL__", string[]>([
+export const EARTHLING_WORDS = new Map<Source | "__GLOBAL__", string[]>([
     [
         // global: words that is allowed to be found in any source
         "__GLOBAL__", ["nippon", "gemu", "maketo", "adbent", "kalenda", "bucu", "gemu", "maketo", "madxan", "lewa"]
@@ -19,15 +21,14 @@ const EARTHLING_WORDS = new Map<Source | "__GLOBAL__", string[]>([
     ]
 ]);
 
-// TODO: When EARTHLING_LIST contains a word that has legitimate use, then we must report the clash
 // 現世都合の単語一覧
-const EARTHLING_LIST = [...EARTHLING_WORDS].flatMap(([_, words]) => words);
+export const EARTHLING_LIST = [...EARTHLING_WORDS].flatMap(([_, words]) => words);
 
-function isEarthlingWord(word: string): boolean {
+export function isEarthlingWord(word: string): boolean {
     return EARTHLING_LIST.includes(word);
 }
 
-function expectedSourcesForEarthlingWord(word: string): (Source | "__GLOBAL__")[] {
+export function expectedSourcesForEarthlingWord(word: string): (Source | "__GLOBAL__")[] {
     const ans: (Source | "__GLOBAL__")[] = [];
     for (const [source, words] of EARTHLING_WORDS) {
         if (words.includes(word)) {

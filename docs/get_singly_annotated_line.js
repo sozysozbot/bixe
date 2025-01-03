@@ -1,4 +1,8 @@
-"use strict";
+import { toLowerCaseIgnoringRomanC } from "./case_conversion_ignoring_roman_c.js";
+import { expectedSourcesForEarthlingWord, isEarthlingWord } from "./earthling.js";
+import { getHoverableForEarthlingWord, getHoverableText } from "./get_hoverable_text.js";
+import { queryLemma } from "./query_lemma.js";
+import { corpus_new_to_old } from "./search.js";
 /**
  * The basic functionality is to highlight the matched portion.
  * That is, we want
@@ -29,7 +33,7 @@
         - よってその位置で slice すればいい
 
  */
-function getSinglyAnnotatedLine(full_text, source, highlight_) {
+export function getSinglyAnnotatedLine(full_text, source, highlight_) {
     const h = highlight_ ?? { beginIndex: 0, endIndex: 0, match: "" };
     const tokens = tokenize(full_text);
     const single_line = document.createElement("div");

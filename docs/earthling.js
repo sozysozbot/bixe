@@ -1,6 +1,5 @@
-"use strict";
 // 百人一首とかについて、「この資料以外で出てこないでくれ」と指定できる
-const EARTHLING_WORDS = new Map([
+export const EARTHLING_WORDS = new Map([
     [
         // global: words that is allowed to be found in any source
         "__GLOBAL__", ["nippon", "gemu", "maketo", "adbent", "kalenda", "bucu", "gemu", "maketo", "madxan", "lewa"]
@@ -19,13 +18,12 @@ const EARTHLING_WORDS = new Map([
         ]
     ]
 ]);
-// TODO: When EARTHLING_LIST contains a word that has legitimate use, then we must report the clash
 // 現世都合の単語一覧
-const EARTHLING_LIST = [...EARTHLING_WORDS].flatMap(([_, words]) => words);
-function isEarthlingWord(word) {
+export const EARTHLING_LIST = [...EARTHLING_WORDS].flatMap(([_, words]) => words);
+export function isEarthlingWord(word) {
     return EARTHLING_LIST.includes(word);
 }
-function expectedSourcesForEarthlingWord(word) {
+export function expectedSourcesForEarthlingWord(word) {
     const ans = [];
     for (const [source, words] of EARTHLING_WORDS) {
         if (words.includes(word)) {

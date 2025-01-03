@@ -1,11 +1,11 @@
 /* AUTOMATICALLY GENERATED. DO NOT EDIT MANUALLY */
-type Word = {
+export type Word = {
   語: string;
   品詞: string;
   目録から排除: boolean;
   意味_日: string;
 };
-const WORDS: Word[] = [
+export const WORDS: Word[] = [
   {
     "語": "mi",
     "品詞": "名詞",

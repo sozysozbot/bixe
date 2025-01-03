@@ -37,26 +37,26 @@ const linkMap = links.reduce((acc, { source, links }) => {
 }, {});
 
 fs.writeFileSync('../ts-src/corpus.ts', `/* AUTOMATICALLY GENERATED. DO NOT EDIT MANUALLY */
-type CorpusElem = {
+export type CorpusElem = {
   source: string;
   pmcp: string;
   direct_ja: string;
   ja: string;
   en: string;
 };
-const CORPUS: CorpusElem[] = ${JSON.stringify(corpus.slice(1), null, 2)};`);
+export const CORPUS: CorpusElem[] = ${JSON.stringify(corpus.slice(1), null, 2)};`);
 fs.writeFileSync('../ts-src/linkMap.ts', `/* AUTOMATICALLY GENERATED. DO NOT EDIT MANUALLY */
-type Source = ${sources.map(s => JSON.stringify(s)).join(" | ")};
-const sources_new_to_old: string[] = ${JSON.stringify(sources)};
-const is_valid_source = (source: string): source is Source => {
+export type Source = ${sources.map(s => JSON.stringify(s)).join(" | ")};
+export const sources_new_to_old: string[] = ${JSON.stringify(sources)};
+export const is_valid_source = (source: string): source is Source => {
   return sources_new_to_old.includes(source);
 }
 
-type Hyperlinks = {
+export type Hyperlinks = {
   [key in Source]: string[]
 };
 
-const HYPERLINKS: Hyperlinks = ${JSON.stringify(linkMap, null, 2)};`);
+export const HYPERLINKS: Hyperlinks = ${JSON.stringify(linkMap, null, 2)};`);
 
 
 // trigram
@@ -88,10 +88,10 @@ const words = fs.readFileSync('words.tsv', 'utf8').split(/\r\n|\n/).map(line => 
 });
 
 fs.writeFileSync('../ts-src/words.ts', `/* AUTOMATICALLY GENERATED. DO NOT EDIT MANUALLY */
-type Word = {
+export type Word = {
   語: string;
   品詞: string;
   目録から排除: boolean;
   意味_日: string;
 };
-const WORDS: Word[] = ${JSON.stringify(words.slice(1), null, 2)};`);
+export const WORDS: Word[] = ${JSON.stringify(words.slice(1), null, 2)};`);

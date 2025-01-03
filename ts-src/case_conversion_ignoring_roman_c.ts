@@ -5,6 +5,6 @@
 // We only want the capital Roman numeral, 
 // so we replace the small Roman numeral with the capital Roman numeral right after converting the string to lowercase.
 
-function toLowerCaseIgnoringRomanC(str: string): string {
+export function toLowerCaseIgnoringRomanC(str: string): string {
   return str.toLowerCase().replaceAll("\u217d", "\u216d");
 }
