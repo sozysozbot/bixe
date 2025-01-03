@@ -223,7 +223,7 @@ function tokenize(full_text: string): Token[] {
     return ans;
 }
 
-function count_highlightable() {
+export function count_highlightable() {
     const ok: string[] = [];
     const not_ok: string[] = [];
     const earthling: string[] = [];

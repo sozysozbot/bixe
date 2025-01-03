@@ -1,6 +1,6 @@
 import { display_result } from "./display_result.js";
 
-function insertAtCursor(inputElement: HTMLInputElement, textToInsert: string) {
+export function insertAtCursor(inputElement: HTMLInputElement, textToInsert: string) {
   // Get the current text of the input element
   const currentValue = inputElement.value;
 

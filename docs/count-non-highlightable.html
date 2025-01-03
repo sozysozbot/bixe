@@ -2,20 +2,15 @@
 
 <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="tooltip.css">
+    <script type="module" src="./main.js"></script>
 </head>
+<body onload="countNonHighlightable()">
 
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="tooltip.css">
-<script type="module" src="./main.js"></script>
-
-<textarea id="output" readonly rows="30" cols="80"></textarea>
-<h2>List of Earthling words [Edit ts-src/earthling.ts to modify this list]</h2>
-<div id="earthling_list"></div>
-<h3>Allowed sources</h3>
-<div id="allowed_sources"></div>
-
-<script>
-    document.getElementById("output").value = count_highlightable();
-    document.getElementById("earthling_list").textContent = JSON.stringify(EARTHLING_LIST, null, 2);
-    document.getElementById("allowed_sources").innerHTML = "<ul>" + [...EARTHLING_WORDS].map(([source, words]) => `<li>${source}: ${words.join(", ")}</li>`).join("") + "</ul>";
-</script>
+    <textarea id="output" readonly rows="30" cols="80"></textarea>
+    <h2>List of Earthling words [Edit ts-src/earthling.ts to modify this list]</h2>
+    <div id="earthling_list"></div>
+    <h3>Allowed sources</h3>
+    <div id="allowed_sources"></div>
+</body>

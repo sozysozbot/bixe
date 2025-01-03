@@ -1,5 +1,5 @@
 import { display_result } from "./display_result.js";
-function insertAtCursor(inputElement, textToInsert) {
+export function insertAtCursor(inputElement, textToInsert) {
     // Get the current text of the input element
     const currentValue = inputElement.value;
     // Get the start and end positions of the cursor

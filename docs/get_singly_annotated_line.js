@@ -225,7 +225,7 @@ function tokenize(full_text) {
     ans.push({ kind: "eof", content: "" });
     return ans;
 }
-function count_highlightable() {
+export function count_highlightable() {
     const ok = [];
     const not_ok = [];
     const earthling = [];
