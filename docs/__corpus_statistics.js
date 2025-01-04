@@ -4,6 +4,10 @@ import { corpus_new_to_old } from "./search.js";
 import { queryLemma } from "./query_lemma.js";
 window.gen_stat = function () {
     const occurrence_map = new Map();
+    const highlightable = [];
+    const non_highlightable = [];
+    const earthling = [];
+    const t0 = performance.now();
     for (const item of corpus_new_to_old) {
         const { pmcp: pmcp_text } = item;
         const tokens = tokenize(pmcp_text);
@@ -13,27 +17,6 @@ window.gen_stat = function () {
                 if (query_res.kind === "ok") {
                     const lemma = query_res.words.map(w => `(${w.語}|${w.品詞})`).join("");
                     occurrence_map.set(lemma, (occurrence_map.get(lemma) || 0) + 1);
-                }
-            }
-        }
-    }
-    const countedOccurrences = [...occurrence_map.entries()];
-    const sum = countedOccurrences.reduce((acc, [_k, v]) => acc + v, 0);
-    document.getElementById("total-count").textContent = sum.toString();
-    countedOccurrences.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
-    document.getElementById("output-freq-ranking").value = countedOccurrences.map(([k, v]) => `${v}\t${k}`).join("\n");
-    const highlightable = [];
-    const non_highlightable = [];
-    const earthling = [];
-    const t0 = performance.now();
-    for (const item of corpus_new_to_old) {
-        //  const t0 = performance.now();
-        const { pmcp: pmcp_text } = item;
-        const tokens = tokenize(pmcp_text);
-        for (const tok of tokens) {
-            if (tok.kind === "pmcp-word") {
-                const query_res = queryLemma(tok.content, true);
-                if (query_res.kind === "ok") {
                     highlightable.push(tok.content);
                 }
                 else if (isEarthlingWord(tok.content)) {
@@ -44,11 +27,14 @@ window.gen_stat = function () {
                 }
             }
         }
-        //  const t1 = performance.now();
-        //  console.log(`Inner loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
     }
     const t1 = performance.now();
     console.log(`In count_highlightable():\nOuter loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
+    const countedOccurrences = [...occurrence_map.entries()];
+    const sum = countedOccurrences.reduce((acc, [_k, v]) => acc + v, 0);
+    document.getElementById("total-count").textContent = sum.toString();
+    countedOccurrences.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
+    document.getElementById("output-freq-ranking").value = countedOccurrences.map(([k, v]) => `${v}\t${k}`).join("\n");
     const highlightable_uniq = new Set(highlightable);
     const non_highlightable_uniq = new Set(non_highlightable);
     const earthling_uniq = new Set(earthling);

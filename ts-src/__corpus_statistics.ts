@@ -4,7 +4,12 @@ import { corpus_new_to_old } from "./search.js";
 import { queryLemma } from "./query_lemma.js";
 
 (window as any).gen_stat = function () {
-    const occurrence_map: Map<string, number> = new Map();
+    const highlightable_occurrence_map: Map<string, number> = new Map();
+    const highlightable: string[] = [];
+    const non_highlightable: string[] = [];
+    const earthling: string[] = [];
+
+    const t0 = performance.now();
     for (const item of corpus_new_to_old) {
         const { pmcp: pmcp_text } = item;
         const tokens = tokenize(pmcp_text);
@@ -13,34 +18,7 @@ import { queryLemma } from "./query_lemma.js";
                 const query_res = queryLemma(tok.content, true);
                 if (query_res.kind === "ok") {
                     const lemma = query_res.words.map(w => `(${w.語}|${w.品詞})`).join("");
-                    occurrence_map.set(lemma, (occurrence_map.get(lemma) || 0) + 1);
-                }
-            }
-        }
-    }
-
-    const countedOccurrences: [string, number][] = [...occurrence_map.entries()];
-    const sum = countedOccurrences.reduce((acc, [_k, v]) => acc + v, 0);
-    document.getElementById("total-count")!.textContent = sum.toString();
-    countedOccurrences.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
-
-    (document.getElementById("output-freq-ranking")! as HTMLTextAreaElement).value = countedOccurrences.map(([k, v]) => `${v}\t${k}`).join("\n");
-
-    const highlightable: string[] = [];
-    const non_highlightable: string[] = [];
-    const earthling: string[] = [];
-
-    const t0 = performance.now();
-
-    for (const item of corpus_new_to_old) {
-        //  const t0 = performance.now();
-
-        const { pmcp: pmcp_text } = item;
-        const tokens = tokenize(pmcp_text);
-        for (const tok of tokens) {
-            if (tok.kind === "pmcp-word") {
-                const query_res = queryLemma(tok.content, true);
-                if (query_res.kind === "ok") {
+                    highlightable_occurrence_map.set(lemma, (highlightable_occurrence_map.get(lemma) || 0) + 1);
                     highlightable.push(tok.content);
                 } else if (isEarthlingWord(tok.content)) {
                     earthling.push(tok.content);
@@ -49,12 +27,16 @@ import { queryLemma } from "./query_lemma.js";
                 }
             }
         }
-        //  const t1 = performance.now();
-        //  console.log(`Inner loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
     }
-
     const t1 = performance.now();
     console.log(`In count_highlightable():\nOuter loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
+
+    const highlightable_occurrence_arr: [string, number][] = [...highlightable_occurrence_map.entries()];
+    const sum = highlightable_occurrence_arr.reduce((acc, [_k, v]) => acc + v, 0);
+    document.getElementById("total-count")!.textContent = sum.toString();
+    highlightable_occurrence_arr.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
+
+    (document.getElementById("output-freq-ranking")! as HTMLTextAreaElement).value = highlightable_occurrence_arr.map(([k, v]) => `${v}\t${k}`).join("\n");
 
     const highlightable_uniq = new Set(highlightable);
     const non_highlightable_uniq = new Set(non_highlightable);
