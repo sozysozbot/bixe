@@ -1,5 +1,4 @@
-"use strict";
-const WORDS = [
+export const WORDS = [
     {
         "語": "mi",
         "品詞": "名詞",

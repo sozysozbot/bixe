@@ -1,5 +1,4 @@
-"use strict";
-const CORPUS = [
+export const CORPUS = [
     {
         "source": "PMCFショーケース",
         "pmcp": "alic e pac kojowi jo cacijaleti mele jo tulijo. jo pame, ka nip xabit eco.",

@@ -1,32 +1,6 @@
 <!DOCTYPE html>
-
+<html>
 <head>
-    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url=__corpus_statistics.html">
 </head>
-
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="tooltip.css">
-<script src="./case_conversion_ignoring_roman_c.js"></script>
-<script src="./to_kana.js"></script>
-<script src="./corpus.js"></script>
-<script src="./linkMap.js"></script>
-<script src="./search.js"></script>
-<script src="./get_hoverable_text.js"></script>
-<script src="./words.js"></script>
-<script src="./query_lemma.js"></script>
-<script src="./earthling.js"></script>
-<script src="./get_singly_annotated_line.js"></script>
-<script src="./display_result.js"></script>
-<script src="./keyboard.js"></script>
-
-<textarea id="output" readonly rows="30" cols="80"></textarea>
-<h2>List of Earthling words [Edit ts-src/earthling.ts to modify this list]</h2>
-<div id="earthling_list"></div>
-<h3>Allowed sources</h3>
-<div id="allowed_sources"></div>
-
-<script>
-    document.getElementById("output").value = count_highlightable();
-    document.getElementById("earthling_list").textContent = JSON.stringify(EARTHLING_LIST, null, 2);
-    document.getElementById("allowed_sources").innerHTML = "<ul>" + [...EARTHLING_WORDS].map(([source, words]) => `<li>${source}: ${words.join(", ")}</li>`).join("") + "</ul>";
-</script>
+</html>

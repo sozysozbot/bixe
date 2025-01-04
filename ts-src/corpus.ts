@@ -1,12 +1,12 @@
 /* AUTOMATICALLY GENERATED. DO NOT EDIT MANUALLY */
-type CorpusElem = {
+export type CorpusElem = {
   source: string;
   pmcp: string;
   direct_ja: string;
   ja: string;
   en: string;
 };
-const CORPUS: CorpusElem[] = [
+export const CORPUS: CorpusElem[] = [
   {
     "source": "PMCFショーケース",
     "pmcp": "alic e pac kojowi jo cacijaleti mele jo tulijo. jo pame, ka nip xabit eco.",

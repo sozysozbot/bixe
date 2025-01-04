@@ -1,3 +1,5 @@
+import { toLowerCaseIgnoringRomanC } from "./case_conversion_ignoring_roman_c.js";
+
 type Onset = "p" | "b" | "m" | "k" | "l" | "n" | "c" | "x" | "z" | "t" | "d" | "j" | "w" | "h" | "g" | "s" | "";
 type VowelOrEmpty = "a" | "i" | "u" | "e" | "o" | "";
 
@@ -44,7 +46,7 @@ function is_vowel_or_empty(v: string): v is VowelOrEmpty {
     return ["a", "i", "u", "e", "o", ""].includes(v);
 }
 
-function to_kana(str: string) {
+export function to_kana(str: string) {
     const whole_word = str;
 
     if (whole_word.endsWith("lt")) {
@@ -73,7 +75,7 @@ function to_kana(str: string) {
     return ans;
 }
 
-function kana_words(form: string) {
+export function kana_words(form: string) {
     const normalized = toLowerCaseIgnoringRomanC(form);
     const spacing = '·';
     return normalized

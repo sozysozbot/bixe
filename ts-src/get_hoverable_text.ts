@@ -1,3 +1,6 @@
+import { toLowerCaseIgnoringRomanC } from "./case_conversion_ignoring_roman_c.js";
+import { kana_words } from "./to_kana.js";
+
 /**
  * getHoverableText(["pi"], {
  *  headword: "pi",
@@ -19,7 +22,7 @@
     </span>
 </span>
  */
-function getHoverableText(
+export function getHoverableText(
     maybe_highlighted_lemma: (string | Node)[],
     descriptions: {
         headword: string,
@@ -45,7 +48,7 @@ function getHoverableText(
     return hover_text;
 }
 
-function getHoverableForEarthlingWord(
+export function getHoverableForEarthlingWord(
     maybe_highlighted_lemma: (string | Node)[],
     headword: string
 ) {

@@ -1,4 +1,5 @@
-"use strict";
+import { toLowerCaseIgnoringRomanC } from "./case_conversion_ignoring_roman_c.js";
+import { kana_words } from "./to_kana.js";
 /**
  * getHoverableText(["pi"], {
  *  headword: "pi",
@@ -20,7 +21,7 @@
     </span>
 </span>
  */
-function getHoverableText(maybe_highlighted_lemma, descriptions) {
+export function getHoverableText(maybe_highlighted_lemma, descriptions) {
     const container_fragment = document.importNode(document.querySelector("#hoverable-container-template").content, true);
     container_fragment.querySelector(".main-text").textContent = "";
     container_fragment.querySelector(".main-text").append(...maybe_highlighted_lemma);
@@ -36,7 +37,7 @@ function getHoverableText(maybe_highlighted_lemma, descriptions) {
     hover_text.append(container_fragment);
     return hover_text;
 }
-function getHoverableForEarthlingWord(maybe_highlighted_lemma, headword) {
+export function getHoverableForEarthlingWord(maybe_highlighted_lemma, headword) {
     const container_fragment = document.importNode(document.querySelector("#hoverable-container-template").content, true);
     container_fragment.querySelector(".main-text").textContent = "";
     container_fragment.querySelector(".main-text").classList.add("in-earthling-list");
