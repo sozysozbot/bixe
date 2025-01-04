@@ -2,6 +2,25 @@ import { EARTHLING_LIST, EARTHLING_WORDS, isEarthlingWord } from './earthling.js
 import { tokenize } from './get_singly_annotated_line.js';
 import { corpus_new_to_old } from "./search.js";
 import { queryLemma } from "./query_lemma.js";
+export function count_freq_ranking() {
+    const freq = new Map();
+    for (const item of corpus_new_to_old) {
+        const { pmcp: pmcp_text } = item;
+        const tokens = tokenize(pmcp_text);
+        for (const tok of tokens) {
+            if (tok.kind === "pmcp-word") {
+                const query_res = queryLemma(tok.content, true);
+                if (query_res.kind === "ok") {
+                    const lemma = query_res.words.map(w => `(${w.語}|${w.品詞})`).join("");
+                    freq.set(lemma, (freq.get(lemma) || 0) + 1);
+                }
+            }
+        }
+    }
+    const counted = [...freq.entries()];
+    counted.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
+    document.getElementById("output-freq-ranking").value = counted.map(([k, v]) => `${v}\t${k}`).join("\n");
+}
 export function count_highlightable() {
     const ok = [];
     const not_ok = [];
@@ -50,6 +69,7 @@ top-tier non-highlightable: ${JSON.stringify(counted)}
 `;
 }
 window.gen_stat = function () {
+    count_freq_ranking();
     document.getElementById("output-non-highlightable").value = count_highlightable();
     document.getElementById("earthling_list").textContent = JSON.stringify(EARTHLING_LIST, null, 2);
     document.getElementById("allowed_sources").innerHTML = "<ul>" + [...EARTHLING_WORDS].map(([source, words]) => `<li>${source}: ${words.join(", ")}</li>`).join("") + "</ul>";
