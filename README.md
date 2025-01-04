@@ -23,6 +23,6 @@ npm install -g http-server
 http-server ./docs -p 31198 --cors
 ```
 
-が必要。Windows なら `./local_debug.bat` でできるようにしてある。
+が必要。Windows なら `./local_debug.bat` で `http-server ./docs -p 31198 --cors` ができるようにしてある。
 
 npx tsc が上手くいかない場合は `npm install -g typescript@latest` をすること。
