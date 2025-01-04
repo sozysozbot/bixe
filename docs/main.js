@@ -14,14 +14,7 @@ import "./keyboard.js";
 import { display_result } from "./display_result.js";
 import { insertAtCursor } from './keyboard.js';
 import { kana_words } from './to_kana.js';
-import { EARTHLING_LIST, EARTHLING_WORDS } from './earthling.js';
-import { count_highlightable } from './get_singly_annotated_line.js';
 // Expose to global scope: a dirty hack
 window.display_result = display_result;
 window.insertAtCursor = insertAtCursor;
 window.kana_words = kana_words;
-window.countNonHighlightable = function () {
-    document.getElementById("output").value = count_highlightable();
-    document.getElementById("earthling_list").textContent = JSON.stringify(EARTHLING_LIST, null, 2);
-    document.getElementById("allowed_sources").innerHTML = "<ul>" + [...EARTHLING_WORDS].map(([source, words]) => `<li>${source}: ${words.join(", ")}</li>`).join("") + "</ul>";
-};
