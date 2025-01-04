@@ -2,7 +2,6 @@ import { EARTHLING_LIST, EARTHLING_WORDS, isEarthlingWord } from './earthling.js
 import { tokenize } from './get_singly_annotated_line.js';
 import { corpus_new_to_old } from "./search.js";
 import { queryLemma } from "./query_lemma.js";
-import { Word } from './words.js';
 
 export function count_freq_ranking() {
     const freq: Map<string, number> = new Map();
@@ -21,10 +20,11 @@ export function count_freq_ranking() {
     }
 
     const counted: [string, number][] = [...freq.entries()];
-
+    const sum = counted.reduce((acc, [_k, v]) => acc + v, 0);
+    document.getElementById("total-count")!.textContent = sum.toString();
     counted.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
 
-    (document.getElementById("output-freq-ranking")! as HTMLTextAreaElement).value =counted.map(([k, v]) => `${v}\t${k}`).join("\n");
+    (document.getElementById("output-freq-ranking")! as HTMLTextAreaElement).value = counted.map(([k, v]) => `${v}\t${k}`).join("\n");
 }
 
 export function count_highlightable() {
@@ -35,7 +35,7 @@ export function count_highlightable() {
     const t0 = performance.now();
 
     for (const item of corpus_new_to_old) {
-        const t0 = performance.now();
+        //  const t0 = performance.now();
 
         const { pmcp: pmcp_text } = item;
         const tokens = tokenize(pmcp_text);
@@ -51,12 +51,12 @@ export function count_highlightable() {
                 }
             }
         }
-        const t1 = performance.now();
-        console.log(`Inner loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
+        //  const t1 = performance.now();
+        //  console.log(`Inner loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
     }
 
     const t1 = performance.now();
-    console.log(`Outer loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
+    console.log(`In count_highlightable():\nOuter loop required ${(t1 - t0).toFixed(2)} milliseconds.`);
 
     const highlightable_uniq = new Set(ok);
     const non_highlightable_uniq = new Set(not_ok);
