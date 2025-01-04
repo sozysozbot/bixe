@@ -62,7 +62,7 @@ top-tier non-highlightable: ${JSON.stringify(counted)}
 }
 
 (window as any).gen_stat = function () {
-    (document.getElementById("output")! as HTMLTextAreaElement).value = count_highlightable();
+    (document.getElementById("output-non-highlightable")! as HTMLTextAreaElement).value = count_highlightable();
     document.getElementById("earthling_list")!.textContent = JSON.stringify(EARTHLING_LIST, null, 2);
     document.getElementById("allowed_sources")!.innerHTML = "<ul>" + [...EARTHLING_WORDS].map(([source, words]) => `<li>${source}: ${words.join(", ")}</li>`).join("") + "</ul>";
 }
