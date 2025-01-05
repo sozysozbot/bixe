@@ -62,6 +62,31 @@ export function getHoverableForEarthlingWord(maybe_highlighted_lemma, headword) 
     hover_text.append(container_fragment);
     return hover_text;
 }
+export function getHoverableForBlatantTypo(maybe_highlighted_lemma, headword, corrected_headword) {
+    const container_fragment = document.importNode(document.querySelector("#hoverable-container-template").content, true);
+    container_fragment.querySelector(".main-text").textContent = "";
+    container_fragment.querySelector(".main-text").classList.add("blatant-typo");
+    container_fragment.querySelector(".main-text").append(...maybe_highlighted_lemma);
+    const tooltip_text = container_fragment.querySelector(".tooltip-text");
+    tooltip_text.classList.add("blatant-typo");
+    const one_entry_fragment = document.importNode(document.querySelector("#one-entry-template").content, true);
+    one_entry_fragment.querySelector(".tooltip-headword").textContent = headword.toUpperCase();
+    one_entry_fragment.querySelector(".tooltip-part-of-speech").textContent = "明確な誤字";
+    one_entry_fragment.querySelector(".tooltip-translation").innerHTML = `<span style="font-family: 'rounded'; letter-spacing: 0.03em; vertical-align: -2.5px;">${corrected_headword}</span> ［${kana_words(corrected_headword)}］の誤字`; // TODO: XSS
+    one_entry_fragment.querySelector(".tooltip-pronunciation").textContent = (() => {
+        try {
+            return `［${kana_words(headword)}］`;
+        }
+        catch (e) {
+            return "";
+        }
+    })();
+    tooltip_text.append(one_entry_fragment);
+    const hover_text = document.createElement("span");
+    hover_text.classList.add("hover-text");
+    hover_text.append(container_fragment);
+    return hover_text;
+}
 function getOneEntryFragment(description) {
     const one_entry_fragment = document.importNode(document.querySelector("#one-entry-template").content, true);
     one_entry_fragment.querySelector(".tooltip-headword").textContent = description.headword.toUpperCase();

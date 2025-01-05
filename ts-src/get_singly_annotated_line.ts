@@ -1,6 +1,7 @@
+import { BLATANT_TYPO_LIST, correctBlatantTypo, isBlatantTypo } from "./blatant-typo.js";
 import { toLowerCaseIgnoringRomanC } from "./case_conversion_ignoring_roman_c.js";
 import { expectedSourcesForEarthlingWord, isEarthlingWord } from "./earthling.js";
-import { getHoverableForEarthlingWord, getHoverableText } from "./get_hoverable_text.js";
+import { getHoverableForBlatantTypo, getHoverableForEarthlingWord, getHoverableText } from "./get_hoverable_text.js";
 import { Source } from "./linkMap.js";
 import { queryLemma } from "./query_lemma.js";
 import { corpus_new_to_old } from "./search.js";
@@ -101,6 +102,10 @@ export function getSinglyAnnotatedLine(full_text: string, source: Source, highli
                     ) { break; }
 
                     alert(`Note: Word "${tok.content}" is considered an Earthling word and is expected to be found only in sources ${JSON.stringify(expected_sources)} but was found in "${source}". Edit earthling.ts to fix this.\n業務連絡：単語「${tok.content}」は現世都合の単語として扱われ、${JSON.stringify(expected_sources)} 以外の資料には出現しない想定ですが、"${source}" に出現しています。earthling.ts を修正してください。`);
+                } else if (isBlatantTypo(tok.content)) {
+                    const corrected_word = correctBlatantTypo(tok.content)!;
+                    single_line.append(getHoverableForBlatantTypo(maybe_highlighted, tok.content, corrected_word));
+                    break;
                 }
 
                 const query_res = queryLemma(tok.content, true);
