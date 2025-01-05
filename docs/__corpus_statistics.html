@@ -2,20 +2,21 @@
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="tooltip.css">
     <script type="module" src="./__corpus_statistics.js"></script>
 </head>
 <body onload="gen_stat()">
 
     <h1>Corpus statistics</h1>
-    <h2>Counting highlighted words, sorted by frequency</h2>
+    <h2>Overall statistics</h2>
+    <textarea id="overall" readonly rows="9" cols="80"></textarea>
+    <h2>Highlighted words, sorted by frequency</h2>
     <div>Total: <span id="total-count"></span></div>
     <textarea id="output-freq-ranking" readonly rows="30" cols="100"></textarea>
 
-    <h2>Counting non-highlightable words</h2>
-
+    <h2>Non-highlightable words</h2>
     <textarea id="output-non-highlightable" readonly rows="30" cols="80"></textarea>
+
+    <h2>Earthling words</h2>
     <h3>List of Earthling words [Edit ts-src/earthling.ts to modify this list]</h3>
     <div id="earthling_list"></div>
     <h4>Allowed sources</h4>

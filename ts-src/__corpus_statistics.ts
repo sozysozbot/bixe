@@ -2,11 +2,13 @@ import { EARTHLING_LIST, EARTHLING_WORDS, isEarthlingWord } from './earthling.js
 import { tokenize } from './get_singly_annotated_line.js';
 import { corpus_new_to_old } from "./search.js";
 import { queryLemma } from "./query_lemma.js";
+import { isBlatantTypo } from './blatant-typo.js';
 
 function categorize() {
     const highlightable_occurrence_map: Map<string, number> = new Map();
     const non_highlightable: string[] = [];
     const earthling: string[] = [];
+    const blatant_typo: string[] = [];
 
     const t0 = performance.now();
     for (const item of corpus_new_to_old) {
@@ -20,6 +22,8 @@ function categorize() {
                     highlightable_occurrence_map.set(lemma, (highlightable_occurrence_map.get(lemma) || 0) + 1);
                 } else if (isEarthlingWord(tok.content)) {
                     earthling.push(tok.content);
+                } else if (isBlatantTypo(tok.content)) {
+                    blatant_typo.push(tok.content);
                 } else {
                     non_highlightable.push(tok.content);
                 }
@@ -29,11 +33,11 @@ function categorize() {
     const t1 = performance.now();
     console.log(`Analyzing all the words in the corpus required ${(t1 - t0).toFixed(2)} milliseconds.`);
 
-    return { highlightable_occurrence_map, non_highlightable, earthling };
+    return { highlightable_occurrence_map, non_highlightable, earthling, blatant_typo };
 }
 
 (window as any).gen_stat = function () {
-    const { highlightable_occurrence_map, non_highlightable, earthling } = categorize();
+    const { highlightable_occurrence_map, non_highlightable, earthling, blatant_typo } = categorize();
 
     // handle highlightable
     const highlightable_uniq_count = highlightable_occurrence_map.size;
@@ -52,23 +56,23 @@ function categorize() {
     )];
 
     non_highlightable_occurrence_arr.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
+    (document.getElementById("output-non-highlightable")! as HTMLTextAreaElement).value = `top-tier non-highlightable: ${JSON.stringify(non_highlightable_occurrence_arr)}`;
 
     const earthling_uniq = new Set(earthling);
+    const blatant_typo_uniq = new Set(blatant_typo);
 
-    const non_uniq_total = highlightable_non_uniq_count + non_highlightable.length + earthling.length;
-    const uniq_total = highlightable_uniq_count + non_highlightable_uniq.size + earthling_uniq.size;
+    const non_uniq_total = highlightable_non_uniq_count + non_highlightable.length + earthling.length + blatant_typo.length;
+    const uniq_total = highlightable_uniq_count + non_highlightable_uniq.size + earthling_uniq.size + blatant_typo_uniq.size;
 
-    (document.getElementById("output-non-highlightable")! as HTMLTextAreaElement).value = `
-        highlightable (not uniq): ${highlightable_non_uniq_count}; ${(highlightable_non_uniq_count / non_uniq_total * 100).toPrecision(4)}%
+    (document.getElementById("overall")! as HTMLTextAreaElement).value = `        highlightable (not uniq): ${highlightable_non_uniq_count}; ${(highlightable_non_uniq_count / non_uniq_total * 100).toPrecision(4)}%
     non-highlightable (not uniq): ${non_highlightable.length}; ${(non_highlightable.length / non_uniq_total * 100).toPrecision(4)}%
         earthling     (not uniq): ${earthling.length}; ${(earthling.length / non_uniq_total * 100).toPrecision(4)}%
+        blatant typo  (not uniq): ${blatant_typo.length}; ${(blatant_typo.length / non_uniq_total * 100).toPrecision(4)}%
     
         highlightable (uniq): ${highlightable_uniq_count}; ${(highlightable_uniq_count / uniq_total * 100).toPrecision(4)}%
     non-highlightable (uniq): ${non_highlightable_uniq.size}; ${(non_highlightable_uniq.size / uniq_total * 100).toPrecision(4)}%
         earthling     (uniq): ${earthling_uniq.size}; ${(earthling_uniq.size / uniq_total * 100).toPrecision(4)}%
-        
-    top-tier non-highlightable: ${JSON.stringify(non_highlightable_occurrence_arr)}
-    `;
+        blatant typo  (uniq): ${blatant_typo_uniq.size}; ${(blatant_typo_uniq.size / uniq_total * 100).toPrecision(4)}%`;
 
     document.getElementById("earthling_list")!.textContent = JSON.stringify(EARTHLING_LIST, null, 2);
     document.getElementById("allowed_sources")!.innerHTML = "<ul>" + [...EARTHLING_WORDS].map(([source, words]) => `<li>${source}: ${words.join(", ")}</li>`).join("") + "</ul>";
