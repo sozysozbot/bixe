@@ -2418,6 +2418,22 @@ discord会話	ICECLETI LATA LUC E KIN JO 1000000 LETI.		死者数は百万人に
 虎新聞（車両輸出減少）	ka e nupankaleti jo enjait leti lata at cileti poto pi lejun delu xelit nip it ka leti.		これは従業員にも地域にも良くないことであるため、メーカーはこれをしないことを目指すべきである。			
 虎新聞（車両輸出減少）	cetleti dutucunleti lime jol mol pi ka nip e boncenait tude jo linec leti lap.		多くの新しい道があるが、それは決してリナエストへの輸出だけではないはずだ。			
 虎新聞（車両輸出減少）	lauzait xuci leti lejun delu xelit pankaleti lime. jo it ka leti nole, cene cecnutit enjait leti lata leti cacke.		車両メーカーは適切な道を探すべきであり、それをしたとき、従業員の暮らしを守ることができるだろう。			
+虎新聞広告（アリト芋）	kunlanit ka pi latapanka		これを食べて健康に			
+虎新聞広告（アリト芋）	jo 1leti cunenek lap kunlanit 1leti		一日に一つだけ食べる			
+虎新聞広告（アリト芋）	taupo dixec leti kectene leti lijulata		タウポ自然大学のリユラタ（学者・学生）			
+虎新聞広告（アリト芋）	"ka e pankaleti!"		「これはよい！」			
+虎新聞広告（アリト芋）	pac it lt nole 百銭	開始時 百ズー	初回 百ズー			
+虎新聞広告（アリト芋）	alit-dectok		アリト芋			
+虎新聞広告（アリト芋）	jo kaleti kunlanel, latanupankaleti lata delu e tude jo latapanka leti anpe molip.		この食べ物には、不健康な人が必ず健康になるという力はありません。			
+虎新聞広告（アリト芋）	jo pac it leti nole leti et 五百銭.	開始時の他は五百ズーです。	初回以外は五百ズーです。			
+虎新聞広告（アリト芋）	dijacit leti nole delu cuit tude 八百銭.		キャンセル時は八百ズーをお支払いいただく必要があります。			
+虎新聞広告（琥珀ゲームズ）	lauzait dutucunleti belpic leti cepkulante leti lata delu kile!		新しいゲームのルールを作る人は来るべき！			
+虎新聞広告（琥珀ゲームズ）	siksiju belpic		琥珀ゲームズ			
+虎新聞広告（語学教室）	lukupit pankaleti pemecepe		良い東島通商語を話す			
+虎新聞広告（語学教室）	lexel-lukup-lijupolto		レシェール語学教室			
+虎新聞広告（数を数える）	kinpit leti cul e kukol leti kapa		数える方法は経済の光			
+虎新聞広告（数を数える）	kadxika.nuwapiju kanteit		カジカ・ヌワピユ著			
+虎新聞広告（数を数える）	kinpit kin		数を数える			
 【耳声手片】説明書	jutata leti bapala	声の札	かるた			
 【耳声手片】説明書	jutata leti bapala at canxenit leti bapala mol.	声の札と、散布する札があります。	読み札と取り札があります。			
 【耳声手片】説明書	xeplata lap xelit jutata leti. nuxeplata xelit lap canxenit leti.	親プレイヤーだけが、声のを見ます。子プレイヤーは、散布するのだけを見ます。	親プレイヤーのみが読み札を見ます。子プレイヤーは取り札だけを見ます。			
@@ -2529,7 +2545,7 @@ LAUZAIT-CEPルールブック	kinpit kin leti cul e ka.		ボーナス点計算�
 LAUZAIT-CEPルールブック	xep jo aucleti kin e 5leti.		最大の数は5。			
 LAUZAIT-CEPルールブック	5leti lauzait 2leti kin pi atakecleti kin e 2leti kin.		5は2点を生むので、ボーナス点は2点。			
 LAUZAIT-CEPルールブック	xep jo aucleti kin e pulonit 3leti leti zo.		最大の数は3として振舞っているワイルド。			
-LAUZAIT-CEPルールブック	3leti lauzait 1leti kin pi atakecleti kin e 3leti cucnit leti 3leti kin.三生一値即三友三層此故三値。		3は1点を生み、3個セットは3倍であるので3点。			
+LAUZAIT-CEPルールブック	3leti lauzait 1leti kin pi atakecleti kin e 3leti cucnit leti 3leti kin.		3は1点を生み、3個セットは3倍であるので3点。			
 LAUZAIT-CEPルールブック	1leti pulonleti zo mol pi atakecleti kin e 2leti kin.		ワイルドが1枚あるので、ボーナス点は2点。			
 LAUZAIT-CEPルールブック	lauzait cep!		ラウツァイト・セプ！			
 LAUZAIT-CEPルールブック	jo panleti nole lata kaceit 3leti latacela pi kaleti lata delu e lukupit "lauzait cep!" pi letit atakecleti molkait leti kin.		3つの組合せをすでに公開している場合、そのプレイヤーは「ラウツァイト・セプ！」と宣言して追加で勝利点を得ることができます。			

@@ -16933,6 +16933,118 @@ export const CORPUS = [
         "en": ""
     },
     {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "kunlanit ka pi latapanka",
+        "direct_ja": "",
+        "ja": "これを食べて健康に",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "jo 1leti cunenek lap kunlanit 1leti",
+        "direct_ja": "",
+        "ja": "一日に一つだけ食べる",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "taupo dixec leti kectene leti lijulata",
+        "direct_ja": "",
+        "ja": "タウポ自然大学のリユラタ（学者・学生）",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "\"ka e pankaleti!\"",
+        "direct_ja": "",
+        "ja": "「これはよい！」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "pac it lt nole 百銭",
+        "direct_ja": "開始時 百ズー",
+        "ja": "初回 百ズー",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "alit-dectok",
+        "direct_ja": "",
+        "ja": "アリト芋",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "jo kaleti kunlanel, latanupankaleti lata delu e tude jo latapanka leti anpe molip.",
+        "direct_ja": "",
+        "ja": "この食べ物には、不健康な人が必ず健康になるという力はありません。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "jo pac it leti nole leti et 五百銭.",
+        "direct_ja": "開始時の他は五百ズーです。",
+        "ja": "初回以外は五百ズーです。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（アリト芋）",
+        "pmcp": "dijacit leti nole delu cuit tude 八百銭.",
+        "direct_ja": "",
+        "ja": "キャンセル時は八百ズーをお支払いいただく必要があります。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（琥珀ゲームズ）",
+        "pmcp": "lauzait dutucunleti belpic leti cepkulante leti lata delu kile!",
+        "direct_ja": "",
+        "ja": "新しいゲームのルールを作る人は来るべき！",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（琥珀ゲームズ）",
+        "pmcp": "siksiju belpic",
+        "direct_ja": "",
+        "ja": "琥珀ゲームズ",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（語学教室）",
+        "pmcp": "lukupit pankaleti pemecepe",
+        "direct_ja": "",
+        "ja": "良い東島通商語を話す",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（語学教室）",
+        "pmcp": "lexel-lukup-lijupolto",
+        "direct_ja": "",
+        "ja": "レシェール語学教室",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（数を数える）",
+        "pmcp": "kinpit leti cul e kukol leti kapa",
+        "direct_ja": "",
+        "ja": "数える方法は経済の光",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（数を数える）",
+        "pmcp": "kadxika.nuwapiju kanteit",
+        "direct_ja": "",
+        "ja": "カジカ・ヌワピユ著",
+        "en": ""
+    },
+    {
+        "source": "虎新聞広告（数を数える）",
+        "pmcp": "kinpit kin",
+        "direct_ja": "",
+        "ja": "数を数える",
+        "en": ""
+    },
+    {
         "source": "【耳声手片】説明書",
         "pmcp": "jutata leti bapala",
         "direct_ja": "声の札",
@@ -17711,7 +17823,7 @@ export const CORPUS = [
     },
     {
         "source": "LAUZAIT-CEPルールブック",
-        "pmcp": "3leti lauzait 1leti kin pi atakecleti kin e 3leti cucnit leti 3leti kin.三生一値即三友三層此故三値。",
+        "pmcp": "3leti lauzait 1leti kin pi atakecleti kin e 3leti cucnit leti 3leti kin.",
         "direct_ja": "",
         "ja": "3は1点を生み、3個セットは3倍であるので3点。",
         "en": ""
