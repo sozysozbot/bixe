@@ -13,6 +13,16 @@
     <div>Total: <span id="total-count"></span></div>
     <textarea id="output-freq-ranking" readonly rows="30" cols="100"></textarea>
 
+    <h3>Fit to the double-power law</h3>
+    <pre>
+    The double-power law model predicts the probability that a word with rank r occurs as follows:
+        p(r) = C * r^{-α}               for r <= b
+             = C * b^{γ-α} * r^{-γ}      for r > b
+    with the normalization constant
+        C = 1 / ( Σ_{r=1}^{b} r^{-α} + b^{γ-α} Σ_{r=b+1}^{N} r^{-γ} ).
+    </pre>
+    <div id="output-power-law"></div>
+
     <h2>Non-highlightable words</h2>
     <textarea id="output-non-highlightable" readonly rows="30" cols="80"></textarea>
 
