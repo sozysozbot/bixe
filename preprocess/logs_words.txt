@@ -1,18 +1,18 @@
---2025-02-01 13:58:58--  https://docs.google.com/spreadsheets/d/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs/export?format=tsv&gid=0
-Resolving docs.google.com (docs.google.com)... 142.251.42.142, 2404:6800:4004:825::200e
+--2025-02-01 14:20:45--  https://docs.google.com/spreadsheets/d/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs/export?format=tsv&gid=0
+Resolving docs.google.com (docs.google.com)... 142.251.42.142, 2404:6800:4004:828::200e
 Connecting to docs.google.com (docs.google.com)|142.251.42.142|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/i199nv6bo49t2t842aec1rnies/1738385935000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0 [following]
+Location: https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/cl9g0so8thavi6g2jp256e0b0k/1738387245000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0 [following]
 Warning: wildcards not supported in HTTP.
---2025-02-01 13:58:59--  https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/i199nv6bo49t2t842aec1rnies/1738385935000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0
-Resolving doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)... 142.251.42.129, 2404:6800:4004:825::2001
-Connecting to doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)|142.251.42.129|:443... connected.
+--2025-02-01 14:20:45--  https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/cl9g0so8thavi6g2jp256e0b0k/1738387245000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0
+Resolving doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)... 216.58.220.129, 2404:6800:4004:813::2001
+Connecting to doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)|216.58.220.129|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘./preprocess/words.tsv’
 
-     0K .......... .......... .......... .......... .......... 3.07M
-    50K .......... .......... .......... .......               4.98M=0.02s
+     0K .......... .......... .......... .......... .......... 2.57M
+    50K .......... .......... .......... ........              8.71M=0.02s
 
-2025-02-01 13:58:59 (3.68 MB/s) - ‘./preprocess/words.tsv’ saved [89839]
+2025-02-01 14:20:45 (3.70 MB/s) - ‘./preprocess/words.tsv’ saved [90464]
 
