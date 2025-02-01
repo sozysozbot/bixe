@@ -577,6 +577,7 @@
 5610	INIWI		名詞		筆兵無傾AdC広報処コメント	2023/11/11		日常	la sietiv, starsk	èinye.vef	日常		
 5615	KILPEL		名詞		筆兵無傾AdC広報処コメント	2023/11/11		成果、功績	（左に同じ）	kjilferl			
 5620	TUWACAIT		動詞		筆兵無傾AdC広報処コメント	2023/11/11		祝う	（左に同じ）	tvarsna			
+5625	TUWACEIT		動詞		筆兵無傾AdC広報処コメント	2023/11/11		祝う	（左に同じ）	tvarsna			
 5630	ECTENE		名詞		筆兵無傾AdC広報処コメント	2023/11/11		聖人	（左に同じ）	estener			
 5640	ALWE		名詞		筆兵無傾AdC広報処コメント	2023/11/11		祭り, 催し, 行事, イベント	（左に同じ）	alve			
 5650	XEKUMEL		名詞		筆兵無傾AdC広報処コメント	2023/11/11		こども	selun	chieroumiel.vef			
@@ -940,3 +941,10 @@
 	wokmut		人名					フォㇰムㇳ、ウォㇰムㇳ【黒家】（人名）				黒家	
 	latectepanka-leti		動詞		NIPPON BELPIC			気立ての良い	lartest es vynut	lartesterpanqa			
 	atectenupanka-leti		動詞		NIPPON BELPIC			不適切な、適切でない	es nefplelajnef	lartest es ny panqa			例外的に語頭の l が落ちている
+	launze		名詞		NIPPON BELPIC			下、以下、下記		launsar		下	
+	cinuk		名詞		NIPPON BELPIC			キク（菊）		stinuk			
+	lukip-it		動詞		我々の遊戯-text			言う、話す	（左に同じ）	lkurf		言	
+	tactel-it		動詞		我々の遊戯-text			決める、決定する、選ぶ、選択する	snojij, text	destel, festel, textel		定	
+	lijupolto		名詞		虎新聞			学び舎、教室、校舎、学校	insirznyk, jesnyp	liju.pmcp + polto.pmcp			
+	bapela		名詞		我々の遊戯-text			カード、チケット	vuviep vepalea fua icvergo fhasfa	vepalea			リパライン語 vepalea には「カード、チケット」と「板」の両義があるので、訳語欄は「なにかを受け取るための薄い vepalea」とする。
+	alit		名詞		虎新聞			アリㇳ（芋の一種）	destok zu stiesel es "alit"				
