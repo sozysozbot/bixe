@@ -47,10 +47,10 @@ function categorize() {
     highlightable_occurrence_arr.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
 
     (document.getElementById("output-freq-ranking")! as HTMLTextAreaElement).value = highlightable_occurrence_arr.map(([k, v]) => `${v}\t${k}`).join("\n");
-    
+
     (document.getElementById("output-power-law")! as HTMLElement).textContent = "Calculating...";
     (() => setTimeout(() => {
-        const { b, gamma, gammaPrecision, C } = fitDoublePowerLaw(highlightable_occurrence_arr.map(([k, v], i) => ({ rank: i + 1, freq: v })));
+        const { b, gamma, gammaPrecision, C } = fitDoublePowerLaw(highlightable_occurrence_arr);
         (document.getElementById("output-power-law")! as HTMLElement).textContent = `b: ${b}, γ: ${gamma} ± ${gammaPrecision / 2} [normalization constant C: ${C}]`;
     }, 0))();
 
@@ -103,10 +103,11 @@ function categorize() {
  * and over a candidate range for γ.
  */
 function fitDoublePowerLaw(
-    data: { rank: number; freq: number }[]
+    sorted_occurrences: [unknown, number][]
 ): { b: number; gamma: number, gammaPrecision: number, C: number } {
-    // Sort data by rank in increasing order.
-    const sortedData = data.slice().sort((a, b) => a.rank - b.rank);
+    const sum = sorted_occurrences.reduce((acc, [_k, v]) => acc + v, 0);
+
+    const sortedData = sorted_occurrences.map(([k, v], i) => ({ freq: v / sum }));
     const N = sortedData.length;
 
     // Define the search range for gamma.
@@ -119,18 +120,18 @@ function fitDoublePowerLaw(
     let bestGamma = 0;
     let C_at_best = 0;
 
-    // We only consider thresholds b that leave at least one rank in the tail.
-    // Here we loop over the indices of sortedData and take b as the observed rank.
-    for (let bIndex = 0; bIndex < N - 1; bIndex++) {
-        const bCandidate = sortedData[bIndex].rank;
+    // Loop over candidate gamma values.
+    for (let gammaCandidate = gammaMin; gammaCandidate <= gammaMax; gammaCandidate += gammaStep) {
 
-        // Loop over candidate gamma values.
-        for (let gammaCandidate = gammaMin; gammaCandidate <= gammaMax; gammaCandidate += gammaStep) {
+        // We only consider thresholds b that leave at least one rank in the tail.
+        // Here we loop over the indices of sortedData and take b as the observed rank.
+        for (let bIndex = 0; bIndex < N - 1; bIndex++) {
+            const bCandidate = bIndex + 1;
             // First compute the normalization constant C for this (b, gamma).
             let sumCore = 0;
             let sumTail = 0;
             for (let i = 0; i < N; i++) {
-                const r = sortedData[i].rank;
+                const r = i + 1;
                 if (r <= bCandidate) {
                     sumCore += Math.pow(r, -1);
                 } else {
@@ -142,7 +143,7 @@ function fitDoublePowerLaw(
             // Compute the log likelihood for this parameter pair.
             let ll = 0;
             for (let i = 0; i < N; i++) {
-                const r = sortedData[i].rank;
+                const r = i + 1;
                 const freq = sortedData[i].freq;
                 if (r <= bCandidate) {
                     // For r <= b: ln(p(r)) = ln(C) - ln(r)
