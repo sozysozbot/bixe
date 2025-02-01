@@ -105,6 +105,8 @@ function categorize() {
 function fitDoublePowerLaw(
     sorted_occurrences: [unknown, number][]
 ): { b: number; gamma: number, gammaPrecision: number, C: number } {
+    const t0 = performance.now();
+
     const sum = sorted_occurrences.reduce((acc, [_k, v]) => acc + v, 0);
 
     const sortedData = sorted_occurrences.map(([k, v], i) => ({ freq: v / sum }));
@@ -163,6 +165,10 @@ function fitDoublePowerLaw(
             }
         }
     }
+
+    const t1 = performance.now();
+    console.log(`Calculating the best fit required ${(t1 - t0).toFixed(2)} milliseconds.`);
+
 
     return { b: bestB, gamma: bestGamma, gammaPrecision: gammaStep, C: C_at_best };
 }

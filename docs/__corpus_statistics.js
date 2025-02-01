@@ -89,6 +89,7 @@ window.gen_stat = function () {
  * and over a candidate range for γ.
  */
 function fitDoublePowerLaw(sorted_occurrences) {
+    const t0 = performance.now();
     const sum = sorted_occurrences.reduce((acc, [_k, v]) => acc + v, 0);
     const sortedData = sorted_occurrences.map(([k, v], i) => ({ freq: v / sum }));
     const N = sortedData.length;
@@ -142,5 +143,7 @@ function fitDoublePowerLaw(sorted_occurrences) {
             }
         }
     }
+    const t1 = performance.now();
+    console.log(`Calculating the best fit required ${(t1 - t0).toFixed(2)} milliseconds.`);
     return { b: bestB, gamma: bestGamma, gammaPrecision: gammaStep, C: C_at_best };
 }
