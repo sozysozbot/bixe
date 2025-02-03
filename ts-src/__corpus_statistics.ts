@@ -3,6 +3,7 @@ import { tokenize } from './get_singly_annotated_line.js';
 import { corpus_new_to_old } from "./search.js";
 import { queryLemma } from "./query_lemma.js";
 import { isBlatantTypo } from './blatant-typo.js';
+import { generateLogLogScatterPlotSVG } from './scatter_plot.js';
 
 function categorize() {
     const highlightable_occurrence_map: Map<string, number> = new Map();
@@ -49,6 +50,13 @@ function categorize() {
     (document.getElementById("output-freq-ranking")! as HTMLTextAreaElement).value = highlightable_occurrence_arr.map(([k, v]) => `${v}\t${k}`).join("\n");
 
     (document.getElementById("output-power-law")! as HTMLElement).textContent = "Calculating...";
+    const svg = generateLogLogScatterPlotSVG(
+        highlightable_occurrence_arr.map(
+            ([_k, v], i) => ({ x: i + 1, y: v })
+        )
+    );
+    (document.getElementById("power-law-plot")! as HTMLElement).innerHTML = svg;
+    console.log(svg);
     (() => setTimeout(() => {
         const { b, gamma, gammaPrecision, C } = fitDoublePowerLaw(highlightable_occurrence_arr);
         (document.getElementById("output-power-law")! as HTMLElement).textContent = `b: ${b}, γ: ${gamma} ± ${gammaPrecision / 2} [normalization constant C: ${C}]`;
