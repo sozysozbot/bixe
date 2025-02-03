@@ -62,6 +62,8 @@ function categorize() {
             highlightable_occurrence_arr.map(
                 ([_k, v], i) => ({ x: i + 1, y: v })
             ),
+            "rank (log)",
+            "occurrence (log)",
             [
                 [
                     { x: 1, y: C * sum },

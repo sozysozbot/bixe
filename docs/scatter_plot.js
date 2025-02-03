@@ -1,4 +1,4 @@
-export function generateLogLogScatterPlotAndLinesSVG(points, lines = []) {
+export function generateLogLogScatterPlotAndLinesSVG(points, xLabel = "x", yLabel = "y", lines = []) {
     // Return an empty SVG if there is no data.
     if (points.length === 0) {
         return `<svg xmlns="http://www.w3.org/2000/svg"></svg>`;
@@ -72,6 +72,9 @@ export function generateLogLogScatterPlotAndLinesSVG(points, lines = []) {
     svgContent += `<line x1="${margin.left}" y1="${margin.top + plotHeight}" x2="${margin.left + plotWidth}" y2="${margin.top + plotHeight}" stroke="black" />`;
     // Draw the y-axis (vertical line) on the left of the plot area.
     svgContent += `<line x1="${margin.left}" y1="${margin.top}" x2="${margin.left}" y2="${margin.top + plotHeight}" stroke="black" />`;
+    // Draw the x and y axis labels.
+    svgContent += `<text x="${margin.left + plotWidth / 2}" y="${margin.top + plotHeight + 40}" font-size="16" text-anchor="middle">${xLabel}</text>`;
+    svgContent += `<text x="${margin.left - 40}" y="${margin.top + plotHeight / 2}" font-size="16" transform="rotate(-90 ${margin.left - 40} ${margin.top + plotHeight / 2})" text-anchor="middle">${yLabel}</text>`;
     // Draw x-axis tick marks and their labels.
     for (const tick of xTicks) {
         // Tick mark.

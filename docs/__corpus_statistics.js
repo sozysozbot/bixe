@@ -51,7 +51,7 @@ window.gen_stat = function () {
         document.getElementById("output-power-law").textContent = `b: ${b}, γ: ${gamma} ± ${gammaPrecision / 2} [normalization constant C: ${C}]`;
         const sum = highlightable_occurrence_arr.reduce((acc, [_k, v]) => acc + v, 0);
         const final_rank = highlightable_occurrence_arr.length;
-        const svg = generateLogLogScatterPlotAndLinesSVG(highlightable_occurrence_arr.map(([_k, v], i) => ({ x: i + 1, y: v })), [
+        const svg = generateLogLogScatterPlotAndLinesSVG(highlightable_occurrence_arr.map(([_k, v], i) => ({ x: i + 1, y: v })), "rank (log)", "occurrence (log)", [
             [
                 { x: 1, y: C * sum },
                 { x: b, y: C * sum * b ** (-1) },
