@@ -1,4 +1,4 @@
-export function generateLogLogScatterPlotSVG(points) {
+export function generateLogLogScatterPlotAndLinesSVG(points, lines = []) {
     // Return an empty SVG if there is no data.
     if (points.length === 0) {
         return `<svg xmlns="http://www.w3.org/2000/svg"></svg>`;
@@ -31,12 +31,12 @@ export function generateLogLogScatterPlotSVG(points) {
     // Transformation functions: data (log space) -> SVG pixel coordinates.
     const xScale = (x) => {
         const logX = Math.log10(x);
-        return margin.left + ((logX - logMinX) / (logMaxX - logMinX)) * plotWidth;
+        return margin.left + ((logX - logMinX) / (logMaxX - logMinX)) * plotWidth * 0.8;
     };
     const yScale = (y) => {
         const logY = Math.log10(y);
         // In SVG, y=0 is at the top so we invert the coordinate.
-        return margin.top + plotHeight - ((logY - logMinY) / (logMaxY - logMinY)) * plotHeight;
+        return margin.top + plotHeight - ((logY - logMinY) / (logMaxY - logMinY)) * plotHeight * 0.8;
     };
     // Create tick marks at integer powers of 10 for the x-axis.
     const xTicks = [];
@@ -90,11 +90,21 @@ export function generateLogLogScatterPlotSVG(points) {
         const label = `10^${exponent}`;
         svgContent += `<text x="${margin.left - 7}" y="${tick.y + 3}" font-size="10" text-anchor="end">${label}</text>`;
     }
-    // Plot each data point as a red circle.
+    // Plot each data point as a blue circle.
     for (const d of points) {
         const cx = xScale(d.x);
         const cy = yScale(d.y);
         svgContent += `<circle cx="${cx}" cy="${cy}" r="10" fill="#4285F4" />`;
+    }
+    // Plot each line as a path.
+    for (const line of lines) {
+        if (line.length > 1) {
+            let path = `M ${xScale(line[0].x)} ${yScale(line[0].y)}`;
+            for (let i = 1; i < line.length; i++) {
+                path += ` L ${xScale(line[i].x)} ${yScale(line[i].y)}`;
+            }
+            svgContent += `<path d="${path}" fill="none" stroke="red" stroke-width="4" />`;
+        }
     }
     // Close the SVG tag.
     svgContent += `</svg>`;

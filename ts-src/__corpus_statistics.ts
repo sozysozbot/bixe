@@ -3,7 +3,7 @@ import { tokenize } from './get_singly_annotated_line.js';
 import { corpus_new_to_old } from "./search.js";
 import { queryLemma } from "./query_lemma.js";
 import { isBlatantTypo } from './blatant-typo.js';
-import { generateLogLogScatterPlotSVG } from './scatter_plot.js';
+import { generateLogLogScatterPlotAndLinesSVG } from './scatter_plot.js';
 
 function categorize() {
     const highlightable_occurrence_map: Map<string, number> = new Map();
@@ -50,15 +50,25 @@ function categorize() {
     (document.getElementById("output-freq-ranking")! as HTMLTextAreaElement).value = highlightable_occurrence_arr.map(([k, v]) => `${v}\t${k}`).join("\n");
 
     (document.getElementById("output-power-law")! as HTMLElement).textContent = "Calculating...";
-   
+
     (() => setTimeout(() => {
         const { b, gamma, gammaPrecision, C } = fitDoublePowerLaw(highlightable_occurrence_arr);
         (document.getElementById("output-power-law")! as HTMLElement).textContent = `b: ${b}, γ: ${gamma} ± ${gammaPrecision / 2} [normalization constant C: ${C}]`;
 
-        const svg = generateLogLogScatterPlotSVG(
+        const sum = highlightable_occurrence_arr.reduce((acc, [_k, v]) => acc + v, 0);
+        const final_rank = highlightable_occurrence_arr.length;
+
+        const svg = generateLogLogScatterPlotAndLinesSVG(
             highlightable_occurrence_arr.map(
                 ([_k, v], i) => ({ x: i + 1, y: v })
-            )
+            ),
+            [
+                [
+                    { x: 1, y: C * sum },
+                    { x: b, y: C * sum * b ** (-1) },
+                    { x: final_rank, y: C * sum * b ** (gamma - 1) * final_rank ** -gamma }
+                ],
+            ]
         );
         (document.getElementById("power-law-plot")! as HTMLElement).innerHTML = svg;
     }, 0))();
