@@ -1,10 +1,10 @@
-export function generateLogLogScatterPlotSVG(dat) {
+export function generateLogLogScatterPlotSVG(points) {
     // Return an empty SVG if there is no data.
-    if (dat.length === 0) {
+    if (points.length === 0) {
         return `<svg xmlns="http://www.w3.org/2000/svg"></svg>`;
     }
     // Ensure all data points are positive (required for log scale).
-    for (const d of dat) {
+    for (const d of points) {
         if (d.x <= 0 || d.y <= 0) {
             throw new Error("All data values must be positive for a log-log plot.");
         }
@@ -14,8 +14,8 @@ export function generateLogLogScatterPlotSVG(dat) {
     const height = 600;
     const margin = { top: 50, right: 50, bottom: 50, left: 60 };
     // Extract x and y values.
-    const xs = dat.map((d) => d.x);
-    const ys = dat.map((d) => d.y);
+    const xs = points.map((d) => d.x);
+    const ys = points.map((d) => d.y);
     const minX = Math.min(...xs);
     const maxX = Math.max(...xs);
     const minY = Math.min(...ys);
@@ -91,7 +91,7 @@ export function generateLogLogScatterPlotSVG(dat) {
         svgContent += `<text x="${margin.left - 7}" y="${tick.y + 3}" font-size="10" text-anchor="end">${label}</text>`;
     }
     // Plot each data point as a red circle.
-    for (const d of dat) {
+    for (const d of points) {
         const cx = xScale(d.x);
         const cy = yScale(d.y);
         svgContent += `<circle cx="${cx}" cy="${cy}" r="10" fill="#4285F4" />`;

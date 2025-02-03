@@ -46,12 +46,11 @@ window.gen_stat = function () {
     highlightable_occurrence_arr.sort(([_k1, v1], [_k2, v2]) => v2 - v1);
     document.getElementById("output-freq-ranking").value = highlightable_occurrence_arr.map(([k, v]) => `${v}\t${k}`).join("\n");
     document.getElementById("output-power-law").textContent = "Calculating...";
-    const svg = generateLogLogScatterPlotSVG(highlightable_occurrence_arr.map(([_k, v], i) => ({ x: i + 1, y: v })));
-    document.getElementById("power-law-plot").innerHTML = svg;
-    console.log(svg);
     (() => setTimeout(() => {
         const { b, gamma, gammaPrecision, C } = fitDoublePowerLaw(highlightable_occurrence_arr);
         document.getElementById("output-power-law").textContent = `b: ${b}, γ: ${gamma} ± ${gammaPrecision / 2} [normalization constant C: ${C}]`;
+        const svg = generateLogLogScatterPlotSVG(highlightable_occurrence_arr.map(([_k, v], i) => ({ x: i + 1, y: v })));
+        document.getElementById("power-law-plot").innerHTML = svg;
     }, 0))();
     // handle non-highlightable
     const non_highlightable_uniq = new Set(non_highlightable);
