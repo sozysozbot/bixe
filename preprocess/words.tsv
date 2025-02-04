@@ -143,6 +143,7 @@
 1410	e lot		動詞					愚かである、バカである	（左に同じ）	ny snylod			
 1420	e nulot		動詞					賢い、賢明な	（左に同じ）	snylod			
 1430	kelza		名詞					波	（左に同じ）	helzar			
+1435	helza		名詞					波	（左に同じ）	helzar			
 1440	elza		名詞					波	（左に同じ）	helzar			
 1450	kie		形容詞					急ぎの	ki'ergen	ki'e			
 1460	kin		名詞					値、数、点数	dieniep	kinfit		値	
@@ -577,6 +578,7 @@
 5610	INIWI		名詞		筆兵無傾AdC広報処コメント	2023/11/11		日常	la sietiv, starsk	èinye.vef	日常		
 5615	KILPEL		名詞		筆兵無傾AdC広報処コメント	2023/11/11		成果、功績	（左に同じ）	kjilferl			
 5620	TUWACAIT		動詞		筆兵無傾AdC広報処コメント	2023/11/11		祝う	（左に同じ）	tvarsna			
+5625	TUWACEIT		動詞		筆兵無傾AdC広報処コメント	2023/11/11		祝う	（左に同じ）	tvarsna			
 5630	ECTENE		名詞		筆兵無傾AdC広報処コメント	2023/11/11		聖人	（左に同じ）	estener			
 5640	ALWE		名詞		筆兵無傾AdC広報処コメント	2023/11/11		祭り, 催し, 行事, イベント	（左に同じ）	alve			
 5650	XEKUMEL		名詞		筆兵無傾AdC広報処コメント	2023/11/11		こども	selun	chieroumiel.vef			
@@ -905,38 +907,55 @@
 	icel-it		動詞		LAUZAIT-CEPルールブック			受ける、得る、される	icve	icve, es vel		受	
 	e nucuc		動詞					位置が低い、地位が低い	（左に同じ）	ny stys			
 	lazo		名詞					ラツォ【軸山】（山名）		la1 zo1.pk		軸山	
-	jegin		人名					イェーギン【石】（人名）				石	
+	jegin		人名					イェーギン【石】（人名）		eghin.bt		石	
 	joko		人名					ヨコ【直豊】/【牛豊】（人名）				直豊/牛豊	
-	gatu		人名					ガートゥ、ガトゥ【之子】（人名構成要素）				之子	
-	xadosamma		人名					シャードザンマー（人名）					
-	adin		人名					アーディーン、アディン（人名）					
-	baniwaimu		人名					バーニワイㇺ、バニワイム【如字】（人名）				如字	
+	gatu		人名					ガートゥ、ガトゥ【之子】（人名構成要素）		ghátu.bt		之子	
+	xadosamma		人名					シャードザンマー（人名）		ṣádhosammá.bt			
+	adin		人名					アーディーン、アディン（人名）		ádhín.bt			
+	baniwaimu		人名					バーニワイㇺ、バニワイム【如字】（人名）		bániwaim.bt		如字	
 	womuka		人名					ウォムカ【墨風】（人名）				墨風	
-	koluxan		人名					コールーシャム、コルシャン【此下】（人名）				此下	
-	katu		人名					ガートゥ、カトゥ【子】（人名構成要素）				之子	
-	lokatan		人名					ローハタム、ロカタン【平】（人名）				平	
-	muwi		人名					ムウィ、ムイ【魚】（人名）				魚	
+	koluxan		人名					コールーシャム、コルシャン【此下】（人名）		korúṣam.bt		此下	
+	katu		人名					ガートゥ、カトゥ【子】（人名構成要素）		ghátu.bt		之子	
+	lokatan		人名					ローハタム、ロカタン【平】（人名）		rohatam.bt		平	
+	muwi		人名					ムウィ、ムイ【魚】（人名）		mui1.pk		魚	
 	tacak		人名					タザク、タサク【皇来】（人名）				皇来	
 	cilxalap		人名					スィールジャーラフ、スィルシャラプ（人名）					
-	pet		人名					プㇳ、ペㇳ【星】（人名）				星	
-	nebait		人名					ヌバイㇳ、ネバイㇳ【猫膠】（人名）				猫膠	
-	kutbum		名詞					クッブーム詩【撃鼓】（詩の形式のひとつ）				撃鼓	
-	ilin		人名					イリーン、イリン（人名）		ilirn			
-	dektap		人名					デクタプ、デクタフ（人名）		dektaf			
-	kutija		名詞					クティヤ【車馬】（行政区画名）		kutija		車馬	
+	pet		人名					プㇳ、ペㇳ【星】（人名）		pet2.pk		星	
+	nebait		人名					ヌバイㇳ、ネバイㇳ【猫膠】（人名）		ne2 bait.pk		猫膠	
+	kutbum		名詞					クッブーム詩【撃鼓】（詩の形式のひとつ）		kut2 bum1.pk		撃鼓	
+	ilin		人名					イリーン、イリン（人名）	（左に同じ）	ilirn			
+	dektap		人名					デクタプ、デクタフ（人名）	（左に同じ）	dektaf			
+	kutija		名詞					クティヤ【車馬】（行政区画名）	（左に同じ）	kutija		車馬	
 	kasika		人名					カジカ、カズィカ【筆座】（人名）				筆座	
-	leledapa		人名		LAUZAIT-CEPルールブック			レレダパ（人名）		rieliedafa			
-	aikki		人名		LAUZAIT-CEPルールブック			アイㇰキー【光男】（人名）				光男	
+	kadxika		人名					カジカ、カズィカ【筆座】（人名）				筆座	
+	leledapa		人名		LAUZAIT-CEPルールブック			レレダパ（人名）	（左に同じ）	rieliedafa			
+	aikki		人名		LAUZAIT-CEPルールブック			アイㇰキー【光男】（人名）		aik2 ki1.pk		光男	
 	opuwa		人名					フォプヮ、オプワ【墨風】（人名）				墨風	
-	lujotapic		人名					リュヨタフィㇲ、リヨタピㇲ（人名）		lyjotafis			
-	palija		人名					ファリーア、パリヤ（人名）		falira			
+	lujotapic		人名					リュヨタフィㇲ、リヨタピㇲ（人名）	（左に同じ）	lyjotafis			
+	palija		人名					ファリーア、パリヤ（人名）	（左に同じ）	falira			
 	inuca		人名					イヌサ【川】（人名）				川	
 	ketacuka		人名					ケタズカ、ケタスカ【善人】（人名）				善人	
-	lexel		人名					レシェール（人名）		lexerl			
-	pentap		人名					ヴェンタフ、ペンタㇷ゚（人名）		ventaf			
-	hata		人名					ハタ（人名）		hata			
-	setija		人名					ズィエーティヤ（人名）		siertija			
+	lexel		人名					レシェール（人名）	（左に同じ）	lexerl			
+	pentap		人名					ヴェンタフ、ペンタㇷ゚（人名）	（左に同じ）	ventaf			
+	hata		人名					ハタ（人名）	（左に同じ）	hata			
+	setija		人名					ズィエーティヤ（人名）	（左に同じ）	siertija			
 	po		人名					ポー、ポ【羊】（人名）				羊	
 	wokmut		人名					フォㇰムㇳ、ウォㇰムㇳ【黒家】（人名）				黒家	
 	latectepanka-leti		動詞		NIPPON BELPIC			気立ての良い	lartest es vynut	lartesterpanqa			
 	atectenupanka-leti		動詞		NIPPON BELPIC			不適切な、適切でない	es nefplelajnef	lartest es ny panqa			例外的に語頭の l が落ちている
+	launze		名詞		NIPPON BELPIC			下、以下、下記	（左に同じ）	launsar		下	
+	cinuk		名詞		NIPPON BELPIC			キク（菊）	（左に同じ）	stinuk			
+	lukip-it		動詞		我々の遊戯-text			言う、話す	（左に同じ）	lkurf		言	
+	tactel-it		動詞		我々の遊戯-text			決める、決定する、選ぶ、選択する	snojij, text	destel, festel, textel		定	
+	lijupolto		名詞		虎新聞			学び舎、教室、校舎、学校	insirznyk, jesnyp	liju.pmcp + polto.pmcp			
+	bapela		名詞		我々の遊戯-text			カード、チケット	vuviep vepalea fua icvergo fhasfa	vepalea			リパライン語 vepalea には「カード、チケット」と「板」の両義があるので、訳語欄は「なにかを受け取るための薄い vepalea」とする。
+	alit		名詞		虎新聞			アリㇳ（芋の一種）	destok zu stiesel es "alit"				
+	atalam		名詞		プロパガンダかるた			タカン、アタラン（島名）	alefise'd menis, 皇 hartlirfa'd fonticco				
+	lapalain		形容詞		レヴェン・法・タムツイ			リパラオネ（民族名）の	（左に同じ）	lipalain			
+	diti		形容詞		レヴェン・法・タムツイ			新しい	（左に同じ）	dyty-		新	
+	bujul		名詞					飛行機	（左に同じ）	vujyl			
+	jak		人名					ヤㇰ【律】（人名）					
+	kuwa		人名					クワ、クヮ【筆】（人名）					
+	alaelen		名詞					名前	aloajerlerm, ferlk (fon larta ad mors)	aloajerlerm			
+	cileja		名詞		NIPPON BELPIC			オモテ	xlear, fontoce, xedixel ista xlear	xlear	表面		
+	nuwapiju		人名					ヌワピユ、ヌヮピュ【水力】（人名）					

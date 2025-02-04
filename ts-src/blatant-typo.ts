@@ -4,6 +4,8 @@ export const BLATANT_TYPO_LIST = [
     { wrong: "cunetelti", correct: "cunetleti" },
     { wrong: "cetkail", correct: "cetkaik" },
     { wrong: "nincetaik", correct: "nincetkaik" },
+    { wrong: "panlenti", correct: "panleti" },
+    { wrong: "akxas", correct: "akxac" },
     { wrong: "bapapa", correct: "bapala" },
     { wrong: "kanleti", correct: "kaleti" },
 ]
