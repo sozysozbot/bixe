@@ -4942,6 +4942,41 @@ export const CORPUS = [
         "en": ""
     },
     {
+        "source": "連盟サイト「初期配置」",
+        "pmcp": "pac it leti nole leti zo cet leti poto",
+        "direct_ja": "始める時の駒たちの場所",
+        "ja": "初期配置",
+        "en": ""
+    },
+    {
+        "source": "連盟サイト「初期配置」",
+        "pmcp": "jo pac it leti nole zo cet mol polto e panleti jo ka.",
+        "direct_ja": "始める時は、駒たちの場所はこれと同じである。",
+        "ja": "下の図のように配置する。",
+        "en": ""
+    },
+    {
+        "source": "連盟サイト「初期配置」",
+        "pmcp": "ludecleti leti nutok e tanke pi jo ka zo xon e tude.",
+        "direct_ja": "赤いマスはタンケであり、ここで駒は奇妙な動きをする",
+        "ja": "オレンジ色のマスは「皇処（tam2 hue）」で、ここにいる駒の動きは変化する。",
+        "en": ""
+    },
+    {
+        "source": "連盟サイト「初期配置」",
+        "pmcp": "coxetleti nutok e tanna. co celene e zo e tude jo tanna pi co doktit xiju pi delu letit 3leti o xep.",
+        "direct_ja": "青いマスはタンナであり、あなたがここに駒を動かしたいならば、シユを投げて3以上の数を得る必要がある。",
+        "ja": "水色のマスは「皇水（tam2 nua2）」で、ここに入るには原則として判定（後述）が必要となる。",
+        "en": ""
+    },
+    {
+        "source": "連盟サイト「初期配置」",
+        "pmcp": "tan leti dec leti nutok e tanzo pi ka e tanke o tanna.",
+        "direct_ja": "タンの色のマスはタンツォであり、タンケでもタンナでもある。",
+        "ja": "緑のマスは皇処でも皇水でもあり、「皇山（tam2  zo1）」と呼ぶ。",
+        "en": ""
+    },
+    {
         "source": "机戦紹介スライド",
         "pmcp": "mi e ail lata",
         "direct_ja": "",

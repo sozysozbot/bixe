@@ -705,6 +705,11 @@ PMCFショーケース	"bal mi cet luc ka kantel jo pame," alic ticot lucu, "cuk
 連盟サイト「駒・役と点数」	CO NIP CENE MAK-MAK KINPIT PANLETI DAT JO PANLETI NOLE.		あなたは同時に一つの役を複数回数えることはできない（同一役非重複）			
 連盟サイト「駒・役と点数」	将兵兵 MOL JO CO PI CO MAK-MAK LETIT 兵. PI CO NIP CENE MAK-MAK KINPIT ELME CET PI LETIT 3LETI KIN.		将兵兵を持っていて、再び兵を取っても戦集１つだけと扱われ、3点を得る。ただし、同色の役とそうでない役が重複した場合、同色である役のみ得点計算をする。			
 連盟サイト「駒・役と点数」	BEPOK LETI DAT AT NUBEPOK LETI DAT MOL PI CO KINPIT BEPOK LETI DAT PI NIP KINPIT NUBEPOK LETI DAT.					
+連盟サイト「初期配置」	PAC IT LETI NOLE LETI ZO CET LETI POTO	始める時の駒たちの場所	初期配置			
+連盟サイト「初期配置」	JO PAC IT LETI NOLE ZO CET MOL POLTO E PANLETI JO KA.	始める時は、駒たちの場所はこれと同じである。	下の図のように配置する。			
+連盟サイト「初期配置」	LUDECLETI LETI NUTOK E TANKE PI JO KA ZO XON E TUDE.	赤いマスはタンケであり、ここで駒は奇妙な動きをする	オレンジ色のマスは「皇処（tam2 hue）」で、ここにいる駒の動きは変化する。			
+連盟サイト「初期配置」	COXETLETI NUTOK E TANNA. CO CELENE E ZO E TUDE JO TANNA PI CO DOKTIT XIJU PI DELU LETIT 3LETI O XEP.	青いマスはタンナであり、あなたがここに駒を動かしたいならば、シユを投げて3以上の数を得る必要がある。	水色のマスは「皇水（tam2 nua2）」で、ここに入るには原則として判定（後述）が必要となる。			
+連盟サイト「初期配置」	TAN LETI DEC LETI NUTOK E TANZO PI KA E TANKE O TANNA.	タンの色のマスはタンツォであり、タンケでもタンナでもある。	緑のマスは皇処でも皇水でもあり、「皇山（tam2  zo1）」と呼ぶ。			
 机戦紹介スライド	MI E AIL LATA		私はアイル（国名）から来ました			
 机戦紹介スライド	AIL		《アイル》			
 机戦紹介スライド	CETKAIK E KAME?		机戦《セッカイク》とは何ですか？			
