@@ -18006,7 +18006,7 @@ export const CORPUS: CorpusElem[] = [
   },
   {
     "source": "LAUZAIT-CEPルールブック",
-    "pmcp": "jo ankalit nole it tptd pi jo dokit lata leti nole xope cene nipit lt zo molip.",
+    "pmcp": "jo ankalt nole it tptd pi jo dokit lata leti nole xope cene nipit lt zo molip.",
     "direct_ja": "",
     "ja": "仮に温故知新アクションを行っていたとしても、登用アクション時に捨てることができる駒がない場合。",
     "en": ""

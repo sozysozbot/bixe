@@ -81,8 +81,8 @@
 800	nip		前置助動詞					～ない	（左に同じ）	niv		無	
 810	cene		前置助動詞					～できる	（左に同じ）	cene		能	
 820	celene		前置助動詞					～したい、～したがる	（左に同じ）	selene		心	
-830	delu		前置助動詞					～する必要がある、～のはずだ	（左に同じ）	deliu		須	
-840	deliju		前置助動詞					～する必要がある、～のはずだ	（左に同じ）	deliu		須	
+830	delu		前置助動詞					～する必要がある、～のはずだ	（左に同じ）	deliu		須	delijuとの使い分けはない。
+840	deliju		前置助動詞					～する必要がある、～のはずだ	（左に同じ）	deliu		須	deluとの使い分けはない。
 850	lijuit		動詞					[lijuit kije]学習する、[lijuit tude]教える	lersse [kije], kanti [tude]	lyr			
 860	lucu		間投詞					～した、～し終えた	liaxa	lusus, lusut		終	
 870	nat		間投詞					まだ	（左に同じ）	nat			
@@ -127,7 +127,7 @@
 1250	cacija		名詞					姉	（左に同じ）	carxa, sasia.ar			
 1260	mele		名詞					近く	（左に同じ）	mele		近	
 1270	tulijo		名詞					土手	（左に同じ）	tuli'o, tulijo.tk			
-1280	e xel		動詞					見る、[xelit tude]調べる	（左に同じ）	xel		目	
+1280	e xel		動詞					見る、[xelit tude]調べる、[xelit kije]発見する	（左に同じ）	xel		目	
 1290	pecta		間投詞					じゃあ	（左に同じ）	pesta			
 1300	pac		前置助動詞					～し始める	fas, liaxi	fas		始	
 1310	e kojowi		動詞					疲れる	（左に同じ）	kojoi			
@@ -153,7 +153,7 @@
 1490	nip		間投詞					いいえ	（左に同じ）	niv		無	
 1500	e ancol		動詞					与える、渡す	（左に同じ）	amcol			
 1510	pontaloexo		名詞					フォンタローエショ（長さの単位。約 31.2cm）	（左に同じ）	fontalorexo			
-1520	cucen		名詞					ステュズェン（質量の単位）	（左に同じ）	stysien			
+1520	cucen		名詞					重さ、ステュズェン（質量の単位）	（左に同じ）	stysien			
 1530	lanca		名詞					下	（左に同じ）	la unsar			
 1540	launca		名詞					下	（左に同じ）	launsar		下	
 1550	laip		名詞					上	（左に同じ）	la jip			
@@ -395,7 +395,7 @@
 3820	kuwa		名詞					（セッカイクの）筆	（左に同じ）	kua (cerke)		筆	
 3830	e nupan		動詞					異なる	waxes	ny + panqa		無同	
 3840	pan-leti		動詞					同じ	es daliu	panqa		同	
-3850	tanzo		名詞					（セッカイクの）皇処	（左に同じ）	tanzo (cerke)		皇山	
+3850	tanzo		名詞					（セッカイクの）皇山	（左に同じ）	tanzo (cerke)		皇山	
 3860	kopzo		名詞					手駒、手札、手牌	surulume, surulumergal	hop1 zuo1.pk		手片	
 3870	wai		名詞					（セッカイクの）将軍	varxle (cerke)	uai1.pk		将	
 3880	e tectel		動詞					決める、決定する、選ぶ、選択する	snojij, text	destel, festel, textel		定	

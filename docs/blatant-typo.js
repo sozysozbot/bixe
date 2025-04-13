@@ -6,6 +6,9 @@ export const BLATANT_TYPO_LIST = [
     { wrong: "nincetaik", correct: "nincetkaik" },
     { wrong: "panlenti", correct: "panleti" },
     { wrong: "akxas", correct: "akxac" },
+    { wrong: "bapapa", correct: "bapala" },
+    { wrong: "kanleti", correct: "kaleti" },
+    { wrong: "manan", correct: "manana" },
 ];
 export function isBlatantTypo(word) {
     return BLATANT_TYPO_LIST.some(({ wrong }) => wrong === word);
