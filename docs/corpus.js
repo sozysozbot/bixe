@@ -18341,6 +18341,13 @@ export const CORPUS = [
     },
     {
         "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "ail icco e nupankaleti alailen",
+        "direct_ja": "",
+        "ja": "「アイルの国」は悪い名前である",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
         "pmcp": "jo ana-leti-lekka, ana lot e tude. jo cileti elmo icco ticotit kije ail lata cet lat nip jo kaleti menic cet mol julo. ",
         "direct_ja": "",
         "ja": "10月8日事件から十年が経過した。その戦いで[この]国はこの島々にアイル人たちだけが住んでいるわけでないことに気付いた。",
@@ -18575,6 +18582,13 @@ export const CORPUS = [
         "pmcp": "a, lecu eladac nectit ci. a. lecu eladac xepxelit ci.",
         "direct_ja": "",
         "ja": "ああ、彼を永遠に褒めよう。ああ、彼を永遠に尊敬しよう。",
+        "en": ""
+    },
+    {
+        "source": "discord会話２",
+        "pmcp": "co celene etexon lukupit panleti lukup pi delu amolit jo nukil cileti dictocen likup cet.",
+        "direct_ja": "",
+        "ja": "ひとつ言語を早口で喋りたいと思うのなら、その言語の重要単語を暗記しなくてはいけない。",
         "en": ""
     },
     {
