@@ -18306,16 +18306,16 @@ export const CORPUS = [
     },
     {
         "source": "ゲムマ2024秋広報処コメント",
-        "pmcp": "jo \"gemu maketo\" lucucleti nole mi cet cuit kije \"lauzait cep\" jo \"bucu\". ",
+        "pmcp": "latacet lukupit ci cet letit kaleti tuni leti.",
         "direct_ja": "",
-        "ja": "ゲームマーケットの終了後に、我々は『ラウツァイト・セプ』を BOOTH で売ります。",
+        "ja": "連盟は、このような予定があると言っています。",
         "en": ""
     },
     {
         "source": "ゲムマ2024秋広報処コメント",
-        "pmcp": "latacet lukupit ci cet letit kaleti tuni.",
+        "pmcp": "jo ka ci cet cuit kije \"lauzait cep\" jo \"bucu\" jo \"gemu maketo\" lucucleti nole.",
         "direct_ja": "",
-        "ja": "連盟は、そのように予定していると申しております。",
+        "ja": "ゲームマーケットの終了後に、我々は『ラウツァイト・セプ』を BOOTH で売ります。",
         "en": ""
     },
     {
@@ -18340,31 +18340,150 @@ export const CORPUS = [
         "en": ""
     },
     {
-        "source": "抜粋版辞書集前文",
-        "pmcp": "mi cet lauzait nippon cetkaik leti latacet jo set.2018:4:8 pi lijuit tude mi cet leti mo jo nippon pi lata at lata leti nukil e palbic.",
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo ana-leti-lekka, ana lot e tude. jo cileti elmo icco ticotit kije ail lata cet lat nip jo kaleti menic cet mol julo. ",
         "direct_ja": "",
-        "ja": "西暦 2018 年 4 月 8 日に成立して以来、日本机戦連盟は日本において我々の文化を案内し、人と人の心をつないできた。",
+        "ja": "10月8日事件から十年が経過した。その戦いで[この]国はこの島々にアイル人たちだけが住んでいるわけでないことに気付いた。",
         "en": ""
     },
     {
-        "source": "抜粋版辞書集前文",
-        "pmcp": "pi, co celene lijuit kije kaleti lukup at mo pi co delu kanteit kije cetleti inimoc pi inimoc leti poto e cet cetleti pi dindunleti.",
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "e pede leti mi xope e pankaleti jo nip deliju kanteit tude ail lukup jo cep leti julo.",
         "direct_ja": "",
-        "ja": "だが、その言語文化に親しむためには、非常に多数の場所に混沌と散らばった資料を読み込むことが要求されてきた。",
+        "ja": "バート人である私にとっても、役所でアイル語を書かなくてよいことは喜ばしい。",
         "en": ""
     },
     {
-        "source": "抜粋版辞書集前文",
-        "pmcp": "jo kaleti nole mi cet tectelit lukup pi lauzait kulante.",
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo e waxec jo pede menic leti menic cet, pede celun cet cene lijuit kije pede lukup jo kalzane. pankaleti. ",
         "direct_ja": "",
-        "ja": "いま、我々は、語を選び抜き、本を作った。",
+        "ja": "ペデ島でない島々でも、近頃ではバート系の子供たちはバート語を学べる。喜ばしい。",
         "en": ""
     },
     {
-        "source": "抜粋版辞書集前文",
-        "pmcp": "co lijuit kije kaleti kulante leti auc pi co cene kanteit kije nclc leti kaceit leti auc.",
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo nip e ail leti acalepu cet icco ancolit late. pankaleti.",
         "direct_ja": "",
-        "ja": "この本の内容を全て理解することで、日本机戦連盟が送り出してきた全てを読むことができるだろう。",
+        "ja": "アイル[風]でない葬式にも補助金が出る。喜ばしい。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "pi, jo inimoc dutucunleti icco e nuwaxecleti jo penulleti icco. ",
+        "direct_ja": "",
+        "ja": "しかし、[一つの]ことについては新政府は旧政府と同じである。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "ci cet lukupit leti icco leti alailen e ail nat.",
+        "direct_ja": "",
+        "ja": "彼らの使う国号はいまだアイルである。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "kaleti alailen e kije jo ail laxawea leti nole pi kaceit ail laxawea leti nukil. ",
+        "direct_ja": "",
+        "ja": "この名前はアイル中心主義時代につけられたものであり、アイル中心主義の精神を示す。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "alailen nakimicit cileti nole jo mi cet leti lakin cet pi lakole e pina jo kaleti nole leti mi cet leti nukil cet.",
+        "direct_ja": "",
+        "ja": "名前は、あの時代を我らの口へと感染させ、[その]吐息は今の我らの心に反響する。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo cileti nole cep ticotit tude ail lap e ci cet xelit leti mo leti julo pi e icco leti alailen e ail.",
+        "direct_ja": "",
+        "ja": "かの時代、政府はアイルのみが彼らの見る文化だということを考え、国号をアイルとした。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo kaleti nole, cep lukupit xelit etleti mo cet at leti lukup-lukup pi cep jo cila lukupit ci cet xelit leti mo leti alailen.",
+        "direct_ja": "",
+        "ja": "現在では、政府は他の文化も見ているという主張を述べているが、実際には彼らの見ている文化の名を口にしている。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "icco lucit pijuc leti kapa pi dilit mi cet pi kaleti papelleti mo e ail.",
+        "direct_ja": "",
+        "ja": "[この]国は視線を用いて我らを刺すが、その普通の文化はアイル[文化]である。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "lata cet lukup-lukupit \"pankaleti mo, pankaleti icco.\". ",
+        "direct_ja": "",
+        "ja": "人々は「良き文化、良き国家」と主張する。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo kaleti nole mi ticot-ticotit ka pi mi kanteit tude \"nupankaleti icco, nupankaleti mo.\".",
+        "direct_ja": "",
+        "ja": "今私は心を巡らせて、「悪しき国家、悪しき文化」と書く。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "kaleti icco nip e tude jo cet pankaleti.",
+        "direct_ja": "",
+        "ja": "この国は万事順調というわけではない。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo icco ceplata cet e nucetleti. nupankaleti.",
+        "direct_ja": "",
+        "ja": "[この]国では役人たちが少ない。よろしくない。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "xulip cet leti lenen delne dexit nujon at cunotil leti auc. nupankaleti. ",
+        "direct_ja": "",
+        "ja": "工場の煙が空と肺のすべてを黒く塗る。よろしくない。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo nole letok cet e lata cet e tude jo namana. nupankaleti.",
+        "direct_ja": "",
+        "ja": "時に、列車は人々を死神へ向かわせる。よろしくない。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "icco e nupankaleti pi mo at jol e nupankaleti.",
+        "direct_ja": "",
+        "ja": "国が悪いのだから、文化も悪いのだろう。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "cileti mowileti mo e ail laxawea.",
+        "direct_ja": "",
+        "ja": "その愚かしい文化はアイル中心主義である。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "jo ana lot e leti xep nole leti launza mi cet deliju nipit ail laxawea. pi deliju waxecit icco leti alailen pi deliju e icco e tude jo pankaleti. ",
+        "direct_ja": "",
+        "ja": "十年という長い時の後、我らはアイル中心主義を捨て、国号を変え、国をよくするべきだ。",
+        "en": ""
+    },
+    {
+        "source": "AIL ICCO E NUPANKALETI ALAILEN",
+        "pmcp": "lucit ka pi cene lucucit ana-leti-lekka.",
+        "direct_ja": "",
+        "ja": "それを用いて10月8日事件を終えることができる。",
         "en": ""
     },
     {
@@ -18428,6 +18547,1378 @@ export const CORPUS = [
         "pmcp": "jo lucucleti, mi tuwacait ka. \"筆兵無傾 adbent kalenda\" e tude jo panka pi mi cet at co cet leti tudekile e tude jo xep, metica.",
         "direct_ja": "",
         "ja": "最後に、『筆兵無傾 Advent Calendar 2024』の成功およびこれからの私たちの交流がますます盛んになっていくことをお祈りします。",
+        "en": ""
+    },
+    {
+        "source": "仕事終わらせ",
+        "pmcp": "mi cet panxenco it jo ana lape leti lot pi ci lucucit enja packe.",
+        "direct_ja": "",
+        "ja": "我々は 10 年前にずさんに（それを）し、彼はついに仕事を終わらせた。",
+        "en": ""
+    },
+    {
+        "source": "仕事終わらせ",
+        "pmcp": "ka jacamalit mi cet leti lapi, tecilot. pi bileti ci, ci nipit ka.",
+        "direct_ja": "",
+        "ja": "こいつは我々の心をマジで圧していた。だが、恵みの彼が、彼がそれを消し去った。",
+        "en": ""
+    },
+    {
+        "source": "仕事終わらせ",
+        "pmcp": "pac it inimoc. ka e lacik. lucucit inimoc. ka e nucik.",
+        "direct_ja": "",
+        "ja": "物事を始めることは簡単であり、物事を終わらせることは難しい。",
+        "en": ""
+    },
+    {
+        "source": "仕事終わらせ",
+        "pmcp": "a, lecu eladac nectit ci. a. lecu eladac xepxelit ci.",
+        "direct_ja": "",
+        "ja": "ああ、彼を永遠に褒めよう。ああ、彼を永遠に尊敬しよう。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "jo nippon mol auc, cala.",
+        "direct_ja": "",
+        "ja": "日本の皆様、こんにちは。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "mi e ail mo leti cep leti eckijacil leti polto leti lilata leti jegin gatu xadocamma.",
+        "direct_ja": "",
+        "ja": "アイル共和国文化省広報処の事務長、イェーギン・ガートゥ・シャードザンマー（eghin ghátu ṣádhosammá）です。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "mi tuwacait \"gemu maketo\" mak e pac jo kaleti piji cila.",
+        "direct_ja": "",
+        "ja": "今年の春にゲームマーケットが再び行われることに、心よりお祝いを申し上げます。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "jo kaleti nole mi ancolit dukaleti late leti lukup-lukup jo \"gemu maketo\".",
+        "direct_ja": "",
+        "ja": "私がゲームマーケットに向けてメッセージを送るのもこれで三度目となりました。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "jo kaleti lot aucleti icco leti abelip mol jo nippon pi cetleti lata leti nukil e tude jo etleti icco metica.",
+        "direct_ja": "",
+        "ja": "今回は、時を同じくして万国博覧会が日本で開かれており、人々の世界各国への関心が高まっていることでしょう。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "jo atakecit leti, cetleti lata xelit nelup leti belpic pi lata cet ticotit kije ail metica.",
+        "direct_ja": "",
+        "ja": "さらに近年の日本ではボードゲームの人気が高まっており、アイル共和国の知名度もますます高まるでしょう。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "mi e eckijacil leti lilata pi mi ticotit ka e pankaleti.",
+        "direct_ja": "",
+        "ja": "広報処の長として非常に嬉しく思います。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "jo kaleti nole, nippon cetkaik leti latacet mak mol pi cuit kije mi cet leti belpic at kulante.",
+        "direct_ja": "",
+        "ja": "今回のゲームマーケットでも日本机戦連盟が参加し、我々の遊戯や本を販売します。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "ci cet letit naika leti kantelpolto leti \"mi nipit!\" pi ka e lijuit pemecepe lukup leti bapala leti belpic.",
+        "direct_ja": "彼らはナイカ書房の「ミ・ニピト！」を持っており、これは東島通商語を学ぶためのカードゲームです。",
+        "ja": "今回は「水と光書房」による東島通商語教育用カードゲーム「ミ・ニピト！」が輸入・翻訳され、",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "jo atakecit leti, ci cet lauzait lewip pi kaleti aucleti likup mol jo nippon cetkaik leti latacet kaceit jo lape leti inimoc.",
+        "direct_ja": "",
+        "ja": "さらに東島通商語とパイグ語の語彙や文字のうち、過去に日本机戦連盟から公開された文章に用いられているものを選んで収録した辞書が刊行されるということです。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "lucit ka pi nippon lata cet kanteit kije cik mi cet leti kantel metica.",
+        "direct_ja": "",
+        "ja": "これによって日本の人々は我々の文章をより読みやすくなるでしょう。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "latacet lukupit ci cet letit tuni leti julo pi jo ka ci cet cuit kije \"mi nipit!\" jo \"bucu\" jo \"gemu maketo\" leti lucucleti nole.",
+        "direct_ja": "",
+        "ja": "連盟によれば、「ミ・ニピト！」もゲームマーケットの終了後に前回までの新作と同様、BOOTHで販売される予定ということです。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "nip cene e tude jo \"gemu maketo\" leti lata delu cuit tude jo ci metica.",
+        "direct_ja": "",
+        "ja": "ゲームマーケットの開催会場に来られない方はぜひそちらで買われることをおすすめします。",
+        "en": ""
+    },
+    {
+        "source": "ゲムマ2025春広報処コメント前",
+        "pmcp": "jo lucucleti, nupankaleti julo molip pi kaleti \"gemu maketo\" mak e lucuc pi lata at lata letit dutucunleti palbicleti. mi pulecit ka cila.",
+        "direct_ja": "",
+        "ja": "終わりに、今回もまたゲームマーケットが恙なく行われ、人と人が新たなつながりを得ることを心から願います。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "paclukup",
+        "direct_ja": "",
+        "ja": "まえがき",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "mi cet lauzait nippon cetkaik leti latacet jo set.2018:4:8 pi lijuit tude mi cet leti mo jo nippon pi lata at lata leti nukil e palbic.",
+        "direct_ja": "",
+        "ja": "西暦 2018 年 4 月 8 日に成立して以来、日本机戦連盟は日本において我々の文化を案内し、人と人の心をつないできた。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "pi, co celene lijuit kije kaleti lukup at mo pi co delu kanteit kije cetleti inimoc pi inimoc leti poto e cet cetleti pi dindunleti.",
+        "direct_ja": "",
+        "ja": "だが、その言語文化に親しむためには、非常に多数の場所に混沌と散らばった資料を読み込むことが要求されてきた。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "nippon cetkaik leti latacet nip e texoc jo kaleti lawol leti lape.",
+        "direct_ja": "",
+        "ja": "日本机戦連盟としてもただ手をこまねいていたわけではない。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "jo set.2023, mi cet cuit kije 使八十四字 軟学清字 (冠国地心集目外御広処言将言片 kantelit kaleti kantel).",
+        "direct_ja": "",
+        "ja": "西暦 2023 年には、アイル共和国文化省対外広報処日本語部署（【冠国地心集目外御広処言将言片】）による冊子【使八十四字 軟学清字】（邦題：『84 字で らくらく燐字入門』）を頒布した。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "kaleti kantel kaceit aucleti ail lata kuneleti 84leti linman.",
+        "direct_ja": "",
+        "ja": "この本は、アイル共和国の全ての人が知っている 84 種の燐字を示すものである。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "lucit kaleti kantel pi co cet cene xelit linman leti mo. jo kaleti nalu mi cet amolit anpe jo ka.",
+        "direct_ja": "この本を使うとあなたたちは燐字文化を見ることができる。ゆえに、我々はこれに労力を注いだ。",
+        "ja": "これを通じて燐字文化に親しんでもらおうと努力した。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "jo set.2024, mi cet cuit kije \"jutata leti bapala\".",
+        "direct_ja": "",
+        "ja": "西暦 2024 年には、かるた 【jutata leti bapala】を頒布した。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "co cet belpicit ka pi cene amolit jo nukil lauzait pemecepe lukup leti ?8leti lujot. jo kaleti nalu mi cet amolit anpe jo ka.",
+        "direct_ja": "あなたたちがこれを遊ぶと、東島通商語を作り上げる 18 の文字を記憶することができる。ゆえに、我々はこれに労力を注いだ。",
+        "ja": "遊びを通じて東島通商語を構成する 18 の文字を記憶してもらえるよう努力した。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "pi, amolit jo nukil 84leti linman at ?8leti pemecepe lujot lap leti lata nip cene cenoctit mi cet leti jutata.",
+        "direct_ja": "",
+        "ja": "しかしながら、たとえ 84 の燐字と 18 のペメセペ文字を暗記したとしても、それだけでは我々の声を聞いて理解することはできない。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "co cet jol lukupit nucik co cet untik leti dizen jo mi cet.",
+        "direct_ja": "",
+        "ja": "我々に思いを伝えることも極めて困難であろう。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "jo kaleti nole mi cet tectelit lukup pi lauzait lewip.",
+        "direct_ja": "",
+        "ja": "いま、我々は、語を選び抜き、辞書を作った。",
+        "en": ""
+    },
+    {
+        "source": "紙辞書まえがき",
+        "pmcp": "co lijuit kije kaleti lewip leti auc pi co cene kanteit kije nippon cetkaik leti latacet leti kaceit leti auc.",
+        "direct_ja": "",
+        "ja": "この辞書の内容を全て理解することで、日本机戦連盟が送り出してきた全てを読むことができるだろう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "duwin nip e kile jo maklauzait leti nat",
+        "direct_ja": "",
+        "ja": "デュインの復興 未だ進まず",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "jo panleti lape leti lot, xep zakan-zakan mol pi kelza e tude jo duwin menic cet pi nipit cetleti dictic.",
+        "direct_ja": "",
+        "ja": "一年前に大きな地震があり、津波がデュインの島々に押し寄せ、多くの家々を破壊した。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "jo cileti nole duwin cep lukupit ka.",
+        "direct_ja": "",
+        "ja": "当時のデュイン政府はこう言った。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "\"cep ancolit dictic at late jo lata cet pi xelit maklauzait jo xantaleti tujecen leti.\"",
+        "direct_ja": "",
+        "ja": "「政府は家と金を人々に与え、半年での復興を目指す。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "duwin cep leti kanpitole enjait pi xelit e ci lukupit leti julo e tude jo lacila leti. jo panleti launza leti tujecen, ixeleti dictic e laiju pi xep tipidija mol.",
+        "direct_ja": "",
+        "ja": "デュイン政府の上層部は言ったことを実現しようと働いた。地震の一か月後には仮設住宅が立ち並び、多くの予算が投じられた。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "pi, kaleti late leti xep ezulo nip e tude jo lata cet. nupankaleti ceplata letit ka pi nip maklauzait duwin.",
+        "direct_ja": "",
+        "ja": "しかし、この予算の多くは実際には人々の手に渡ることはなかった。悪徳な役人が予算を着服し、復興に使わなかったためだ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "kaleti nalu e ka. jo duwin pacleti nole, duwin cep lap xelit jo jeclene kileleti peceleca pi nipit ladija.",
+        "direct_ja": "",
+        "ja": "この理由はこうである。デュインが始まったとき、デュイン政府はユエスレオネ移民のみを見て先住民を無視していた。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "duwin lata leti elmo mol pi kanpitole tectelit xelit ladija leti julo. pi, nukanpitole nip pi enatoktit ladija leti e zel.",
+        "direct_ja": "",
+        "ja": "デュイン人民戦争が起こり、上層部は先住民を見ることを決めた。しかし末端はそうはせず、差別が続いた。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "jo xeltacijatunde letit xep ipaical leti ales.eli lukupit ka.",
+        "direct_ja": "",
+        "ja": "シェルタズャートゥンデ県に大きな農地を持つアレス・エリさんはこう言う。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "\"ceplata ancolit anpe jo mileti lelot pi nip celene mileti kuncuk. ci cet e ladija.",
+        "direct_ja": "",
+        "ja": "「役人は私の家族を助けましたが、私の部下のことは助けたがりませんでした。彼らは先住民です。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "mi mak-mak lukupit jo ceplata pi jo lucucleti ci cet iceit dictic at late. ci cet e mileti pankaleti zaku. ceplata it leti e nupanka.\"",
+        "direct_ja": "",
+        "ja": "私は何度も役人に話をして、ようやく彼らは家と金を受け取ることができました。彼らは私の大切な仲間です。役人の振る舞いはおかしいです。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "kelza xope e tude jo cileti ipaical. jo ipaical nucti mol jo kaleti nole pi nip cene canxenit juxep at cudec.",
+        "direct_ja": "",
+        "ja": "津波は彼女の農地にもやってきた。農地には今(も)塩があり、米も小麦も撒くことが出来ない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "jo duwin menic nucti mol jo cetleti ipaical pi duwin nijuco leti lawol nip e tude jo pankaleti.",
+        "direct_ja": "",
+        "ja": "デュイン島嶼部では農地の多くに塩があり、デュインの農業の状況は改善していない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "lapimete ticotit ka. metica, panleti launza leti lot e tude pi nucti e nip.",
+        "direct_ja": "",
+        "ja": "専門家によれば、塩がなくなるまでにはさらに一年が必要だろうということだ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "jo kaleti lot cetleti pemecepe kunlanel e tude jo duwin metica.",
+        "direct_ja": "",
+        "ja": "今年もPMCPの多くの食物がデュインに行くだろう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（デュイン復興進捗）",
+        "pmcp": "cep delu xelit enatok at nijuco pi it pankaleti julo jo kaleti papcil.",
+        "direct_ja": "",
+        "ja": "政府は差別と農業を見て、これらの問題に適切に行動せねばならない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（タフター軍の進軍）",
+        "pmcp": "tapta elminal e tude jo botake leti mele",
+        "direct_ja": "",
+        "ja": "タフター軍がボタケ周辺に到達",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（タフター軍の進軍）",
+        "pmcp": "toctijecleti canic elminal e tude jo tapta pi panleti lot e tude pi jo kaleti nole mak-mak numolkait.",
+        "direct_ja": "",
+        "ja": "南サニス軍は去年タフターに攻め込んだが、今は敗北を繰り返している。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（タフター軍の進軍）",
+        "pmcp": "kaleti nalu e ka. pac jo cileti icco accaleti zanta at kunlanel nip e kile pi cetleti elme e aklot jo elminal.",
+        "direct_ja": "",
+        "ja": "本国からの武器や食糧が十分に届かず、多くの兵士たちが隊から脱走しているためだ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（タフター軍の進軍）",
+        "pmcp": "tapta elme leti cep leti lilata lukupit ka.",
+        "direct_ja": "",
+        "ja": "タフターの国防長官はこう言った。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（タフター軍の進軍）",
+        "pmcp": "\"mi cet leti elminal e acca jo inimoc at nukil. ci cet nip e acca jo makleti pi nip e mi cet leti zik. lecu jacamalit ci cet pi e ci cet e tude jo mi cet leti icco leti ecki cila!",
+        "direct_ja": "",
+        "ja": "「我らの軍は物資の面でも気力の面でも充実している。彼らはどちらも不足しており、もはや我らの敵ではない。必ず彼らを追い詰め、我らの国から放逐しよう！」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（タフター軍の進軍）",
+        "pmcp": "jo kaleti nole tapta elminal mol jo botake leti mele. ka e jo tapta toctijec mol nuxep badal pi tapta elminal xelit letit ka leti julo metica.",
+        "direct_ja": "",
+        "ja": "タフター軍は現在ボタケの近辺にいる。ボタケはタフター南部の小さな村で、タフター軍は今後この村の奪還を目指すことになりそうだ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（南サニス大臣処刑）",
+        "pmcp": "jo toctijecleti canic dalakit makleti lilata",
+        "direct_ja": "",
+        "ja": "南サニス 大臣二人が処刑",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（南サニス大臣処刑）",
+        "pmcp": "mak-mak numolkait pi dalakit elminal leti lilata at xelicoje leti lilata jo toctijecleti canic.",
+        "direct_ja": "",
+        "ja": "これらの敗北を受け、南サニスでは陸軍大臣と外務大臣の二人が処刑された。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（南サニス大臣処刑）",
+        "pmcp": "caupla e alcamec pi elminal leti lilata letit caupla leti tuwaca jo xep nole. pi, kaleti numolkait leti julo jol e lilata xekit ci.",
+        "direct_ja": "",
+        "ja": "王が即位してから陸軍大臣は長い間国王の信頼を受けていたが、今回の敗北がそれを失わせたようだ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（南サニス大臣処刑）",
+        "pmcp": "jo kame dalakit xelicoje leti lilata? jo kaleti nole mi cet nip ticotit kije ka.",
+        "direct_ja": "",
+        "ja": "なぜ外務大臣が処刑されたのか？それは現時点では不明である。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（南サニス大臣処刑）",
+        "pmcp": "pi, ci e penten jo lukupit elmetude jo tapta leti lilata cet. ka jol e dalakit ci leti nalu. mi cet ticotit ka.",
+        "direct_ja": "",
+        "ja": "しかし、彼女は開戦時にタフターへの侵攻を主張する大臣たちに反対していたため、これが原因なのかもしれない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（南サニス大臣処刑）",
+        "pmcp": "toctijecleti canic lawol e nupanka pi nip jexetit ci cet cene zelit elmo leti julo.",
+        "direct_ja": "",
+        "ja": "南サニスの状況は悪く、彼らが戦争を続けられるかどうかも明らかではない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（南サニス大臣処刑）",
+        "pmcp": "duwin acil lukupit ka. jo toctijecleti canic lata cet e kibau pi inimoc leti ateletine e tude jo xep jo nupapelleti cul.",
+        "direct_ja": "",
+        "ja": "デュインの報道によれば、南サニスでは国民が飢え、物価の上昇も異常だと言うことである。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（南サニス大臣処刑）",
+        "pmcp": "toctijecleti canic cep delu e kaleti lawol e tude jo pankaleti. lucucit elmo cene e panleti cul.",
+        "direct_ja": "",
+        "ja": "南サニス政府はこれらの状況を改善するべきだ。戦争を終わらせることも手段の一つになるだろう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "lamoi pactal e tude jo kame",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "jo bepic mol xecehait leti pactece at lamoi pactece pacit lukup-lukup jo jupleti lape leti cunenek.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "makleti dictic xelit bilateit cileti anpe jo pactecit jo lamoi pijenelap mol dutucunleti pactal.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "kaleti nalu e ka.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "xecehait letit pankaleti pekanpe pi nip letit cujuc leti pactal. (jo bepic nip xelit kije cujuc leti pactal.)",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "lamoi pactece letit cujuc leti pactal pi nip letit pankaleti pekanpe jo etleti dictic.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "makleti dictic ticotit untik letit leti julo cene ancolit anpe jo micca leti. jo kaleti nole lukup-lukup e tude jo pankaleti.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "pi, panleti enxic mol.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "bepic cep nip celene e bepic dictic lauzait julo at xulip jo icco leti ecki.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "ci ticotit jo enxic etleti icco tuwalit bepic dictic leti anpe leti julo.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "cep lukupit nip pi dictic nip cene pactecit jo ail.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "pi, jo nukilpankaleti, lukupit jo cep leti cetleti julo mol.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "jo panleti, lapimete ticotit ka. kaleti pactal letit cujuc at leccujuc pi jo kaleti nole pemecepe cene lucit ka jo 4? o xep lot.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "lucit ka cet pi cene lauzait cuxit at dimelin at jekucel pi e panka jo aucleti cacke.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "jo kaleti nole pemecepe kukol e tude jo xep pi lucit ujek leti cucen xope e tude jo xep. delu etec pactecit dutucunleti pactal.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "jo makleti, xecehait leti et xope cene pactecit pactal. bepic lukupit nip pi etleti ail dictic delu pactelit ci.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "xecehait e tude jo pactecit leti pi bepic cene letit cileti cujuc at leccujuc.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "jo bepic kaleti ateletine delu e tude jo nuxep pi xutzen e tude jo xep, metica.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "jo bilateit leti, bepic cep nip e xecehait pactalit pi jo bepic nupankaleti julo delu e xep jo pankaleti julo.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（ラモイ鉱脈の行方）",
+        "pmcp": "makleti dictic cene e bepic cep lukupit ja? jo kaleti lukup-lukup ka delu e xep.",
+        "direct_ja": "",
+        "ja": "",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "icke leti xep dec-dec mol jo xukamaplo.",
+        "direct_ja": "",
+        "ja": "イスケ派 シュカマープレウで大規模デモ行進",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "jo panleti lape leti cunenek icke lata cet it xep dec-dec jo xukamaplo. dec-dec leti lilata lukupit nokaleti anxan peka leti lata e kile jo kaleti dec-dec leti julo.",
+        "direct_ja": "",
+        "ja": "昨日シュカマープレウで、イスケ派の人々による大規模なデモ行進が行われた。行進のリーダーによればおよそ五千人が参加したという。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "ka e penten jo xuketiplo dat (xukamaplo mol jo ka) leti waxelpuc leti cepkulante. xuketiplo dat delu ecait nonten xonpice pi delu letit jo ka lucit leti late.",
+        "direct_ja": "",
+        "ja": "これはシュカエトゥイブロ州（シュカマープレウの所在地）の税の法律に反対するものだ。シュカエトゥイブロ州は獰猛な怪物を狩る必要があり、それに用いる財源を得る必要がある。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "kaleti cepkulante xelit ka pi jo lukupolto lukupit ka leti julo e pac jo panleti lape leti tujecen. ka letit anpe pi cep tectelit leti inimoc leti waxelpuc e tude jo xep.",
+        "direct_ja": "",
+        "ja": "この法律はそれを目的としたもので、先月から議会での議論が始まった。これが発効すれば政府の指定した品の税金が増える。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "jo lukupolto kaceit cepkulante leti xuhexe lukupit ka.",
+        "direct_ja": "",
+        "ja": "議会に法律を提出したシュヘーシェはこう言った。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "\"jo kaleti nole nonten xonpice jacamalit mileti dat pi lata cet leti cacke e nupanka. lecu ecait ka pi tudeit lawol jo pankaleti.",
+        "direct_ja": "",
+        "ja": "「今、獰猛な怪物が我が州を圧迫し、人々の暮らしは悪い。これを狩り、状況を良くしよう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "jo ka late at zanta e delec pi delu e xulip leti acnac e tude jo xep.",
+        "direct_ja": "",
+        "ja": "それには金と武器が必要であり、工場のはたらきを良くせねばならない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "xelit ka pi lecu tectelit lacila delecleti julo pi letit dutucunleti waxelpuc jo cileti et.\"",
+        "direct_ja": "",
+        "ja": "それを目指すため、本当に必要なものを決め、それ以外から新しい税を得よう。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "lukuplata leti udowadune e penten jo cepkulante pi lukupit ka.",
+        "direct_ja": "",
+        "ja": "ウードヴャズネ議員は法律に反対してこう言う。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "\"xuhexe lukupit ci tectelit lacila delecleti julo at nudelecleti julo leti. pi, cileti \"nudelecleti\" julo leti xep e icke lap delecit leti julo.",
+        "direct_ja": "",
+        "ja": "「シュヘーシェは本当に必要なものと不必要な品を決めたという。しかし、その「不必要な」品の大部分はイスケ派のみが必要とする物だ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "xuhexe delu lucit kaleti cepkulante pi jo ulecenleti nukil xelit enatoktit icke leti julo.",
+        "direct_ja": "",
+        "ja": "シュヘーシェはこの法律によりイスケ派を差別することをひそかに目指しているに違いない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "icke e linec lata cet leti pankaleti panleti pi mi cet delu nip enatoktit ci cet.\"",
+        "direct_ja": "",
+        "ja": "イスケ派はリナエストの民の良き一員であり、彼らを差別してはならない。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "pi, jo kaleti nole leti linec, icke leti et ticotit icke leti cul e tude jo cet nupankaleti.",
+        "direct_ja": "",
+        "ja": "しかし現在のリナエストにおける他勢力からのイスケ派への考えは非常に悪化している。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "udowadune leti ticot delu e panka pi cetleti linec lata ticotit kaleti cepkulante e pankaleti.",
+        "direct_ja": "",
+        "ja": "ウードヴャズネの考えは正しいはずだが、多くのリナエスト人はこの法律に賛成している。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "ka e nucikleti papcil cila.",
+        "direct_ja": "",
+        "ja": "これはとても難しい問題である。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "ci cet delu ecait xonpice pi jo ka late at zanta lacila e delec.",
+        "direct_ja": "",
+        "ja": "怪物は狩らねばならず、そのための資金や武器も実際に必要である。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "pi, cileti cul delu nip lucit enatok leti kilpel.",
+        "direct_ja": "",
+        "ja": "しかし、その方法は差別の成果を使うものであってはならない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（イスケ大規模デモ）",
+        "pmcp": "metica, linec cep kanteit kije pankaleti cul cila.",
+        "direct_ja": "",
+        "ja": "リナエストの政府が良い方法を見つけることを期待する。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "e tude jo undemundeleti",
+        "direct_ja": "",
+        "ja": "平和へと歩む",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "jo lape dec-dec mol jo xunxija. jo ka elmo mol pi amelit cetleti lata pi lizit cetleti lata.",
+        "direct_ja": "",
+        "ja": "過去にジュンシュヒヤ（ジンヒヤ）で行われたデモでは抗争が起こり、多数の逮捕者と負傷者が出た。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "jo kaleti nole cileti enxic mol, pi elmo molip pi dec-dec e lucuc jo undemundeleti.",
+        "direct_ja": "",
+        "ja": "今回もそれが心配されたが、戦いはなく、行進は平和に終わった。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "dec-dec leti lilata lukupit jo kame ka e lucuc jo undemundeleti.",
+        "direct_ja": "",
+        "ja": "行進のリーダーが、行進をどうして平和に終わらせられたかを語った。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "\"auc ticotit kije mi cet leti decleti lime. pi mi cet letit jo ocpolto mol lata leti ledut.",
+        "direct_ja": "",
+        "ja": "「私たちが行進する道を皆が知っている。そして私たちは隣の人の手を握った。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "ka xelit etleti lata nip cuctotit mi cet leti at mi cet nip lizit etleti lata leti. kaleti ankalepenit leti e tude jo pankaleti pi ka e panka.",
+        "direct_ja": "",
+        "ja": "これは、他の人が私たちを邪魔することがなく、また私たちが他の人を傷つけないことが目的だった。この試みが上手くいってよかった。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "lata cet udicelit icke leti lata pi nip celene ticotit kije. pi, mi pulecit kaleti ticotit leti cul e tude jo waxecleti julo.\"",
+        "direct_ja": "",
+        "ja": "人々はイスケ派の人間を怖がり、理解したがらない。しかし、私はこの考え方が変わることを望む。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "jo unde elmo at nilit leti cet e acca, pi ci cet xale leti lata mol pi celene it jo undemundeleti.",
+        "direct_ja": "",
+        "ja": "世界には争いと憎しみが溢れているが、平和な行動を望む彼らのような人々もいる。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "lata cet delu patac lukupit pi kanteit tude ci untik leti ticot. jo nuwaxecleti nole, lata cet delu patac cenocit pi kanteit kije etleti ticot.",
+        "direct_ja": "",
+        "ja": "人々はしっかりと話し、自分たちの考えを伝えねばならない。同時に、人々はしっかりと聞き、他者の考えを知らねばならない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "ka e nuwaxec jo cep cila.",
+        "direct_ja": "",
+        "ja": "勿論これは政府においても同じである。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（平和へと歩む）",
+        "pmcp": "cetleti ticot leti tudekile e tude jo xep pi unde delu e tude jo undemundeleti.",
+        "direct_ja": "",
+        "ja": "さらに多くの考えが行き来すれば、世界は平和になるだろう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "kelza e nip pi cacke e zel",
+        "direct_ja": "",
+        "ja": "津波が去り、生活は続く",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "duwin pubecnupanka e xekel pi maklauzait duwin leti nip e tude cik.",
+        "direct_ja": "",
+        "ja": "デュインの天災は痛ましく、復興は難航している。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "jo xep ecpel mol polto, lata xekit nukil pi lukupit \"cijantit tinexumibe cila\" jo zakan-zakan mol nole.",
+        "direct_ja": "",
+        "ja": "特に大きい被害のあった地域では、震災当時に「衛生は完全に壊れてしまった」と取り乱す者もいた。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "pi, jo kaleti nole ci cet leti xep-xep enja at aplat mol pi lape leti nole leti iniwi leti unka mak mol.",
+        "direct_ja": "",
+        "ja": "しかし、今や彼らの途方もない努力と希望により、ようやく元の日常の一部が戻ってきている。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "ka nip e cep leti enja.",
+        "direct_ja": "",
+        "ja": "これは政府のはたらきではない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "kelza e nip pi kame lata nipit cubodel? lata cet nipit. ceplata nip nipit.",
+        "direct_ja": "",
+        "ja": "津波がなくなった後、誰が瓦礫を撤去したか？人々である。役人ではない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "kame lata calanit calanel? lata cet calanit. ceplata nip calanit.",
+        "direct_ja": "",
+        "ja": "誰が遺体を埋めたか？人々である。役人ではない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "kame lata tudeit jo neni mol pijume jo makana? lata cet tudeit. ceplata nip tudeit.",
+        "direct_ja": "",
+        "ja": "誰が陸に乗り上げた船を海へ戻したか？人々である。役人ではない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "cetleti lata molip pi cileti julo panit anpilun leti lata pi xepudoc e nip jo ladija at kileleti lata leti cecijo.",
+        "direct_ja": "",
+        "ja": "多くの人が亡くなったが、そのことは残された人々をまとめあげ、先住民と移民の間にある壁が無くなることにつながった。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "panleti ladija lukupit.",
+        "direct_ja": "",
+        "ja": "ある先住民は言う。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "\"mileti malcabixi mol jo ka pi cileti nul mol jo ka jo launza.\"",
+        "direct_ja": "",
+        "ja": "「俺の先祖はここに住み、彼らの魂はこれからもここにある。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "jo nole, mi celene lijecit pi pulecit toni leti anpe.",
+        "direct_ja": "",
+        "ja": "時々、泣きながら神の助けが欲しくなることもある。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "pi, jo lucucleti mi cet delu it jo untik no tuwacait kaleti polto delu biit mi cet leti.\"",
+        "direct_ja": "",
+        "ja": "でも、結局は俺たち自身でやるしかないんだ。この土地が俺たちのことを祝福してくれていることを祈りながらね。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "ceplata nip it enja. pi, jo duwin latectepankaleti lata cet xope mol pi ci ancolit cetleti anpe jo ecpel mol lata.",
+        "direct_ja": "",
+        "ja": "役人は仕事をしなかった。しかし、デュインには心ある人々もおり、彼らにより被害者への多大なる支援が行われた。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "latectepankaleti lata leti xep e dutucunleti peceleca kile jo 3leti o nuxep lape leti lot.",
+        "direct_ja": "",
+        "ja": "心ある人々の多くは、3年以内にやってきた新しい移民たちである。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "cileti xep e nijucolata o xedute pi mol jo nuwaxecleti polto jo ladija pi it nuwaxecleti enja.",
+        "direct_ja": "",
+        "ja": "彼らの多くは農家や漁師であり、先住民と同じ場所で同じ仕事をしている人々だ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "jo cileti cacke ci cet ticotit kije ka. jo peceleca at ladija leti cecijo waxecleti molip jo lukup leti et pi peceleca at ladija delu xepxelit micca.",
+        "direct_ja": "",
+        "ja": "彼らは、移民と先住民の間には言葉以外の差はなく、互いに尊敬すべき存在であるということを暮らしの中で理解しているのだ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "jo xeltacija mol latectepankaleti latacet leti panleti lata lukupit ka.",
+        "direct_ja": "",
+        "ja": "シェルタズャート県のそうした有志集団のメンバーはこう語る。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "\"ladija e mi cet leti zaku jo nole, pi e kuncuk jo nole, pi xope e lapelata jo nole.",
+        "direct_ja": "",
+        "ja": "「先住民は時に私たちの仲間であり、時に部下であり、時には先輩ですらもある。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "jo aucleti nole mi cet ticotit tude jo micca pi ancolit anpe jo micca. ci cet delu nip e texe.",
+        "direct_ja": "",
+        "ja": "私たちは常に互いに教え合い、助け合ってきた。彼らが奴隷であるはずがない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "jo kelza kileleti launza, mi cet leti lawol nip e panka cila, pi ladija leti lawol e nupanka jo mi cet leti. jo kaleti nalu, mi cet ancolit anpe jo ci.\"",
+        "direct_ja": "",
+        "ja": "津波が来た後、私たちの状況も決して良くはなかったが、それでも先住民の状況よりは良かった。だから、私たちは彼らを助けたんだ。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "ladija at peceleca xope delecit inimoc. pi, peceleca letit kije inimoc jo etleti polto.",
+        "direct_ja": "",
+        "ja": "物資が必要なのは先住民も移民も変わりなかったが、他の地域から物資を手に入れるのは移民の役目だった。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "kaleti nalu e ka. jo duwin enatoktit ladija pi jo nole ladija nip cene cuit tude jo inimoc.",
+        "direct_ja": "",
+        "ja": "これは、デュインには先住民差別が存在し、物資を売ってもらえないことがあるためである。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "kaleti enatok delu etec e nip.",
+        "direct_ja": "",
+        "ja": "このような差別は早く無くならなければならない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "pi, jo ladija ancolit anpe leti latectepankaleti lata cet mol pi jo menic enatok pac e nip.",
+        "direct_ja": "",
+        "ja": "しかし、先住民を支援する心ある人々がいることからもわかるように、島嶼部では差別がなくなりはじめている。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞２（津波と生活）",
+        "pmcp": "jo aucleti duwin enatok e nip jo panleti cunenek, metica.",
+        "direct_ja": "",
+        "ja": "いつかは、デュイン全体から差別が無くなるかもしれない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "ail letit penen jo zakan-zakan?",
+        "direct_ja": "",
+        "ja": "アイルは地震に備えられているか？",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "pente ecpel leti pentencul delu mol",
+        "direct_ja": "",
+        "ja": "被害への必要な対策を",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo duwin xep zakan-zakan mol pi kelza e zel jo panleti lape leti lot. jo ail cetleti zakan-zakan xope mol.",
+        "direct_ja": "",
+        "ja": "去年、デュインでは津波を伴う大きな地震が発生したが、地震はアイルでも数多く起こっている。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo duwin zakan-zakan e nupapel pi penen molip jo lata cet pi xep ecpel mol.",
+        "direct_ja": "",
+        "ja": "デュインでは地震は珍しいため人々が準備を出来ておらず大きな被害が生まれた。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "pi ail lata cet letit penen o nip?",
+        "direct_ja": "",
+        "ja": "ではアイルの人々は、準備ができているのだろうか？",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "xep zakan-zakan nuwotit cetleti julo. jo kaleti nole, lukupit jeto e nukaze jo auc leti julo.",
+        "direct_ja": "",
+        "ja": "大地震で多くのものが壊れたとき、最も不足するのは水であると言われている。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "kunlanjeto nip e kile pi cetleti cunenek mol pi kunlanjeto mak cene e kile metica.",
+        "direct_ja": "",
+        "ja": "もし飲み水が来なくなれば、再び飲み水が来るようになるまでには何日もかかるだろう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo ail panleti dictic, xanait leti ducuc leti jeto mol jo panleti lata. kuwake pubecnupanka leti lubalun xelit tude ka.",
+        "direct_ja": "",
+        "ja": "クワケ災害研究所の調査によると、アイルの各家庭における水の備蓄量は一人あたり100分の1デュゾスト（0.3L）ということだ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "lata delu kunlanit ana nokait leti ducuc leti jeto pi kaleti penen e nukaze cila.",
+        "direct_ja": "",
+        "ja": "人は一日に 15 分の 1 デュゾスト（2L）の水を飲まねばならないため、この備蓄量では全く足りない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo kuwake pubecnupanka leti lubalun mol tap.eli lukupit ka.",
+        "direct_ja": "",
+        "ja": "クワケ災害研究所のターフ・エリは言う。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "\"xelit lape leti zakan-zakan pi lukupit ka. kunlanjeto e nip pi 2peka leti cunenek mol pi mak e kile.",
+        "direct_ja": "",
+        "ja": "「過去の地震から考えると、飲み水が止まってから再び来るようになるまでにはおよそ2日と言われています。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo lacila, \"2peka leti cunenek\" cene kanteit \"nupankaleti toni mol pi e cet cetleti cunenek\".",
+        "direct_ja": "",
+        "ja": "実際には「およそ 2 日」が「運が悪ければ、とても多くの日々だ」を意味することもあります。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "pi, cileti cetleti cunenek e delec pi ancolit leti anpe delu e kile jo dukaleti cunenek.",
+        "direct_ja": "",
+        "ja": "しかし、それほど多くの日々が必要な場合は、3日の間に助けが来るはずです。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo kaleti nalu, jo dukaleti cunenek lucit leti kunlanjeto mol jo dictic pi papcil delu molip jo cetleti nole.",
+        "direct_ja": "",
+        "ja": "したがって、3日分の飲み水が家にあれば、多くの場合で問題はないでしょう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo kunlanjeto leti et, kunlanel at dexape leti toxa mol pi e panka. xelit nip e xilna leti julo pi celene letit kazeleti xalwa.",
+        "direct_ja": "",
+        "ja": "水の他には、食糧や火打石などもあると良いでしょう。凍えないように、十分な服も用意したいですね。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "cep kanteit tude leti \"pente zizowa leti kantel\" mol pi xelit ka leti xope e pankaleti.\"",
+        "direct_ja": "",
+        "ja": "政府が書いた「大惨事対抗本」があるので、それを読むのもいいでしょう。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "mi cet delu it kame?",
+        "direct_ja": "",
+        "ja": "我々は何をすべきか？",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "lata cet e nin leti julo e xep cila, pi xulip at ipaical at lime at junakila e nin leti julo xope e xep.",
+        "direct_ja": "",
+        "ja": "人々の安全はもちろん大切だが、工場や農地、鉄道や港の安全も大切である。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "letit kunlanel jo ipaical pi lauzait inimoc jo xulip pi boncenait ka jo lime at junakila.",
+        "direct_ja": "",
+        "ja": "農地から食糧を得て、工場で物資を作り、それらを鉄道と港で運ぶ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "kaleti auc e ail xedixel pi kaleti panleti nip e tude pi ail e tude jo nupankaleti.",
+        "direct_ja": "",
+        "ja": "これらのすべてがアイルの柱であり、このどれか一つが止まればアイル（の状況）は悪くなる。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "ail nip e tude pi ancolit anpe jo ecpel mol polto leti delu e tude jo nucikleti.",
+        "direct_ja": "",
+        "ja": "アイルが止まれば被害のあった地域への救援も難しくなるだろう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo kaleti nalu, cep at lata cet delu ticotit cecnutit xulip at ipaical at lime at junakila leti cul.",
+        "direct_ja": "",
+        "ja": "今、官民は工場と農地、鉄道と港を守る方法を考えなければならない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo ka delu it kame?",
+        "direct_ja": "",
+        "ja": "そのために何をするべきなのだろうか。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "taupo dizen leti kectene leti aiki.kitainuci lukupit ka.",
+        "direct_ja": "",
+        "ja": "タウポ自然大学のアイキ・キタイヌシ氏は言う。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "\"jo panleti, delu ticotit kije zakan-zakan leti ecpel jo aucleti polto jo ail.",
+        "direct_ja": "",
+        "ja": "「まずは、アイル全土における地震の被害を調べねばなりません。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo makleti, xelit ka pi ticotit pente ka leti pentencul.",
+        "direct_ja": "",
+        "ja": "次に、それを踏まえた被害への対策を考えるのです。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "pi xelit tudeit ka jo lacila leti julo pi tectelit waxecit kame leti at lauzait kame leti.\"",
+        "direct_ja": "",
+        "ja": "そして対策を現実のものにするために、何を変え、何を作るのか決めるのです。」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo lazo mele cetleti nuxep zakan-zakan mol. jo cupukebec at okin lime e tude jo zocecijo pi kaleti zocecijo e xep jo cuwip. ka e nunin cila.",
+        "direct_ja": "",
+        "ja": "ラツォの周辺では小規模な地震が数多く起こっている。スプケベツやホーキンでは鉄道が狭い谷を通っており、非常に危険である。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo cupukebec nutok nip cene e tude pi jo xep okijau at nanala leti cecijo tudeleti lime leti kin e tude jo nuxep. xep-xep enja delu mol jo makanamele leti lime cila, pi ka e nupanka.",
+        "direct_ja": "",
+        "ja": "スプケベツで列車が通行不能になれば、シェプオキヤウとナナラをつなぐ路線の数が減り、沿岸部の路線の仕事は膨大なものとなるだろう。これはよくない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo okin, jo xiwaiza at mawala leti cecijo tudeleti lime leti lolecne e tude jo 3peka leti.",
+        "direct_ja": "",
+        "ja": "ホーキンで（列車が通行不能になった時）は、シワイツァとマワラをつなぐ鉄道の距離がおよそ3倍になる。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "makleti cene nuwotit ail cila.",
+        "direct_ja": "",
+        "ja": "どちらもアイルに壊滅的な被害を与えうる。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "pi, jo kaleti nole nip lukupit kaleti papcil jo cep.",
+        "direct_ja": "",
+        "ja": "しかし、現在政府ではこの問題は議論されていない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo zakan-zakan mol jo duwin leti nole, duwin cep xope nip lukupit zakan-zakan at pente ci leti pentencul.",
+        "direct_ja": "",
+        "ja": "デュインで地震があったときも、デュイン政府は地震への対策を議論してはいなかった。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "ka nip kanteit cep e nupanka leti julo.",
+        "direct_ja": "",
+        "ja": "これは政府が悪いことを意味するのではない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "cep letit cetleti delu etec lukupit leti papcil pi nip cene ticotit kije zakan-zakan mol julecen nole.",
+        "direct_ja": "",
+        "ja": "政府には早急に話すべき多くの問題があり、また地震が起こる正確な時期を知ることはできない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "pi, cep leti et nip cene lauzait aucleti ail leti pentencul.",
+        "direct_ja": "",
+        "ja": "しかし、アイル全土にわたる対策を立てられるのは、政府をおいてほかにない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo kaleti nole, mi cet nip e noctu nat.",
+        "direct_ja": "",
+        "ja": "今であれば、我々はまだ遅くはない。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "lecu ticotit pentencul pi it celajumuc pi lauzait cepkulante!",
+        "direct_ja": "",
+        "ja": "対策を立て、工事を行い、法を作ろう。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "ka delu mol jo xuben!",
+        "direct_ja": "",
+        "ja": "かばんにはこれを入れるべし！",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "kunlanjeto",
+        "direct_ja": "",
+        "ja": "飲料水",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "4leti 2leti zo leti ducuc delu mol.",
+        "direct_ja": "",
+        "ja": "100分の2デュゾスト（約600mL）が4つ",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "kunlanel",
+        "direct_ja": "",
+        "ja": "食糧",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "3leti aplaten juxep leti xemute",
+        "direct_ja": "",
+        "ja": "調理済みの米の缶詰3つ",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "pujuc o dectok mol pi cet e panka.",
+        "direct_ja": "",
+        "ja": "麦や芋が入っているとさらに良い。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "3leti aplaten eno o cilije leti xemute",
+        "direct_ja": "",
+        "ja": "調理済みの魚か肉の缶詰3つ",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "3leti aplaten dectok leti liwoc leti xemute",
+        "direct_ja": "",
+        "ja": "調理済みの芋の葉の缶詰3つ",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "punocleti mol pi e panka.",
+        "direct_ja": "",
+        "ja": "甘いものもあるとさらに良い。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "\"kunlanit punocleti pi anpe mak e kile!\"",
+        "direct_ja": "",
+        "ja": "「甘いものを食べると元気が出るよ！」",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "melon",
+        "direct_ja": "",
+        "ja": "ナイフ",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "lolecne delu e 3leti zo at 5leti zo leti cecijo.",
+        "direct_ja": "",
+        "ja": "長さは3片から5片（16.6～27.7cm）",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "nuwotit nucik leti colkan leti etulo",
+        "direct_ja": "",
+        "ja": "丈夫な木綿の布",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "ka e panka jo molulit lizak leti at cawakit jeto leti at boncenait inimoc leti.",
+        "direct_ja": "",
+        "ja": "傷の手当や水の濾過、物の運搬などに役立つ。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "dexape leti toxa at zupocik",
+        "direct_ja": "",
+        "ja": "火打石と火口",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "xalwa",
+        "direct_ja": "",
+        "ja": "衣服",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "uleleti xalwa xope delu mol.",
+        "direct_ja": "",
+        "ja": "冬用の服も入れるべきである。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "puwek",
+        "direct_ja": "",
+        "ja": "手袋",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "etulo leti uwepecne e xep pi e panka.",
+        "direct_ja": "",
+        "ja": "厚手の物であればさらに良い。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "jo xuben xep jo cucen leti julo mol jo lape pi nuxep jo cucen leti julo mol jo launza pi ka e panka.",
+        "direct_ja": "",
+        "ja": "かばんには、重いものを上に、軽いものを下に詰めると良い。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "kunlanjeto at xemute e xep jo cucen pi xalwa at etulo e nuxep jo cucen.",
+        "direct_ja": "",
+        "ja": "水や缶詰などは重く、服や布は軽い。",
+        "en": ""
+    },
+    {
+        "source": "虎新聞2.5（アイル地震対策）",
+        "pmcp": "\"xuben e ka xale pi letit xuben jo icucun pi e tude cik cila!\"",
+        "direct_ja": "",
+        "ja": "「かばんがこうだと、かばんを背負っても動きやすいの！」",
         "en": ""
     }
 ];

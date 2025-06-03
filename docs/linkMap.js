@@ -1,11 +1,56 @@
-export const sources_new_to_old = ["筆兵無傾AdC広報処コメント2024", "抜粋版辞書集前文", "ゲムマ2024秋広報処コメント", "LAUZAIT-CEPルールブック", "ゲムマ2024春広報処コメント", "【耳声手片】説明書", "虎新聞広告（数を数える）", "虎新聞広告（語学教室）", "虎新聞広告（琥珀ゲームズ）", "虎新聞広告（アリト芋）", "虎新聞（車両輸出減少）", "虎新聞（港拡張）", "日本の遊戯 第二号", "日本の遊戯 第一号", "かるたスライド", "プロパガンダかるた", "筆兵無傾バランスゲームのカード", "製造業者紹介チラシ", "discord会話", "フォントテスト用パングラム", "筆兵無傾AdC広報処コメント", "2023年5月ゲムマ収録漏れ資料", "我々の遊戯", "パングラム2", "【羅古論】目録", "PMCF ポスター", "机戦紹介スライド", "連盟サイト「遊戯の道具」", "連盟サイト「駒・役と点数」", "連盟サイト「初期配置」", "机戦戦術研究テキスト", "レヴェン・法・タムツイ", "我々の文化オープニング", "我々の文化3机戦の歴史", "2021年始ご挨拶", "机戦指し始め", "紙机戦の書", "諸机戦", "踏越え論", "異世界に転生したけど日本語が通じなかった", "連盟員速習", "国際母語の日", "アイル統一机戦書", "アイル統一机戦書記譜例", "国際共産歌詞", "冠光歌詞", "改良版アリス", "東島通商語入門", "パングラム", "地震速報", "不信心者", "クレオール言語に関する一考察", "あいさつ", "PMCFショーケース"];
+export const sources_new_to_old = ["虎新聞2.5（アイル地震対策）", "虎新聞２（津波と生活）", "虎新聞２（平和へと歩む）", "虎新聞２（イスケ大規模デモ）", "虎新聞２（ラモイ鉱脈の行方）", "虎新聞２（南サニス大臣処刑）", "虎新聞２（タフター軍の進軍）", "虎新聞２（デュイン復興進捗）", "紙辞書まえがき", "ゲムマ2025春広報処コメント前", "仕事終わらせ", "筆兵無傾AdC広報処コメント2024", "AIL ICCO E NUPANKALETI ALAILEN", "抜粋版辞書集前文", "ゲムマ2024秋広報処コメント", "LAUZAIT-CEPルールブック", "ゲムマ2024春広報処コメント", "【耳声手片】説明書", "虎新聞広告（数を数える）", "虎新聞広告（語学教室）", "虎新聞広告（琥珀ゲームズ）", "虎新聞広告（アリト芋）", "虎新聞（車両輸出減少）", "虎新聞（港拡張）", "日本の遊戯 第二号", "日本の遊戯 第一号", "かるたスライド", "プロパガンダかるた", "筆兵無傾バランスゲームのカード", "製造業者紹介チラシ", "discord会話", "フォントテスト用パングラム", "筆兵無傾AdC広報処コメント", "2023年5月ゲムマ収録漏れ資料", "我々の遊戯", "パングラム2", "【羅古論】目録", "PMCF ポスター", "机戦紹介スライド", "連盟サイト「遊戯の道具」", "連盟サイト「駒・役と点数」", "連盟サイト「初期配置」", "机戦戦術研究テキスト", "レヴェン・法・タムツイ", "我々の文化オープニング", "我々の文化3机戦の歴史", "2021年始ご挨拶", "机戦指し始め", "紙机戦の書", "諸机戦", "踏越え論", "異世界に転生したけど日本語が通じなかった", "連盟員速習", "国際母語の日", "アイル統一机戦書", "アイル統一机戦書記譜例", "国際共産歌詞", "冠光歌詞", "改良版アリス", "東島通商語入門", "パングラム", "地震速報", "不信心者", "クレオール言語に関する一考察", "あいさつ", "PMCFショーケース"];
 export const is_valid_source = (source) => {
     return sources_new_to_old.includes(source);
 };
 export const HYPERLINKS = {
+    "虎新聞2.5（アイル地震対策）": [
+        "https://docs.google.com/document/d/1Sf4EF794bWF6voECuCSEXUrqnaZd1Sfz_A_yBRlERq8/edit?tab=t.0"
+    ],
+    "虎新聞２（津波と生活）": [
+        "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2025%E6%98%A5/%E6%96%B0%E8%81%9E2025s_%E5%AE%8C%E6%88%90_%E3%82%A6%E3%83%A9.png",
+        "https://docs.google.com/document/d/1Sf4EF794bWF6voECuCSEXUrqnaZd1Sfz_A_yBRlERq8/edit?tab=t.0"
+    ],
+    "虎新聞２（平和へと歩む）": [
+        "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2025%E6%98%A5/%E6%96%B0%E8%81%9E2025s_%E5%AE%8C%E6%88%90_%E3%82%A6%E3%83%A9.png",
+        "https://docs.google.com/document/d/1Sf4EF794bWF6voECuCSEXUrqnaZd1Sfz_A_yBRlERq8/edit?tab=t.0"
+    ],
+    "虎新聞２（イスケ大規模デモ）": [
+        "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2025%E6%98%A5/%E6%96%B0%E8%81%9E2025s_%E5%AE%8C%E6%88%90_%E3%82%A6%E3%83%A9.png",
+        "https://docs.google.com/document/d/1Sf4EF794bWF6voECuCSEXUrqnaZd1Sfz_A_yBRlERq8/edit?tab=t.0"
+    ],
+    "虎新聞２（ラモイ鉱脈の行方）": [
+        "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2025%E6%98%A5/%E6%96%B0%E8%81%9E2025s_%E5%AE%8C%E6%88%90_%E3%82%AA%E3%83%A2%E3%83%86.png",
+        "https://docs.google.com/document/d/1Sf4EF794bWF6voECuCSEXUrqnaZd1Sfz_A_yBRlERq8/edit?tab=t.0"
+    ],
+    "虎新聞２（南サニス大臣処刑）": [
+        "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2025%E6%98%A5/%E6%96%B0%E8%81%9E2025s_%E5%AE%8C%E6%88%90_%E3%82%AA%E3%83%A2%E3%83%86.png",
+        "https://docs.google.com/document/d/1Sf4EF794bWF6voECuCSEXUrqnaZd1Sfz_A_yBRlERq8/edit?tab=t.0"
+    ],
+    "虎新聞２（タフター軍の進軍）": [
+        "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2025%E6%98%A5/%E6%96%B0%E8%81%9E2025s_%E5%AE%8C%E6%88%90_%E3%82%AA%E3%83%A2%E3%83%86.png",
+        "https://docs.google.com/document/d/1Sf4EF794bWF6voECuCSEXUrqnaZd1Sfz_A_yBRlERq8/edit?tab=t.0"
+    ],
+    "虎新聞２（デュイン復興進捗）": [
+        "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2025%E6%98%A5/%E6%96%B0%E8%81%9E2025s_%E5%AE%8C%E6%88%90_%E3%82%AA%E3%83%A2%E3%83%86.png",
+        "https://docs.google.com/document/d/1Sf4EF794bWF6voECuCSEXUrqnaZd1Sfz_A_yBRlERq8/edit?tab=t.0"
+    ],
+    "紙辞書まえがき": [
+        "https://docs.google.com/document/d/1_t9i9R9AgrOLyAK_IUxq7XRrvhedA9Qs7AJiiMfAkmQ/edit?tab=t.0#heading=h.6bjlscilawny",
+        "https://docs.google.com/document/d/1hul76y3_dCx65-mGHCVxdKD82_fh1Z2xiGp-bykFhjE/edit?tab=t.0"
+    ],
+    "ゲムマ2025春広報処コメント前": [
+        "https://ail-mo-leti-cep.github.io/blog/game-market-2025-spring/",
+        "https://docs.google.com/document/d/1LjBlL_vf33Dd47IrW64DVyMAztMwTkS14dMSZX9VzG0/edit?tab=t.0"
+    ],
+    "仕事終わらせ": [
+        "https://docs.google.com/document/d/1EY5sXgwx-ngXTivBV2ggkAWDp94QnuUa0QDZe2ZxMaw/edit?tab=t.0"
+    ],
     "筆兵無傾AdC広報処コメント2024": [
         "https://ail-mo-leti-cep.github.io/blog/advent-calendar-20241201/",
         "https://docs.google.com/document/d/1vyZu2sNI3FxL37aal3auE7uI7W8rC8T2Ulf8VcQXsYU/edit?tab=t.0"
+    ],
+    "AIL ICCO E NUPANKALETI ALAILEN": [
+        "https://docs.google.com/document/d/1GBlUaE6nMcLscydX9l1YoGRXK-c2Bq5QjeHPEnJazYo/edit?tab=t.0#heading=h.dut581369k0x"
     ],
     "抜粋版辞書集前文": [
         "https://docs.google.com/document/d/1hul76y3_dCx65-mGHCVxdKD82_fh1Z2xiGp-bykFhjE/edit?tab=t.0"
