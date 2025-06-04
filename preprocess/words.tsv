@@ -1083,7 +1083,16 @@
 	bepic		名詞		虎新聞２			（国名としての）ヴェフィス共和国	chafi'ofesen vefise	vefise				
 	cupukebec		名詞		虎新聞２			スプケベス、シュプケベス、スプケベツ【山中】（行政区画名）		Spvtkäpjex.lin				TRUE
 	xupukebec		名詞		虎新聞２			スプケベス、シュプケベス、スプケベツ【山中】（行政区画名）		Spvtkäpjex.lin				TRUE
-	etulo		名詞		虎新聞２			布	（左に同じ）	jeteulyo		衣		
-	nijucolata		名詞		虎新聞２			農家、農民、農業従事者	snyrluster	NIJUCO.pmcp + LATA.pmcp				
-	xe		名詞		LAUZAIT-CEPルールブック			中、中身	xe, uies	xe				
-	etulijo		名詞		ゲムマ2024秋広報処コメント			布	（左に同じ）	jeteulyo		衣		
+	etulo		名詞		虎新聞２			布	（左に同じ）	jeteulyo		衣		TRUE
+	nijucolata		名詞		虎新聞２			農家、農民、農業従事者	snyrluster	NIJUCO.pmcp + LATA.pmcp				TRUE
+	xe		名詞		LAUZAIT-CEPルールブック			中、中身	xe, uies	xe				TRUE
+	etulijo		名詞		ゲムマ2024秋広報処コメント			布	（左に同じ）	jeteulyo		衣		TRUE
+	icke		名詞		虎新聞２			イスケ派（リナエスト人の内部派閥）	（左に同じ）	iske				TRUE
+	badal		名詞		虎新聞２			村	kaxilijas	blardal	農村			TRUE
+	julecen		形容詞		虎新聞２			正しい、正確な	（左に同じ）	julesn				
+	e nunin		動詞		虎新聞２			危険である	（左に同じ）	ny niurn				TRUE
+	kitainuci		人名		虎新聞２			キタイヌシ【百川】（人名）				百川		TRUE
+	aiki		人名		虎新聞２			アイキ【光】【光男】（人名）				光, 光男		TRUE
+	canic		名詞		虎新聞２			サニス（地名）	（左に同じ）	canis				TRUE
+	kantelpolto		名詞		ゲムマ2025春広報処コメント			書斎、書店、書房	stune, akancheli'efaj, kittazonpo, torparr	KANTEL.pmcp + POLTO.pmcp				TRUE
+	kijadatu		名詞		ゲムマ2024秋広報処コメント			心の集まり、人々の心		kjadatu.tk				

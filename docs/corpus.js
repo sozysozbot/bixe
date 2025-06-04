@@ -18840,7 +18840,7 @@ export const CORPUS = [
         "source": "虎新聞２（デュイン復興進捗）",
         "pmcp": "jo xeltacijatunde letit xep ipaical leti ales.eli lukupit ka.",
         "direct_ja": "",
-        "ja": "シェルタズャートゥンデ県に大きな農地を持つアレス・エリさんはこう言う。",
+        "ja": "シェルタズャートゥンデ県に大きな農地を持つアレゼリさんはこう言う。",
         "en": ""
     },
     {
@@ -18881,15 +18881,15 @@ export const CORPUS = [
     {
         "source": "虎新聞２（デュイン復興進捗）",
         "pmcp": "jo kaleti lot cetleti pemecepe kunlanel e tude jo duwin metica.",
-        "direct_ja": "",
-        "ja": "今年もPMCPの多くの食物がデュインに行くだろう。",
+        "direct_ja": "今年もPMCPの多くの食物がデュインに行くだろう。",
+        "ja": "今年もPMCPの多くの食物がデュインへと輸出されることだろう。",
         "en": ""
     },
     {
         "source": "虎新聞２（デュイン復興進捗）",
         "pmcp": "cep delu xelit enatok at nijuco pi it pankaleti julo jo kaleti papcil.",
-        "direct_ja": "",
-        "ja": "政府は差別と農業を見て、これらの問題に適切に行動せねばならない。",
+        "direct_ja": "政府は差別と農業を見て、これらの問題に適切に行動せねばならない。",
+        "ja": "政府は差別や農業の現状を注視して、これらの問題に対して適切に行動せねばならない。",
         "en": ""
     },
     {
