@@ -996,7 +996,8 @@
 	TUWACA		名詞		虎新聞２			信用、信頼、信任		tvarcar				
 	E KIBAU		動詞		虎新聞２			飢えている		h^ibao.ar				
 	DEC-DEC		名詞		虎新聞２			行進		DEC.pmcp + DEC.pmcp				
-	CUKAMAPLO		名詞		虎新聞２			スカマーフレウユ（地名）		ŠkhAPkACREULz.lin				
+	CUKAMAPLO		名詞		虎新聞２			スカマーフレウユ、シュカマープレウ（地名）		ŠkhAPkACREULz.lin				
+	XUKAMAPLO		名詞		虎新聞２			スカマーフレウユ、シュカマープレウ（地名）		ŠkhAPkACREULz.lin				
 	XUKETIPLO		名詞		虎新聞２			シュカエトゥイブロ（地名）		SCkAETUYvBO.lin				TRUE
 	WAXELPUC		名詞		虎新聞２			税	（左に同じ）	vaxelpust				
 	LUKUPOLTO		名詞		虎新聞２			議会		LUKUP.pmcp + POLTO.pmcp				
@@ -1017,6 +1018,7 @@
 	PACTEC-IT		動詞		虎新聞２			採掘する	（左に同じ）	farsteses				
 	PIJENELAP		名詞		虎新聞２			北東	（左に同じ）	pennelav				
 	PACTAL		名詞		虎新聞２			鉱脈、鉱床	（左に同じ）	farstal				
+	PACTEL-IT		動詞		虎新聞２			採掘する	farsteses	farsterl				
 	CUJUC		名詞		虎新聞２			鉛	（左に同じ）	syryx				
 	LECCUJUC		名詞		虎新聞２			亜鉛		lyes + CUJUC.pmcp				
 	CUXIT		名詞		虎新聞２			電池	（左に同じ）	syrxd				
