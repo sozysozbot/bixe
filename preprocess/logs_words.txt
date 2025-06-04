@@ -1,19 +1,19 @@
---2025-06-04 11:33:05--  https://docs.google.com/spreadsheets/d/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs/export?format=tsv&gid=0
-Resolving docs.google.com (docs.google.com)... 142.250.207.46
-Connecting to docs.google.com (docs.google.com)|142.250.207.46|:443... connected.
+--2025-06-04 16:41:07--  https://docs.google.com/spreadsheets/d/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs/export?format=tsv&gid=0
+Resolving docs.google.com (docs.google.com)... 172.217.31.174
+Connecting to docs.google.com (docs.google.com)|172.217.31.174|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/c5b58hd9o7erm64mp3cooqcbek/1749004385000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0 [following]
+Location: https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/itjqcehva4d4mfibfh4o8d1j4s/1749022865000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0 [following]
 Warning: wildcards not supported in HTTP.
---2025-06-04 11:33:05--  https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/c5b58hd9o7erm64mp3cooqcbek/1749004385000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0
-Resolving doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)... 142.251.42.129
-Connecting to doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)|142.251.42.129|:443... connected.
+--2025-06-04 16:41:07--  https://doc-00-30-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/itjqcehva4d4mfibfh4o8d1j4s/1749022865000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0
+Resolving doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)... 142.250.207.33
+Connecting to doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)|142.250.207.33|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘./preprocess/words.tsv’
 
-     0K .......... .......... .......... .......... .......... 6.59M
-    50K .......... .......... .......... .......... .......... 3.79M
-   100K                                                        74.7M=0.02s
+     0K .......... .......... .......... .......... .......... 5.58M
+    50K .......... .......... .......... .......... .......... 8.34M
+   100K .                                                      74.7M=0.01s
 
-2025-06-04 11:33:05 (4.85 MB/s) - ‘./preprocess/words.tsv’ saved [103232]
+2025-06-04 16:41:08 (6.76 MB/s) - ‘./preprocess/words.tsv’ saved [103586]
 

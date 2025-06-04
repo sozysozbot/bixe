@@ -991,7 +991,7 @@
 	BOTAKE		名詞		虎新聞２			ボタケ（地名）	（左に同じ）	botake.taf				
 	DALAK-IT		動詞		虎新聞２			処刑する、罰する	（左に同じ）	dalark				
 	XELICOJE		名詞		虎新聞２			外交、外務		xelicorje	外交官			
-	XELICOJELATA		名詞		虎新聞２			外交官、使者	xelicorje	XELIXOJE.pmcp + LATA.pmcp				
+	XELICOJELATA		名詞		虎新聞２			外交官、使者	xelicorje	XELICOJE.pmcp + LATA.pmcp				
 	ALCAMEC		動詞		虎新聞２			就任する	（左に同じ）	alcames				
 	TUWACA		名詞		虎新聞２			信用、信頼、信任		tvarcar				
 	E KIBAU		動詞		虎新聞２			飢えている		h^ibao.ar				
@@ -1081,3 +1081,7 @@
 	bepic		名詞		虎新聞２			（国名としての）ヴェフィス共和国	chafi'ofesen vefise	vefise				
 	cupukebec		名詞		虎新聞２			スプケベス、シュプケベス、スプケベツ【山中】（行政区画名）		Spvtkäpjex.lin				TRUE
 	xupukebec		名詞		虎新聞２			スプケベス、シュプケベス、スプケベツ【山中】（行政区画名）		Spvtkäpjex.lin				TRUE
+	etulo		名詞		虎新聞２			布	（左に同じ）	jeteulyo		衣		
+	nijucolata		名詞		虎新聞２			農家、農民、農業従事者	snyrluster	NIJUCO.pmcp + LATA.pmcp				
+	xe		名詞		LAUZAIT-CEPルールブック			中、中身	xe, uies	xe				
+	etulijo		名詞		ゲムマ2024秋広報処コメント			布	（左に同じ）	jeteulyo		衣		
