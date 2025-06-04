@@ -18994,140 +18994,140 @@ export const CORPUS = [
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "lamoi pactal e tude jo kame",
         "direct_ja": "",
-        "ja": "",
+        "ja": "ラモイ鉱脈の行方は",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "jo bepic mol xecehait leti pactece at lamoi pactece pacit lukup-lukup jo jupleti lape leti cunenek.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "ヴェフィスのシェセハイト鉱業とラモイ鉱業の協議は今日で四日目を迎えた。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "makleti dictic xelit bilateit cileti anpe jo pactecit jo lamoi pijenelap mol dutucunleti pactal.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "両企業は、ラモイの北東部に新たに発見された鉱脈の開発への協力を目指している。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "kaleti nalu e ka.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "この理由はこうである。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "xecehait letit pankaleti pekanpe pi nip letit cujuc leti pactal. (jo bepic nip xelit kije cujuc leti pactal.)",
         "direct_ja": "",
-        "ja": "",
+        "ja": "シェセハイト鉱業は高い技術力を持つが、鉛鉱脈を持たない。（ヴェフィス国内で鉛鉱脈は発見されていない。）",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "lamoi pactece letit cujuc leti pactal pi nip letit pankaleti pekanpe jo etleti dictic.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "ラモイ鉱業は鉛鉱脈を確保しているが、他社より高い技術力を持っていない。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "makleti dictic ticotit untik letit leti julo cene ancolit anpe jo micca leti. jo kaleti nole lukup-lukup e tude jo pankaleti.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "両企業はそれぞれの持つものが互いを大いに助けられると考えており、協議は現段階ではまとまりつつあるようだ。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "pi, panleti enxic mol.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "しかし、懸念が一つある。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "bepic cep nip celene e bepic dictic lauzait julo at xulip jo icco leti ecki.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "ヴェフィス政府は、ヴェフィス企業が国外で製品や工場を作ることに消極的である。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "ci ticotit jo enxic etleti icco tuwalit bepic dictic leti anpe leti julo.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "ヴェフィス企業の力が外国に盗まれることを懸念しているためだ。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "cep lukupit nip pi dictic nip cene pactecit jo ail.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "政府が異を唱えれば、企業が望んでもアイルで開発を行うことはできない。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "pi, jo nukilpankaleti, lukupit jo cep leti cetleti julo mol.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "しかし、幸いなことに、政府を説得できる材料は多い。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "jo panleti, lapimete ticotit ka. kaleti pactal letit cujuc at leccujuc pi jo kaleti nole pemecepe cene lucit ka jo 4? o xep lot.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "まず、専門家はこの鉱脈が鉛と亜鉛を持っており、その量は現在のPMCPで一年に使われる量の40倍以上であると想定している。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "lucit ka cet pi cene lauzait cuxit at dimelin at jekucel pi e panka jo aucleti cacke.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "これらは電池や塗料、合金などに使われ、皆の生活の役に立つ。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "jo kaleti nole pemecepe kukol e tude jo xep pi lucit ujek leti cucen xope e tude jo xep. delu etec pactecit dutucunleti pactal.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "今、PMCPの経済は成長を続けており、金属の使用量も増えている。早く新たな鉱脈を開発せねばならない。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "jo makleti, xecehait leti et xope cene pactecit pactal. bepic lukupit nip pi etleti ail dictic delu pactelit ci.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "次に、鉱脈を開発できるのはシェセハイトだけではない。ヴェフィスが許さなければ別のアイル企業が開発するだろう。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "xecehait e tude jo pactecit leti pi bepic cene letit cileti cujuc at leccujuc.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "シェセハイトが開発に参加すれば、ヴェフィスは鉛と亜鉛を得ることができる。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "jo bepic kaleti ateletine delu e tude jo nuxep pi xutzen e tude jo xep, metica.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "ヴェフィスでのこれらの価格は下がり、国内の工業を発展させられるだろう。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "jo bilateit leti, bepic cep nip e xecehait pactalit pi jo bepic nupankaleti julo delu e xep jo pankaleti julo.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "総合すると、シェセハイトに開発をさせないことは、ヴェフィスにとっては得よりも損の方が大きいだろう。",
         "en": ""
     },
     {
         "source": "虎新聞２（ラモイ鉱脈の行方）",
         "pmcp": "makleti dictic cene e bepic cep lukupit ja? jo kaleti lukup-lukup ka delu e xep.",
         "direct_ja": "",
-        "ja": "",
+        "ja": "両企業はヴェフィス政府の了解を得られるのか？今回の協議ではこれが焦点となりそうだ。",
         "en": ""
     },
     {
