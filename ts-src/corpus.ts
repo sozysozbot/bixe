@@ -4433,9 +4433,9 @@ export const CORPUS: CorpusElem[] = [
   },
   {
     "source": "連盟サイト「遊戯の道具」",
-    "pmcp": "tak (布)",
+    "pmcp": "tak (衣)",
     "direct_ja": "",
-    "ja": "盤（【布】）",
+    "ja": "盤（【衣】）",
     "en": ""
   },
   {
