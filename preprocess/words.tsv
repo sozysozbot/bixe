@@ -33,7 +33,7 @@
 320	anpe		名詞					力	（左に同じ）	anfi'e				
 330	kapa		名詞					光	（左に同じ）	kafi'a		光		
 340	pon		名詞					酢	（左に同じ）	feun				
-350	ponto		名詞					前	（左に同じ）	fonto				
+350	ponto		名詞					前、前方	（左に同じ）	fonto			空間的な位置としての前方を表す。時間としての「前」を指すにはlapeを用いる。	
 360	cila		名詞					真実、事実	（左に同じ）	cirla				
 370	anxan	TRUE						不正に	（左に同じ）	andzan				
 380	e tata		動詞					楽しい	（左に同じ）	tatha				
@@ -309,7 +309,7 @@
 2985	cikilotije		名詞		「我々の文化」3			スキュリオーティエ叙事詩	（左に同じ）	skyli'orti'e				
 2990	latot		名詞		「我々の文化」3			ラートード（時代区分名）	（左に同じ）	lartord				
 3000	toxa		名詞		「我々の文化」3			石	（左に同じ）	toxa				
-3010	bepale		名詞					板	vepalea, leviarci, cestelefevirt	vepalea.lip				
+3010	bepale		名詞					板	vepalea, leviarci, cestelefevirt	vepalea				
 3020	nicnuc		名詞					窓	veparle	nysnys				
 3030	taxu		名詞					遺跡	（左に同じ）	taxur				
 3040	xepecne		名詞					大きさ	（左に同じ）	xerfesnej				
@@ -417,12 +417,12 @@
 4040	alailen		名詞					名前	aloajerlerm, ferlk (fon larta ad mors)	aloajerlerm				
 4050	alowaelen		名詞					理名、アロアイェーレーム	（左に同じ）	aloajerlerm				
 4060	kijabezu		名詞					心圧（ラネーメの伝統宗教・皇論における概念）	hiarbet	kjabetu.tk		心圧		
-4070	etecel		名詞					順位、[値 leti etecel] ～番目	eteseleserl, -te	jeteserl.lip		位		
-4080	etecel		名詞					速さ、スピード	jeteserl	jeteserl.lip				
-4090	penal		名詞					椅子、腰掛け	pernal	pernal.lip		座処		
-4100	keluc		名詞					大会	alarta fua rerxo o velfez	kelux.lip				
-4110	e nectel		名詞					細い	snestul	snestul.lip		細		
-4120	bapala		名詞	TRUE				板、札	vepalea, jexerrt, deiet	vepalea.lip		平		
+4070	etecel		名詞					順位、[値 leti etecel] ～番目	eteseleserl, -te	jeteserl		位		
+4080	etecel		名詞					速さ、スピード	jeteserl	jeteserl.				
+4090	penal		名詞					椅子、腰掛け	pernal	pernal.		座処		
+4100	keluc		名詞					大会	alarta fua rerxo o velfez	kelux.				
+4110	e nectel		名詞					細い	snestul	snestul.		細		
+4120	bapala		名詞	TRUE				板、札	vepalea, jexerrt, deiet	vepalea.		平		
 4130	bapala		名詞		日本机戦連盟サイトPMCF訳	2022/7/1	日本机戦連盟サイトPMCF訳	カード、チケット	vuviep vepalea fua icvergo fhasfa	vepalea			リパライン語 vepalea には「カード、チケット」と「板」の両義があるので、訳語欄は「なにかを受け取るための薄い vepalea」とする。	
 4140	pomec		名詞		リパライン語初級「第十回」	2022/7/6		試験	（左に同じ）	pormerz			原典での表記 pomez を正規化。	
 4150	kectenebel		名詞		リパライン語初級「第十回」	2022/7/6		大学院	（左に同じ）	kestinebierl				
@@ -874,7 +874,7 @@
 	NENEC-IT		動詞		筆兵無傾AdC2024広報処コメント			送信する	（左に同じ）	nienex			これはNENEX-ITにするか悩みどころ、多分他動詞でしか使わないし	
 	ACILAN		名詞		筆兵無傾AdC2024広報処コメント			情報	（左に同じ）	acirlan				
 	E NUXALE		動詞		筆兵無傾AdC2024広報処コメント			似ていない、大きく異なる	stes niv e'i, es niv xaleerl	NU-.pmcp + XALE.pmcp				
-	JEXET-IT		動詞		筆兵無傾AdC2024広報処コメント			明らかにする	（左に同じ）	jexi'ertes			JEXET < jexi'ert.lip「証拠」は既にある	
+	JEXET-IT		動詞		筆兵無傾AdC2024広報処コメント			明らかにする	（左に同じ）	jexi'ertes			JEXET < jexi'ert「証拠」は既にある	
 	CENOT-IT		動詞		ゲムマ2024春広報処コメント			聞く	（左に同じ）	senost				
 	nanala		名詞					ナナラ【静水】（行政区画名）		na.tk【静】+ nala.tk【水】		静水		
 	polakaika		名詞		「我々の文化」3			ポラカイカ【羊戦】（地名）		pola.ar + kaika.ar		羊戦		
@@ -1096,3 +1096,4 @@
 	canic		名詞		虎新聞２			サニス（地名）	（左に同じ）	canis				TRUE
 	kantelpolto		名詞		ゲムマ2025春広報処コメント			書斎、書店、書房	stune, akancheli'efaj, kittazonpo, torparr	KANTEL.pmcp + POLTO.pmcp				TRUE
 	kijadatu		名詞		ゲムマ2024秋広報処コメント			心の集まり、人々の心		kjadatu.tk				
+	colen		形容詞											
