@@ -19934,5 +19934,817 @@ export const CORPUS = [
         "direct_ja": "",
         "ja": "「かばんがこうだと、かばんを背負っても動きやすいの！」",
         "en": ""
+    },
+    {
+        "source": "「光る龍の卵」【CM】",
+        "pmcp": "delu e kije, nulotlata!",
+        "direct_ja": "",
+        "ja": "来たれ、賢人よ！",
+        "en": ""
+    },
+    {
+        "source": "「光る龍の卵」【CM】",
+        "pmcp": "letit luc pi",
+        "direct_ja": "",
+        "ja": "卵を取り",
+        "en": ""
+    },
+    {
+        "source": "「光る龍の卵」【CM】",
+        "pmcp": "delu ticot kile lata leti nukil.",
+        "direct_ja": "",
+        "ja": "心を読め",
+        "en": ""
+    },
+    {
+        "source": "「光る龍の卵」【CM】",
+        "pmcp": "delu laijuit \"mena\" pi delu e elme!",
+        "direct_ja": "",
+        "ja": "《友》を並べて戦え！",
+        "en": ""
+    },
+    {
+        "source": "「光る龍の卵」【CM】",
+        "pmcp": "\"aik hui wet\"",
+        "direct_ja": "",
+        "ja": "「光る龍の卵」",
+        "en": ""
+    },
+    {
+        "source": "「光る龍の卵」【CM】",
+        "pmcp": "tak xizi leti cupoi leti belpic",
+        "direct_ja": "",
+        "ja": "「タクさんの木製ゲーム」",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "ail lime lt belpicit lt cul",
+        "direct_ja": "",
+        "ja": "アイルの道の遊びかた",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "2...5 lata 3 zuwo",
+        "direct_ja": "",
+        "ja": "2~5人 43.5分",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "lauzait leti e xemoni",
+        "direct_ja": "",
+        "ja": "製作：シェモニ",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "mo leti cep - alec.elmapic",
+        "direct_ja": "",
+        "ja": "文化省　アレス・エルマフィス",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "kukol leti cep - xeta.alwe",
+        "direct_ja": "",
+        "ja": "経済省　シェータ・アルウェ",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "donen cep - lija.nidau",
+        "direct_ja": "",
+        "ja": "交通省　リア・ニーダウ",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo kaleti belpic lata e tude jo ail lime pi xelit inipoldalo leti nukil pi amolit enja jo mo at kukol at cepenja.",
+        "direct_ja": "",
+        "ja": "このゲームでは、人々はアイル共和国の道をめぐり、大陸時代の精神に基づきながら文化、経済、政治に注力します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "lata e tude jo polto-polto pi cene letit inimoc. lucit inimoc pi lauzait jule. mak pi cene letit cet inimoc at xep kapa.",
+        "direct_ja": "",
+        "ja": "各地を旅することで資源を集めることができ、資源を支払うことで基礎を築き、より多くの資源や実績を集めることができるようになります。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo belpic e lucuc leti nole letit cet jo auc leti kin pi letit xep jo auc leti kapa leti lata delu molkait.",
+        "direct_ja": "",
+        "ja": "ゲーム終了時、最も点数を集め、最も偉大な実績（勝利点）を残したプレイヤーが勝利します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "cutapijot leti xe",
+        "direct_ja": "",
+        "ja": "コンポーネント",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "polto-cukulal (1lt)",
+        "direct_ja": "",
+        "ja": "マップボード (1枚)",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "?4lt polto-nutok at palbicit leti lime mol jo polto-cukulal pi lata e zo e tude jo ka. ",
+        "direct_ja": "",
+        "ja": "14の地名マスとそれをつなぐ道が描かれています。プレイヤーはこの上を移動します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo tictuk mol zai nip cene nijacicon e tude.",
+        "direct_ja": "",
+        "ja": "矢印の書かれている線は一方通行です。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "inimoc leti zo",
+        "direct_ja": "",
+        "ja": "資源駒",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "kunlanel (pebuc)",
+        "direct_ja": "",
+        "ja": "食糧 黄",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "ujek (ludec)",
+        "direct_ja": "",
+        "ja": "鉱石 赤",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "nukil (coxet)",
+        "direct_ja": "",
+        "ja": "知識 青",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "late (tandec)",
+        "direct_ja": "",
+        "ja": "お金 緑",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "late cene pulonit kunlanel o ujek o nukil . cene tudeit ka jo molkait leti kin.",
+        "direct_ja": "",
+        "ja": "お金は万能資源として他の資源1つとして使えます。勝利点に変換もできます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "papelleti bapala (63 lt)",
+        "direct_ja": "",
+        "ja": "通常カード(63枚)：",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "mo (tandec) at kukol (cudoi) at cepenja (pebucludec) at xon (poladec).",
+        "direct_ja": "",
+        "ja": "文化(緑)、経済(紫)、政治(橙)、特殊(灰)",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "↑ mot",
+        "direct_ja": "",
+        "ja": "↑裏面",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "cileja →",
+        "direct_ja": "",
+        "ja": "表面→",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "bapala leti alailen",
+        "direct_ja": "",
+        "ja": "カード名",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "amolit leti ateletine",
+        "direct_ja": "",
+        "ja": "設置コスト",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "tude leti leca  nip / 一 / 二 / 三",
+        "direct_ja": "",
+        "ja": "移動距離　なし/【一】(1) /【二】(2) / 【三】(3)",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo tudeleti nole letit kaleti inimoc",
+        "direct_ja": "",
+        "ja": "移動時獲得資源",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "amolit ka pi lucit laketi anpe",
+        "direct_ja": "",
+        "ja": "設置時効果",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo xelit bapala leti dec leti nole poladec leti bapala cene pulonit aucleti dec.",
+        "direct_ja": "",
+        "ja": "特殊(灰)カードはカード効果で色を参照する際、どの色のカードとしても扱えます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "cucnit-3 leti bapala (5lt) inimoc leti zo mol jo ka pi kaleti kantel e 3lt inimoc.",
+        "direct_ja": "",
+        "ja": "「×3」カード(5枚：この上に乗せた資源駒は3個分として扱います。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "tudeleto zo (delne/pulan/ludec/coxet/pebuc) lata tudeit kaleti zo",
+        "direct_ja": "",
+        "ja": "プレイヤー駒：黒/白/赤/青/黄　プレイヤーが移動する駒です。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "xeplata leti apijozo   letit kaleti lata e xeplata.",
+        "direct_ja": "",
+        "ja": "スタートプレイヤー駒：スタートプレイヤーを示す駒です。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "penen",
+        "direct_ja": "",
+        "ja": "準備",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(1) amolit polto-cukulal jo cucital.",
+        "direct_ja": "",
+        "ja": "① マップ配置: 中央にマップを置きます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(2) tectelit lata leti dec pi amolit untik leti zo jo makati. delu nip cilecit lata leti zo. tectelit xeplata pi letit tude xeplata leti apijozo.",
+        "direct_ja": "",
+        "ja": "② 駒配置：プレイヤーが担当する色を決めスタート地点「首都マカティ」にそれぞれの駒を重ねずに置きます。スタートプレイヤーを決め、スタートプレイヤー駒を渡します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(3) aucetit cucnit-3 leti bapala pi dindunit bapala. ka e lukxe.",
+        "direct_ja": "",
+        "ja": "③ 山札：×3カードを除いたカードをシャッフルし、山札とします。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(4) late leti polto mol jo makati at inuci leti cecijo. jo pac, late leti kin e cucnit 5lt jo lata leti kin. co celene belpicit jo nuxep nole pi late leti kin cene e cucnit 4lt jo lata leti kin.",
+        "direct_ja": "",
+        "ja": "④ お金置き場：プレイヤー人数×5個のお金を「首都マカティ」と「イヌシ」の間に置きます。短時間のゲームではプレイヤー人数×4個で遊んでも構いません。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(5) lauzait inimoc leti polto jo aucleti lata leti lexut cene e tude leti polto.",
+        "direct_ja": "",
+        "ja": "⑤ 資源置き場：全員の手の届く場所に資源を置きます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(6) jo lukxe aucleti lata letit 3lt kopzo.",
+        "direct_ja": "",
+        "ja": "⑥ 手札: 全員に山札からカードを 3枚引いて手札にします。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(7) lucit bapala delu e tude leti polto mol. ka e tuni leti polto.",
+        "direct_ja": "",
+        "ja": "⑦ 計画エリア：プレイヤーがカードを出すエリアを確保します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(8) amolit bapala delu e tude leti polto mol. ka e amolit leti polto.",
+        "direct_ja": "",
+        "ja": "⑧ 設置エリア：プレイヤーがカード設置をするエリアです。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(9) lata letit leti inimoc delu mol jo inimoc leti polto.  jo inimoc leti zo nukazeleti nole, lucit cucnit-3 leti bapala.",
+        "direct_ja": "",
+        "ja": "⑨ プレイヤー資源置き場：プレイヤーの資源を置くエリアです。必要に応じて×3カードを使用します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "belpic leti tudelt",
+        "direct_ja": "",
+        "ja": "ゲームの流れ",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "belpic e mak-mak it cai pi delu e tude.",
+        "direct_ja": "",
+        "ja": "ゲームはラウンドを繰り返して進行します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo panleti cai jo laiju it launza leti awi cet.",
+        "direct_ja": "",
+        "ja": "1ラウンドは以下の順序で進みます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(1) tuni (auc leti lata ileceon it ka)    jo kopzo tectelit 1lt bapala pi, kaceit jo mot ka jo tuni leti polto.",
+        "direct_ja": "",
+        "ja": "① 計画（全員同時）：手札から使うカードを1枚選び、裏向きで計画エリアに伏せます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "(2) itleti (jo laiju lata it)   kaceit bapala → it enja → atakecit bapala. it ka.",
+        "direct_ja": "",
+        "ja": "② 実行（手番順）：カード公開→メインアクション→手札補充を行います。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "1. kaceit tuni leti polto mol mot leti bapala.",
+        "direct_ja": "",
+        "ja": "1. カード公開：計画エリアに伏せたカードを公開します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "2. it p o b leti 1lt enja.",
+        "direct_ja": "",
+        "ja": "2. メインアクション: 以下のアクションのどちらか1つを行います。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "- p. tudeleti. tudeit zo pi cijujuctelit inimoc.",
+        "direct_ja": "",
+        "ja": "- A: 移動: プレイヤー駒を移動させ、資源を集めます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "- b. amolit leti. letit tude dexamocel pi letit tuni leti polto leti bapala pi tudeit ka jo amolit leti polto.",
+        "direct_ja": "",
+        "ja": "- B: 設置: コストを支払い、計画エリアのカードを設置エリアに移動します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "3. atakecit bapala jo kopzo pi tudeit kopzo leti kin jo jukenel. (jo pacleti nole jukenel e 3lt. jo amolit zo 1lt ■ mol pi zixo atakecit 1lt bapala)",
+        "direct_ja": "",
+        "ja": "3. 手札補充: 手札が上限枚数になるまで山札から補充します。（最初は3枚ですが、設置カードに■があるごとに1枚増えます。）",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "lukxe e molip pi cijujuctelit nipit leti bapala pi dindunit ka pi lauzait lukxe.",
+        "direct_ja": "",
+        "ja": "山札が不足している場合、捨て札を集めてシャッフルし山札を作ります。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "co celene it pi nip atakecit bapala pi cene dutucunit bapala.",
+        "direct_ja": "",
+        "ja": "望むならば、手札補充を行わない代わりに、手札リセットを行っても構いません。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo dutucunit bapala leti nole co nipit aucleti bapala pi letit jukenel nuwatakecit 1lt bapala.",
+        "direct_ja": "",
+        "ja": "手札リセット: 手札を全て捨てます。その後、手札上限-1枚になるまで山札から補充します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "anpamijaleti  auc leti lata leti dije e lucuc pi xelit late leti anpilun.",
+        "direct_ja": "",
+        "ja": "③ ラウンド終了処理：全員の手番終了後、お金の残量を確認します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "- late mol nat pi, dutucun xeplata e xeplata leti launza leti lata pi launza leti cai e pac.",
+        "direct_ja": "",
+        "ja": "- まだある場合: スタートプレイヤーを隣のプレイヤーに移し、次のラウンドを始めます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "- late molip pi, belpic e lucuc pi kinpit kin.",
+        "direct_ja": "",
+        "ja": "- 0個の場合: ゲームを終了し、得点計算を行います。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "enja leti tilecte",
+        "direct_ja": "",
+        "ja": "メインアクション詳細",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "p. tudeleti   xelit bapala mol leca pi tudeit zo pi nipit tuni leti polto leti bapala. leca nip delu e xep o nuxep. leca e \"nip\" pi zo nip e tude.",
+        "direct_ja": "",
+        "ja": "A. 移動：カードの移動距離ちょうどのマス移動を行い、計画エリアのカードを捨てます。移動距離が「なし」の場合、駒は動きません。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo kileleti polto etleti zo mol pi delu e tude jo cileti zo leti laip. ka e \"penxeit mena\". lata celene e tude pi delu penxeit cileti laip leti aucleti zo pi delu e tude.",
+        "direct_ja": "",
+        "ja": "相乗り：移動先に他プレイヤーがいる場合、必ずその上に乗ります。自分が移動する際は、自分より上にいる駒全員を連れて移動します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "letit cekel",
+        "direct_ja": "",
+        "ja": "報酬獲得：",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo tudeleti nole letit leti inimoc mol jo bapala pi letit 1lt cileti inimoc.",
+        "direct_ja": "",
+        "ja": "- カード報酬：移動時獲得資源がカードに書かれている場合、その資源を1つ得ます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo kileleti polto inimoc mol pi letit 1lt cileti inimoc.",
+        "direct_ja": "",
+        "ja": "- マス報酬：移動先のマスに資源が書かれている場合、その資源を1つ得ます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "iceit penxe leti lata xope iceit polto leti cekel.",
+        "direct_ja": "",
+        "ja": "マス報酬は上に乗って連れて来られたプレイヤーも獲得することができます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "xelit 1lt lata amolit leti bapala leti anpe pi tectelit cilt lata iceit leti inimoc leti kin. waxecleti lata letit waxecleti inimoc.",
+        "direct_ja": "",
+        "ja": "各プレイヤーの設置カード（後述）により報酬を決定するため、プレイヤー毎に異なる資源を得ます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "nuxep cukulal",
+        "direct_ja": "",
+        "ja": "アイコン",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "letit leti inimoc   kunlanel   ujek   nukil   kunlanel / ujek / nukil",
+        "direct_ja": "",
+        "ja": "獲得資源　食糧　鉱石　知識　食糧/鉱石/知識いずれか",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "lopta leti cekel   lata e axe jo late leti polto (ka mol jo makati at inuci leti cecijo) pi lata letit 1lt late.",
+        "direct_ja": "",
+        "ja": "周回報酬：イヌシから首都マカティの間にあるお金置き場を通過したプレイヤーはお金を1つ獲得します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo laip mol lata nip cene letit ka.",
+        "direct_ja": "",
+        "ja": "上に乗って連れて来られたプレイヤーは獲得することができません。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "lata tudeit zo pi cene tudeit late jo molkait leti kin. jo kaleti nole, lata delu letit late pi amolit ka jo amolit polto let bapala.",
+        "direct_ja": "",
+        "ja": "お金の得点化：移動の後、設置エリアのカードの上にお金を乗せることでお金を得点化できます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "lata nip cene lucit jo amolit leti bapala mol late. jo belpic e lucuc leti nole kaleti 1lt late e 3lt molkait leti kin.",
+        "direct_ja": "",
+        "ja": "置いたお金は資源として使えなくなりますが、ゲーム終了時に1個3点となります。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "lt nole leti tudeleti, lata leti cene amolit late leti kin e jo xep tudeleti leca.",
+        "direct_ja": "",
+        "ja": "今回の移動に使った移動距離と同じ数までお金を乗せることができます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo 1lt bapala lata cene amolit 1lt late.",
+        "direct_ja": "",
+        "ja": "1枚のカードの上には1つしかカードを置くことができません。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "b. amolit leti   letit tude amolit leti dexamocel pi letit tuni leti polto leti bapala pi tudeit ka jo amolit leti polto.",
+        "direct_ja": "",
+        "ja": "B. 設置：カードの設置コストを支払い、計画エリアのカードを設置エリアに移動します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "late pulonit. jo kaleti nole lucit leti late delu nip e tude jo late leti polto, delu e tude nip belpic leti polto.",
+        "direct_ja": "",
+        "ja": "お金を他の資源の代用に使うことができます。ここで使ったお金はお金置き場に戻さず、ゲームの外に避けておきます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "amolit jo launza-tecnok 🔨 mol bapala pi nip-nole zixo amolit 1lt bapala. jo kaleti nole xope delu letit tude dexamocel.",
+        "direct_ja": "",
+        "ja": "右下に「🔨」が書いてあるカードを設置した場合、その直後に続けてもう1枚設置することができます。（要設置コスト）",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "belpic lt lucucit nole at kinpit kin lt cul",
+        "direct_ja": "",
+        "ja": "ゲーム終了と得点計算",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "late leti polto leti late e nip leti cai e lucuc pi belpic delu e lucuc. jo launza kulanteit leti molkait leti kin jo auc xep leti lata delu molkait.",
+        "direct_ja": "",
+        "ja": "お金置き場のお金が0個になったラウンドの終了時、ゲームが終了します。以下の勝利点の合計が最も高いプレイヤーが勝利します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "xelit amolit leti bapala pi letit molkait leti kin. keco 2lt kin. keco 1lt mo leti bapala e 2lt kin.",
+        "direct_ja": "",
+        "ja": "設置済みカードの点数：カードの下部の点数を得ます。「2点」のようなものと「文化カード1枚につき2点」のようなものがあります。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "xelit amolit leti bapala leti laip leti late pi letit molkait leti kin. jo bapala mol 1lt late e 3lt kin.",
+        "direct_ja": "",
+        "ja": "設置済みカード上のお金：設置済みカードの上に置いたお金1つにつき3点を得ます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "dukalt lata let belpic",
+        "direct_ja": "",
+        "ja": "2人プレイ時のルール",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo 1lt lata 2lt zo mol pi belpic e tude. dije e mae-mak tude jo 1-1-2-2 o 1-2-1-2 leti laiju.",
+        "direct_ja": "",
+        "ja": "1人あたり2つの駒を使ってゲームを遊びます。1→1→2→2あるいは1→2→1→2のように手番を繰り返します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "nuxep cukulal leti kante",
+        "direct_ja": "",
+        "ja": "アイコン解説",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "dexamocel",
+        "direct_ja": "",
+        "ja": "コスト",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo dexamocel leti kante cilecit leti ∞ delu e nuwaxecleti cepat leti inimoc.",
+        "direct_ja": "",
+        "ja": "コスト表示において、∞のように重なって表示されているものは、同種の資源であることを示します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "polto leti anpe",
+        "direct_ja": "",
+        "ja": "マス効果",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo letit inimoc leti polto letit 1lt inimoc.",
+        "direct_ja": "",
+        "ja": "資源獲得マス：資源を1つ獲得します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "jo xon tudeleti polto kile pi launzaleti polto mol pi xon e tude. jo kaleti nole xope it \"penxeit mena\".",
+        "direct_ja": "",
+        "ja": "特殊移動マス：移動アクションを行った後、以下のマスにいる場合、特殊な移動を行います。この場合でも相乗りは発生します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "◎ etecleti tudeleti  nip-nole tude jo etleti etecleti tudeleti polto.",
+        "direct_ja": "",
+        "ja": "◎ 高速移動　即座にもう一方の高速移動マスに移動します。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "👣 atakecleti tudeleti  cene nipit atakecleti 1lt bapala pi cene e tude.",
+        "direct_ja": "",
+        "ja": "👣 追加移動　手札をもう1枚追加で捨てて追加で移動しても構いません。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "bapala leti anpe",
+        "direct_ja": "",
+        "ja": "カード効果",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "launza-tecnok leti nuxep cukulal",
+        "direct_ja": "",
+        "ja": "右下アイコン：",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "■ jo amolit polto mol amolit leti bapala letit kaleti nuxep cukulal pi, 1lt kaleti cukulal mol pi zixo atakecit 1lt bapala.",
+        "direct_ja": "",
+        "ja": "■ このアイコンのあるカードを設置エリアに設置している場合、1つあるごとに手札上限が1枚増えます。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "🔨  amolit bapala jo amolit leti polto pi bapala letit kaleti nuxep cukulal pi, nip-nole zixo amolit 1lt bapala. jo kaleti nole xope delu letit tude dexamocel",
+        "direct_ja": "",
+        "ja": "🔨 このアイコンのあるカードを設置エリアに設置した場合、その直後に続けてもう1枚設置することができます。（要設置コスト）",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "launza leti nuxep cukulal",
+        "direct_ja": "",
+        "ja": "下部アイコン：",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "kin",
+        "direct_ja": "",
+        "ja": "点数",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "1lt kin",
+        "direct_ja": "",
+        "ja": "1点",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "2lt kin",
+        "direct_ja": "",
+        "ja": "2点",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "1lt cepenja leti bapala e 2lt kin",
+        "direct_ja": "",
+        "ja": "政治（橙）カード1枚につき2点",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "1lt 🏝 e 2lt kin (jo amolit leti bapala leti launza mol pi atakecit 3lt kin pi 5lt kin)",
+        "direct_ja": "",
+        "ja": "🏝 1枚につき2点（設置済みカードの上にある場合、3点と重複し5点になります。）",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "mo at kukol at cepenja leti dat e 3lt kin",
+        "direct_ja": "",
+        "ja": "文化（緑）、経済（紫）、政治（橙）のセットごとに3点",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "inimoc",
+        "direct_ja": "",
+        "ja": "資源",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "letit atakecleti 1lt 🌾 jo 📖",
+        "direct_ja": "",
+        "ja": "📖マスにおいて🌾を追加で1つ得る。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "letit atakecleti 2lt 🌾 jo 📖",
+        "direct_ja": "",
+        "ja": "📖マスにおいて🌾を追加で2つ得る。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "letit atakecleti 🌾 jo 🪨. atakecleti🌾leti kin e nuwaxec jo kukol leti bapala leti kin.",
+        "direct_ja": "",
+        "ja": "🪨マスにおいて追加で経済（紫）カードの枚数に等しい数の🌾を得る。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "kile jo ☮️ leti julo e nip kile jo 🌾🪨📖 leti julo.",
+        "direct_ja": "",
+        "ja": "☮️マスを踏んだ際、🪨📖🌾を踏んだ扱いにはできません。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "inpelit leti",
+        "direct_ja": "",
+        "ja": "変換",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "1lt kaleti bapala mol pi jo 1lt cai jo 1lt nole inpelit nuwaxecleti cepat leti 3lt inimoc jo 🏝",
+        "direct_ja": "",
+        "ja": "1枚につき1ターン1回、同じ種類の3個の資源を🏝に変換できる。",
+        "en": ""
+    },
+    {
+        "source": "「アイルの道」の遊び方",
+        "pmcp": "1lt kaleti bapala mol pi jo 1lt cai jo 1lt nole inpelit 🌾🪨📖 jo 🏝",
+        "direct_ja": "",
+        "ja": "1枚につき1ターン1回、🌾🪨📖を🏝に変換できる。",
+        "en": ""
     }
 ];

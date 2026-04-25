@@ -8,7 +8,7 @@
 
 ## Google Spreadsheet の更新を反映する方法
 
-このリポジトリを WSL か Linux 環境にクローンして、以下のコマンドを実行する。（Node.js が必要）
+このリポジトリを WSL か Linux 環境にクローンして、以下のコマンドを実行する。（Node.js が必要）（Mac の場合は事前に `brew install wget` しておくこと）
 
 ```sh
 ./sync.sh
