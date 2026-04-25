@@ -20176,7 +20176,7 @@ export const CORPUS: CorpusElem[] = [
   },
   {
     "source": "「アイルの道」の遊び方",
-    "pmcp": "amolit ka pi lucit laketi anpe",
+    "pmcp": "amolit ka pi lucit kaleti anpe",
     "direct_ja": "",
     "ja": "設置時効果",
     "en": ""

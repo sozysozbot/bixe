@@ -9,6 +9,7 @@ export const BLATANT_TYPO_LIST = [
     { wrong: "bapapa", correct: "bapala" },
     { wrong: "kanleti", correct: "kaleti" },
     { wrong: "manan", correct: "manana" },
+    { wrong: "tudeleto", correct: "tudeleti" },
 ]
 
 export function isBlatantTypo(word: string): boolean {
