@@ -1074,25 +1074,25 @@
 	E UWEP		動詞		虎新聞２			薄い	es vuviep	vuviep				
 	E NUWEP		動詞		虎新聞２			厚い		NU.pmcp + UWEP.pmcp				
 	UWEPECNE		名詞		虎新聞２			分厚さ、薄さ		vuviepesnej				
-	PUJUC		名詞		虎新聞２			麦	（左に同じ）	pyjyst				TRUE
+	PUJUC		名詞		虎新聞2.5			麦	（左に同じ）	pyjyst				TRUE
 	ENATOK		名詞		虎新聞２			差別		enatokt				
-	PUWEK		名詞		虎新聞２			手袋	（左に同じ）	fueg				TRUE
-	PUNOC-LETI		動詞		虎新聞２			甘い	（左に同じ）	pynost				TRUE
+	PUWEK		名詞		虎新聞2.5			手袋	（左に同じ）	fueg				TRUE
+	PUNOC-LETI		動詞		虎新聞2.5			甘い	（左に同じ）	pynost				TRUE
 	xedute		名詞		虎新聞２			漁師	iccier	xedute				
-	icucun		名詞		虎新聞２			背中	（左に同じ）	jisysn				
+	icucun		名詞		虎新聞2.5			背中	（左に同じ）	jisysn				
 	bepic		名詞		虎新聞２			（国名としての）ヴェフィス共和国	chafi'ofesen vefise	vefise				
-	cupukebec		名詞		虎新聞２			スプケベス、シュプケベス、スプケベツ【山中】（行政区画名）		Spvtkäpjex.lin				TRUE
-	xupukebec		名詞		虎新聞２			スプケベス、シュプケベス、スプケベツ【山中】（行政区画名）		Spvtkäpjex.lin				TRUE
-	etulo		名詞		虎新聞２			布	（左に同じ）	jeteulyo		衣		TRUE
+	cupukebec		名詞		虎新聞2.5			スプケベス、シュプケベス、スプケベツ【山中】（行政区画名）		Spvtkäpjex.lin				TRUE
+	xupukebec		名詞		虎新聞2.5			スプケベス、シュプケベス、スプケベツ【山中】（行政区画名）		Spvtkäpjex.lin				TRUE
+	etulo		名詞		虎新聞2.5			布	（左に同じ）	jeteulyo		衣		TRUE
 	nijucolata		名詞		虎新聞２			農家、農民、農業従事者	snyrluster	NIJUCO.pmcp + LATA.pmcp				TRUE
 	xe		名詞		LAUZAIT-CEPルールブック			中、中身	xe, uies	xe				TRUE
 	etulijo		名詞		ゲムマ2024秋広報処コメント			布	（左に同じ）	jeteulyo		衣		TRUE
 	icke		名詞		虎新聞２			イスケ派（リナエスト人の内部派閥）	（左に同じ）	iske				TRUE
 	badal		名詞		虎新聞２			村	kaxilijas	blardal	農村			TRUE
-	julecen		形容詞		虎新聞２			正しい、正確な	（左に同じ）	julesn				
-	e nunin		動詞		虎新聞２			危険である	（左に同じ）	ny niurn				TRUE
-	kitainuci		人名		虎新聞２			キタイヌシ【百川】（人名）				百川		TRUE
-	aiki		人名		虎新聞２			アイキ【光】【光男】（人名）				光, 光男		TRUE
+	julecen		形容詞		虎新聞2.5			正しい、正確な	（左に同じ）	julesn				
+	e nunin		動詞		虎新聞2.5			危険である	（左に同じ）	ny niurn				TRUE
+	kitainuci		人名		虎新聞2.5			キタイヌシ【百川】（人名）				百川		TRUE
+	aiki		人名		虎新聞2.5			アイキ【光】【光男】（人名）				光, 光男		TRUE
 	canic		名詞		虎新聞２			サニス（地名）	（左に同じ）	canis				TRUE
 	kantelpolto		名詞		ゲムマ2025春広報処コメント			書斎、書店、書房	stune, akancheli'efaj, kittazonpo, torparr	KANTEL.pmcp + POLTO.pmcp				TRUE
 	kijadatu		名詞		ゲムマ2024秋広報処コメント			心の集まり、人々の心		kjadatu.tk				
@@ -1110,3 +1110,4 @@
 	e cilec		動詞		LAUZAIT-CEPルールブック			重なる	celaes sliejs	sliejs				
 	nulotlata		名詞		「光る龍の卵」【CM】			賢人	snylod larta	NULOT.pmcp + LATA.pmcp				
 	luc		名詞		「光る龍の卵」【CM】			卵	（左に同じ）	lyx				
+	alec		人名					アレス（人名）	（左に同じ）	ales				

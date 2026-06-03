@@ -2768,7 +2768,7 @@ export const CORPUS = [
         "source": "連盟員速習",
         "pmcp": "co cene lukupit ka o nip?",
         "direct_ja": "",
-        "ja": "あなたはこれを読むことができますか？",
+        "ja": "あなたはこれを言うことができますか？",
         "en": ""
     },
     {
