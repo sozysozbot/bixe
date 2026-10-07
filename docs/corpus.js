@@ -20746,5 +20746,509 @@ export const CORPUS = [
         "direct_ja": "",
         "ja": "1枚につき1ターン1回、🌾🪨📖を🏝に変換できる。",
         "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jepam-at-zawaim at nicnuc pamecit pi mi cet lauzait kaleti cepkulante. lap mol jo nippon pi cene lucit ka.",
+        "direct_ja": "",
+        "ja": "本説明書はイェーパㇺ&チャーワイㇺおよびニㇲヌㇲ翻訳の許諾のもと作成されており、日本でのみ利活用を許可されています。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "nenni-licxa-uxi. makana e nulowik pi lata pulecit nucti pi e tude jo junakila leti mau.",
+        "direct_ja": "",
+        "ja": "平野、山岳、湖畔。海から離れて暮らす彼らは塩を求めて港町へ――。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "kaleti cunenek e co pacit enja leti. co penxeit nucti jo nukil-polto.",
+        "direct_ja": "",
+        "ja": "あなたは今日から、故郷に塩を届ける見習い商人。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "pi, penen molip nat.",
+        "direct_ja": "",
+        "ja": "でも、準備が間に合ってなくて……？",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "co letit leti lap e nauki. (ka e batan cupoi leti cutapijot. lucit ka pi boncenait kaxel.) ",
+        "direct_ja": "",
+        "ja": "手に入ったのはナウキ（伝統的な運搬用木箱）だけ。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "nunenau leti late? kaxel? e, molip! delu e tude pi jo cileti polto delu letit!",
+        "direct_ja": "",
+        "ja": "宿代は？ 商品は？そんなの現地でどうにかしろ！",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jo atakecit leti, coleti lelot nepelit coleti anpilun leti kaxel!",
+        "direct_ja": "",
+        "ja": "しかも家族が売れ残りの商品をせがんでくる！",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jo kaleti lawol, kame lata cene penxeit cet jo auc leti nucti?",
+        "direct_ja": "",
+        "ja": "そんななか、塩を一番多く届けられるのは誰だ？",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "cutapijot leti xe",
+        "direct_ja": "",
+        "ja": "内容物",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "lime leti bepale (6lt)",
+        "direct_ja": "",
+        "ja": "ルートボード 6枚",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "kaxel leti bapala (6?, 15lt cepat. 4lt joja mol jo 1lt bapala)",
+        "direct_ja": "",
+        "ja": "商品カード 60枚（全15種、同一カード各4枚）",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "nauki leti bapala (8lt)",
+        "direct_ja": "",
+        "ja": "木箱カード 8枚",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "cuit leti lata leti zo (4lt)",
+        "direct_ja": "",
+        "ja": "商人コマ 4個",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "nucti leti cexe (pulan kanteit 1lt nucti pi coxet kanteit 3lt nucti)",
+        "direct_ja": "",
+        "ja": "塩キューブ（白：塩1つ、水色：塩3つ）",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "belpic leti xep pulac",
+        "direct_ja": "",
+        "ja": "ゲームの概要:",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "mak-mak it tudekile jo nukil-polto at makanamele pi letit 2? nucti.",
+        "direct_ja": "",
+        "ja": "地元と浜辺を往復しながら、塩を20個集めるゲームです。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "2? o xep late letit leti lata mol pi cai e lucuc pi belpic e lucuc.",
+        "direct_ja": "",
+        "ja": "いずれかのプレイヤーが累計20点以上を獲得したラウンドでゲームが終了します。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "letit cet jo auc leti late leti lata delu molkait.",
+        "direct_ja": "",
+        "ja": "最も得点が高いプレイヤーの勝利です。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "penen",
+        "direct_ja": "",
+        "ja": "準備",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "dindunit kaxel leti bapala pi lauzait lukxe.",
+        "direct_ja": "",
+        "ja": "商品カードをシャッフルし、山札とします。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "lauzait lime",
+        "direct_ja": "",
+        "ja": "コース配置",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "amolit 6lt lime leti bepale.",
+        "direct_ja": "ルートボード6枚を置く。",
+        "ja": "ルートボード6枚を直線に並べます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jumin",
+        "direct_ja": "",
+        "ja": "市場",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jo aucleti bepale leti jumin, letit lukxe leti 1lt bapala pi kaceit ka.",
+        "direct_ja": "各ボードの市場に山札からカードを1枚ずつ表向きで置く。",
+        "ja": "各ボードの市場（長方形の枠）に山札からカードを1枚ずつ表向きで置きます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "tectelit xeplata",
+        "direct_ja": "",
+        "ja": "スタートプレイヤーの決定",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jo pankaleti cul delu tectelit xeplata at belpic leti tudeleti lal.",
+        "direct_ja": "",
+        "ja": "適当な方法でスタートプレイヤーとプレイ順を決めます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "1lt lata leti penen",
+        "direct_ja": "",
+        "ja": "個人準備",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "tectelit 1lt dec leti zo pi amolit ka jo nukil-polto.",
+        "direct_ja": "一色のコマを選び、これを「地元」に置く。",
+        "ja": "好きな色のコマを1つ選び、「地元」に置きます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "letit lukxe leti 5lt bapala pi ka e kopzo.",
+        "direct_ja": "",
+        "ja": "山札から5枚を引き、手札とします。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "letit 2lt nauki pi amolit 2lt nucti jo 1lt nauki. (jo  etleti nauki nucti molip.)",
+        "direct_ja": "",
+        "ja": "木箱カード2枚を受け取り、片方に初期塩2個を置く（もう片方は空）。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "dije leti tudeleti",
+        "direct_ja": "",
+        "ja": "手番の流れ",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "lata jo laiju it dije. jo 1lt dije, delu e tude pi letit zo pi cene it enja.",
+        "direct_ja": "",
+        "ja": "プレイヤーは順に手番を行います。毎手番、ステップ1：移動と補充（必須）、ステップ2：アクション（任意）を順に行います。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "delu it - tudeleti at atakecitleti",
+        "direct_ja": "",
+        "ja": "ステップ1：移動と補充（必須）",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "tudeleti",
+        "direct_ja": "",
+        "ja": "移動：",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jo kaleti nole leti jumin co kaceit 1lt kopzo pi tudeit zo. xelit jo bapala mol kin pi jo kaleti leca co delu tudeit coleti zo.",
+        "direct_ja": "",
+        "ja": "手札1枚を「現在地の市場」へ表向きで置き、その数字分コマを進めます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "atakecitleti",
+        "direct_ja": "",
+        "ja": "補充：",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "xelit kileleti nutok leti jumin pi tectelit 1lt bapala pi letit ka. (bapala molip jo jumin pi letit lukxe leti.)",
+        "direct_ja": "",
+        "ja": "「着地マスの市場」からカード1枚を選び、手札に加えます（市場にカードがない場合は山札から引きます）。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "lelot leti tuwalenija",
+        "direct_ja": "",
+        "ja": "手札奪われ：",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "kile jo nukil-polto pi kopzo e 6lt o xep pi nipit pi it kopzo e 5lt. axeleti nole xope it ka.",
+        "direct_ja": "",
+        "ja": "地元に着地または通過した際、手札が6枚以上あれば5枚になるまで選んで捨てます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "(coleti lelot nepelit coleti anpilun leti kaxel!)",
+        "direct_ja": "",
+        "ja": "（あなたの家族は残り物をせがんでいます！）",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "cene it - enja",
+        "direct_ja": "",
+        "ja": "ステップ2：アクション（任意）",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jo kileleti nutok co it launza leti enja. (co cene tectelit laiju)",
+        "direct_ja": "",
+        "ja": "着地マスで以下を任意の順序で行います。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "ekcait kaxel (inimoc molipleti nauki mol pi cene mak-mak it ka)",
+        "direct_ja": "",
+        "ja": "荷積み（空箱がある限り）",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "lucit kopzo pi lauzait dat pi kaceit kaleti dat jo inimoc molipleti nauki.",
+        "direct_ja": "",
+        "ja": "手札から役を作り、その役を空箱に乗せます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "laiju leti kin - nuwaxecleti dec at laijuleti 3leti kin leti",
+        "direct_ja": "",
+        "ja": "連番：同じ色で連続する3数字",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "mena - nuwaxecleti dec at waxecleti 3leti kin leti",
+        "direct_ja": "",
+        "ja": "セット：同じ色で同じ3数字",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "ekcait pi lucit kileleti nutok leti jumin pi letit 3lt bapala. (jo jumin bapala molip pi letit lukxe leti.)",
+        "direct_ja": "",
+        "ja": "荷積み後、着地マスの市場（不足時は山札）から手札を3枚補充します。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "lucit nutok leti enja (1lt o 0lt nole)",
+        "direct_ja": "",
+        "ja": "施設利用（1回まで）",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "lucit kileleti nutok leti enja.",
+        "direct_ja": "",
+        "ja": "着地マスの施設効果を使います。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "enja leti auc",
+        "direct_ja": "",
+        "ja": "施設アクション一覧",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "jo lucit nucti leti nole delu lucit jo nauki mol nucti. (nip delu lucit jo nauki molipleti nucti.)",
+        "direct_ja": "",
+        "ja": "※塩の支払いは、木箱の上の塩のみ使用できます（箱の外の塩は使用できません）。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "nukil-polto",
+        "direct_ja": "",
+        "ja": "地元",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "letit late (nip cene jo axeleti nole) - letit jo nauki mol aucleti nucti pi tudeit jo nauki leti ecki. (1lt nucti e 1lt late.) co cene lucit 2lt nauki. co cene nip tudeit nucti.",
+        "direct_ja": "",
+        "ja": "換金：木箱の塩を全て箱の外に移します（塩1個＝1点）。2箱同時に行うことも可能です。換金しない箱があってもかまいません（※通過時は不可）。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "mokonca",
+        "direct_ja": "",
+        "ja": "問屋",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "dokit kaxel - letit atakecleti 1lt bapala. co lucit jo nauki mol 1lt nucti pi letit atakecleti 1lt bapala. co cene mak-mak it ka.",
+        "direct_ja": "",
+        "ja": "仕入れ：追加でカード1枚を獲得します。さらに木箱の塩1個を支払うごとに、追加でカード1枚を獲得できます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "co delu letit jumin leti bapala. bapala molip jo jumin pi letit lukxe leti.",
+        "direct_ja": "",
+        "ja": "※カードは着地マスの市場から獲得し、不足時は山札から引きます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "nauki-depoi",
+        "direct_ja": "",
+        "ja": "箱屋",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "letit xep nauki - lucit jo nauki mol 2lt nucti pi co cene kaceit nauki leti mot. ka e xep nauki.",
+        "direct_ja": "",
+        "ja": "大箱化：木箱の塩2個を支払い、木箱1枚を裏返して大箱にします。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "makanamele",
+        "direct_ja": "",
+        "ja": "浜辺",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "cuit kije kaxel - nipit jo nauki mol bapala pi jo kaleti nauki amolit nucti.",
+        "direct_ja": "",
+        "ja": "出荷：木箱上のカードを捨て札にし、その木箱に塩を獲得します（2箱同時に行うことも可能です）。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "juleleti late - xelit aucleti bapala pi atakecit nucti leti nuxep cukulal",
+        "direct_ja": "",
+        "ja": "基本点：カードの塩アイコン合計",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "dat leti atakecleti late - mena atakecit 2lt nucti",
+        "direct_ja": "",
+        "ja": "役ボーナス：セットなら +2塩",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "xep nauki leti atakecleti late - xep nauki atakecit 3lt nucti",
+        "direct_ja": "",
+        "ja": "大箱ボーナス：大箱なら +3塩",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "junakila leti kaniciti - kaceit lukxe leti 1lt bapala. (jo 1lt dije lap xelit 1lt bapala.) xelit kaleti bapala pi jo ka nuwaxecleti kak leti kaxel atakecit 2lt nucti. delu nipit kaceit leti bapala.",
+        "direct_ja": "",
+        "ja": "港の流行：山札を1枚めくります（手番に1回）。出荷品と同数字が含まれれば 1枚につき2塩を獲得します。めくったカードは捨てます。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "belpic leti lucuc leti nole",
+        "direct_ja": "",
+        "ja": "ゲーム終了",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "1lt lata leti jo nauki leti ecki mol nucti e 2? o xep pi belpic pac e lucuc. xeplata leti laip leti lata it dije pi belpic e lucuc.",
+        "direct_ja": "",
+        "ja": "誰かの箱の外の塩が20個以上に達したら、スタートプレイヤーの隣まで手番を行って終了します。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "kinpit launza jo auc leti late pi letit cet jo auc leti lata molkait.",
+        "direct_ja": "",
+        "ja": "最終精算を行い、点数の最も高いプレーヤーの勝利で。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "(cet mol pi cileti aucleti lata delu e molka.)",
+        "direct_ja": "",
+        "ja": "（同点の場合は同時勝利となります）。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "launza jo auc leti late - jo nauki 2lt nucti mol pi letit 1lt late leti julo. mak-mak kinpit ka.",
+        "direct_ja": "",
+        "ja": "最終精算：木箱に残った塩は、2個につき1点に換算する。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "bapala e nukaze leti nole",
+        "direct_ja": "",
+        "ja": "ゲーム終了",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "lukxe molip pi dindunit nipit leti bapala.",
+        "direct_ja": "",
+        "ja": "山札が尽きたら捨て札をシャッフルします。",
+        "en": ""
+    },
+    {
+        "source": "ナウキ運びルールブック",
+        "pmcp": "nipit leti bapala xope molip pi dindunit aucleti jumin leti bapala pi lauzait lukxe pi jo aucleti jumin kaceit 1lt bapala.",
+        "direct_ja": "",
+        "ja": "捨て札もない場合は、全市場のカードをシャッフルして山札にした後、各市場に1枚ずつカードを補充します。",
+        "en": ""
     }
 ];

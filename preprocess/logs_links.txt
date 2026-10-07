@@ -1,17 +1,17 @@
---2026-06-04 07:21:59--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=312538559
-Resolving docs.google.com (docs.google.com)... 142.251.119.139, 142.251.119.113, 142.251.119.101, ...
-Connecting to docs.google.com (docs.google.com)|142.251.119.139|:443... connected.
-HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/99t95t42qm5c7jcrrbpsema74c/1780525320000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559 [following]
-Warning: wildcards not supported in HTTP.
---2026-06-04 07:21:59--  https://doc-00-5o-sheets.googleusercontent.com/export/54bogvaave6cua4cdnls17ksc4/99t95t42qm5c7jcrrbpsema74c/1780525320000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559
-Resolving doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)... 172.217.211.132
-Connecting to doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|172.217.211.132|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/tab-separated-values]
-Saving to: ‘./preprocess/links.tsv’
+--2026-10-07 17:54:04--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=312538559
+docs.google.com (docs.google.com) をDNSに問いあわせています... 142.250.23.138, 142.250.23.101, 142.250.23.100, ...
+docs.google.com (docs.google.com)|142.250.23.138|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 307 Temporary Redirect
+場所: https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/tgmv6i6guhd0s516duvcchmvr0/1791363245000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559 [続く]
+警告: HTTPはワイルドカードに対応していません。
+--2026-10-07 17:54:06--  https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/tgmv6i6guhd0s516duvcchmvr0/1791363245000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559
+doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com) をDNSに問いあわせています... 142.251.24.132, 2404:6800:400b:c00e::84
+doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|142.251.24.132|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 200 OK
+長さ: 特定できません [text/tab-separated-values]
+`./preprocess/links.tsv' に保存中
 
-     0K .......... .                                           33.1M=0s
+     0K .......... .                                           42.7M=0s
 
-2026-06-04 07:22:01 (33.1 MB/s) - ‘./preprocess/links.tsv’ saved [11873]
+2026-10-07 17:54:06 (42.7 MB/s) - `./preprocess/links.tsv' へ保存終了 [12004]
 
