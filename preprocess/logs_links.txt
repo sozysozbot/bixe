@@ -1,17 +1,17 @@
---2026-10-07 17:54:04--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=312538559
-docs.google.com (docs.google.com) をDNSに問いあわせています... 142.250.23.138, 142.250.23.101, 142.250.23.100, ...
-docs.google.com (docs.google.com)|142.250.23.138|:443 に接続しています... 接続しました。
+--2026-10-07 18:04:51--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=312538559
+docs.google.com (docs.google.com) をDNSに問いあわせています... 142.250.23.102, 142.250.23.138, 142.250.23.100, ...
+docs.google.com (docs.google.com)|142.250.23.102|:443 に接続しています... 接続しました。
 HTTP による接続要求を送信しました、応答を待っています... 307 Temporary Redirect
-場所: https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/tgmv6i6guhd0s516duvcchmvr0/1791363245000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559 [続く]
+場所: https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/qh5ms7kppi1e9v2phspab46aeo/1791363890000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559 [続く]
 警告: HTTPはワイルドカードに対応していません。
---2026-10-07 17:54:06--  https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/tgmv6i6guhd0s516duvcchmvr0/1791363245000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559
+--2026-10-07 18:04:51--  https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/qh5ms7kppi1e9v2phspab46aeo/1791363890000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=312538559
 doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com) をDNSに問いあわせています... 142.251.24.132, 2404:6800:400b:c00e::84
 doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|142.251.24.132|:443 に接続しています... 接続しました。
 HTTP による接続要求を送信しました、応答を待っています... 200 OK
 長さ: 特定できません [text/tab-separated-values]
 `./preprocess/links.tsv' に保存中
 
-     0K .......... .                                           42.7M=0s
+     0K .......... .                                           29.6M=0s
 
-2026-10-07 17:54:06 (42.7 MB/s) - `./preprocess/links.tsv' へ保存終了 [12004]
+2026-10-07 18:04:51 (29.6 MB/s) - `./preprocess/links.tsv' へ保存終了 [12004]
 

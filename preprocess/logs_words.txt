@@ -1,19 +1,19 @@
---2026-10-07 17:54:06--  https://docs.google.com/spreadsheets/d/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs/export?format=tsv&gid=0
-docs.google.com (docs.google.com) をDNSに問いあわせています... 142.250.23.138, 142.250.23.101, 142.250.23.100, ...
-docs.google.com (docs.google.com)|142.250.23.138|:443 に接続しています... 接続しました。
+--2026-10-07 18:04:51--  https://docs.google.com/spreadsheets/d/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs/export?format=tsv&gid=0
+docs.google.com (docs.google.com) をDNSに問いあわせています... 142.250.23.102, 142.250.23.138, 142.250.23.100, ...
+docs.google.com (docs.google.com)|142.250.23.102|:443 に接続しています... 接続しました。
 HTTP による接続要求を送信しました、応答を待っています... 307 Temporary Redirect
-場所: https://doc-00-30-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/trqggrg8lin72q5f7t9pvopgjk/1791363245000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0 [続く]
+場所: https://doc-00-30-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/js3av2eeua5l033lsmlqinknm0/1791363890000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0 [続く]
 警告: HTTPはワイルドカードに対応していません。
---2026-10-07 17:54:07--  https://doc-00-30-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/trqggrg8lin72q5f7t9pvopgjk/1791363245000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0
+--2026-10-07 18:04:52--  https://doc-00-30-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/js3av2eeua5l033lsmlqinknm0/1791363890000/102200293213874016754/*/1Eo2VcfflWTTtJhMyeFNxQ0pDtkHETSKKM1yuVtVrnQs?format=tsv&gid=0
 doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com) をDNSに問いあわせています... 142.251.24.132, 2404:6800:400b:c00e::84
 doc-00-30-sheets.googleusercontent.com (doc-00-30-sheets.googleusercontent.com)|142.251.24.132|:443 に接続しています... 接続しました。
 HTTP による接続要求を送信しました、応答を待っています... 200 OK
 長さ: 特定できません [text/tab-separated-values]
 `./preprocess/words.tsv' に保存中
 
-     0K .......... .......... .......... .......... .......... 3.67M
-    50K .......... .......... .......... .......... .......... 30.7M
-   100K ....                                                   33.4M=0.02s
+     0K .......... .......... .......... .......... .......... 5.65M
+    50K .......... .......... .......... .......... .......... 6.71M
+   100K ....                                                   20.3M=0.02s
 
-2026-10-07 17:54:07 (6.80 MB/s) - `./preprocess/words.tsv' へ保存終了 [107196]
+2026-10-07 18:04:52 (6.34 MB/s) - `./preprocess/words.tsv' へ保存終了 [107427]
 

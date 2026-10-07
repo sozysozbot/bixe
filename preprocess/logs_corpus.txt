@@ -1,27 +1,27 @@
---2026-10-07 17:54:03--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=0
-docs.google.com (docs.google.com) をDNSに問いあわせています... 142.250.23.138, 142.250.23.101, 142.250.23.100, ...
-docs.google.com (docs.google.com)|142.250.23.138|:443 に接続しています... 接続しました。
+--2026-10-07 18:04:50--  https://docs.google.com/spreadsheets/d/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w/export?format=tsv&gid=0
+docs.google.com (docs.google.com) をDNSに問いあわせています... 142.250.23.102, 142.250.23.138, 142.250.23.100, ...
+docs.google.com (docs.google.com)|142.250.23.102|:443 に接続しています... 接続しました。
 HTTP による接続要求を送信しました、応答を待っています... 307 Temporary Redirect
-場所: https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/fmmir9prkt7rcmskhei0srkgqc/1791363240000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0 [続く]
+場所: https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/qh5ms7kppi1e9v2phspab46aeo/1791363890000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0 [続く]
 警告: HTTPはワイルドカードに対応していません。
---2026-10-07 17:54:04--  https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/fmmir9prkt7rcmskhei0srkgqc/1791363240000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0
+--2026-10-07 18:04:50--  https://doc-00-5o-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/qh5ms7kppi1e9v2phspab46aeo/1791363890000/114487518295010761624/*/1XjlK42tfTCrBegQUiv974qlC1XqrnNUbp43UJx1Qv8w?format=tsv&gid=0
 doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com) をDNSに問いあわせています... 142.251.24.132, 2404:6800:400b:c00e::84
 doc-00-5o-sheets.googleusercontent.com (doc-00-5o-sheets.googleusercontent.com)|142.251.24.132|:443 に接続しています... 接続しました。
 HTTP による接続要求を送信しました、応答を待っています... 200 OK
 長さ: 特定できません [text/tab-separated-values]
 `./preprocess/corpus.tsv' に保存中
 
-     0K .......... .......... .......... .......... .......... 6.26M
-    50K .......... .......... .......... .......... .......... 5.91M
-   100K .......... .......... .......... .......... .......... 6.94M
-   150K .......... .......... .......... .......... .......... 45.4M
-   200K .......... .......... .......... .......... .......... 10.5M
-   250K .......... .......... .......... .......... .......... 8.20M
-   300K .......... .......... .......... .......... .......... 18.2M
-   350K .......... .......... .......... .......... .......... 7.84M
-   400K .......... .......... .......... .......... .......... 19.1M
-   450K .......... .......... .......... .......... .......... 5.88M
-   500K ....                                                   2.76M=0.06s
+     0K .......... .......... .......... .......... .......... 7.11M
+    50K .......... .......... .......... .......... .......... 5.54M
+   100K .......... .......... .......... .......... .......... 3.57M
+   150K .......... .......... .......... .......... .......... 4.35M
+   200K .......... .......... .......... .......... .......... 3.34M
+   250K .......... .......... .......... .......... .......... 3.57M
+   300K .......... .......... .......... .......... .......... 4.30M
+   350K .......... .......... .......... .......... .......... 8.41M
+   400K .......... .......... .......... .......... .......... 25.7M
+   450K .......... .......... .......... .......... .......... 6.90M
+   500K ....                                                   92.9M=0.1s
 
-2026-10-07 17:54:04 (8.79 MB/s) - `./preprocess/corpus.tsv' へ保存終了 [516288]
+2026-10-07 18:04:51 (5.18 MB/s) - `./preprocess/corpus.tsv' へ保存終了 [516288]
 
